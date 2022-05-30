@@ -65409,10 +65409,6 @@ k_igbo-benue={
 	definite_form=no
 	ruler_uses_title_name=no
 }
-e_india={
-	capital="c_magadha"
-	color={ 186 140 48 }
-	color2={ 110 112 142 }
 	k_bengal={
 		capital="c_laksmanavati"
 		color={ 40 160 40 }
@@ -68877,7 +68873,7 @@ e_india={
 	ai_primary_priority={
 		add = @always_primary_score
 	}
-}
+
 e_rajastan={
 	capital="c_kanyakubja"
 	color={ 255 100 0 }
