@@ -1,0 +1,270 @@
+1919={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1920={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1918={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1923={
+	culture=celtiberian
+	religion=celtiberian_paganism
+	holding=castle_holding
+}
+1927={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1928={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1929={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1935={
+	culture=celtiberian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1930={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1931={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1933={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1947={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1944={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1945={
+	culture=celtiberian
+	religion=celtiberian_paganism
+	holding=none
+}
+1951={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1952={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1953={
+	culture=celtiberian
+	religion=hellenic_pagan
+	holding=church_holding
+}
+1958={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1959={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1960={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1961={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1957={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1962={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1855={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1856={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+1938={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1939={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1852={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1851={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+1850={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1970={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1971={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1857={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1858={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1941={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1937={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1942={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1946={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1854={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1969={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1853={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1940={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1949={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1948={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1950={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1964={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1967={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1973={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1968={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+2004={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+2000={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+8735={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2001={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+2002={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=castle_holding
+}

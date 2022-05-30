@@ -1,0 +1,60 @@
+k_bjarmaland={
+	4.1.1={ liege=0 }
+}
+d_biarmia={
+	4.1.1={ liege=0 }
+}
+c_kholmogory={
+	4.1.1={ change_development_level=0 }
+}
+c_onega_BJA={
+	4.1.1={ change_development_level=0 }
+}
+c_povenets={
+	4.1.1={ change_development_level=0 }
+}
+c_pudozh={
+	4.1.1={ change_development_level=0 }
+}
+d_chudia={
+	4.1.1={ liege=0 }
+}
+c_kargopol={
+	4.1.1={ change_development_level=0 }
+}
+c_kirillov={
+	4.1.1={ change_development_level=0 }
+}
+c_totma={
+	4.1.1={ change_development_level=0 }
+}
+d_vologda={
+	4.1.1={ liege=0 }
+}
+c_vologda={
+	4.1.1={ change_development_level=0 }
+}
+c_lyubim={
+	4.1.1={ change_development_level=0 }
+}
+c_onsthia={
+	4.1.1={ change_development_level=0 }
+}
+c_choklema={
+	4.1.1={ change_development_level=0 }
+}
+d_ustyug={
+	4.1.1={ liege=0 }
+}
+c_ustyug={
+	4.1.1={ change_development_level=0 }
+}
+c_shenkursk={
+	4.1.1={ change_development_level=0 }
+}
+c_velsk={
+	4.1.1={ change_development_level=0 }
+}
+c_kevrola={
+	4.1.1={ change_development_level=0 }
+}

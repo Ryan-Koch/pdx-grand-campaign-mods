@@ -1,0 +1,173 @@
+598={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5289={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5335={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=none
+}
+5336={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=none
+}
+599={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5337={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=none
+}
+5338={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+597={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5288={
+	culture=sarmatian
+	religion=scythian_pagan
+	holding=none
+}
+5339={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=none
+}
+5340={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=none
+}
+596={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+563={
+	culture=scythian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5328={
+	culture=scythian
+	religion=hellenic_pagan
+	holding=none
+}
+5329={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5290={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5291={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+5292={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+594={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+5287={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5325={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=none
+}
+5326={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=none
+}
+5327={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=none
+}
+595={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+5293={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+5294={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+5295={
+	holding=none
+}
+562={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+560={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+561={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+559={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5276={
+	culture=scythian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5330={
+	culture=scythian
+	religion=hellenic_pagan
+	holding=none
+}
+5277={
+	culture=scythian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5331={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}

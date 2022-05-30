@@ -1,0 +1,94 @@
+k_IMPTOCK3_MRY_bactriana_region={
+	-2.6.6={ liege="e_india" holder="imperator107736" government="feudal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_badakhshan={
+	4.1.1={ liege=0 }
+}
+c_badakhshan={
+	-2.6.6={ liege=0 holder="imperator107736" }
+	4.1.1={ change_development_level=21 }
+}
+c_munjan={
+	-2.6.6={ liege=0 holder="imperator107736" }
+	4.1.1={ change_development_level=14 }
+}
+c_wakhan={
+	1.4.2={ liege=0 holder="imperator105917" }
+	4.1.1={ change_development_level=12 }
+}
+c_shughnan={
+	1.4.2={ liege=0 holder="imperator105917" }
+	4.1.1={ change_development_level=14 }
+}
+c_karran={
+	-5.4.5={ liege=0 holder="imperator106186" }
+	4.1.1={ change_development_level=5 }
+}
+d_khuttal={
+	4.1.1={ liege=0 }
+}
+c_khuttal={
+	-2.6.6={ liege=0 holder="imperator107736" }
+	4.1.1={ change_development_level=32 }
+}
+c_wakhsh={
+	-2.6.6={ liege=0 holder="imperator107736" }
+	4.1.1={ change_development_level=34 }
+}
+c_chaghaniyan={
+	-2.6.6={ liege=0 holder="imperator107736" }
+	4.1.1={ change_development_level=25 }
+}
+c_rasht={
+	-5.4.5={ liege=0 holder="imperator106186" }
+	4.1.1={ change_development_level=26 }
+}
+d_balkh={
+	4.1.1={ liege=0 }
+}
+c_balkh={
+	-2.6.6={ liege=0 holder="imperator107736" }
+	4.1.1={ change_development_level=27 }
+}
+c_west-tokharestan={
+	-2.6.6={ liege=0 holder="imperator107736" }
+	4.1.1={ change_development_level=37 }
+}
+c_east-tokharestan={
+	-2.6.6={ liege=0 holder="imperator107736" }
+	4.1.1={ change_development_level=32 }
+}
+d_kabul={
+	4.1.1={ liege=0 }
+}
+c_kabul={
+	-2.6.6={ liege=0 holder="imperator107736" }
+	4.1.1={ change_development_level=26 }
+}
+c_bamian={
+	-2.6.6={ liege=0 holder="imperator107736" }
+	4.1.1={ change_development_level=33 }
+}
+c_chitral={
+	1.4.2={ liege=0 holder="imperator105917" }
+	4.1.1={ change_development_level=11 }
+}
+d_zabulistan={
+	4.1.1={ liege=0 }
+}
+c_ghazna={
+	-2.6.6={ liege=0 holder="imperator107736" }
+	4.1.1={ change_development_level=27 }
+}
+c_zamindawar={
+	-6.1.9={ liege=0 holder="imperator107204" }
+	4.1.1={ change_development_level=24 }
+}
+c_rukhaj={
+	-6.1.9={ liege=0 holder="imperator107204" }
+	4.1.1={ change_development_level=25 }
+}
+c_zabulistan={
+	-2.6.6={ liege=0 holder="imperator107736" }
+	4.1.1={ change_development_level=19 }
+}

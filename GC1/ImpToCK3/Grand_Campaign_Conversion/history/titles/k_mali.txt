@@ -1,0 +1,63 @@
+k_mali={
+	4.1.1={ liege=0 }
+}
+d_manding={
+	4.1.1={ liege=0 }
+}
+c_niani={
+	4.1.1={ change_development_level=0 }
+}
+c_dakajalan={
+	4.1.1={ change_development_level=0 }
+}
+c_kankan={
+	4.1.1={ change_development_level=0 }
+}
+c_sibi_mali={
+	4.1.1={ change_development_level=0 }
+}
+c_tabon={
+	4.1.1={ change_development_level=0 }
+}
+c_bure={
+	4.1.1={ change_development_level=0 }
+}
+d_bambuk={
+	4.1.1={ liege=0 }
+}
+c_bambuk={
+	4.1.1={ change_development_level=0 }
+}
+c_gangaran={
+	4.1.1={ change_development_level=0 }
+}
+c_konko={
+	4.1.1={ change_development_level=0 }
+}
+c_bundu={
+	4.1.1={ change_development_level=0 }
+}
+d_futa_jalon={
+	4.1.1={ liege=0 }
+}
+c_futa_jalon={
+	4.1.1={ change_development_level=0 }
+}
+c_timbi={
+	4.1.1={ change_development_level=0 }
+}
+c_kokoli={
+	4.1.1={ change_development_level=0 }
+}
+d_loma={
+	4.1.1={ liege=0 }
+}
+c_kuranko={
+	4.1.1={ change_development_level=0 }
+}
+c_kisi={
+	4.1.1={ change_development_level=0 }
+}
+c_solimana={
+	4.1.1={ change_development_level=0 }
+}

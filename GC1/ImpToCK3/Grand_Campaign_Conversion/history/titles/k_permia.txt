@@ -1,0 +1,45 @@
+k_permia={
+	4.1.1={ liege=0 }
+}
+d_perm={
+	4.1.1={ liege=0 }
+}
+c_perm={
+	4.1.1={ change_development_level=0 }
+}
+c_sebur={
+	4.1.1={ change_development_level=0 }
+}
+c_lysva={
+	4.1.1={ change_development_level=0 }
+}
+c_kumych={
+	4.1.1={ change_development_level=0 }
+}
+d_ural={
+	4.1.1={ liege=0 }
+}
+c_ural={
+	4.1.1={ change_development_level=0 }
+}
+c_votkinsk={
+	4.1.1={ change_development_level=0 }
+}
+c_kerken={
+	4.1.1={ change_development_level=0 }
+}
+d_udmurtia={
+	4.1.1={ liege=0 }
+}
+c_kargadan={
+	4.1.1={ change_development_level=0 }
+}
+c_palniki={
+	4.1.1={ change_development_level=0 }
+}
+c_glazov={
+	4.1.1={ change_development_level=0 }
+}
+c_kolyn={
+	4.1.1={ change_development_level=0 }
+}

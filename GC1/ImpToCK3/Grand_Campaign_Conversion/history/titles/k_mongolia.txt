@@ -1,0 +1,126 @@
+k_mongolia={
+	4.1.1={ liege=0 }
+}
+d_otuken={
+	4.1.1={ liege=0 }
+}
+c_karakorum={
+	4.1.1={ change_development_level=0 }
+}
+c_karabalgasun={
+	4.1.1={ change_development_level=0 }
+}
+c_mumo={
+	4.1.1={ change_development_level=0 }
+}
+d_ogrash={
+	4.1.1={ liege=0 }
+}
+c_ulaanbaatar={
+	4.1.1={ change_development_level=0 }
+}
+c_khentii={
+	4.1.1={ change_development_level=0 }
+}
+c_naushki={
+	4.1.1={ change_development_level=0 }
+}
+d_selenga_valley={
+	4.1.1={ liege=0 }
+}
+c_selenga={
+	4.1.1={ change_development_level=0 }
+}
+c_baibalik={
+	4.1.1={ change_development_level=0 }
+}
+c_khokhoo={
+	4.1.1={ change_development_level=0 }
+}
+c_karatsagaan={
+	4.1.1={ change_development_level=0 }
+}
+c_tunka={
+	4.1.1={ change_development_level=0 }
+}
+d_ovorkhangai={
+	4.1.1={ liege=0 }
+}
+c_tovkhon={
+	4.1.1={ change_development_level=0 }
+}
+c_ongi={
+	4.1.1={ change_development_level=0 }
+}
+c_ikh_bogd={
+	4.1.1={ change_development_level=0 }
+}
+c_bombogor={
+	4.1.1={ change_development_level=0 }
+}
+c_khasagt_khairkhan={
+	4.1.1={ change_development_level=0 }
+}
+d_arkhangai={
+	4.1.1={ liege=0 }
+}
+c_tarvagatai={
+	4.1.1={ change_development_level=0 }
+}
+c_oigon={
+	4.1.1={ change_development_level=0 }
+}
+c_uliastai={
+	4.1.1={ change_development_level=0 }
+}
+d_khovsgol={
+	4.1.1={ liege=0 }
+}
+c_darkhad_valley={
+	4.1.1={ change_development_level=0 }
+}
+c_tomorbulag={
+	4.1.1={ change_development_level=0 }
+}
+c_ulantaiga={
+	4.1.1={ change_development_level=0 }
+}
+d_gobi_altai={
+	4.1.1={ liege=0 }
+}
+c_tseel={
+	4.1.1={ change_development_level=0 }
+}
+c_sharga={
+	4.1.1={ change_development_level=0 }
+}
+c_zarman={
+	4.1.1={ change_development_level=0 }
+}
+d_ubsunur_hollow={
+	4.1.1={ liege=0 }
+}
+c_uvs_nuur={
+	4.1.1={ change_development_level=0 }
+}
+c_ulaangom={
+	4.1.1={ change_development_level=0 }
+}
+c_tesiin_gol={
+	4.1.1={ change_development_level=0 }
+}
+c_urgamal={
+	4.1.1={ change_development_level=0 }
+}
+c_khar_us={
+	4.1.1={ change_development_level=0 }
+}
+d_khovd={
+	4.1.1={ liege=0 }
+}
+c_harhiraa={
+	4.1.1={ change_development_level=0 }
+}
+c_tsambagarau={
+	4.1.1={ change_development_level=0 }
+}

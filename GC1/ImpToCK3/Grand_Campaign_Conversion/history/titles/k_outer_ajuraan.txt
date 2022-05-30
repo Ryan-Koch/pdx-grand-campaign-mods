@@ -1,0 +1,39 @@
+k_outer_ajuraan={
+	4.1.1={ liege=0 }
+}
+d_shabelle={
+	4.1.1={ liege=0 }
+}
+c_gode={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_ganale={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_gidaya={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_bali={
+	4.1.1={ liege=0 }
+}
+c_sidamo={
+	4.1.1={ change_development_level=0 }
+}
+c_bali={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_samalo={
+	4.1.1={ liege=0 }
+}
+c_marsabit={
+	4.1.1={ change_development_level=0 }
+}
+c_fudalhi={
+	4.1.1={ change_development_level=0 }
+}
+c_el_waak={
+	4.1.1={ change_development_level=0 }
+}
+c_lag_dera={
+	4.1.1={ change_development_level=0 }
+}

@@ -1,0 +1,72 @@
+k_IMPTOCK3_ROM_central_gaul_region={
+	2.10.18={ liege="e_roman_empire" holder="imperator106789" government="feudal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_burgundy={
+	4.1.1={ liege=0 }
+}
+c_dijon={
+	2.10.18={ liege=0 holder="imperator106789" }
+	4.1.1={ change_development_level=38 }
+}
+c_chalon={
+	2.10.18={ liege=0 holder="imperator106789" }
+	4.1.1={ change_development_level=43 }
+}
+c_auxerre={
+	2.10.18={ liege=0 holder="imperator106789" }
+	4.1.1={ change_development_level=42 }
+}
+c_tonnerrois={
+	-15.9.2={ liege=0 holder="imperator107043" }
+	4.1.1={ change_development_level=41 }
+}
+c_avalois={
+	2.10.18={ liege=0 holder="imperator106789" }
+	4.1.1={ change_development_level=48 }
+}
+c_macon={
+	2.10.18={ liege=0 holder="imperator106789" }
+	4.1.1={ change_development_level=28 }
+}
+c_nevers={
+	2.10.18={ liege=0 holder="imperator106789" }
+	4.1.1={ change_development_level=45 }
+}
+c_langres={
+	-15.9.2={ liege=0 holder="imperator107043" }
+	4.1.1={ change_development_level=30 }
+}
+d_bourbon={
+	4.1.1={ liege=0 }
+}
+c_bourbon={
+	2.10.18={ liege=0 holder="imperator106789" }
+	4.1.1={ change_development_level=45 }
+}
+c_bellac={
+	-54.7.9={ liege=0 holder="imperator103403" }
+	4.1.1={ change_development_level=44 }
+}
+c_jaligny={
+	2.10.18={ liege=0 holder="imperator106789" }
+	4.1.1={ change_development_level=58 }
+}
+c_la_marche={
+	-54.7.9={ liege=0 holder="imperator103403" }
+	4.1.1={ change_development_level=51 }
+}
+d_upper_burgundy={
+	4.1.1={ liege=0 }
+}
+c_besancon={
+	2.10.18={ liege=0 holder="imperator106789" }
+	4.1.1={ change_development_level=34 }
+}
+c_bresse={
+	-37.12.11={ liege=0 holder="imperator105157" }
+	4.1.1={ change_development_level=43 }
+}
+c_dole={
+	2.10.18={ liege=0 holder="imperator106789" }
+	4.1.1={ change_development_level=42 }
+}

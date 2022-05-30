@@ -1,0 +1,82 @@
+k_yemen={
+	4.1.1={ liege=0 }
+}
+d_sanaa={
+	4.1.1={ liege=0 }
+}
+c_sanaa={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=51 }
+}
+c_tihamat-al-yamani={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=33 }
+}
+c_najran={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=43 }
+}
+c_zabid={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=47 }
+}
+d_jawf-al-yamani={
+	4.1.1={ liege=0 }
+}
+c_jawf-al-yamani={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=39 }
+}
+c_wabar={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=22 }
+}
+d_taizz={
+	4.1.1={ liege=0 }
+}
+c_taizz={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=45 }
+}
+c_mandab={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=47 }
+}
+c_dathina={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=47 }
+}
+d_hadramawt={
+	4.1.1={ liege=0 }
+}
+c_hadramawt={
+	4.1.1={ holder="0" liege=0 change_development_level=26 }
+}
+c_ahqaf={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=24 }
+}
+c_kinda_sakun={
+	4.1.1={ holder="0" liege=0 change_development_level=8 }
+}
+d_mahra={
+	4.1.1={ liege=0 }
+}
+c_mahra={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=44 }
+}
+c_al-asa={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=44 }
+}
+c_dhofar={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=11 }
+}
+d_socotra={
+	4.1.1={ liege=0 }
+}
+c_socotra={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}

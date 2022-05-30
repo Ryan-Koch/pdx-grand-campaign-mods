@@ -1,0 +1,295 @@
+1352={
+	culture=hindustani
+	religion=kalikula_shaktism
+	holding=castle_holding
+}
+1364={
+	culture=bengali
+	religion=kalikula_shaktism
+	holding=castle_holding
+}
+1366={
+	culture=hindustani
+	religion=vaishnavism
+	holding=castle_holding
+}
+3455={
+	culture=hindustani
+	religion=vaishnavism
+	holding=none
+}
+3456={
+	culture=hindustani
+	religion=vaishnavism
+	holding=none
+}
+3457={
+	culture=hindustani
+	religion=kalikula_shaktism
+	holding=castle_holding
+}
+3458={
+	culture=bengali
+	religion=kalikula_shaktism
+	holding=none
+}
+3459={
+	culture=rajput
+	religion=kalikula_shaktism
+	holding=none
+}
+1161={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+3445={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+3446={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+7947={
+	culture=bengali
+	religion=vaishnavism
+	holding=city_holding
+}
+7948={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+7949={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+7950={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}
+9024={
+	culture=sumpa
+	religion=old_bon
+	holding=castle_holding
+}
+9025={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+1179={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+1180={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+1190={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+1191={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+1192={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+1193={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+1341={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+1342={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+1361={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+1362={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+1363={
+	culture=bengali
+	religion=kalikula_shaktism
+	holding=none
+}
+3418={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+3419={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+3420={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+3421={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+3422={
+	culture=bengali
+	religion=kalikula_shaktism
+	holding=none
+}
+3423={
+	culture=rajput
+	religion=kalikula_shaktism
+	holding=none
+}
+3424={
+	culture=bengali
+	religion=kalikula_shaktism
+	holding=none
+}
+3425={
+	culture=bengali
+	religion=vaishnavism
+	holding=city_holding
+}
+3426={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+3427={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+3428={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+3429={
+	culture=punjabi
+	religion=vaishnavism
+	holding=castle_holding
+}
+3430={
+	culture=bengali
+	religion=vaishnavism
+	holding=city_holding
+}
+3431={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+3432={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+3433={
+	culture=hindustani
+	religion=vaishnavism
+	holding=none
+}
+3434={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+3435={
+	culture=bengali
+	religion=vaishnavism
+	holding=city_holding
+}
+3436={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+3437={
+	culture=bengali
+	religion=vaishnavism
+	holding=church_holding
+}
+3438={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+3439={
+	culture=bengali
+	religion=vaishnavism
+	holding=city_holding
+}
+3440={
+	culture=bengali
+	religion=vaishnavism
+	holding=city_holding
+}
+3441={
+	culture=bengali
+	religion=vaishnavism
+	holding=city_holding
+}
+3442={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+3443={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+3444={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+4521={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+4522={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+4523={
+	culture=bengali
+	religion=mazdayasna
+	holding=church_holding
+}
+7946={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}

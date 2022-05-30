@@ -1,0 +1,75 @@
+k_cuman={
+	4.1.1={ liege=0 }
+}
+d_turgay={
+	4.1.1={ liege=0 }
+}
+c_turgay={
+	4.1.1={ change_development_level=0 }
+}
+c_tumar={
+	4.1.1={ change_development_level=0 }
+}
+c_murun_tomis={
+	4.1.1={ change_development_level=0 }
+}
+c_jilali={
+	4.1.1={ change_development_level=0 }
+}
+c_ulu_jitanjik={
+	4.1.1={ change_development_level=0 }
+}
+d_kurgan={
+	4.1.1={ liege=0 }
+}
+c_kurgan={
+	4.1.1={ change_development_level=0 }
+}
+c_sabakyul={
+	4.1.1={ change_development_level=0 }
+}
+d_kush-murun={
+	4.1.1={ liege=0 }
+}
+c_petropavl={
+	4.1.1={ change_development_level=0 }
+}
+c_kush-murun={
+	4.1.1={ change_development_level=0 }
+}
+c_vargashi={
+	4.1.1={ change_development_level=0 }
+}
+c_karasu={
+	4.1.1={ change_development_level=0 }
+}
+d_saryarka={
+	4.1.1={ liege=0 }
+}
+c_teniz={
+	4.1.1={ change_development_level=0 }
+}
+c_eghiz_kara={
+	4.1.1={ change_development_level=0 }
+}
+c_ulytau={
+	4.1.1={ change_development_level=0 }
+}
+c_kaska={
+	4.1.1={ change_development_level=0 }
+}
+d_kazakh={
+	4.1.1={ liege=0 }
+}
+c_astana={
+	4.1.1={ change_development_level=0 }
+}
+c_atbasar={
+	4.1.1={ change_development_level=0 }
+}
+c_shchuchinsk={
+	4.1.1={ change_development_level=0 }
+}
+c_teke={
+	4.1.1={ change_development_level=0 }
+}

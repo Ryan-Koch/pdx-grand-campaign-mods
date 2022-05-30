@@ -1,0 +1,48 @@
+k_IMPTOCK3_ROM_cilicia_region={
+	-58.10.21={ liege="e_roman_empire" holder="imperator104592" government="feudal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_cilicia={
+	4.1.1={ liege=0 }
+}
+c_cilicia={
+	-58.10.21={ liege=0 holder="imperator104592" }
+	4.1.1={ change_development_level=43 }
+}
+c_seleucia={
+	-58.10.21={ liege=0 holder="imperator104592" }
+	4.1.1={ change_development_level=33 }
+}
+c_lycandus={
+	-17.8.12={ liege=0 holder="imperator107655" }
+	4.1.1={ change_development_level=32 }
+}
+c_tall_hamid={
+	-58.10.21={ liege=0 holder="imperator104592" }
+	4.1.1={ change_development_level=29 }
+}
+d_cibyrrhaeot={
+	4.1.1={ liege=0 }
+}
+c_lycia={
+	-58.10.21={ liege=0 holder="imperator104592" }
+	4.1.1={ change_development_level=35 }
+}
+c_caria={
+	-58.10.21={ liege=0 holder="imperator104592" }
+	4.1.1={ change_development_level=37 }
+}
+c_pamphylia={
+	1.4.21={ liege=0 holder="imperator105281" }
+	4.1.1={ change_development_level=46 }
+}
+d_antioch={
+	4.1.1={ liege=0 }
+}
+c_antiocheia={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=41 }
+}
+c_alexandretta={
+	-58.10.21={ liege=0 holder="imperator104592" }
+	4.1.1={ change_development_level=39 }
+}

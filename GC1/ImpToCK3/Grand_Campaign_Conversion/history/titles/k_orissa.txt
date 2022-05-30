@@ -1,0 +1,174 @@
+k_orissa={
+	-10.4.5={ government="feudal_government" holder="imperator107597" liege="e_india" succession_laws={ "high_partition_succession_law" } }
+}
+d_tosali={
+	4.1.1={ liege=0 }
+}
+c_kataka={
+	-10.4.5={ liege=0 holder="imperator107597" }
+	4.1.1={ change_development_level=13 }
+}
+c_viraja={
+	-10.4.5={ liege=0 holder="imperator107597" }
+	4.1.1={ change_development_level=26 }
+}
+c_khinjali_mandala={
+	4.1.1={ holder="0" liege=0 change_development_level=15 }
+}
+c_kodalaka_mandala={
+	-10.4.5={ liege=0 holder="imperator107597" }
+	4.1.1={ change_development_level=11 }
+}
+c_khijjingakota={
+	4.1.1={ holder="0" liege=0 change_development_level=17 }
+}
+d_daksina_kosala={
+	4.1.1={ liege=0 }
+}
+c_rayapura={
+	-10.4.5={ liege=0 holder="imperator107597" }
+	4.1.1={ change_development_level=23 }
+}
+c_sripuri={
+	-10.4.5={ liege=0 holder="imperator107597" }
+	4.1.1={ change_development_level=28 }
+}
+c_suvarnapura={
+	-10.4.5={ liege=0 holder="imperator107597" }
+	4.1.1={ change_development_level=21 }
+}
+c_sambalpur={
+	-10.4.5={ liege=0 holder="imperator107597" }
+	4.1.1={ change_development_level=8 }
+}
+c_kiranapura={
+	4.1.1={ holder="0" liege=0 change_development_level=13 }
+}
+d_kalinga={
+	4.1.1={ liege=0 }
+}
+c_kalinganagar={
+	-10.4.5={ liege=0 holder="imperator107597" }
+	4.1.1={ change_development_level=25 }
+}
+c_puri={
+	-10.4.5={ liege=0 holder="imperator107597" }
+	4.1.1={ change_development_level=25 }
+}
+c_swetaka_mandala={
+	-10.4.5={ liege=0 holder="imperator107597" }
+	4.1.1={ change_development_level=30 }
+}
+c_vizagipatam={
+	-10.4.5={ liege=0 holder="imperator107597" }
+	4.1.1={ change_development_level=15 }
+}
+d_dandakaranya={
+	4.1.1={ liege=0 }
+}
+c_cakrakuta={
+	-10.4.5={ liege=0 holder="imperator107597" }
+	4.1.1={ change_development_level=33 }
+}
+c_barasuru={
+	-10.4.5={ liege=0 holder="imperator107597" }
+	4.1.1={ change_development_level=20 }
+}
+d_suhma={
+	4.1.1={ liege=0 }
+}
+c_mallabhum={
+	-10.4.5={ liege=0 holder="imperator107597" }
+	4.1.1={ change_development_level=27 }
+}
+c_tamralipti={
+	-10.4.5={ liege=0 holder="imperator107597" }
+	4.1.1={ change_development_level=9 }
+}
+c_midnapore={
+	-10.4.5={ liege=0 holder="imperator107597" }
+	4.1.1={ change_development_level=21 }
+}
+d_jharkand={
+	4.1.1={ liege=0 }
+}
+c_munda={
+	-10.4.5={ liege=0 holder="imperator107597" }
+	4.1.1={ change_development_level=10 }
+}
+c_jharkand={
+	-10.4.5={ liege=0 holder="imperator107597" }
+	4.1.1={ change_development_level=14 }
+}
+c_rothas={
+	-15.10.15={ liege=0 holder="imperator106670" }
+	4.1.1={ change_development_level=22 }
+}
+c_rajrappa={
+	-9.12.30={ liege=0 holder="imperator107121" }
+	4.1.1={ change_development_level=12 }
+}
+c_damin_i_koh={
+	-9.12.30={ liege=0 holder="imperator107121" }
+	4.1.1={ change_development_level=10 }
+}
+d_ratanpur={
+	4.1.1={ liege=0 }
+}
+c_ratanpur={
+	-10.4.5={ liege=0 holder="imperator107597" }
+	4.1.1={ change_development_level=18 }
+}
+c_tummana={
+	-10.4.5={ liege=0 holder="imperator107597" }
+	4.1.1={ change_development_level=17 }
+}
+c_bandhugadha={
+	-15.10.15={ liege=0 holder="imperator106670" }
+	4.1.1={ change_development_level=30 }
+}
+d_vengi={
+	4.1.1={ liege=0 }
+}
+c_vengipura={
+	-10.4.5={ liege=0 holder="imperator107597" }
+	4.1.1={ change_development_level=29 }
+}
+c_mosala={
+	-10.4.5={ liege=0 holder="imperator107597" }
+	4.1.1={ change_development_level=21 }
+}
+d_warangal={
+	4.1.1={ liege=0 }
+}
+c_orangallu={
+	-10.4.5={ liege=0 holder="imperator107597" }
+	4.1.1={ change_development_level=28 }
+}
+c_mahur={
+	-10.4.5={ liege=0 holder="imperator107597" }
+	4.1.1={ change_development_level=26 }
+}
+c_kambampet={
+	-10.4.5={ liege=0 holder="imperator107597" }
+	4.1.1={ change_development_level=20 }
+}
+c_balkonda={
+	-10.4.5={ liege=0 holder="imperator107597" }
+	4.1.1={ change_development_level=25 }
+}
+c_katukuru={
+	-10.4.5={ liege=0 holder="imperator107597" }
+	4.1.1={ change_development_level=28 }
+}
+d_racakonda={
+	4.1.1={ liege=0 }
+}
+c_racakonda={
+	-10.4.5={ liege=0 holder="imperator107597" }
+	4.1.1={ change_development_level=25 }
+}
+c_pannagallu={
+	-2.5.25={ liege=0 holder="imperator108408" }
+	4.1.1={ change_development_level=21 }
+}

@@ -1,0 +1,111 @@
+k_ob={
+	4.1.1={ liege=0 }
+}
+d_salair={
+	4.1.1={ liege=0 }
+}
+c_ob={
+	4.1.1={ change_development_level=0 }
+}
+c_biia={
+	4.1.1={ change_development_level=0 }
+}
+c_torema={
+	4.1.1={ change_development_level=0 }
+}
+c_sorok={
+	4.1.1={ change_development_level=0 }
+}
+c_kondoma={
+	4.1.1={ change_development_level=0 }
+}
+c_kyin={
+	4.1.1={ change_development_level=0 }
+}
+c_aley={
+	4.1.1={ change_development_level=0 }
+}
+c_korgon={
+	4.1.1={ change_development_level=0 }
+}
+c_terektai={
+	4.1.1={ change_development_level=0 }
+}
+c_tavan_bogd={
+	4.1.1={ change_development_level=0 }
+}
+d_ala_tau={
+	4.1.1={ liege=0 }
+}
+c_tomsk={
+	4.1.1={ change_development_level=0 }
+}
+c_kiia={
+	4.1.1={ change_development_level=0 }
+}
+c_taskyl={
+	4.1.1={ change_development_level=0 }
+}
+c_kojuk={
+	4.1.1={ change_development_level=0 }
+}
+c_chulym={
+	4.1.1={ change_development_level=0 }
+}
+c_narim={
+	4.1.1={ change_development_level=0 }
+}
+c_sochur={
+	4.1.1={ change_development_level=0 }
+}
+c_yenisei={
+	4.1.1={ change_development_level=0 }
+}
+d_vasyugan_mire={
+	4.1.1={ liege=0 }
+}
+c_vasyugan={
+	4.1.1={ change_development_level=0 }
+}
+c_umiai={
+	4.1.1={ change_development_level=0 }
+}
+c_tartas_SIB={
+	4.1.1={ change_development_level=0 }
+}
+c_chich={
+	4.1.1={ change_development_level=0 }
+}
+d_baraba_steppe={
+	4.1.1={ liege=0 }
+}
+c_kolyvan={
+	4.1.1={ change_development_level=0 }
+}
+c_sartlan={
+	4.1.1={ change_development_level=0 }
+}
+c_ubins={
+	4.1.1={ change_development_level=0 }
+}
+c_igaran={
+	4.1.1={ change_development_level=0 }
+}
+c_konda_ob={
+	4.1.1={ change_development_level=0 }
+}
+d_kulyndy_steppe={
+	4.1.1={ liege=0 }
+}
+c_kulunda={
+	4.1.1={ change_development_level=0 }
+}
+c_barnaul={
+	4.1.1={ change_development_level=0 }
+}
+c_kachu={
+	4.1.1={ change_development_level=0 }
+}
+c_kuchuk={
+	4.1.1={ change_development_level=0 }
+}

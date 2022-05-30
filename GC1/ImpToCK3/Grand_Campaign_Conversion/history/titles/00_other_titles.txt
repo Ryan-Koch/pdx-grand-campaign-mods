@@ -1,0 +1,631 @@
+k_danelaw={
+	4.1.1={ liege=0 }
+}
+k_daneland={
+	4.1.1={ liege=0 }
+}
+d_sunni={
+	4.1.1={ liege=0 }
+}
+d_shiite={
+	4.1.1={ liege=0 }
+}
+d_imami={
+	4.1.1={ liege=0 }
+}
+d_masmudi={
+	1.1.1={ succession_laws={ "temporal_head_of_faith_succession_law" } }
+	4.1.1={ liege=0 }
+}
+e_golden_horde={
+	4.1.1={ liege=0 }
+}
+e_ilkhanate={
+	4.1.1={ liege=0 }
+}
+e_chagatai={
+	4.1.1={ liege=0 }
+}
+e_black_horde={
+	4.1.1={ liege=0 }
+}
+e_white_horde={
+	4.1.1={ liege=0 }
+}
+e_aarlud_khanate={
+	4.1.1={ liege=0 }
+}
+e_togskol_khanate={
+	4.1.1={ liege=0 }
+}
+e_baruun_khanate={
+	4.1.1={ liege=0 }
+}
+e_uyghur_khanate={
+	4.1.1={ liege=0 }
+}
+e_kirghiz_khanate={
+	4.1.1={ liege=0 }
+}
+e_mongol_empire={
+	4.1.1={ liege=0 }
+}
+e_kara_khitai={
+	4.1.1={ liege=0 }
+}
+e_timurids={
+	4.1.1={ liege=0 }
+}
+d_malabarism={
+	1.1.1={ succession_laws={ "temporal_head_of_faith_succession_law" } }
+}
+k_guiyi={
+	4.1.1={ liege=0 }
+}
+k_switzerland={
+	4.1.1={ liege=0 }
+}
+k_austria={
+	4.1.1={ liege=0 }
+}
+e_outremer={
+	4.1.1={ liege=0 }
+}
+d_knights_templar={
+	4.1.1={ liege=0 }
+}
+d_teutonic_order={
+	4.1.1={ liege=0 }
+}
+d_knights_hospitaler={
+	4.1.1={ liege=0 }
+}
+d_hashshashin={
+	4.1.1={ liege=0 }
+}
+d_bektashi={
+	4.1.1={ liege=0 }
+}
+d_haruriyyah={
+	4.1.1={ liege=0 }
+}
+d_jomsvikings={
+	4.1.1={ liege=0 }
+}
+d_immortals={
+	4.1.1={ liege=0 }
+}
+d_zealots={
+	4.1.1={ liege=0 }
+}
+d_holy_sepulchre={
+	4.1.1={ liege=0 }
+}
+d_saint_anthony={
+	4.1.1={ liege=0 }
+}
+d_saint_addai={
+	4.1.1={ liege=0 }
+}
+d_sky_lords={
+	4.1.1={ liege=0 }
+}
+d_spirit_guardians={
+	4.1.1={ liege=0 }
+}
+d_warriors_perun={
+	4.1.1={ liege=0 }
+}
+d_chosen_perkunas={
+	4.1.1={ liege=0 }
+}
+d_sons_kaleva={
+	4.1.1={ liege=0 }
+}
+d_huitzilopochtli={
+	4.1.1={ liege=0 }
+}
+d_knights_santiago={
+	4.1.1={ liege=0 }
+}
+d_knights_calatrava={
+	4.1.1={ liege=0 }
+}
+d_followers_arjuna={
+	4.1.1={ liege=0 }
+}
+d_ashokas_chosen={
+	4.1.1={ liege=0 }
+}
+d_bulls_rishabha={
+	4.1.1={ liege=0 }
+}
+d_zun_warriors={
+	4.1.1={ liege=0 }
+}
+e_latin_empire={
+	4.1.1={ liege=0 }
+}
+e_slavia={
+	4.1.1={ liege=0 }
+}
+e_armenia={
+	4.1.1={ liege=0 }
+}
+e_north_sea={
+	4.1.1={ liege=0 }
+}
+k_pechenegs={
+	4.1.1={ liege=0 }
+}
+d_zaragoza={
+	4.1.1={ liege=0 }
+}
+d_erzerum={
+	4.1.1={ liege=0 }
+}
+d_amalfi={
+	4.1.1={ liege=0 }
+}
+d_belgrade={
+	4.1.1={ liege=0 }
+}
+d_pronsk={
+	4.1.1={ liege=0 }
+}
+d_sandomiersk={
+	4.1.1={ liege=0 }
+}
+d_swiss={
+	4.1.1={ liege=0 }
+}
+e_hre={
+	4.1.1={ liege=0 }
+}
+k_hansa={
+	4.1.1={ liege=0 }
+}
+e_britannia={
+	4.1.1={ liege=0 }
+}
+k_england={
+	4.1.1={ liege=0 }
+}
+k_wales={
+	4.1.1={ liege=0 }
+}
+k_ireland={
+	4.1.1={ liege=0 }
+}
+k_cornwall={
+	4.1.1={ liege=0 }
+}
+k_mann_the_isles={
+	4.1.1={ liege=0 }
+}
+e_germany={
+	4.1.1={ liege=0 }
+}
+k_saxony={
+	4.1.1={ liege=0 }
+}
+k_frisia={
+	4.1.1={ liege=0 }
+}
+k_lotharingia={
+	4.1.1={ liege=0 }
+}
+k_east_francia={
+	4.1.1={ liege=0 }
+}
+e_roman_empire={
+	-304.10.1={ holder="imperator310" government="republic_government" }
+	-299.10.1={ holder="imperator305" government="republic_government" }
+	-294.10.1={ holder="imperator113" government="republic_government" }
+	-289.10.1={ holder="imperator313" government="republic_government" }
+	-284.10.1={ holder="imperator6698" government="republic_government" }
+	-279.10.1={ holder="imperator343" government="republic_government" }
+	-274.10.1={ holder="imperator309" government="republic_government" }
+	-269.10.1={ holder="imperator313" government="republic_government" }
+	-264.10.1={ holder="imperator6698" government="republic_government" }
+	-259.10.1={ holder="imperator343" government="republic_government" }
+	-254.10.1={ holder="imperator30766" government="republic_government" }
+	-249.10.1={ holder="imperator37959" government="republic_government" }
+	-244.10.1={ holder="imperator41814" government="republic_government" }
+	-239.10.1={ holder="imperator32029" government="republic_government" }
+	-234.10.1={ holder="imperator56470" government="republic_government" }
+	-229.10.1={ holder="imperator37959" government="republic_government" }
+	-224.10.1={ holder="imperator41814" government="republic_government" }
+	-219.10.1={ holder="imperator60671" government="republic_government" }
+	-214.10.1={ holder="imperator42590" government="republic_government" }
+	-209.2.3={ holder="imperator66580" government="republic_government" }
+	-204.2.3={ holder="imperator75419" government="republic_government" }
+	-199.2.3={ holder="imperator64183" government="republic_government" }
+	-194.2.3={ holder="imperator58394" government="republic_government" }
+	-189.2.3={ holder="imperator66580" government="republic_government" }
+	-184.2.3={ holder="imperator66582" government="republic_government" }
+	-178.6.13={ holder="imperator64183" government="republic_government" }
+	-168.6.13={ holder="imperator75415" government="republic_government" }
+	-154.11.26={ holder="imperator64183" government="feudal_government" }
+	-152.4.14={ holder="imperator75421" government="feudal_government" }
+	-147.9.2={ holder="imperator71797" government="feudal_government" }
+	-138.10.2={ holder="imperator77986" government="feudal_government" }
+	-126.1.22={ holder="imperator87967" government="feudal_government" }
+	-107.10.21={ holder="imperator89702" government="feudal_government" }
+	-81.6.3={ holder="imperator97378" government="feudal_government" }
+	-39.3.8={ holder="imperator105005" government="feudal_government" }
+	4.1.1={ succession_laws={ "male_preference_law" "single_heir_succession_law" } }
+}
+e_byzantium={
+	4.1.1={ liege=0 }
+}
+k_saruhan={
+	4.1.1={ liege=0 }
+}
+k_trinacria={
+	4.1.1={ liege=0 }
+}
+k_tekke={
+	4.1.1={ liege=0 }
+}
+k_trebizond={
+	4.1.1={ liege=0 }
+}
+k_ottoman={
+	4.1.1={ liege=0 }
+}
+k_rum={
+	4.1.1={ liege=0 }
+}
+k_mentese={
+	4.1.1={ liege=0 }
+}
+k_karaman={
+	4.1.1={ liege=0 }
+}
+k_germiyan={
+	4.1.1={ liege=0 }
+}
+k_eretnid={
+	4.1.1={ liege=0 }
+}
+k_aydin={
+	4.1.1={ liege=0 }
+}
+k_candar={
+	4.1.1={ liege=0 }
+}
+k_epirus={
+	4.1.1={ liege=0 }
+}
+k_krete={
+	4.1.1={ liege=0 }
+}
+k_croatia={
+	4.1.1={ liege=0 }
+}
+k_serbia={
+	4.1.1={ liege=0 }
+}
+k_bosnia={
+	4.1.1={ liege=0 }
+}
+k_bulgaria={
+	4.1.1={ liege=0 }
+}
+k_nikaea={
+	4.1.1={ liege=0 }
+}
+k_pontus={
+	4.1.1={ liege=0 }
+}
+k_sicily={
+	4.1.1={ liege=0 }
+}
+k_venice={
+	4.1.1={ liege=0 }
+}
+k_old_armenia={
+	4.1.1={ liege=0 }
+}
+e_italy={
+	4.1.1={ liege=0 }
+}
+k_genoa={
+	4.1.1={ liege=0 }
+}
+k_pisa={
+	4.1.1={ liege=0 }
+}
+k_naples={
+	4.1.1={ liege=0 }
+}
+e_scandinavia={
+	-304.10.1={ holder="imperator21563" government="tribal_government" }
+	-258.12.19={ holder="imperator21547" government="tribal_government" }
+	-248.4.8={ holder="imperator46134" government="tribal_government" }
+	-232.10.7={ holder="imperator21587" government="tribal_government" }
+	-231.11.18={ holder="imperator46136" government="tribal_government" }
+	-227.10.9={ holder="imperator26305" government="tribal_government" }
+	-226.3.18={ holder="imperator34545" government="tribal_government" }
+	-214.11.16={ holder="imperator47537" government="tribal_government" }
+	-194.11.18={ holder="imperator75370" government="feudal_government" }
+	-132.2.23={ holder="imperator81154" government="feudal_government" }
+	-109.6.5={ holder="imperator87170" government="feudal_government" }
+	-95.11.21={ holder="imperator99826" government="feudal_government" }
+	-28.12.7={ holder="imperator104644" government="feudal_government" }
+	4.1.1={ succession_laws={ "male_preference_law" "single_heir_succession_law" } }
+}
+e_wendish_empire={
+	4.1.1={ liege=0 }
+}
+k_pomerania={
+	4.1.1={ liege=0 }
+}
+k_livonia={
+	4.1.1={ liege=0 }
+}
+e_west_slavia={
+	4.1.1={ liege=0 }
+}
+k_moravia={
+	4.1.1={ liege=0 }
+}
+k_poland={
+	4.1.1={ liege=0 }
+}
+k_bohemia={
+	-14.9.21={ succession_laws={ "high_partition_succession_law" } }
+	4.1.1={ liege=0 }
+}
+k_sorbia={
+	4.1.1={ liege=0 }
+}
+e_russia={
+	4.1.1={ liege=0 }
+}
+e_caspian-pontic_steppe={
+	4.1.1={ liege=0 }
+}
+k_caucasus={
+	4.1.1={ liege=0 }
+}
+k_magyar={
+	4.1.1={ liege=0 }
+}
+e_volga-ural={
+	4.1.1={ liege=0 }
+}
+e_siberia={
+	4.1.1={ liege=0 }
+}
+e_mongolia={
+	4.1.1={ liege=0 }
+}
+e_tartaria={
+	4.1.1={ liege=0 }
+}
+e_turan={
+	4.1.1={ liege=0 }
+}
+k_khotan={
+	4.1.1={ liege=0 }
+}
+k_oghuz_il={
+	4.1.1={ liege=0 }
+}
+e_bactria={
+	4.1.1={ liege=0 }
+}
+e_persia={
+	4.1.1={ liege=0 succession_laws={ "male_only_law" "single_heir_succession_law" } }
+}
+k_kabulistan={
+	4.1.1={ liege=0 }
+}
+e_carpathia={
+	4.1.1={ liege=0 }
+}
+k_moldavia={
+	4.1.1={ liege=0 }
+}
+e_france={
+	4.1.1={ liege=0 }
+}
+k_france={
+	4.1.1={ liege=0 }
+}
+k_brittany={
+	-49.4.25={ government="feudal_government" holder="imperator103784" liege="e_roman_empire" succession_laws={ "high_partition_succession_law" } }
+}
+e_spain={
+	4.1.1={ liege=0 }
+}
+k_badajoz={
+	4.1.1={ liege=0 }
+}
+k_castille={
+	4.1.1={ liege=0 }
+}
+k_navarra={
+	4.1.1={ liege=0 }
+}
+k_asturias={
+	4.1.1={ liege=0 }
+}
+k_leon={
+	4.1.1={ liege=0 }
+}
+e_maghreb={
+	4.1.1={ liege=0 }
+}
+e_arabia={
+	4.1.1={ liege=0 }
+}
+k_israel={
+	4.1.1={ liege=0 }
+}
+e_abyssinia={
+	4.1.1={ liege=0 }
+}
+e_ajuraan={
+	4.1.1={ liege=0 }
+}
+e_kanem_bornu={
+	4.1.1={ liege=0 }
+}
+e_mali={
+	4.1.1={ liege=0 }
+}
+e_guinea={
+	4.1.1={ liege=0 }
+}
+e_india={
+	-304.10.1={ government="feudal_government" holder="imperator22" }
+	-271.6.23={ government="feudal_government" holder="imperator38488" }
+	-255.3.18={ government="feudal_government" holder="imperator66" }
+	-234.1.5={ government="feudal_government" holder="imperator46896" }
+	-199.6.7={ government="feudal_government" holder="imperator59484" }
+	-196.5.27={ government="feudal_government" holder="imperator73092" }
+	-136.9.13={ government="feudal_government" holder="imperator92027" }
+	-69.4.18={ government="feudal_government" holder="imperator99232" }
+	-52.7.2={ government="feudal_government" holder="imperator104964" }
+	-9.12.30={ government="feudal_government" holder="imperator107121" }
+	4.1.1={ succession_laws={ "male_only_law" "single_heir_succession_law" } }
+}
+e_rajastan={
+	4.1.1={ liege=0 }
+}
+k_punjab={
+	4.1.1={ liege=0 }
+}
+k_delhi={
+	4.1.1={ liege=0 }
+}
+k_gujarat={
+	4.1.1={ liege=0 }
+}
+k_malwa={
+	4.1.1={ liege=0 }
+}
+e_bengal={
+	4.1.1={ liege=0 }
+}
+k_gondwana={
+	4.1.1={ liege=0 }
+}
+e_deccan={
+	4.1.1={ liege=0 }
+}
+k_bene_israel={
+	4.1.1={ liege=0 }
+}
+k_maharastra={
+	4.1.1={ liege=0 }
+}
+k_andhra={
+	4.1.1={ liege=0 }
+}
+k_telingana={
+	4.1.1={ liege=0 }
+}
+k_lanka={
+	4.1.1={ liege=0 }
+}
+e_tibet={
+	4.1.1={ liege=0 }
+}
+k_guge={
+	4.1.1={ liege=0 }
+}
+k_maryul={
+	4.1.1={ liege=0 }
+}
+k_adiukru={
+	4.1.1={ liege=0 }
+}
+k_toro={
+	4.1.1={ liege=0 }
+}
+k_winideheim={
+	4.1.1={ liege=0 }
+}
+e_IMPTOCK3_EGY={
+	-304.10.1={ holder="imperator42" government="feudal_government" }
+	-290.6.13={ holder="imperator43" government="feudal_government" }
+	-251.10.13={ holder="imperator42899" government="feudal_government" }
+	-212.1.27={ holder="imperator45196" government="feudal_government" }
+	-196.6.17={ holder="imperator73805" government="feudal_government" }
+	-170.10.26={ holder="imperator82157" government="feudal_government" }
+	-101.8.8={ holder="imperator87792" government="feudal_government" }
+	-86.6.13={ holder="imperator93636" government="feudal_government" }
+	-61.6.7={ holder="imperator100546" government="feudal_government" }
+	-28.12.31={ holder="imperator102111" government="feudal_government" }
+	-5.3.29={ holder="imperator107266" government="feudal_government" }
+	4.1.1={ succession_laws={ "equal_law" "single_heir_succession_law" } }
+}
+e_IMPTOCK3_TYO={
+	-304.10.1={ holder="imperator18921" government="republic_government" }
+	-299.10.1={ holder="imperator18924" government="republic_government" }
+	-294.10.1={ holder="imperator18938" government="republic_government" }
+	-290.4.18={ holder="imperator18923" government="republic_government" }
+	-288.4.18={ holder="imperator18921" government="republic_government" }
+	-286.4.18={ holder="imperator18922" government="republic_government" }
+	-284.4.18={ holder="imperator18930" government="republic_government" }
+	-282.4.18={ holder="imperator18924" government="republic_government" }
+	-280.4.18={ holder="imperator18932" government="republic_government" }
+	-278.4.18={ holder="imperator18938" government="republic_government" }
+	-276.4.18={ holder="imperator18923" government="republic_government" }
+	-274.4.18={ holder="imperator18921" government="republic_government" }
+	-272.4.18={ holder="imperator18922" government="republic_government" }
+	-270.4.18={ holder="imperator18929" government="republic_government" }
+	-268.4.18={ holder="imperator18955" government="republic_government" }
+	-266.4.18={ holder="imperator18948" government="republic_government" }
+	-264.4.18={ holder="imperator18932" government="republic_government" }
+	-262.4.18={ holder="imperator18923" government="republic_government" }
+	-260.4.18={ holder="imperator18921" government="republic_government" }
+	-258.4.18={ holder="imperator28702" government="republic_government" }
+	-256.4.18={ holder="imperator18929" government="republic_government" }
+	-255.3.20={ holder="imperator18955" government="republic_government" }
+	-253.3.20={ holder="imperator18958" government="republic_government" }
+	-251.3.20={ holder="imperator18932" government="republic_government" }
+	-249.3.20={ holder="imperator18961" government="republic_government" }
+	-238.3.20={ holder="imperator18958" government="republic_government" }
+	-233.9.21={ holder="imperator42166" government="republic_government" }
+	-228.9.21={ holder="imperator60924" government="republic_government" }
+	-193.2.25={ holder="imperator68299" government="feudal_government" }
+	-154.2.17={ holder="imperator72830" government="feudal_government" }
+	-138.12.12={ holder="imperator81090" government="feudal_government" }
+	-110.6.1={ holder="imperator95687" government="feudal_government" }
+	-54.9.18={ holder="imperator99572" government="feudal_government" }
+	-28.12.1={ holder="imperator103722" government="feudal_government" }
+	2.7.28={ holder="imperator107713" government="feudal_government" }
+	4.1.1={ succession_laws={ "male_preference_law" "single_heir_succession_law" } }
+}
+d_IMPTOCK3_C57={
+	-220.12.2={ holder="imperator69492" government="feudal_government" }
+	-172.2.25={ holder="imperator74774" government="feudal_government" }
+	-130.2.15={ holder="imperator90061" government="feudal_government" }
+	-80.11.2={ holder="imperator97831" government="feudal_government" }
+	-68.11.3={ holder="imperator103842" government="feudal_government" }
+	-27.11.13={ holder="imperator101861" government="tribal_government" }
+	-12.9.12={ holder="imperator106089" government="tribal_government" }
+	4.1.1={ succession_laws={ "male_only_law" "single_heir_succession_law" } }
+}
+d_IMPTOCK3_C58={
+	-220.12.2={ holder="imperator69517" government="feudal_government" }
+	-169.8.16={ holder="imperator84543" government="feudal_government" }
+	-102.6.4={ holder="imperator93474" government="feudal_government" }
+	-65.1.10={ holder="imperator100202" government="feudal_government" }
+	-26.1.11={ holder="imperator104440" government="feudal_government" }
+	4.1.1={ succession_laws={ "male_only_law" "single_heir_succession_law" } }
+}
+d_IMPTOCK3_F94_albania_region={
+	-9.3.21={ holder="imperator104471" succession_laws={ "high_partition_succession_law" } }
+}
+k_IMPTOCK3_SWE_sarmatia_europea_region={
+	-13.3.20={ liege="e_scandinavia" holder="imperator107287" government="feudal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_IMPTOCK3_PLD_albania_region={
+	-8.6.16={ holder="imperator107476" government="tribal_government" succession_laws={ "high_partition_succession_law" } }
+}

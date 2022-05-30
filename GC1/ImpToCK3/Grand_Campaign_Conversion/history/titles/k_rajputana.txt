@@ -1,0 +1,139 @@
+k_rajputana={
+	-2.12.21={ government="feudal_government" holder="imperator107651" liege="e_india" succession_laws={ "high_partition_succession_law" } }
+}
+d_maru={
+	4.1.1={ liege=0 }
+}
+c_mandavyapura={
+	-2.12.21={ liege=0 holder="imperator107651" }
+	4.1.1={ change_development_level=9 }
+}
+c_medantaka={
+	-2.12.21={ liege=0 holder="imperator107651" }
+	4.1.1={ change_development_level=7 }
+}
+c_godwad={
+	-11.12.24={ liege=0 holder="imperator107284" }
+	4.1.1={ change_development_level=28 }
+}
+c_naddula={
+	-2.12.21={ liege=0 holder="imperator107651" }
+	4.1.1={ change_development_level=30 }
+}
+d_jangladesh={
+	4.1.1={ liege=0 }
+}
+c_nagauda={
+	-2.12.21={ liege=0 holder="imperator107651" }
+	4.1.1={ change_development_level=2 }
+}
+c_vikramapura={
+	-2.12.21={ liege=0 holder="imperator107651" }
+	4.1.1={ change_development_level=3 }
+}
+c_reni={
+	-2.12.21={ liege=0 holder="imperator107651" }
+	4.1.1={ change_development_level=15 }
+}
+d_dadhipadra={
+	4.1.1={ liege=0 }
+}
+c_ujjayini={
+	-2.12.21={ liege=0 holder="imperator107651" }
+	4.1.1={ change_development_level=32 }
+}
+c_dadhipadra={
+	-2.12.21={ liege=0 holder="imperator107651" }
+	4.1.1={ change_development_level=23 }
+}
+c_dhara={
+	-2.12.21={ liege=0 holder="imperator107651" }
+	4.1.1={ change_development_level=27 }
+}
+c_dasapura={
+	-2.12.21={ liege=0 holder="imperator107651" }
+	4.1.1={ change_development_level=24 }
+}
+d_medapata={
+	4.1.1={ liege=0 }
+}
+c_medapata={
+	-2.12.21={ liege=0 holder="imperator107651" }
+	4.1.1={ change_development_level=18 }
+}
+c_chitrakut={
+	-2.12.21={ liege=0 holder="imperator107651" }
+	4.1.1={ change_development_level=28 }
+}
+c_kota={
+	-2.12.21={ liege=0 holder="imperator107651" }
+	4.1.1={ change_development_level=23 }
+}
+d_ajmer={
+	4.1.1={ liege=0 }
+}
+c_ajayameru={
+	-2.12.21={ liege=0 holder="imperator107651" }
+	4.1.1={ change_development_level=21 }
+}
+c_ranthambore={
+	-2.12.21={ liege=0 holder="imperator107651" }
+	4.1.1={ change_development_level=22 }
+}
+c_vairata={
+	-2.12.21={ liege=0 holder="imperator107651" }
+	4.1.1={ change_development_level=19 }
+}
+c_gwalior={
+	-15.10.15={ liege=0 holder="imperator106670" }
+	4.1.1={ change_development_level=28 }
+}
+c_sakarai={
+	-15.10.15={ liege=0 holder="imperator106670" }
+	4.1.1={ change_development_level=14 }
+}
+d_mathura={
+	4.1.1={ liege=0 }
+}
+c_mathura={
+	-2.12.21={ liege=0 holder="imperator107651" }
+	4.1.1={ change_development_level=24 }
+}
+c_kol={
+	-15.10.15={ liege=0 holder="imperator106670" }
+	4.1.1={ change_development_level=31 }
+}
+c_sripatha={
+	-2.12.21={ liege=0 holder="imperator107651" }
+	4.1.1={ change_development_level=30 }
+}
+d_akara_dasarna={
+	4.1.1={ liege=0 }
+}
+c_vidisa={
+	-2.12.21={ liege=0 holder="imperator107651" }
+	4.1.1={ change_development_level=25 }
+}
+c_sarangpur={
+	-2.12.21={ liege=0 holder="imperator107651" }
+	4.1.1={ change_development_level=22 }
+}
+c_chanderi={
+	-2.12.21={ liege=0 holder="imperator107651" }
+	4.1.1={ change_development_level=29 }
+}
+c_candhoba={
+	-2.12.21={ liege=0 holder="imperator107651" }
+	4.1.1={ change_development_level=27 }
+}
+d_dahala={
+	4.1.1={ liege=0 }
+}
+c_tripuri={
+	-2.12.21={ liege=0 holder="imperator107651" }
+	4.1.1={ change_development_level=11 }
+}
+c_chauragarh={
+	-2.12.21={ liege=0 holder="imperator107651" }
+	4.1.1={ change_development_level=21 }
+}

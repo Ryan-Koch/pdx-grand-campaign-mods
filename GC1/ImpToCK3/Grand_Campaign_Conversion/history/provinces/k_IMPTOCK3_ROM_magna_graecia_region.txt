@@ -1,0 +1,265 @@
+2635={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2636={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+2645={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+2644={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+2633={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2634={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+2639={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+2638={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2643={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+2642={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+2640={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2637={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+2641={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+2646={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2609={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2669={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+2607={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+2615={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+8757={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+2610={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2605={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+8758={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+2606={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2593={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+2602={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+2608={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2611={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+8756={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+2619={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2614={
+	culture=roman
+	religion=hellenic_pagan
+	holding=church_holding
+}
+2618={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+2617={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+2623={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2624={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+2621={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+8755={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2622={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+2620={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+2612={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2613={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+2616={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+8754={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+2631={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2632={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+2627={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2626={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+8751={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+2628={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2630={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+8752={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+2629={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2625={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+8753={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}

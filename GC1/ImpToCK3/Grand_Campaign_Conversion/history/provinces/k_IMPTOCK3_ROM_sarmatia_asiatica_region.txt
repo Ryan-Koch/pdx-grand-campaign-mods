@@ -1,0 +1,80 @@
+557={
+	culture=scythian
+	religion=scythian_pagan
+	holding=castle_holding
+}
+5280={
+	culture=scythian
+	religion=hellenic_pagan
+	holding=none
+}
+5281={
+	culture=scythian
+	religion=hellenic_pagan
+	holding=none
+}
+5324={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=none
+}
+558={
+	culture=scythian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5278={
+	culture=scythian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5279={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+564={
+	culture=sarmatian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5320={
+	culture=scythian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5321={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=none
+}
+5322={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5323={
+	culture=sarmatian
+	religion=hellenic_pagan
+	holding=none
+}
+556={
+	culture=scythian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5282={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+565={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+5283={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}

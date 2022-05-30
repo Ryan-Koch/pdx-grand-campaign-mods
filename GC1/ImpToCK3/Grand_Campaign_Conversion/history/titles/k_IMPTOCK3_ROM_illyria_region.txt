@@ -1,0 +1,138 @@
+k_IMPTOCK3_ROM_illyria_region={
+	-3.6.22={ liege="e_roman_empire" holder="imperator108236" government="feudal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_krain={
+	4.1.1={ liege=0 }
+}
+c_kranj={
+	-3.6.22={ liege=0 holder="imperator108236" }
+	4.1.1={ change_development_level=19 }
+}
+c_ljubljana={
+	-3.6.22={ liege=0 holder="imperator108236" }
+	4.1.1={ change_development_level=19 }
+}
+d_istria={
+	4.1.1={ liege=0 }
+}
+c_pula={
+	-3.6.22={ liege=0 holder="imperator108236" }
+	4.1.1={ change_development_level=41 }
+}
+d_dyrrachion={
+	4.1.1={ liege=0 }
+}
+c_dyrrachion={
+	-3.6.22={ liege=0 holder="imperator108236" }
+	4.1.1={ change_development_level=58 }
+}
+c_arbanon={
+	-3.6.22={ liege=0 holder="imperator108236" }
+	4.1.1={ change_development_level=18 }
+}
+c_debar={
+	-3.6.22={ liege=0 holder="imperator108236" }
+	4.1.1={ change_development_level=6 }
+}
+c_antipatreia={
+	-3.6.22={ liege=0 holder="imperator108236" }
+	4.1.1={ change_development_level=22 }
+}
+c_avlonas={
+	-22.9.3={ liege=0 holder="imperator106128" }
+	4.1.1={ change_development_level=18 }
+}
+d_dalmatia={
+	4.1.1={ liege=0 }
+}
+c_zadar={
+	-3.6.22={ liege=0 holder="imperator108236" }
+	4.1.1={ change_development_level=35 }
+}
+c_knin={
+	-3.6.22={ liege=0 holder="imperator108236" }
+	4.1.1={ change_development_level=30 }
+}
+c_cetina={
+	-3.6.22={ liege=0 holder="imperator108236" }
+	4.1.1={ change_development_level=44 }
+}
+d_croatia={
+	4.1.1={ liege=0 }
+}
+c_gacka={
+	-3.6.22={ liege=0 holder="imperator108236" }
+	4.1.1={ change_development_level=18 }
+}
+c_lika={
+	-3.6.22={ liege=0 holder="imperator108236" }
+	4.1.1={ change_development_level=26 }
+}
+c_cherso={
+	-3.6.22={ liege=0 holder="imperator108236" }
+	4.1.1={ change_development_level=39 }
+}
+c_modrus={
+	-3.6.22={ liege=0 holder="imperator108236" }
+	4.1.1={ change_development_level=37 }
+}
+d_bosna={
+	4.1.1={ liege=0 }
+}
+c_rama={
+	-3.6.22={ liege=0 holder="imperator108236" }
+	4.1.1={ change_development_level=21 }
+}
+c_donjikraji={
+	-3.6.22={ liege=0 holder="imperator108236" }
+	4.1.1={ change_development_level=27 }
+}
+c_vhrbosna={
+	-3.6.22={ liege=0 holder="imperator108236" }
+	4.1.1={ change_development_level=15 }
+}
+c_pset={
+	-3.6.22={ liege=0 holder="imperator108236" }
+	4.1.1={ change_development_level=27 }
+}
+d_usora={
+	4.1.1={ liege=0 }
+}
+c_zachlumia={
+	-3.6.22={ liege=0 holder="imperator108236" }
+	4.1.1={ change_development_level=29 }
+}
+c_zelengora={
+	-3.6.22={ liege=0 holder="imperator108236" }
+	4.1.1={ change_development_level=22 }
+}
+c_zavrsje={
+	-3.6.22={ liege=0 holder="imperator108236" }
+	4.1.1={ change_development_level=43 }
+}
+c_pagania={
+	-3.6.22={ liege=0 holder="imperator108236" }
+	4.1.1={ change_development_level=29 }
+}
+d_ragusa={
+	4.1.1={ liege=0 }
+}
+c_ragusa={
+	-3.6.22={ liege=0 holder="imperator108236" }
+	4.1.1={ change_development_level=50 }
+}
+d_duklja={
+	4.1.1={ liege=0 }
+}
+c_duklja={
+	-3.6.22={ liege=0 holder="imperator108236" }
+	4.1.1={ change_development_level=21 }
+}
+c_pomorje={
+	-3.6.22={ liege=0 holder="imperator108236" }
+	4.1.1={ change_development_level=34 }
+}
+c_travunia={
+	-3.6.22={ liege=0 holder="imperator108236" }
+	4.1.1={ change_development_level=26 }
+}

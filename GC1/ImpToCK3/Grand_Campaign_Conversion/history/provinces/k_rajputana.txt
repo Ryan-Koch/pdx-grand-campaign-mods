@@ -1,0 +1,505 @@
+1141={
+	culture=hindustani
+	religion=vaishnavism
+	holding=castle_holding
+}
+1357={
+	culture=hindustani
+	religion=vaishnavism
+	holding=castle_holding
+}
+1359={
+	culture=hindustani
+	religion=vaishnavism
+	holding=castle_holding
+}
+3460={
+	culture=hindustani
+	religion=vaishnavism
+	holding=city_holding
+}
+3461={
+	culture=hindustani
+	religion=vaishnavism
+	holding=none
+}
+3462={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+3463={
+	culture=hindustani
+	religion=vaishnavism
+	holding=none
+}
+3464={
+	culture=hindustani
+	religion=vaishnavism
+	holding=none
+}
+3465={
+	culture=hindustani
+	religion=vaishnavism
+	holding=none
+}
+3466={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+914={
+	culture=bengali
+	religion=vaishnavism
+	holding=city_holding
+}
+915={
+	culture=bengali
+	religion=vaishnavism
+	holding=city_holding
+}
+916={
+	culture=bengali
+	religion=vaishnavism
+	holding=city_holding
+}
+917={
+	culture=rajput
+	religion=vaishnavism
+	holding=none
+}
+918={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+919={
+	culture=rajput
+	religion=vaishnavism
+	holding=city_holding
+}
+924={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+1164={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+1271={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+1148={
+	culture=rajput
+	religion=vaishnavism
+	holding=castle_holding
+}
+1149={
+	culture=rajput
+	religion=vaishnavism
+	holding=castle_holding
+}
+1150={
+	culture=rajput
+	religion=srikula_shaktism
+	holding=castle_holding
+}
+1170={
+	culture=rajput
+	religion=smartism
+	holding=castle_holding
+}
+1288={
+	culture=rajput
+	religion=vaishnavism
+	holding=castle_holding
+}
+1289={
+	culture=rajput
+	religion=vaishnavism
+	holding=castle_holding
+}
+1298={
+	culture=hindustani
+	religion=smartism
+	holding=castle_holding
+}
+1299={
+	culture=rajput
+	religion=smartism
+	holding=castle_holding
+}
+3315={
+	culture=bengali
+	religion=smartism
+	holding=none
+}
+3316={
+	culture=hindustani
+	religion=smartism
+	holding=none
+}
+3317={
+	culture=rajput
+	religion=smartism
+	holding=none
+}
+3318={
+	culture=hindustani
+	religion=smartism
+	holding=city_holding
+}
+3319={
+	culture=bengali
+	religion=smartism
+	holding=none
+}
+3320={
+	culture=rajput
+	religion=smartism
+	holding=none
+}
+3321={
+	culture=rajput
+	religion=smartism
+	holding=none
+}
+3322={
+	culture=rajput
+	religion=smartism
+	holding=none
+}
+3323={
+	culture=rajput
+	religion=smartism
+	holding=city_holding
+}
+3324={
+	culture=rajput
+	religion=smartism
+	holding=city_holding
+}
+3325={
+	culture=rajput
+	religion=srikula_shaktism
+	holding=none
+}
+3326={
+	culture=rajput
+	religion=srikula_shaktism
+	holding=none
+}
+3327={
+	culture=rajput
+	religion=srikula_shaktism
+	holding=city_holding
+}
+3328={
+	culture=rajput
+	religion=vaishnavism
+	holding=none
+}
+3329={
+	culture=rajput
+	religion=vaishnavism
+	holding=none
+}
+3330={
+	culture=rajput
+	religion=vaishnavism
+	holding=castle_holding
+}
+3331={
+	culture=rajput
+	religion=vaishnavism
+	holding=none
+}
+3332={
+	culture=rajput
+	religion=vaishnavism
+	holding=city_holding
+}
+3333={
+	culture=rajput
+	religion=vaishnavism
+	holding=city_holding
+}
+3334={
+	culture=rajput
+	religion=vaishnavism
+	holding=none
+}
+3335={
+	culture=rajput
+	religion=vaishnavism
+	holding=none
+}
+3336={
+	culture=rajput
+	religion=vaishnavism
+	holding=none
+}
+3337={
+	culture=rajput
+	religion=vaishnavism
+	holding=none
+}
+1130={
+	culture=rajput
+	religion=vaishnavism
+	holding=castle_holding
+}
+1172={
+	culture=hindustani
+	religion=vaishnavism
+	holding=castle_holding
+}
+1174={
+	culture=gujarati
+	religion=vaishnavism
+	holding=castle_holding
+}
+1176={
+	culture=hindustani
+	religion=vaishnavism
+	holding=castle_holding
+}
+1300={
+	culture=rajput
+	religion=vaishnavism
+	holding=castle_holding
+}
+1302={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+1345={
+	culture=rajput
+	religion=vaishnavism
+	holding=castle_holding
+}
+1346={
+	culture=hindustani
+	religion=vaishnavism
+	holding=castle_holding
+}
+1349={
+	culture=hindustani
+	religion=vaishnavism
+	holding=castle_holding
+}
+1350={
+	culture=hindustani
+	religion=kalikula_shaktism
+	holding=castle_holding
+}
+1353={
+	culture=hindustani
+	religion=vaishnavism
+	holding=castle_holding
+}
+1354={
+	culture=hindustani
+	religion=vaishnavism
+	holding=castle_holding
+}
+1355={
+	culture=hindustani
+	religion=vaishnavism
+	holding=castle_holding
+}
+3338={
+	culture=hindustani
+	religion=vaishnavism
+	holding=none
+}
+3339={
+	culture=hindustani
+	religion=vaishnavism
+	holding=none
+}
+3340={
+	culture=hindustani
+	religion=vaishnavism
+	holding=none
+}
+3341={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+3342={
+	culture=rajput
+	religion=vaishnavism
+	holding=castle_holding
+}
+3343={
+	culture=rajput
+	religion=vaishnavism
+	holding=none
+}
+3344={
+	culture=hindustani
+	religion=vaishnavism
+	holding=none
+}
+3345={
+	culture=rajput
+	religion=vaishnavism
+	holding=city_holding
+}
+3346={
+	culture=hindustani
+	religion=vaishnavism
+	holding=none
+}
+3347={
+	culture=hindustani
+	religion=vaishnavism
+	holding=none
+}
+3348={
+	culture=hindustani
+	religion=vaishnavism
+	holding=none
+}
+3349={
+	culture=hindustani
+	religion=vaishnavism
+	holding=church_holding
+}
+3476={
+	culture=rajput
+	religion=vaishnavism
+	holding=none
+}
+3477={
+	culture=hindustani
+	religion=kalikula_shaktism
+	holding=none
+}
+3478={
+	culture=hindustani
+	religion=vaishnavism
+	holding=none
+}
+3479={
+	culture=hindustani
+	religion=vaishnavism
+	holding=none
+}
+3480={
+	culture=hindustani
+	religion=vaishnavism
+	holding=none
+}
+3481={
+	culture=hindustani
+	religion=vaishnavism
+	holding=castle_holding
+}
+3482={
+	culture=hindustani
+	religion=vaishnavism
+	holding=city_holding
+}
+3483={
+	culture=hindustani
+	religion=vaishnavism
+	holding=none
+}
+3484={
+	culture=rajput
+	religion=vaishnavism
+	holding=none
+}
+3485={
+	culture=rajput
+	religion=vaishnavism
+	holding=none
+}
+3486={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+3487={
+	culture=hindustani
+	religion=vaishnavism
+	holding=church_holding
+}
+3488={
+	culture=rajput
+	religion=vaishnavism
+	holding=city_holding
+}
+3489={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+3490={
+	culture=gujarati
+	religion=vaishnavism
+	holding=none
+}
+3491={
+	culture=rajput
+	religion=vaishnavism
+	holding=none
+}
+3492={
+	culture=rajput
+	religion=vaishnavism
+	holding=none
+}
+3493={
+	culture=rajput
+	religion=vaishnavism
+	holding=none
+}
+3494={
+	culture=rajput
+	religion=vaishnavism
+	holding=city_holding
+}
+3495={
+	culture=rajput
+	religion=vaishnavism
+	holding=none
+}
+3496={
+	culture=rajput
+	religion=vaishnavism
+	holding=none
+}
+3497={
+	culture=rajput
+	religion=vaishnavism
+	holding=castle_holding
+}
+3498={
+	culture=rajput
+	religion=vaishnavism
+	holding=none
+}
+3499={
+	culture=rajput
+	religion=vaishnavism
+	holding=none
+}
+3968={
+	culture=hindustani
+	religion=vaishnavism
+	holding=castle_holding
+}
+3969={
+	culture=hindustani
+	religion=vaishnavism
+	holding=none
+}

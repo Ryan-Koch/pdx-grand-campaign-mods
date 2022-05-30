@@ -1,0 +1,70 @@
+867={
+	culture=bengali
+	religion=vaishnavism
+	holding=church_holding
+}
+868={
+	culture=bengali
+	religion=vaishnavism
+	holding=city_holding
+}
+869={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+870={
+	culture=bengali
+	religion=vaishnavism
+	holding=church_holding
+}
+871={
+	culture=bengali
+	religion=vaishnavism
+	holding=city_holding
+}
+872={
+	culture=bengali
+	religion=vaishnavism
+	holding=city_holding
+}
+873={
+	culture=bengali
+	religion=vaishnavism
+	holding=church_holding
+}
+874={
+	culture=bengali
+	religion=vaishnavism
+	holding=church_holding
+}
+875={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+876={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+1152={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+1154={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+1251={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+1276={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}

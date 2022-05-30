@@ -1,0 +1,94 @@
+k_spanish_galicia={
+	-32.10.23={ government="feudal_government" holder="imperator104638" liege="e_roman_empire" succession_laws={ "high_partition_succession_law" } }
+}
+d_galicia={
+	4.1.1={ liege=0 }
+}
+c_coruna={
+	-32.10.23={ liege=0 holder="imperator104638" }
+	4.1.1={ change_development_level=44 }
+}
+c_santiago={
+	-32.10.23={ liege=0 holder="imperator104638" }
+	4.1.1={ change_development_level=43 }
+}
+c_tui={
+	-32.10.23={ liege=0 holder="imperator104638" }
+	4.1.1={ change_development_level=35 }
+}
+c_astorga={
+	-32.10.23={ liege=0 holder="imperator104638" }
+	4.1.1={ change_development_level=44 }
+}
+c_monterrei={
+	-32.10.23={ liege=0 holder="imperator104638" }
+	4.1.1={ change_development_level=41 }
+}
+d_castilla={
+	4.1.1={ liege=0 }
+}
+c_burgos={
+	-32.10.23={ liege=0 holder="imperator104638" }
+	4.1.1={ change_development_level=46 }
+}
+c_valladolid={
+	-32.10.23={ liege=0 holder="imperator104638" }
+	4.1.1={ change_development_level=45 }
+}
+c_soria={
+	-38.6.16={ liege=0 holder="imperator104754" }
+	4.1.1={ change_development_level=44 }
+}
+c_cuellar={
+	-39.5.13={ liege=0 holder="imperator104849" }
+	4.1.1={ change_development_level=44 }
+}
+c_olmedo={
+	-32.10.23={ liege=0 holder="imperator104638" }
+	4.1.1={ change_development_level=44 }
+}
+d_cantabria={
+	4.1.1={ liege=0 }
+}
+c_asturias_de_santillana={
+	-32.10.23={ liege=0 holder="imperator104638" }
+	4.1.1={ change_development_level=40 }
+}
+c_amaya={
+	-32.10.23={ liege=0 holder="imperator104638" }
+	4.1.1={ change_development_level=45 }
+}
+d_leon={
+	4.1.1={ liege=0 }
+}
+c_leon={
+	-32.10.23={ liege=0 holder="imperator104638" }
+	4.1.1={ change_development_level=43 }
+}
+c_benavente={
+	-32.10.23={ liege=0 holder="imperator104638" }
+	4.1.1={ change_development_level=45 }
+}
+c_zamora={
+	-32.10.23={ liege=0 holder="imperator104638" }
+	4.1.1={ change_development_level=27 }
+}
+c_salamanca={
+	-11.2.26={ liege=0 holder="imperator107903" }
+	4.1.1={ change_development_level=43 }
+}
+c_avila={
+	-11.2.26={ liege=0 holder="imperator107903" }
+	4.1.1={ change_development_level=45 }
+}
+d_asturias={
+	4.1.1={ liege=0 }
+}
+c_asturias_de_oviedo={
+	-32.10.23={ liege=0 holder="imperator104638" }
+	4.1.1={ change_development_level=42 }
+}
+c_pravia={
+	-32.10.23={ liege=0 holder="imperator104638" }
+	4.1.1={ change_development_level=43 }
+}

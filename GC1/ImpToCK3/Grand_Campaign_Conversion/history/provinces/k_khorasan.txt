@@ -1,0 +1,185 @@
+4014={
+	culture=parthian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4015={
+	culture=parthian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+4016={
+	culture=parthian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4017={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+4018={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4012={
+	culture=macedonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4010={
+	culture=tajik
+	religion=mesopotamian_pagan
+	holding=none
+}
+4011={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4013={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4039={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4038={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4040={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+4022={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4023={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4019={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4020={
+	culture=parthian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+4021={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+4026={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4024={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4025={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4027={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+4044={
+	culture=parthian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4041={
+	culture=scythian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+4042={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4043={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4036={
+	culture=scythian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4037={
+	culture=bactrian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4062={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4063={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4064={
+	culture=persian
+	religion=mazdayasna
+	holding=none
+}
+4065={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4066={
+	culture=persian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+4068={
+	culture=persian
+	religion=mazdayasna
+	holding=none
+}
+4067={
+	culture=persian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+4069={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4070={
+	culture=persian
+	religion=mazdayasna
+	holding=none
+}
+4071={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}

@@ -1,0 +1,1800 @@
+2154={
+	culture=gallic
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2163={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2160={
+	culture=gallic
+	religion=gallic_celtic
+	holding=city_holding
+}
+2152={
+	culture=gallic
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2151={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+2153={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2166={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2156={
+	culture=gallic
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2155={
+	culture=breton
+	religion=gallic_celtic
+	holding=none
+}
+2159={
+	culture=breton
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2157={
+	culture=gallic
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2158={
+	culture=breton
+	religion=gallic_celtic
+	holding=none
+}
+2162={
+	culture=gallic
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2161={
+	culture=pictish
+	religion=gallic_celtic
+	holding=city_holding
+}
+2164={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2165={
+	culture=gallic
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2282={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+1527={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1526={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1528={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1529={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1530={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1514={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1515={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1516={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1517={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1538={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1539={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1540={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1531={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1532={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1533={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1551={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1552={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1553={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1554={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1609={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+1612={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=city_holding
+}
+1610={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=church_holding
+}
+1611={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=city_holding
+}
+1606={
+	culture=brythonic
+	religion=briton_paganism
+	holding=castle_holding
+}
+1607={
+	culture=brythonic
+	religion=briton_paganism
+	holding=none
+}
+1608={
+	culture=brythonic
+	religion=briton_paganism
+	holding=none
+}
+1635={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+1636={
+	culture=brythonic
+	religion=briton_paganism
+	holding=church_holding
+}
+1642={
+	culture=brythonic
+	religion=briton_paganism
+	holding=none
+}
+8780={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1639={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1640={
+	culture=brythonic
+	religion=briton_paganism
+	holding=none
+}
+1641={
+	culture=brythonic
+	religion=briton_paganism
+	holding=none
+}
+1637={
+	culture=brythonic
+	religion=briton_paganism
+	holding=castle_holding
+}
+1638={
+	culture=brythonic
+	religion=briton_paganism
+	holding=none
+}
+1643={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1644={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1645={
+	culture=brythonic
+	religion=briton_paganism
+	holding=none
+}
+1621={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1622={
+	culture=pictish
+	religion=briton_paganism
+	holding=city_holding
+}
+1623={
+	culture=brythonic
+	religion=celtic_pagan
+	holding=none
+}
+1595={
+	culture=brythonic
+	religion=briton_paganism
+	holding=castle_holding
+}
+1596={
+	culture=brythonic
+	religion=briton_paganism
+	holding=none
+}
+1597={
+	culture=brythonic
+	religion=briton_paganism
+	holding=none
+}
+1598={
+	culture=brythonic
+	religion=briton_paganism
+	holding=none
+}
+1500={
+	culture=brythonic
+	religion=briton_paganism
+	holding=none
+}
+1588={
+	culture=brythonic
+	religion=briton_paganism
+	holding=castle_holding
+}
+1589={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1590={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1591={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1592={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1593={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1594={
+	culture=brythonic
+	religion=briton_paganism
+	holding=none
+}
+1499={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1599={
+	culture=brythonic
+	religion=briton_paganism
+	holding=none
+}
+1583={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1584={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1585={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1586={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1587={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1522={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1523={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1524={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1525={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1518={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1519={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1520={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1521={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1534={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1535={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1536={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1537={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1603={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1604={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1605={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1615={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1616={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1617={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1613={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1618={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1619={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1620={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1627={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1628={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1629={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1624={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1625={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1626={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1541={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1542={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1543={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1600={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1601={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1602={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1646={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1647={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1648={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1580={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1581={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1582={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1561={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1562={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1563={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1564={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1558={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1559={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1560={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1555={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1556={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1557={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1502={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1503={
+	culture=pictish
+	religion=briton_paganism
+	holding=city_holding
+}
+1504={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1505={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1510={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1511={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1512={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1513={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1506={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1507={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1508={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1509={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1544={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1545={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1546={
+	culture=pictish
+	religion=briton_paganism
+	holding=city_holding
+}
+1547={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1548={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1549={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1565={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1566={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1567={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1568={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1576={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1577={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1578={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1579={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1569={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1570={
+	culture=cornish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1571={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1572={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1573={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1574={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1575={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+2267={
+	culture=gallic
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2263={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2268={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2269={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2262={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2261={
+	culture=gallic
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2260={
+	culture=gallic
+	religion=hellenic_pagan
+	holding=none
+}
+2270={
+	culture=gallic
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2272={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2271={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2264={
+	culture=gallic
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2266={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2265={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2179={
+	culture=gallic
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2180={
+	culture=belgae
+	religion=gallic_celtic
+	holding=none
+}
+2175={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2329={
+	culture=gallic
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2330={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2328={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2170={
+	culture=gallic
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2172={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2173={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2167={
+	culture=pictish
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2169={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2168={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2325={
+	culture=gallic
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2171={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2326={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2174={
+	culture=gallic
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2327={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2178={
+	culture=belgae
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2176={
+	culture=pictish
+	religion=gallic_celtic
+	holding=none
+}
+2177={
+	culture=pictish
+	religion=gallic_celtic
+	holding=none
+}
+2182={
+	culture=belgae
+	religion=gallic_celtic
+	holding=none
+}
+28={
+	culture=irish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+29={
+	culture=irish
+	religion=gaelic_paganism
+	holding=none
+}
+30={
+	culture=irish
+	religion=gaelic_paganism
+	holding=none
+}
+31={
+	culture=irish
+	religion=gaelic_paganism
+	holding=none
+}
+32={
+	culture=irish
+	religion=gaelic_paganism
+	holding=none
+}
+34={
+	culture=irish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+33={
+	culture=irish
+	religion=gaelic_paganism
+	holding=none
+}
+36={
+	culture=irish
+	religion=gaelic_paganism
+	holding=none
+}
+15={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+13={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+14={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=church_holding
+}
+8741={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+18={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+17={
+	culture=irish
+	religion=gaelic_paganism
+	holding=none
+}
+19={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+8742={
+	culture=irish
+	religion=gaelic_paganism
+	holding=none
+}
+8743={
+	culture=irish
+	religion=gaelic_paganism
+	holding=none
+}
+9={
+	culture=irish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+10={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+11={
+	culture=irish
+	religion=gaelic_paganism
+	holding=none
+}
+12={
+	culture=irish
+	religion=gaelic_paganism
+	holding=none
+}
+20={
+	culture=irish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+23={
+	culture=irish
+	religion=gaelic_paganism
+	holding=none
+}
+8746={
+	culture=irish
+	religion=gaelic_paganism
+	holding=none
+}
+8747={
+	culture=irish
+	religion=gaelic_paganism
+	holding=none
+}
+8745={
+	culture=irish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+21={
+	culture=irish
+	religion=gaelic_paganism
+	holding=none
+}
+22={
+	culture=irish
+	religion=gaelic_paganism
+	holding=none
+}
+8748={
+	culture=irish
+	religion=gaelic_paganism
+	holding=none
+}
+24={
+	culture=irish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+25={
+	culture=irish
+	religion=gaelic_paganism
+	holding=none
+}
+26={
+	culture=irish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+27={
+	culture=irish
+	religion=gaelic_paganism
+	holding=none
+}
+8744={
+	culture=irish
+	religion=gaelic_paganism
+	holding=none
+}
+37={
+	culture=irish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+38={
+	culture=irish
+	religion=gaelic_paganism
+	holding=church_holding
+}
+39={
+	culture=irish
+	religion=gaelic_paganism
+	holding=none
+}
+40={
+	culture=irish
+	religion=gaelic_paganism
+	holding=none
+}
+43={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+41={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+42={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+44={
+	culture=irish
+	religion=gaelic_paganism
+	holding=none
+}
+45={
+	culture=irish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+47={
+	culture=irish
+	religion=gaelic_paganism
+	holding=none
+}
+48={
+	culture=irish
+	religion=gaelic_paganism
+	holding=none
+}
+8750={
+	culture=irish
+	religion=gaelic_paganism
+	holding=none
+}
+46={
+	culture=irish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+8749={
+	culture=irish
+	religion=gaelic_paganism
+	holding=none
+}
+49={
+	culture=irish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+50={
+	culture=irish
+	religion=gaelic_paganism
+	holding=none
+}
+51={
+	culture=irish
+	religion=gaelic_paganism
+	holding=none
+}
+52={
+	culture=irish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+53={
+	culture=irish
+	religion=gaelic_paganism
+	holding=none
+}
+54={
+	culture=irish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+16={
+	culture=irish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+8={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+6={
+	culture=pictish
+	religion=catholic
+	holding=tribal_holding
+}
+7={
+	culture=pictish
+	religion=catholic
+	holding=tribal_holding
+}
+1741={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+1742={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1745={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1724={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+1725={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1726={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1734={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+1735={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1736={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1743={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+1744={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1720={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+1721={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1723={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1718={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+1719={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1722={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1698={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+1699={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1695={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+1696={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1697={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1682={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+1683={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1684={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=city_holding
+}
+1680={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+1685={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=city_holding
+}
+1686={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+1687={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1688={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1679={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+1681={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1689={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+1690={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1691={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1692={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+1693={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1694={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1700={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+1701={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1702={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+35={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1727={
+	culture=anglo_saxon
+	religion=catholic
+	holding=castle_holding
+}
+1728={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1729={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1730={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=city_holding
+}
+1676={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+1675={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1677={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+1678={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1740={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1731={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+1732={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=city_holding
+}
+1733={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1737={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+1738={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1739={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=city_holding
+}
+1715={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+1716={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1717={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1703={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+1704={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+8777={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+8778={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1712={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+1713={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1714={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1705={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+1706={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+8779={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1707={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+1708={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1709={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+1710={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1711={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+8775={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=castle_holding
+}
+8776={
+	culture=pictish
+	religion=gaelic_paganism
+	holding=none
+}
+1657={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1658={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1665={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1666={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1667={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1668={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1669={
+	culture=welsh
+	religion=briton_paganism
+	holding=church_holding
+}
+1673={
+	culture=welsh
+	religion=briton_paganism
+	holding=castle_holding
+}
+1674={
+	culture=welsh
+	religion=briton_paganism
+	holding=church_holding
+}
+1670={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1671={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1672={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1663={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1664={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1661={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1662={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1632={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1633={
+	culture=pictish
+	religion=briton_paganism
+	holding=city_holding
+}
+1634={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1652={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1653={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1654={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1655={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1656={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1649={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1650={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1651={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1630={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1631={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}
+1659={
+	culture=pictish
+	religion=briton_paganism
+	holding=castle_holding
+}
+1660={
+	culture=pictish
+	religion=briton_paganism
+	holding=none
+}

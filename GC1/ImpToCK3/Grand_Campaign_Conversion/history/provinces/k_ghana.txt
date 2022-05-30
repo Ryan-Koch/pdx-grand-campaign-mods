@@ -1,0 +1,240 @@
+6611={
+	culture=butr
+	religion=ibadi
+	holding=none
+}
+6613={
+	culture=bozo
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6614={
+	culture=bozo
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6615={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6616={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6617={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6618={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6619={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6620={
+	culture=bozo
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6621={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6622={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6623={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6624={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6625={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=tribal_holding
+}
+6626={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6627={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6628={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6629={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6630={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6631={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6633={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6636={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6641={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6642={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6752={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6753={
+	culture=malinke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6754={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6755={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6756={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6757={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6758={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6759={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6760={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6761={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6762={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6763={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6764={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=tribal_holding
+}
+6765={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6766={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6767={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6768={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6769={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6770={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6771={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6772={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6773={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6774={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6799={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}

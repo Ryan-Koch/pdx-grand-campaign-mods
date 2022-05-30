@@ -1,0 +1,100 @@
+1459={
+	culture=buryat
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7617={
+	holding=none
+}
+7618={
+	holding=none
+}
+7619={
+	culture=buryat
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7620={
+	holding=none
+}
+7621={
+	holding=none
+}
+7622={
+	holding=none
+}
+7624={
+	culture=buryat
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7623={
+	holding=none
+}
+1452={
+	culture=uriankhai
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7628={
+	holding=none
+}
+7629={
+	holding=none
+}
+7630={
+	holding=none
+}
+7625={
+	culture=uriankhai
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7626={
+	holding=none
+}
+7627={
+	holding=none
+}
+7639={
+	culture=uriankhai
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7640={
+	holding=none
+}
+7641={
+	holding=none
+}
+7642={
+	holding=none
+}
+7632={
+	culture=uriankhai
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7631={
+	holding=none
+}
+7633={
+	holding=none
+}
+7634={
+	holding=none
+}
+7635={
+	culture=uriankhai
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7636={
+	holding=none
+}
+7637={
+	holding=none
+}
+7638={
+	holding=none
+}

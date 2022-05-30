@@ -1,0 +1,245 @@
+6566={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6567={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6564={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6565={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6664={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6460={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6461={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6462={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6661={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6601={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6602={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6463={
+	culture=zaghawa
+	religion=berber_pagan
+	holding=none
+}
+6464={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6663={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6662={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6562={
+	culture=zaghawa
+	religion=berber_pagan
+	holding=none
+}
+6560={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6658={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6561={
+	culture=zaghawa
+	religion=berber_pagan
+	holding=none
+}
+6563={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6660={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6457={
+	culture=zaghawa
+	religion=berber_pagan
+	holding=none
+}
+6458={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6657={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6659={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6456={
+	culture=zaghawa
+	religion=berber_pagan
+	holding=none
+}
+6455={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6452={
+	culture=zaghawa
+	religion=berber_pagan
+	holding=none
+}
+6453={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6454={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6668={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6496={
+	culture=zaghawa
+	religion=berber_pagan
+	holding=none
+}
+6495={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6494={
+	culture=zaghawa
+	religion=berber_pagan
+	holding=none
+}
+6493={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6665={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6497={
+	culture=zaghawa
+	religion=berber_pagan
+	holding=none
+}
+6498={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6499={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6666={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6451={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6450={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6669={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6667={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6447={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6446={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6449={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6448={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6459={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}

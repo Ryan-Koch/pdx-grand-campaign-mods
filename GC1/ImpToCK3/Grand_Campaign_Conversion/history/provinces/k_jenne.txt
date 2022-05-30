@@ -1,0 +1,95 @@
+6632={
+	culture=bozo
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6634={
+	culture=bozo
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6643={
+	culture=bozo
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6644={
+	culture=bozo
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6645={
+	culture=bozo
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6646={
+	culture=bozo
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6647={
+	culture=bozo
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6648={
+	culture=bozo
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6649={
+	culture=bobo
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6670={
+	culture=bozo
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6671={
+	culture=bozo
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6672={
+	culture=marka
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6673={
+	culture=bozo
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6708={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+6709={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+6710={
+	culture=bozo
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6711={
+	culture=bozo
+	religion=west_african_bidu_pagan
+	holding=tribal_holding
+}
+6712={
+	culture=bobo
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6722={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}

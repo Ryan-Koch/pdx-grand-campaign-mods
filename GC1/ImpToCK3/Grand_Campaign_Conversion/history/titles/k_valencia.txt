@@ -1,0 +1,83 @@
+k_valencia={
+	-39.5.13={ government="feudal_government" holder="imperator104849" liege="e_roman_empire" succession_laws={ "high_partition_succession_law" } }
+}
+d_valencia={
+	4.1.1={ liege=0 }
+}
+c_valencia={
+	-39.5.13={ liege=0 holder="imperator104849" }
+	4.1.1={ change_development_level=44 }
+}
+c_castellon={
+	-38.6.16={ liege=0 holder="imperator104754" }
+	4.1.1={ change_development_level=41 }
+}
+c_teruel={
+	-39.5.13={ liege=0 holder="imperator104849" }
+	4.1.1={ change_development_level=41 }
+}
+c_denia={
+	-39.5.13={ liege=0 holder="imperator104849" }
+	4.1.1={ change_development_level=51 }
+}
+c_alicante={
+	-39.5.13={ liege=0 holder="imperator104849" }
+	4.1.1={ change_development_level=41 }
+}
+d_mallorca={
+	4.1.1={ liege=0 }
+}
+c_mallorca={
+	-39.5.13={ liege=0 holder="imperator104849" }
+	4.1.1={ change_development_level=45 }
+}
+c_menorca={
+	-39.5.13={ liege=0 holder="imperator104849" }
+	4.1.1={ change_development_level=41 }
+}
+c_iviza={
+	-39.5.13={ liege=0 holder="imperator104849" }
+	4.1.1={ change_development_level=41 }
+}
+d_murcia={
+	4.1.1={ liege=0 }
+}
+c_murcia={
+	-39.5.13={ liege=0 holder="imperator104849" }
+	4.1.1={ change_development_level=46 }
+}
+c_alcaraz={
+	-39.5.13={ liege=0 holder="imperator104849" }
+	4.1.1={ change_development_level=45 }
+}
+c_alarcon={
+	-39.5.13={ liege=0 holder="imperator104849" }
+	4.1.1={ change_development_level=45 }
+}
+d_toledo={
+	4.1.1={ liege=0 }
+}
+c_toledo={
+	-39.5.13={ liege=0 holder="imperator104849" }
+	4.1.1={ change_development_level=44 }
+}
+c_madrid={
+	-39.5.13={ liege=0 holder="imperator104849" }
+	4.1.1={ change_development_level=41 }
+}
+c_molina={
+	-38.6.16={ liege=0 holder="imperator104754" }
+	4.1.1={ change_development_level=44 }
+}
+c_cuenca={
+	-39.5.13={ liege=0 holder="imperator104849" }
+	4.1.1={ change_development_level=44 }
+}
+c_malagon={
+	3.2.2={ liege=0 holder="imperator108517" }
+	4.1.1={ change_development_level=44 }
+}
+c_mora={
+	-39.5.13={ liege=0 holder="imperator104849" }
+	4.1.1={ change_development_level=43 }
+}

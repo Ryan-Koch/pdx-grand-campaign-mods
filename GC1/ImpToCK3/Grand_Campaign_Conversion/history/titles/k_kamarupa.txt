@@ -1,0 +1,47 @@
+k_kamarupa={
+	4.1.1={ liege=0 }
+}
+d_kamarupanagara={
+	4.1.1={ liege=0 }
+}
+c_kamarupanagara={
+	-9.12.30={ liege=0 holder="imperator107121" }
+	4.1.1={ change_development_level=21 }
+}
+c_kamatapur={
+	-9.12.30={ liege=0 holder="imperator107121" }
+	4.1.1={ change_development_level=21 }
+}
+d_sutiya={
+	4.1.1={ liege=0 }
+}
+c_haruppeswara={
+	-9.12.30={ liege=0 holder="imperator107121" }
+	4.1.1={ change_development_level=14 }
+}
+c_charaideo={
+	-9.12.30={ liege=0 holder="imperator107121" }
+	4.1.1={ change_development_level=9 }
+}
+c_kundina={
+	-9.12.30={ liege=0 holder="imperator107121" }
+	4.1.1={ change_development_level=19 }
+}
+d_para_lauhitya={
+	4.1.1={ liege=0 }
+}
+c_goalpara={
+	-9.12.30={ liege=0 holder="imperator107121" }
+	4.1.1={ change_development_level=30 }
+}
+c_dimapur={
+	-9.12.30={ liege=0 holder="imperator107121" }
+	4.1.1={ change_development_level=12 }
+}
+c_srihatta={
+	-9.12.30={ liege=0 holder="imperator107121" }
+	4.1.1={ change_development_level=14 }
+}
+c_manipur={
+	4.1.1={ holder="0" liege=0 change_development_level=4 }
+}

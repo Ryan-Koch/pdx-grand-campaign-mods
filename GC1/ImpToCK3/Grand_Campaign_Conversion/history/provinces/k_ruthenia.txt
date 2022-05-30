@@ -1,0 +1,184 @@
+555={
+	culture=sarmatian
+	religion=scythian_pagan
+	holding=none
+}
+5178={
+	culture=sarmatian
+	religion=scythian_pagan
+	holding=none
+}
+5179={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+5180={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+5181={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+5182={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+5183={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+5184={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+5185={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+5186={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+5187={
+	holding=none
+}
+5188={
+	culture=sarmatian
+	religion=scythian_pagan
+	holding=none
+}
+5189={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+5190={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+554={
+	culture=russian
+	religion=slavic_pagan
+	holding=tribal_holding
+}
+553={
+	holding=tribal_holding
+}
+5200={
+	holding=none
+}
+5201={
+	holding=none
+}
+5202={
+	holding=none
+}
+5203={
+	culture=russian
+	religion=slavic_pagan
+	holding=tribal_holding
+}
+5204={
+	holding=none
+}
+576={
+	holding=none
+}
+5205={
+	holding=none
+}
+567={
+	culture=russian
+	religion=slavic_pagan
+	holding=tribal_holding
+}
+5191={
+	holding=none
+}
+5192={
+	holding=none
+}
+5193={
+	culture=russian
+	religion=slavic_pagan
+	holding=tribal_holding
+}
+5194={
+	holding=none
+}
+5195={
+	holding=none
+}
+5196={
+	culture=russian
+	religion=slavic_pagan
+	holding=tribal_holding
+}
+5197={
+	holding=none
+}
+5198={
+	holding=none
+}
+5199={
+	holding=none
+}
+5209={
+	culture=russian
+	religion=slavic_pagan
+	holding=tribal_holding
+}
+5210={
+	holding=none
+}
+5211={
+	holding=none
+}
+5212={
+	culture=russian
+	religion=slavic_pagan
+	holding=tribal_holding
+}
+5213={
+	holding=none
+}
+5214={
+	holding=none
+}
+5206={
+	culture=russian
+	religion=slavic_pagan
+	holding=tribal_holding
+}
+5207={
+	holding=none
+}
+5208={
+	holding=none
+}
+5215={
+	culture=meshchera
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5216={
+	holding=none
+}
+5217={
+	culture=meshchera
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5218={
+	holding=none
+}

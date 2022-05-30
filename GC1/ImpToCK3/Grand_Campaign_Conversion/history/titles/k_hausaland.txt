@@ -1,0 +1,48 @@
+k_hausaland={
+	4.1.1={ liege=0 }
+}
+d_kano={
+	4.1.1={ liege=0 }
+}
+c_kano={
+	4.1.1={ change_development_level=0 }
+}
+c_daura={
+	4.1.1={ change_development_level=0 }
+}
+c_rano={
+	4.1.1={ change_development_level=0 }
+}
+d_katsina={
+	4.1.1={ liege=0 }
+}
+c_katsina={
+	4.1.1={ change_development_level=0 }
+}
+c_zaria={
+	4.1.1={ change_development_level=0 }
+}
+c_kaduna={
+	4.1.1={ change_development_level=0 }
+}
+d_kebbi={
+	4.1.1={ liege=0 }
+}
+c_kebbi={
+	4.1.1={ change_development_level=0 }
+}
+c_sokoto={
+	4.1.1={ change_development_level=0 }
+}
+c_yauri={
+	4.1.1={ change_development_level=0 }
+}
+d_gobir={
+	4.1.1={ liege=0 }
+}
+c_gobir={
+	4.1.1={ change_development_level=0 }
+}
+c_tahoua={
+	4.1.1={ change_development_level=0 }
+}

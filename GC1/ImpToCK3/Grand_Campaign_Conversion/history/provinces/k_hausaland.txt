@@ -1,0 +1,140 @@
+6517={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6518={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6519={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6520={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6529={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6536={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6537={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6538={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6539={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6540={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6541={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6542={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6543={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6544={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6545={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6550={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6551={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6552={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6553={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6554={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6555={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6556={
+	culture=mossi
+	religion=west_african_pagan
+	holding=none
+}
+6557={
+	culture=mossi
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6558={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6559={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+8997={
+	culture=mossi
+	religion=west_african_bidu_pagan
+	holding=none
+}
+8998={
+	culture=mossi
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6905={
+	culture=nupe
+	religion=west_african_bori_pagan
+	holding=none
+}

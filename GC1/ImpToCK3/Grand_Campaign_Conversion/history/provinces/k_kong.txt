@@ -1,0 +1,215 @@
+8147={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+6951={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+6952={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+6953={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+6954={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+6955={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+6956={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+6959={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+6960={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+6972={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+6973={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+6974={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+6975={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+6976={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+6977={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+6978={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+6979={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+6980={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+6981={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+8126={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+8127={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+8128={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+8129={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+8130={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+8139={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+8140={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+8141={
+	culture=kru
+	religion=akom_pagan
+	holding=none
+}
+8142={
+	culture=kru
+	religion=akom_pagan
+	holding=none
+}
+8143={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+8146={
+	culture=kru
+	religion=akom_pagan
+	holding=none
+}
+8148={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+8155={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+8131={
+	culture=kru
+	religion=akom_pagan
+	holding=none
+}
+8132={
+	culture=kru
+	religion=akom_pagan
+	holding=none
+}
+8134={
+	culture=kru
+	religion=akom_pagan
+	holding=none
+}
+6982={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+6983={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+6984={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+6985={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+6986={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+6987={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+6989={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+8149={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}

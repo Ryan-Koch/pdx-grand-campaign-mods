@@ -1,0 +1,98 @@
+k_IMPTOCK3_ROM_thrace_region={
+	-7.12.2={ liege="e_roman_empire" holder="imperator105973" government="feudal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_thrace={
+	4.1.1={ liege=0 }
+}
+c_byzantion={
+	-7.12.2={ liege=0 holder="imperator105973" }
+	4.1.1={ change_development_level=66 }
+}
+c_kalliopolis={
+	-7.12.2={ liege=0 holder="imperator105973" }
+	4.1.1={ change_development_level=51 }
+}
+c_brysis={
+	-7.12.2={ liege=0 holder="imperator105973" }
+	4.1.1={ change_development_level=36 }
+}
+d_strymon={
+	4.1.1={ liege=0 }
+}
+c_mosynopolis={
+	-7.12.2={ liege=0 holder="imperator105973" }
+	4.1.1={ change_development_level=39 }
+}
+c_serres={
+	-18.8.11={ liege=0 holder="imperator107534" }
+	4.1.1={ change_development_level=36 }
+}
+d_turnovo={
+	4.1.1={ liege=0 }
+}
+c_turnovo={
+	-7.12.2={ liege=0 holder="imperator105973" }
+	4.1.1={ change_development_level=35 }
+}
+c_sredets={
+	-12.9.3={ liege=0 holder="imperator107472" }
+	4.1.1={ change_development_level=34 }
+}
+c_nikopolis={
+	-7.12.2={ liege=0 holder="imperator105973" }
+	4.1.1={ change_development_level=43 }
+}
+c_dorostorum={
+	-7.12.2={ liege=0 holder="imperator105973" }
+	4.1.1={ change_development_level=35 }
+}
+c_vratsa={
+	-12.9.3={ liege=0 holder="imperator107472" }
+	4.1.1={ change_development_level=44 }
+}
+c_aytos={
+	-7.12.2={ liege=0 holder="imperator105973" }
+	4.1.1={ change_development_level=35 }
+}
+d_dobrudja={
+	4.1.1={ liege=0 }
+}
+c_constanta={
+	-7.12.2={ liege=0 holder="imperator105973" }
+	4.1.1={ change_development_level=42 }
+}
+c_mesembria={
+	-7.12.2={ liege=0 holder="imperator105973" }
+	4.1.1={ change_development_level=39 }
+}
+d_philippopolis={
+	4.1.1={ liege=0 }
+}
+c_philippopolis={
+	-7.12.2={ liege=0 holder="imperator105973" }
+	4.1.1={ change_development_level=33 }
+}
+c_kran={
+	-7.12.2={ liege=0 holder="imperator105973" }
+	4.1.1={ change_development_level=39 }
+}
+c_beroe={
+	-7.12.2={ liege=0 holder="imperator105973" }
+	4.1.1={ change_development_level=43 }
+}
+c_burgas={
+	-7.12.2={ liege=0 holder="imperator105973" }
+	4.1.1={ change_development_level=46 }
+}
+c_adrianopolis={
+	-7.12.2={ liege=0 holder="imperator105973" }
+	4.1.1={ change_development_level=39 }
+}
+c_zherkovo={
+	-7.12.2={ liege=0 holder="imperator105973" }
+	4.1.1={ change_development_level=35 }
+}
+c_rhodopes={
+	-18.8.11={ liege=0 holder="imperator107534" }
+	4.1.1={ change_development_level=25 }
+}

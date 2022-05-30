@@ -1,0 +1,125 @@
+k_aquitaine={
+	-54.7.9={ government="feudal_government" holder="imperator103403" liege="e_roman_empire" succession_laws={ "high_partition_succession_law" } }
+}
+d_gascogne={
+	4.1.1={ liege=0 }
+}
+c_bordeaux={
+	-54.7.9={ liege=0 holder="imperator103403" }
+	4.1.1={ change_development_level=41 }
+}
+c_labourd={
+	-54.7.9={ liege=0 holder="imperator103403" }
+	4.1.1={ change_development_level=44 }
+}
+c_albret={
+	-54.7.9={ liege=0 holder="imperator103403" }
+	4.1.1={ change_development_level=47 }
+}
+c_marsan={
+	-54.7.9={ liege=0 holder="imperator103403" }
+	4.1.1={ change_development_level=43 }
+}
+c_agenais={
+	-54.7.9={ liege=0 holder="imperator103403" }
+	4.1.1={ change_development_level=48 }
+}
+d_aquitaine={
+	4.1.1={ liege=0 }
+}
+c_angouleme={
+	-54.7.9={ liege=0 holder="imperator103403" }
+	4.1.1={ change_development_level=45 }
+}
+c_perigord={
+	-54.7.9={ liege=0 holder="imperator103403" }
+	4.1.1={ change_development_level=48 }
+}
+c_limousin={
+	-54.7.9={ liege=0 holder="imperator103403" }
+	4.1.1={ change_development_level=43 }
+}
+c_saintonge={
+	-54.7.9={ liege=0 holder="imperator103403" }
+	4.1.1={ change_development_level=40 }
+}
+c_aunis={
+	-54.7.9={ liege=0 holder="imperator103403" }
+	4.1.1={ change_development_level=32 }
+}
+d_armagnac={
+	4.1.1={ liege=0 }
+}
+c_armagnac={
+	-54.7.9={ liege=0 holder="imperator103403" }
+	4.1.1={ change_development_level=48 }
+}
+c_bigorre={
+	-54.7.9={ liege=0 holder="imperator103403" }
+	4.1.1={ change_development_level=48 }
+}
+c_bearn={
+	-54.7.9={ liege=0 holder="imperator103403" }
+	4.1.1={ change_development_level=45 }
+}
+c_comminges={
+	-54.7.9={ liege=0 holder="imperator103403" }
+	4.1.1={ change_development_level=45 }
+}
+d_poitou={
+	4.1.1={ liege=0 }
+}
+c_poitiers={
+	-54.7.9={ liege=0 holder="imperator103403" }
+	4.1.1={ change_development_level=46 }
+}
+c_lusignan={
+	-54.7.9={ liege=0 holder="imperator103403" }
+	4.1.1={ change_development_level=45 }
+}
+c_montaigu={
+	-49.4.25={ liege=0 holder="imperator103784" }
+	4.1.1={ change_development_level=39 }
+}
+c_thouars={
+	-54.7.9={ liege=0 holder="imperator103403" }
+	4.1.1={ change_development_level=38 }
+}
+d_auvergne={
+	4.1.1={ liege=0 }
+}
+c_auvergne={
+	-54.7.9={ liege=0 holder="imperator103403" }
+	4.1.1={ change_development_level=15 }
+}
+c_clermont_sur_allier={
+	-37.12.11={ liege=0 holder="imperator105157" }
+	4.1.1={ change_development_level=29 }
+}
+c_thiers={
+	2.10.18={ liege=0 holder="imperator106789" }
+	4.1.1={ change_development_level=43 }
+}
+c_velay={
+	-37.12.11={ liege=0 holder="imperator105157" }
+	4.1.1={ change_development_level=20 }
+}
+d_berry={
+	4.1.1={ liege=0 }
+}
+c_berry={
+	-54.7.9={ liege=0 holder="imperator103403" }
+	4.1.1={ change_development_level=45 }
+}
+c_tourraine={
+	-49.4.25={ liege=0 holder="imperator103784" }
+	4.1.1={ change_development_level=45 }
+}
+c_blois={
+	-32.11.18={ liege=0 holder="imperator105245" }
+	4.1.1={ change_development_level=42 }
+}
+c_issoudun={
+	2.10.18={ liege=0 holder="imperator106789" }
+	4.1.1={ change_development_level=47 }
+}

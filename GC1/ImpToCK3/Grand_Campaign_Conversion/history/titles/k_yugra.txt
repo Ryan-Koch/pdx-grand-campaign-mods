@@ -1,0 +1,51 @@
+k_yugra={
+	4.1.1={ liege=0 }
+}
+d_ostyaki={
+	4.1.1={ liege=0 }
+}
+c_tyumen={
+	4.1.1={ change_development_level=0 }
+}
+c_laia={
+	4.1.1={ change_development_level=0 }
+}
+c_tabary={
+	4.1.1={ change_development_level=0 }
+}
+c_neramkary={
+	4.1.1={ change_development_level=0 }
+}
+d_konda={
+	4.1.1={ liege=0 }
+}
+c_tselym_dalyn={
+	4.1.1={ change_development_level=0 }
+}
+c_kharam-vosh={
+	4.1.1={ change_development_level=0 }
+}
+c_kartauzh={
+	4.1.1={ change_development_level=0 }
+}
+d_pelym={
+	4.1.1={ liege=0 }
+}
+c_pelym={
+	4.1.1={ change_development_level=0 }
+}
+c_koshuki={
+	4.1.1={ change_development_level=0 }
+}
+d_kazym={
+	4.1.1={ liege=0 }
+}
+c_kazym={
+	4.1.1={ change_development_level=0 }
+}
+c_sosva={
+	4.1.1={ change_development_level=0 }
+}
+c_koda={
+	4.1.1={ change_development_level=0 }
+}

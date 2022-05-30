@@ -1,0 +1,45 @@
+k_damot={
+	4.1.1={ liege=0 }
+}
+d_damot={
+	4.1.1={ liege=0 }
+}
+c_damot={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_berta={
+	4.1.1={ change_development_level=0 }
+}
+c_wellega={
+	4.1.1={ change_development_level=0 }
+}
+c_innarya={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_kaffa={
+	4.1.1={ liege=0 }
+}
+c_kaffa={
+	4.1.1={ change_development_level=0 }
+}
+c_welamo={
+	4.1.1={ change_development_level=0 }
+}
+c_gamo={
+	4.1.1={ change_development_level=0 }
+}
+d_sharka={
+	4.1.1={ liege=0 }
+}
+c_sharka={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_burji={
+	4.1.1={ change_development_level=0 }
+}
+c_dara={
+	4.1.1={ change_development_level=0 }
+}
+c_hadya={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}

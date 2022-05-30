@@ -1,0 +1,45 @@
+k_anbiya={
+	4.1.1={ liege=0 }
+}
+d_zammour={
+	4.1.1={ liege=0 }
+}
+c_zammour={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_tindouf={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_tiris={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_adrar={
+	4.1.1={ liege=0 }
+}
+c_wadan={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_azukki={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_amatlus={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_touat={
+	4.1.1={ liege=0 }
+}
+c_touat={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_tamentit={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_taghaza={
+	4.1.1={ liege=0 }
+}
+c_taghaza={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_saoura={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}

@@ -1,0 +1,35 @@
+k_IMPTOCK3_F58={
+	-72.7.1={ holder="imperator99400" }
+	-55.1.15={ holder="imperator97232" government="tribal_government" }
+	-37.4.3={ holder="imperator100250" government="tribal_government" }
+	-16.6.21={ holder="imperator103371" government="tribal_government" }
+	-3.9.22={ holder="imperator105449" government="tribal_government" }
+	4.1.1={ succession_laws={ "male_only_law" "single_heir_succession_law" } }
+}
+d_kiev={
+	4.1.1={ liege=0 }
+}
+c_kiev={
+	-3.9.22={ liege=0 holder="imperator105449" }
+	4.1.1={ change_development_level=9 }
+}
+c_zhytomyr={
+	-13.3.20={ liege=0 holder="imperator107287" }
+	4.1.1={ change_development_level=21 }
+}
+c_zvyahel={
+	-4.11.6={ liege=0 holder="imperator108075" }
+	4.1.1={ change_development_level=32 }
+}
+c_chornobyl={
+	-13.3.20={ liege=0 holder="imperator107287" }
+	4.1.1={ change_development_level=9 }
+}
+c_ushytsia={
+	-13.3.20={ liege=0 holder="imperator107287" }
+	4.1.1={ change_development_level=33 }
+}
+c_korsun={
+	-3.9.22={ liege=0 holder="imperator105449" }
+	4.1.1={ change_development_level=17 }
+}

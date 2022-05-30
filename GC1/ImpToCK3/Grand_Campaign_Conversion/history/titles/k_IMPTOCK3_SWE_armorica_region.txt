@@ -1,0 +1,26 @@
+k_IMPTOCK3_SWE_armorica_region={
+	-8.3.30={ liege="e_scandinavia" holder="imperator106518" government="feudal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_orleans={
+	4.1.1={ liege=0 }
+}
+c_orleans={
+	-8.3.30={ liege=0 holder="imperator106518" }
+	4.1.1={ change_development_level=36 }
+}
+c_montargis={
+	2.10.18={ liege=0 holder="imperator106789" }
+	4.1.1={ change_development_level=25 }
+}
+c_vendome={
+	-32.11.18={ liege=0 holder="imperator105245" }
+	4.1.1={ change_development_level=36 }
+}
+c_chartres={
+	-8.3.30={ liege=0 holder="imperator106518" }
+	4.1.1={ change_development_level=37 }
+}
+c_sancerre={
+	2.10.18={ liege=0 holder="imperator106789" }
+	4.1.1={ change_development_level=45 }
+}

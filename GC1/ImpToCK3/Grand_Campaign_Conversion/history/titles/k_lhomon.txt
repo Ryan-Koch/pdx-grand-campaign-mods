@@ -1,0 +1,21 @@
+k_lhomon={
+	4.1.1={ liege=0 }
+}
+d_dzayul={
+	4.1.1={ liege=0 }
+}
+c_rima={
+	-9.12.30={ liege=0 holder="imperator107121" }
+	4.1.1={ change_development_level=1 }
+}
+c_golag={
+	4.1.1={ change_development_level=0 }
+}
+c_roing={
+	-9.12.30={ liege=0 holder="imperator107121" }
+	4.1.1={ change_development_level=1 }
+}
+c_tezu={
+	-9.12.30={ liege=0 holder="imperator107121" }
+	4.1.1={ change_development_level=1 }
+}

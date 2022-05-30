@@ -1,0 +1,49 @@
+k_IMPTOCK3_ROM_sarmatia_europea_region={
+	-10.2.20={ liege="e_roman_empire" holder="imperator107471" government="feudal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_yedisan={
+	4.1.1={ liege=0 }
+}
+c_odessa={
+	-10.2.20={ liege=0 holder="imperator107471" }
+	4.1.1={ change_development_level=41 }
+}
+c_ladyzyn={
+	-10.2.20={ liege=0 holder="imperator107471" }
+	4.1.1={ change_development_level=37 }
+}
+c_uman={
+	-10.2.20={ liege=0 holder="imperator107471" }
+	4.1.1={ change_development_level=4 }
+}
+c_cherkassy={
+	-10.2.20={ liege=0 holder="imperator107471" }
+	4.1.1={ change_development_level=2 }
+}
+c_kherson={
+	-10.2.20={ liege=0 holder="imperator107471" }
+	4.1.1={ change_development_level=27 }
+}
+c_dnipro={
+	-10.2.20={ liege=0 holder="imperator107471" }
+	4.1.1={ change_development_level=12 }
+}
+d_bugeac={
+	4.1.1={ liege=0 }
+}
+c_tigheci={
+	-10.2.20={ liege=0 holder="imperator107471" }
+	4.1.1={ change_development_level=42 }
+}
+c_cetatea_alba={
+	-10.2.20={ liege=0 holder="imperator107471" }
+	4.1.1={ change_development_level=43 }
+}
+c_chilia={
+	-10.2.20={ liege=0 holder="imperator107471" }
+	4.1.1={ change_development_level=44 }
+}
+c_lapusna={
+	-10.2.20={ liege=0 holder="imperator107471" }
+	4.1.1={ change_development_level=42 }
+}

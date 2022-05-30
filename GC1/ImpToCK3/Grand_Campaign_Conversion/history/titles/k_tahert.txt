@@ -1,0 +1,67 @@
+k_tahert={
+	-34.8.22={ government="feudal_government" holder="imperator105359" liege="e_roman_empire" succession_laws={ "high_partition_succession_law" } }
+}
+d_kroumerie={
+	4.1.1={ liege=0 }
+}
+c_constantine={
+	-34.8.22={ liege=0 holder="imperator105359" }
+	4.1.1={ change_development_level=43 }
+}
+c_annaba={
+	-34.8.22={ liege=0 holder="imperator105359" }
+	4.1.1={ change_development_level=42 }
+}
+d_alger={
+	4.1.1={ liege=0 }
+}
+c_algier={
+	-34.8.22={ liege=0 holder="imperator105359" }
+	4.1.1={ change_development_level=43 }
+}
+c_tanas={
+	-6.2.14={ liege=0 holder="imperator108021" }
+	4.1.1={ change_development_level=43 }
+}
+d_bejaia={
+	4.1.1={ liege=0 }
+}
+c_bejaia={
+	-34.8.22={ liege=0 holder="imperator105359" }
+	4.1.1={ change_development_level=42 }
+}
+c_satif={
+	-34.8.22={ liege=0 holder="imperator105359" }
+	4.1.1={ change_development_level=43 }
+}
+d_zab={
+	4.1.1={ liege=0 }
+}
+c_hodna={
+	-34.8.22={ liege=0 holder="imperator105359" }
+	4.1.1={ change_development_level=33 }
+}
+c_biskra={
+	-34.8.22={ liege=0 holder="imperator105359" }
+	4.1.1={ change_development_level=30 }
+}
+c_bilizma={
+	-34.8.22={ liege=0 holder="imperator105359" }
+	4.1.1={ change_development_level=41 }
+}
+d_mzab={
+	4.1.1={ liege=0 }
+}
+c_wargla={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_laghwat={
+	-34.8.22={ liege=0 holder="imperator105359" }
+	4.1.1={ change_development_level=5 }
+}
+c_ghardaia={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_arigh={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}

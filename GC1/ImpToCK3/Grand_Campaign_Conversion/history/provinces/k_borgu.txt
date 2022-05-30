@@ -1,0 +1,135 @@
+6717={
+	culture=sorko
+	religion=west_african_orisha_pagan
+	holding=none
+}
+6718={
+	culture=sorko
+	religion=west_african_orisha_pagan
+	holding=none
+}
+6915={
+	culture=sorko
+	religion=west_african_orisha_pagan
+	holding=none
+}
+6916={
+	culture=sorko
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8034={
+	culture=ewe
+	religion=west_african_orisha_pagan
+	holding=none
+}
+6917={
+	culture=gur
+	religion=west_african_orisha_pagan
+	holding=none
+}
+6918={
+	culture=gur
+	religion=west_african_orisha_pagan
+	holding=none
+}
+6919={
+	culture=gur
+	religion=west_african_orisha_pagan
+	holding=none
+}
+6926={
+	culture=gur
+	religion=west_african_orisha_pagan
+	holding=none
+}
+6928={
+	culture=gur
+	religion=west_african_orisha_pagan
+	holding=none
+}
+6924={
+	culture=gur
+	religion=west_african_orisha_pagan
+	holding=none
+}
+6939={
+	culture=gur
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8033={
+	culture=ewe
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8039={
+	culture=ewe
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8042={
+	culture=ewe
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8044={
+	culture=ewe
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8045={
+	culture=ewe
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8046={
+	culture=ewe
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8047={
+	culture=ewe
+	religion=west_african_orisha_pagan
+	holding=none
+}
+6920={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+6921={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+6922={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+6925={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8048={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8049={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+6914={
+	culture=nupe
+	religion=west_african_bori_pagan
+	holding=none
+}
+6927={
+	culture=nupe
+	religion=west_african_bori_pagan
+	holding=none
+}

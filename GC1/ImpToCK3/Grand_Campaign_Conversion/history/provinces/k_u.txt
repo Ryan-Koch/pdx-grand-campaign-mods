@@ -1,0 +1,47 @@
+9261={
+	culture=zhangzhung
+	religion=old_bon
+	holding=tribal_holding
+}
+9260={
+	holding=none
+}
+9264={
+	holding=none
+}
+9262={
+	culture=sumpa
+	religion=old_bon
+	holding=tribal_holding
+}
+9259={
+	holding=none
+}
+9263={
+	holding=none
+}
+9219={
+	culture=zhangzhung
+	religion=old_bon
+	holding=tribal_holding
+}
+9220={
+	holding=none
+}
+9221={
+	holding=none
+}
+9363={
+	culture=sumpa
+	religion=bon
+	holding=tribal_holding
+}
+9365={
+	holding=none
+}
+9367={
+	holding=none
+}
+9366={
+	holding=none
+}

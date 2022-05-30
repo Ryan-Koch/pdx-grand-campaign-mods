@@ -1,0 +1,45 @@
+k_opolye={
+	4.1.1={ liege=0 }
+}
+d_opolye={
+	4.1.1={ liege=0 }
+}
+c_yaroslavl={
+	4.1.1={ change_development_level=0 }
+}
+c_vladimir={
+	4.1.1={ change_development_level=0 }
+}
+c_suzdal={
+	4.1.1={ change_development_level=0 }
+}
+c_tver={
+	4.1.1={ change_development_level=0 }
+}
+c_moskva={
+	4.1.1={ change_development_level=0 }
+}
+d_ryazan={
+	4.1.1={ liege=0 }
+}
+c_ryazan={
+	4.1.1={ change_development_level=0 }
+}
+c_tula={
+	4.1.1={ change_development_level=0 }
+}
+c_murom={
+	4.1.1={ change_development_level=0 }
+}
+d_nizhny_novgorod={
+	4.1.1={ liege=0 }
+}
+c_nizhny_novgorod={
+	4.1.1={ change_development_level=0 }
+}
+c_plyos={
+	4.1.1={ change_development_level=0 }
+}
+c_manturovo={
+	4.1.1={ change_development_level=0 }
+}

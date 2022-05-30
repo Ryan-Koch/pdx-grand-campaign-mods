@@ -1,0 +1,57 @@
+k_volga_bulgaria={
+	4.1.1={ liege=0 }
+}
+d_volga_bulgaria={
+	4.1.1={ liege=0 }
+}
+c_bolghar={
+	4.1.1={ change_development_level=0 }
+}
+c_ashli={
+	4.1.1={ change_development_level=0 }
+}
+c_yar-calli={
+	4.1.1={ change_development_level=0 }
+}
+c_karabolam={
+	4.1.1={ change_development_level=0 }
+}
+c_samar_VB={
+	4.1.1={ change_development_level=0 }
+}
+d_kazan={
+	4.1.1={ liege=0 }
+}
+c_kazan={
+	4.1.1={ change_development_level=0 }
+}
+c_yoshkar-ola={
+	4.1.1={ change_development_level=0 }
+}
+c_elabuga={
+	4.1.1={ change_development_level=0 }
+}
+d_jalmat={
+	4.1.1={ liege=0 }
+}
+c_jalmat={
+	4.1.1={ change_development_level=0 }
+}
+c_belebey={
+	4.1.1={ change_development_level=0 }
+}
+c_bugurslan={
+	4.1.1={ change_development_level=0 }
+}
+c_salavat={
+	4.1.1={ change_development_level=0 }
+}
+d_martyuba={
+	4.1.1={ liege=0 }
+}
+c_martyuba={
+	4.1.1={ change_development_level=0 }
+}
+c_cykma={
+	4.1.1={ change_development_level=0 }
+}

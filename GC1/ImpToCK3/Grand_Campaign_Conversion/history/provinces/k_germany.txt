@@ -1,0 +1,930 @@
+2838={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2840={
+	culture=norse
+	religion=germanic_pagan
+	holding=church_holding
+}
+2837={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2839={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2844={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2909={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2910={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2793={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2794={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2796={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2846={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2845={
+	culture=norse
+	religion=germanic_pagan
+	holding=church_holding
+}
+2897={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2898={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2896={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2914={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2913={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2912={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2911={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2438={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2436={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2442={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2440={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2443={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2444={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2445={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2446={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2441={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2439={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2430={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2670={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2671={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2672={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2674={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2850={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2849={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2843={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2847={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2848={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2841={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2842={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2893={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2937={
+	culture=norse
+	religion=germanic_pagan
+	holding=city_holding
+}
+2903={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2904={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2901={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2902={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2802={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2803={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2805={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2894={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2895={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2905={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2900={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2907={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2899={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3180={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+3178={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3173={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+3174={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3175={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3024={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3025={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+3140={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+3159={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3143={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+3138={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2804={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2800={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+2801={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+2795={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2791={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2792={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2797={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2799={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+2798={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2860={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2858={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2915={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2922={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2924={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2923={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2867={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2852={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2853={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2851={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2859={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2861={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2865={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2857={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2115={
+	culture=belgae
+	religion=celtic_pagan
+	holding=castle_holding
+}
+2114={
+	culture=gallic
+	religion=gallic_celtic
+	holding=church_holding
+}
+2124={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2125={
+	culture=gallic
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2128={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2131={
+	culture=pictish
+	religion=gallic_celtic
+	holding=city_holding
+}
+2130={
+	culture=gallic
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2129={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2133={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2126={
+	culture=gallic
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2123={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2134={
+	culture=belgae
+	religion=gallic_celtic
+	holding=none
+}
+2132={
+	culture=gallic
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2136={
+	culture=belgae
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2137={
+	culture=pictish
+	religion=gallic_celtic
+	holding=none
+}
+2135={
+	culture=belgae
+	religion=gallic_celtic
+	holding=none
+}
+2406={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2404={
+	culture=belgae
+	religion=celtic_pagan
+	holding=city_holding
+}
+2403={
+	culture=belgae
+	religion=celtic_pagan
+	holding=city_holding
+}
+2402={
+	culture=gallic
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2405={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2408={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2409={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2407={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2112={
+	culture=gallic
+	religion=celtic_pagan
+	holding=castle_holding
+}
+2113={
+	culture=gallic
+	religion=celtic_pagan
+	holding=none
+}
+2401={
+	culture=belgae
+	religion=germanic_pagan
+	holding=none
+}
+2424={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2451={
+	culture=norse
+	religion=germanic_pagan
+	holding=city_holding
+}
+2421={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2416={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2423={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2431={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2422={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2417={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2420={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2419={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2452={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2414={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2415={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2453={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2418={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2437={
+	culture=norse
+	religion=germanic_pagan
+	holding=church_holding
+}
+2454={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2413={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2410={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2411={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2412={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2823={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2822={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3155={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2818={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2824={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2825={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2836={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3154={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+3153={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2826={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+3184={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3185={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3187={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+3186={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3188={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3152={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+3151={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+3156={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3183={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2807={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2806={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2808={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2813={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2817={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2816={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2811={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2810={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2809={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2819={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2812={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2820={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2821={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3166={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+3157={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3177={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3170={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3168={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+3167={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+3169={
+	culture=suebi
+	religion=germanic_pagan
+	holding=church_holding
+}
+3158={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+3164={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3165={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+2814={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+2815={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3160={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+3163={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3162={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+3161={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}

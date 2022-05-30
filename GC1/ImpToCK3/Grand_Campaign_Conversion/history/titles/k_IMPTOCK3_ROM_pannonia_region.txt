@@ -1,0 +1,124 @@
+k_IMPTOCK3_ROM_pannonia_region={
+	-4.12.10={ liege="e_roman_empire" holder="imperator108319" government="feudal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_steyermark={
+	4.1.1={ liege=0 }
+}
+c_graz={
+	-4.12.10={ liege=0 holder="imperator108319" }
+	4.1.1={ change_development_level=24 }
+}
+c_pitten={
+	-4.12.10={ liege=0 holder="imperator108319" }
+	4.1.1={ change_development_level=30 }
+}
+c_liebnitz={
+	-4.12.10={ liege=0 holder="imperator108319" }
+	4.1.1={ change_development_level=43 }
+}
+c_murzzuschlag={
+	-4.12.10={ liege=0 holder="imperator108319" }
+	4.1.1={ change_development_level=20 }
+}
+d_slavonia={
+	4.1.1={ liege=0 }
+}
+c_zagreb={
+	-3.6.22={ liege=0 holder="imperator108236" }
+	4.1.1={ change_development_level=31 }
+}
+c_zagorje={
+	-4.12.10={ liege=0 holder="imperator108319" }
+	4.1.1={ change_development_level=38 }
+}
+c_pozega={
+	-4.12.10={ liege=0 holder="imperator108319" }
+	4.1.1={ change_development_level=45 }
+}
+c_vukovar={
+	-4.12.10={ liege=0 holder="imperator108319" }
+	4.1.1={ change_development_level=44 }
+}
+d_visegrad={
+	4.1.1={ liege=0 }
+}
+c_visegrad={
+	-4.12.10={ liege=0 holder="imperator108319" }
+	4.1.1={ change_development_level=25 }
+}
+c_komarom={
+	-4.12.10={ liege=0 holder="imperator108319" }
+	4.1.1={ change_development_level=24 }
+}
+c_esztergom={
+	-4.12.10={ liege=0 holder="imperator108319" }
+	4.1.1={ change_development_level=26 }
+}
+c_szekesfehervar={
+	-4.12.10={ liege=0 holder="imperator108319" }
+	4.1.1={ change_development_level=42 }
+}
+c_hewes={
+	-23.4.10={ liege=0 holder="imperator107105" }
+	4.1.1={ change_development_level=23 }
+}
+d_somogy={
+	4.1.1={ liege=0 }
+}
+c_somogy={
+	-4.12.10={ liege=0 holder="imperator108319" }
+	4.1.1={ change_development_level=44 }
+}
+c_kolon={
+	-4.12.10={ liege=0 holder="imperator108319" }
+	4.1.1={ change_development_level=40 }
+}
+c_tolna={
+	-4.12.10={ liege=0 holder="imperator108319" }
+	4.1.1={ change_development_level=35 }
+}
+c_baranya={
+	-4.12.10={ liege=0 holder="imperator108319" }
+	4.1.1={ change_development_level=37 }
+}
+d_bacs={
+	4.1.1={ liege=0 }
+}
+c_bacs={
+	-4.12.10={ liege=0 holder="imperator108319" }
+	4.1.1={ change_development_level=41 }
+}
+c_bodrog={
+	-4.12.10={ liege=0 holder="imperator108319" }
+	4.1.1={ change_development_level=42 }
+}
+c_csongrad={
+	-4.12.10={ liege=0 holder="imperator108319" }
+	4.1.1={ change_development_level=41 }
+}
+d_gyor={
+	4.1.1={ liege=0 }
+}
+c_gyor={
+	-4.12.10={ liege=0 holder="imperator108319" }
+	4.1.1={ change_development_level=52 }
+}
+c_sopron={
+	-4.12.10={ liege=0 holder="imperator108319" }
+	4.1.1={ change_development_level=33 }
+}
+c_vas={
+	-4.12.10={ liege=0 holder="imperator108319" }
+	4.1.1={ change_development_level=42 }
+}
+c_veszprem={
+	-4.12.10={ liege=0 holder="imperator108319" }
+	4.1.1={ change_development_level=40 }
+}
+d_syrmia={
+	4.1.1={ liege=0 }
+}
+c_szerem={
+	-4.12.10={ liege=0 holder="imperator108319" }
+	4.1.1={ change_development_level=43 }
+}

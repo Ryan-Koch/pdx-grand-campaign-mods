@@ -1,0 +1,115 @@
+k_tamilakam={
+	-2.1.31={ government="feudal_government" holder="imperator107980" liege="e_india" succession_laws={ "high_partition_succession_law" } }
+}
+d_pandya_nadu={
+	4.1.1={ liege=0 }
+}
+c_madurai={
+	-2.1.31={ liege=0 holder="imperator107980" }
+	4.1.1={ change_development_level=39 }
+}
+c_kongu={
+	-2.1.31={ liege=0 holder="imperator107980" }
+	4.1.1={ change_development_level=30 }
+}
+c_uraiyur={
+	-2.1.31={ liege=0 holder="imperator107980" }
+	4.1.1={ change_development_level=33 }
+}
+d_chola_nadu={
+	4.1.1={ liege=0 }
+}
+c_cholamandalam={
+	-2.1.31={ liege=0 holder="imperator107980" }
+	4.1.1={ change_development_level=32 }
+}
+c_tagadur={
+	-16.3.1={ liege=0 holder="imperator106724" }
+	4.1.1={ change_development_level=28 }
+}
+c_tiruvannamalai={
+	-2.1.31={ liege=0 holder="imperator107980" }
+	4.1.1={ change_development_level=29 }
+}
+d_udayagiri={
+	4.1.1={ liege=0 }
+}
+c_palakka={
+	-2.1.31={ liege=0 holder="imperator107980" }
+	4.1.1={ change_development_level=28 }
+}
+c_nallamala={
+	-10.4.5={ liege=0 holder="imperator107597" }
+	4.1.1={ change_development_level=24 }
+}
+c_cumbum={
+	-2.1.31={ liege=0 holder="imperator107980" }
+	4.1.1={ change_development_level=18 }
+}
+d_tondai_nadu={
+	4.1.1={ liege=0 }
+}
+c_kanchipuram={
+	-2.1.31={ liege=0 holder="imperator107980" }
+	4.1.1={ change_development_level=34 }
+}
+c_candragiri={
+	-2.1.31={ liege=0 holder="imperator107980" }
+	4.1.1={ change_development_level=29 }
+}
+c_penugonda={
+	-16.3.1={ liege=0 holder="imperator106724" }
+	4.1.1={ change_development_level=29 }
+}
+c_muluvagil={
+	-16.3.1={ liege=0 holder="imperator106724" }
+	4.1.1={ change_development_level=23 }
+}
+c_nellore={
+	-2.1.31={ liege=0 holder="imperator107980" }
+	4.1.1={ change_development_level=33 }
+}
+c_renandu={
+	-16.3.1={ liege=0 holder="imperator106724" }
+	4.1.1={ change_development_level=24 }
+}
+d_dakhina_desa={
+	4.1.1={ liege=0 }
+}
+c_dakhina_desa={
+	-2.1.31={ liege=0 holder="imperator107980" }
+	4.1.1={ change_development_level=31 }
+}
+c_kandy={
+	4.1.1={ holder="0" liege=0 change_development_level=22 }
+}
+d_ruhunu={
+	4.1.1={ liege=0 }
+}
+c_rohana={
+	-2.1.31={ liege=0 holder="imperator107980" }
+	4.1.1={ change_development_level=23 }
+}
+c_batticaloa={
+	-2.1.31={ liege=0 holder="imperator107980" }
+	4.1.1={ change_development_level=39 }
+}
+d_sinhala={
+	4.1.1={ liege=0 }
+}
+c_phiti={
+	-2.1.31={ liege=0 holder="imperator107980" }
+	4.1.1={ change_development_level=33 }
+}
+c_trincomalee={
+	-2.1.31={ liege=0 holder="imperator107980" }
+	4.1.1={ change_development_level=39 }
+}
+c_jaffna={
+	-2.1.31={ liege=0 holder="imperator107980" }
+	4.1.1={ change_development_level=40 }
+}
+c_kotte={
+	-2.1.31={ liege=0 holder="imperator107980" }
+	4.1.1={ change_development_level=32 }
+}

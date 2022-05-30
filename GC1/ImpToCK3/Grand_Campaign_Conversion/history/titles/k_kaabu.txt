@@ -1,0 +1,36 @@
+k_kaabu={
+	4.1.1={ liege=0 }
+}
+d_kaabu={
+	4.1.1={ liege=0 }
+}
+c_kaabu={
+	4.1.1={ change_development_level=0 }
+}
+c_jara={
+	4.1.1={ change_development_level=0 }
+}
+d_wuli={
+	4.1.1={ liege=0 }
+}
+c_wuli={
+	4.1.1={ change_development_level=0 }
+}
+c_saalum={
+	4.1.1={ change_development_level=0 }
+}
+c_niomi={
+	4.1.1={ change_development_level=0 }
+}
+d_kasa={
+	4.1.1={ liege=0 }
+}
+c_kasa={
+	4.1.1={ change_development_level=0 }
+}
+c_jame={
+	4.1.1={ change_development_level=0 }
+}
+c_geba={
+	4.1.1={ change_development_level=0 }
+}

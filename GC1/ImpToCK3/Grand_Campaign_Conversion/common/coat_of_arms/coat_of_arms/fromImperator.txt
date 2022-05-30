@@ -1,0 +1,195 @@
+k_scotland={
+	pattern = "pattern_solid.tga"
+	color1 = "albion_color"
+	color2 = "ck_blue"
+
+	colored_emblem = {
+		texture = "ce_bow_01.dds"
+		color1 = "ck2_blue"
+		color2= "roman_red"
+		instance = { scale = { 0.9 0.9 }  }
+	}
+}
+e_roman_empire={
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "roman_gold"
+
+	colored_emblem = {
+		texture = "ce_roman_eagle.dds"
+		color1 = "roman_gold"
+	}
+}
+k_armenia={
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "roman_gold"
+
+	colored_emblem = {
+		texture = "ce_armenia_symbol.dds"
+		color1 = "roman_gold"
+	}
+}
+e_scandinavia={
+	pattern = "pattern_solid.tga"
+	color1= "athens_blue"
+	color2= "ck2_yellow"
+	
+	colored_emblem = {
+		texture = "ce_crescent_02.dds"
+		color1 = "ck2_yellow"
+		instance = { position = { 0.25 0.33 } scale = { 0.4 0.4 } }
+		instance = { position = { 0.75 0.33 } scale = { 0.4 0.4 }  }
+		instance = { position = { 0.5 0.67 } scale = { 0.4 0.4 }  }
+	}
+}
+e_persia={
+	pattern = "pattern_solid.tga"
+	color1 = "ocean_blue"
+	color2 = "frost_blue"
+
+	colored_emblem = {
+		texture = "ce_selucid_crossbow.dds"
+		color1 = "frost_blue"
+		instance = { scale = { 0.75 0.75 }  }
+	}
+	
+	colored_emblem = {
+		texture = "ce_border_rug_01.tga"
+		color1 = "frost_blue"
+		color2 = "ocean_blue"
+		instance = { rotation = 0 }
+		instance = { rotation = 180 }
+	}
+}
+k_khorasan={
+	pattern="pattern_solid.tga"
+	color1=roman_red
+	color2=pitch_black
+	color3=bone_white
+	colored_emblem={
+		color1=roman_gold
+		color2=ck2_green
+		texture="ce_elephant_01.dds"
+		mask={
+			1 2 3 
+		}
+		instance={
+			position={ 0.500000 0.500000 }
+			scale={ -0.750000 0.750000 }
+			depth=0.010000
+			rotation=0
+		}
+	}
+	colored_emblem={
+		color1=roman_gold
+		color2=ck2_green
+		texture="ce_border_triangles_02.dds"
+		mask={
+			1 2 3 
+		}
+		instance={
+			position={ 0.500000 0.500000 }
+			scale={ 1.000000 1.000000 }
+			depth=0.010000
+			rotation=90
+		}
+		instance={
+			position={ 0.500000 0.500000 }
+			scale={ 1.000000 1.000000 }
+			depth=0.010000
+			rotation=270
+		}
+	}
+}
+e_india={
+	pattern = "pattern_solid.tga"
+	color1 = "maurya_brown"
+	color2 = "pure_white"
+
+	colored_emblem = {
+		texture = "ce_maurya.dds"
+		color1 = "pure_white"
+	}
+}
+k_IMPTOCK3_BPK={
+	pattern = "pattern_solid.tga"
+	color1 = "maurya_brown"
+	color2 = "rhodes_color"
+
+	colored_emblem = {
+		texture = "ce_bosporan_kingdom.dds"
+		color1 = "rhodes_color"
+	}
+}
+k_IMPTOCK3_SCA={
+	pattern="pattern_solid.tga"
+	color1=etruscan_blue	color2=roman_gold	color3=maurya_brown	colored_emblem={
+		color1=roman_gold		color2=navy_blue		texture="ce_circle_wheel_01.dds"
+		mask={
+			1 2 3 
+		}
+		instance={
+			position={ 0.500000 0.500000 }
+			scale={ -0.750000 0.750000 }
+			depth=0.010000
+			rotation=0
+		}
+	}
+	colored_emblem={
+		color1=roman_gold		color2=navy_blue		texture="ce_border_zigzag_02.dds"
+		mask={
+			1 2 3 
+		}
+		instance={
+			position={ 0.500000 0.500000 }
+			scale={ 1.000000 1.000000 }
+			depth=0.010000
+			rotation=0
+		}
+		instance={
+			position={ 0.500000 0.500000 }
+			scale={ 1.000000 1.000000 }
+			depth=0.010000
+			rotation=180
+		}
+	}
+}
+e_IMPTOCK3_EGY={
+	pattern = "pattern_solid.tga"
+	color1 = "pitch_black"
+	color2 = "roman_gold"
+
+	colored_emblem = {
+		texture = "ce_egypt.dds"
+		color1 = "roman_gold"
+	}
+}
+e_IMPTOCK3_TYO={
+	pattern = "pattern_solid.tga"
+	color1 = "desaturated_green"
+	color2 = "babylon_color"
+
+	colored_emblem = {
+		texture = "ce_border_simple_02.tga"
+		color1 = "babylon_color"
+		color2 = "desaturated_green"
+		instance = { 
+			rotation = 90 
+			scale = { 0.4 1 }
+			position = { 0.78 0.5 }
+		}
+		instance = { 
+			rotation = 270 
+			scale = { 0.4 1 }
+			position = { 0.22 0.5 }
+		}
+	}
+
+	colored_emblem = {
+		texture = "ce_lamassu_01.dds"
+		color1 = "babylon_color"
+		color2= "desaturated_green"
+		instance = { scale = { 1 1 }  }
+	}
+}

@@ -1,0 +1,69 @@
+k_akan={
+	4.1.1={ liege=0 }
+}
+d_ashanti={
+	4.1.1={ liege=0 }
+}
+c_kumasi={
+	4.1.1={ change_development_level=0 }
+}
+c_adanse={
+	4.1.1={ change_development_level=0 }
+}
+c_kwahu-akyem={
+	4.1.1={ change_development_level=0 }
+}
+c_fante={
+	4.1.1={ change_development_level=0 }
+}
+c_wassa={
+	4.1.1={ change_development_level=0 }
+}
+d_adiukru={
+	4.1.1={ liege=0 }
+}
+c_attie={
+	4.1.1={ change_development_level=0 }
+}
+c_dabou={
+	4.1.1={ change_development_level=0 }
+}
+c_aowin={
+	4.1.1={ change_development_level=0 }
+}
+d_gyaman={
+	4.1.1={ liege=0 }
+}
+c_bonduku={
+	4.1.1={ change_development_level=0 }
+}
+c_ndenye={
+	4.1.1={ change_development_level=0 }
+}
+d_brong={
+	4.1.1={ liege=0 }
+}
+c_bono={
+	4.1.1={ change_development_level=0 }
+}
+c_begho={
+	4.1.1={ change_development_level=0 }
+}
+c_upper_bono={
+	4.1.1={ change_development_level=0 }
+}
+c_bonoso={
+	4.1.1={ change_development_level=0 }
+}
+d_eweland={
+	4.1.1={ liege=0 }
+}
+c_ewe={
+	4.1.1={ change_development_level=0 }
+}
+c_afram={
+	4.1.1={ change_development_level=0 }
+}
+c_nanumba={
+	4.1.1={ change_development_level=0 }
+}

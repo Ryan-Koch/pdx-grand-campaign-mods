@@ -1,0 +1,57 @@
+k_yorubaland={
+	4.1.1={ liege=0 }
+}
+d_ibadan={
+	4.1.1={ liege=0 }
+}
+c_ibadan={
+	4.1.1={ change_development_level=0 }
+}
+c_abomey={
+	4.1.1={ change_development_level=0 }
+}
+c_ifonyin={
+	4.1.1={ change_development_level=0 }
+}
+c_ketu={
+	4.1.1={ change_development_level=0 }
+}
+d_oyo={
+	4.1.1={ liege=0 }
+}
+c_oyo={
+	4.1.1={ change_development_level=0 }
+}
+c_igana={
+	4.1.1={ change_development_level=0 }
+}
+c_ilorin={
+	4.1.1={ change_development_level=0 }
+}
+c_igbomina={
+	4.1.1={ change_development_level=0 }
+}
+c_yagba={
+	4.1.1={ change_development_level=0 }
+}
+d_ife={
+	4.1.1={ liege=0 }
+}
+c_ife={
+	4.1.1={ change_development_level=0 }
+}
+c_ijebu={
+	4.1.1={ change_development_level=0 }
+}
+c_owu={
+	4.1.1={ change_development_level=0 }
+}
+d_benin={
+	4.1.1={ liege=0 }
+}
+c_benin={
+	4.1.1={ change_development_level=0 }
+}
+c_edo={
+	4.1.1={ change_development_level=0 }
+}

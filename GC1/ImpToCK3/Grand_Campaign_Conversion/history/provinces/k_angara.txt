@@ -1,0 +1,168 @@
+1462={
+	culture=kirghiz
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7733={
+	holding=none
+}
+7734={
+	holding=none
+}
+7735={
+	holding=none
+}
+7736={
+	culture=kirghiz
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7737={
+	holding=none
+}
+7738={
+	culture=kirghiz
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7739={
+	holding=none
+}
+7740={
+	holding=none
+}
+7742={
+	culture=kirghiz
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7741={
+	holding=none
+}
+7743={
+	holding=none
+}
+7744={
+	culture=kirghiz
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7745={
+	holding=none
+}
+7746={
+	holding=none
+}
+7748={
+	culture=buryat
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7747={
+	holding=none
+}
+7749={
+	holding=none
+}
+7750={
+	holding=none
+}
+7753={
+	culture=buryat
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7751={
+	holding=none
+}
+7752={
+	holding=none
+}
+7754={
+	holding=none
+}
+7755={
+	culture=buryat
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7756={
+	holding=none
+}
+7757={
+	holding=none
+}
+7732={
+	culture=buryat
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7730={
+	holding=none
+}
+7731={
+	holding=none
+}
+7772={
+	culture=buryat
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7773={
+	holding=none
+}
+7774={
+	holding=none
+}
+7770={
+	culture=buryat
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7771={
+	holding=none
+}
+7768={
+	culture=buryat
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7767={
+	holding=none
+}
+7769={
+	holding=none
+}
+7759={
+	culture=buryat
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7758={
+	holding=none
+}
+7760={
+	holding=none
+}
+7761={
+	culture=buryat
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7762={
+	holding=none
+}
+7763={
+	holding=none
+}
+7764={
+	culture=buryat
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7765={
+	holding=none
+}
+7766={
+	holding=none
+}

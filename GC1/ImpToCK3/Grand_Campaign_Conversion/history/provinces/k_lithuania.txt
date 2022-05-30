@@ -1,0 +1,60 @@
+102={
+	culture=vandilian
+	religion=germanic_pagan
+	holding=none
+}
+109={
+	culture=vandilian
+	religion=germanic_pagan
+	holding=none
+}
+142={
+	culture=vandilian
+	religion=germanic_pagan
+	holding=none
+}
+103={
+	culture=vandilian
+	religion=germanic_pagan
+	holding=none
+}
+139={
+	culture=vandilian
+	religion=germanic_pagan
+	holding=none
+}
+134={
+	culture=vandilian
+	religion=germanic_pagan
+	holding=none
+}
+136={
+	culture=vandilian
+	religion=germanic_pagan
+	holding=none
+}
+135={
+	culture=vandilian
+	religion=germanic_pagan
+	holding=none
+}
+137={
+	culture=vandilian
+	religion=germanic_pagan
+	holding=none
+}
+138={
+	culture=vandilian
+	religion=germanic_pagan
+	holding=none
+}
+141={
+	culture=vandilian
+	religion=germanic_pagan
+	holding=none
+}
+140={
+	culture=vandilian
+	religion=germanic_pagan
+	holding=none
+}

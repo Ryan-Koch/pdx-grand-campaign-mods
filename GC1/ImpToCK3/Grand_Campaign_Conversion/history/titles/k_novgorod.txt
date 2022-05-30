@@ -1,0 +1,45 @@
+k_novgorod={
+	4.1.1={ liege=0 }
+}
+d_novgorod={
+	4.1.1={ liege=0 }
+}
+c_novgorod={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_rusa={
+	4.1.1={ change_development_level=0 }
+}
+c_pskov={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_sebezh={
+	4.1.1={ change_development_level=0 }
+}
+c_vodi={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_vepsia={
+	4.1.1={ liege=0 }
+}
+c_beloozero={
+	4.1.1={ change_development_level=0 }
+}
+c_tikhvin={
+	4.1.1={ change_development_level=0 }
+}
+c_vyangi={
+	4.1.1={ change_development_level=0 }
+}
+d_luki={
+	4.1.1={ liege=0 }
+}
+c_luki={
+	4.1.1={ change_development_level=0 }
+}
+c_valdai={
+	4.1.1={ change_development_level=0 }
+}
+c_bezichi={
+	4.1.1={ change_development_level=0 }
+}

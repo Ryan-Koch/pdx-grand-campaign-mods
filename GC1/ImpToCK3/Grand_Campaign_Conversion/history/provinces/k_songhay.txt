@@ -1,0 +1,120 @@
+6568={
+	culture=mossi
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6569={
+	culture=mossi
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6570={
+	culture=sorko
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6571={
+	culture=gaw
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6572={
+	culture=gaw
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6573={
+	culture=gaw
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6574={
+	culture=gaw
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6575={
+	culture=gaw
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6576={
+	culture=gaw
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6577={
+	culture=gaw
+	religion=west_african_bidu_pagan
+	holding=tribal_holding
+}
+6578={
+	culture=gaw
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6579={
+	culture=sorko
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6580={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+6581={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+6608={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+6609={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+6610={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+6612={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+6656={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+6714={
+	culture=sorko
+	religion=west_african_orisha_pagan
+	holding=none
+}
+6715={
+	culture=sorko
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8994={
+	culture=sorko
+	religion=west_african_bidu_pagan
+	holding=none
+}
+8993={
+	culture=sorko
+	religion=west_african_bidu_pagan
+	holding=none
+}
+8995={
+	culture=sorko
+	religion=west_african_bidu_pagan
+	holding=none
+}

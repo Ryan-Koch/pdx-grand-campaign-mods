@@ -1,0 +1,130 @@
+745={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+746={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+747={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+748={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5529={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5530={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5531={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5532={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5533={
+	culture=greek
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5534={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=none
+}
+5535={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5536={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5537={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5538={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5539={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5540={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=none
+}
+5541={
+	culture=phrygian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5542={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5543={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5544={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5545={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5546={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5547={
+	culture=luwian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5548={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5549={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5550={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}

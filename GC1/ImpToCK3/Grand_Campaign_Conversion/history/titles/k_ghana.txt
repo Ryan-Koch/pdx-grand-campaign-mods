@@ -1,0 +1,66 @@
+k_ghana={
+	4.1.1={ liege=0 }
+}
+d_wagadu={
+	4.1.1={ liege=0 }
+}
+c_awkar={
+	4.1.1={ change_development_level=0 }
+}
+c_walata={
+	4.1.1={ change_development_level=0 }
+}
+c_masin={
+	4.1.1={ change_development_level=0 }
+}
+d_mema={
+	4.1.1={ liege=0 }
+}
+c_mema={
+	4.1.1={ change_development_level=0 }
+}
+c_kouga={
+	4.1.1={ change_development_level=0 }
+}
+c_massina={
+	4.1.1={ change_development_level=0 }
+}
+d_tagant={
+	4.1.1={ liege=0 }
+}
+c_hodh={
+	4.1.1={ change_development_level=0 }
+}
+c_tichitt={
+	4.1.1={ change_development_level=0 }
+}
+c_tagant={
+	4.1.1={ change_development_level=0 }
+}
+d_diafunu={
+	4.1.1={ liege=0 }
+}
+c_guidimaka={
+	4.1.1={ change_development_level=0 }
+}
+c_yelimane={
+	4.1.1={ change_development_level=0 }
+}
+c_kingui={
+	4.1.1={ change_development_level=0 }
+}
+d_kaniaga={
+	4.1.1={ liege=0 }
+}
+c_kaniaga={
+	4.1.1={ change_development_level=0 }
+}
+c_kaarta={
+	4.1.1={ change_development_level=0 }
+}
+c_kita={
+	4.1.1={ change_development_level=0 }
+}
+c_soso={
+	4.1.1={ change_development_level=0 }
+}

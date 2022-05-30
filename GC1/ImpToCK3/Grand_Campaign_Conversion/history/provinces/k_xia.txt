@@ -1,0 +1,331 @@
+9546={
+	culture=shatuo
+	religion=mahayana
+	holding=castle_holding
+}
+9544={
+	holding=city_holding
+}
+9543={
+	holding=church_holding
+}
+9536={
+	holding=none
+}
+9545={
+	culture=shatuo
+	religion=mahayana
+	holding=castle_holding
+}
+9534={
+	holding=church_holding
+}
+9547={
+	holding=city_holding
+}
+9537={
+	culture=shatuo
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+9538={
+	holding=none
+}
+9539={
+	holding=none
+}
+9542={
+	culture=shatuo
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+9540={
+	holding=none
+}
+9541={
+	holding=none
+}
+9518={
+	culture=han
+	religion=mahayana
+	holding=tribal_holding
+}
+9519={
+	holding=none
+}
+9532={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+9533={
+	holding=none
+}
+9535={
+	holding=none
+}
+9509={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+9520={
+	holding=none
+}
+9549={
+	holding=none
+}
+9523={
+	culture=han
+	religion=mahayana
+	holding=castle_holding
+}
+9521={
+	holding=city_holding
+}
+9522={
+	holding=church_holding
+}
+9516={
+	culture=han
+	religion=mahayana
+	holding=castle_holding
+}
+9517={
+	holding=city_holding
+}
+9525={
+	culture=han
+	religion=mahayana
+	holding=castle_holding
+}
+9529={
+	holding=city_holding
+}
+9531={
+	culture=han
+	religion=mahayana
+	holding=castle_holding
+}
+9530={
+	holding=church_holding
+}
+9527={
+	holding=city_holding
+}
+9528={
+	culture=han
+	religion=mahayana
+	holding=castle_holding
+}
+9526={
+	holding=city_holding
+}
+9524={
+	holding=church_holding
+}
+9418={
+	culture=han
+	religion=mahayana
+	holding=castle_holding
+}
+9417={
+	holding=city_holding
+}
+9416={
+	holding=church_holding
+}
+9415={
+	holding=church_holding
+}
+9419={
+	culture=assamese
+	religion=vaishnavism
+	holding=none
+}
+9420={
+	culture=assamese
+	religion=vaishnavism
+	holding=none
+}
+9511={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+9512={
+	holding=none
+}
+9490={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+9497={
+	holding=none
+}
+9513={
+	culture=han
+	religion=mahayana
+	holding=castle_holding
+}
+9514={
+	holding=city_holding
+}
+9515={
+	holding=church_holding
+}
+9501={
+	culture=han
+	religion=mahayana
+	holding=castle_holding
+}
+9500={
+	holding=city_holding
+}
+9503={
+	holding=church_holding
+}
+9502={
+	culture=han
+	religion=mahayana
+	holding=castle_holding
+}
+9499={
+	holding=church_holding
+}
+9496={
+	culture=han
+	religion=mahayana
+	holding=castle_holding
+}
+9495={
+	holding=city_holding
+}
+9493={
+	culture=han
+	religion=mahayana
+	holding=castle_holding
+}
+9494={
+	holding=city_holding
+}
+9498={
+	holding=church_holding
+}
+9491={
+	culture=han
+	religion=mahayana
+	holding=castle_holding
+}
+9487={
+	holding=city_holding
+}
+9492={
+	holding=church_holding
+}
+9506={
+	culture=tangut
+	religion=melieism
+	holding=tribal_holding
+}
+9507={
+	holding=none
+}
+9510={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+9548={
+	holding=none
+}
+9505={
+	culture=han
+	religion=mahayana
+	holding=castle_holding
+}
+9504={
+	holding=city_holding
+}
+9489={
+	culture=yughur
+	religion=manichean
+	holding=tribal_holding
+}
+9508={
+	holding=none
+}
+9482={
+	culture=han
+	religion=mahayana
+	holding=castle_holding
+}
+9481={
+	holding=city_holding
+}
+9478={
+	holding=church_holding
+}
+9485={
+	culture=han
+	religion=mahayana
+	holding=castle_holding
+}
+9486={
+	holding=city_holding
+}
+9483={
+	culture=han
+	religion=mahayana
+	holding=castle_holding
+}
+9488={
+	holding=city_holding
+}
+9484={
+	holding=church_holding
+}
+9476={
+	culture=sogdian
+	religion=mahayana
+	holding=castle_holding
+}
+9477={
+	holding=church_holding
+}
+9474={
+	culture=han
+	religion=mahayana
+	holding=castle_holding
+}
+9473={
+	holding=castle_holding
+}
+9475={
+	holding=church_holding
+}
+9479={
+	culture=tuyuhun
+	religion=vajrayana
+	holding=castle_holding
+}
+9480={
+	holding=church_holding
+}
+9472={
+	culture=tuyuhun
+	religion=vajrayana
+	holding=tribal_holding
+}
+9471={
+	holding=none
+}
+9469={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+9470={
+	holding=none
+}

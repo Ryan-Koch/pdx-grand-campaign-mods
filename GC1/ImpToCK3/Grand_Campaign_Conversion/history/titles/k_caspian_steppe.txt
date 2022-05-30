@@ -1,0 +1,15 @@
+k_caspian_steppe={
+	4.1.1={ liege=0 }
+}
+d_pecheneg={
+	4.1.1={ liege=0 }
+}
+c_pecheneg={
+	4.1.1={ change_development_level=0 }
+}
+c_jambalar={
+	4.1.1={ change_development_level=0 }
+}
+c_yaitsk={
+	4.1.1={ change_development_level=1 }
+}

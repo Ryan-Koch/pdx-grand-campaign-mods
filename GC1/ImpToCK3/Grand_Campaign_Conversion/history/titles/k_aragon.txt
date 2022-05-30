@@ -1,0 +1,83 @@
+k_aragon={
+	-38.6.16={ government="feudal_government" holder="imperator104754" liege="e_roman_empire" succession_laws={ "high_partition_succession_law" } }
+}
+d_aragon={
+	4.1.1={ liege=0 }
+}
+c_zaragoza={
+	-38.6.16={ liege=0 holder="imperator104754" }
+	4.1.1={ change_development_level=43 }
+}
+c_albarracin={
+	-38.6.16={ liege=0 holder="imperator104754" }
+	4.1.1={ change_development_level=45 }
+}
+c_alto_aragon={
+	-38.6.16={ liege=0 holder="imperator104754" }
+	4.1.1={ change_development_level=44 }
+}
+c_calatayud={
+	-38.6.16={ liege=0 holder="imperator104754" }
+	4.1.1={ change_development_level=52 }
+}
+c_fraga={
+	-38.6.16={ liege=0 holder="imperator104754" }
+	4.1.1={ change_development_level=42 }
+}
+c_alcaniz={
+	-38.6.16={ liege=0 holder="imperator104754" }
+	4.1.1={ change_development_level=42 }
+}
+d_barcelona={
+	4.1.1={ liege=0 }
+}
+c_barcelona={
+	-38.6.16={ liege=0 holder="imperator104754" }
+	4.1.1={ change_development_level=43 }
+}
+c_urgell={
+	-38.6.16={ liege=0 holder="imperator104754" }
+	4.1.1={ change_development_level=18 }
+}
+c_puigcerda={
+	-38.6.16={ liege=0 holder="imperator104754" }
+	4.1.1={ change_development_level=40 }
+}
+c_girona={
+	-37.12.11={ liege=0 holder="imperator105157" }
+	4.1.1={ change_development_level=47 }
+}
+c_lleida={
+	-38.6.16={ liege=0 holder="imperator104754" }
+	4.1.1={ change_development_level=41 }
+}
+c_tarragona={
+	-38.6.16={ liege=0 holder="imperator104754" }
+	4.1.1={ change_development_level=49 }
+}
+d_navarra={
+	4.1.1={ liege=0 }
+}
+c_navarra={
+	-38.6.16={ liege=0 holder="imperator104754" }
+	4.1.1={ change_development_level=42 }
+}
+c_najera={
+	-38.6.16={ liege=0 holder="imperator104754" }
+	4.1.1={ change_development_level=28 }
+}
+c_tudela={
+	-38.6.16={ liege=0 holder="imperator104754" }
+	4.1.1={ change_development_level=42 }
+}
+d_viscaya={
+	4.1.1={ liege=0 }
+}
+c_viscaya={
+	-38.6.16={ liege=0 holder="imperator104754" }
+	4.1.1={ change_development_level=41 }
+}
+c_ipuskoa={
+	-38.6.16={ liege=0 holder="imperator104754" }
+	4.1.1={ change_development_level=42 }
+}

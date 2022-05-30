@@ -1,0 +1,54 @@
+k_ajuraan={
+	4.1.1={ liege=0 }
+}
+d_hafun={
+	4.1.1={ liege=0 }
+}
+c_ras_hafun={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=17 }
+}
+c_barbacadle={
+	4.1.1={ holder="0" liege=0 change_development_level=3 }
+}
+c_nugaal={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=16 }
+}
+c_mudug={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_mogadishu={
+	4.1.1={ liege=0 }
+}
+c_mogadishu={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=2 }
+}
+c_hobyo={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_mareeg={
+	4.1.1={ change_development_level=0 }
+}
+c_hiraab={
+	4.1.1={ change_development_level=0 }
+}
+d_west_ajuraan={
+	4.1.1={ liege=0 }
+}
+c_jubba={
+	4.1.1={ change_development_level=0 }
+}
+c_baydhabo={
+	4.1.1={ change_development_level=0 }
+}
+c_qalaafe={
+	4.1.1={ change_development_level=0 }
+}
+c_jilib={
+	4.1.1={ change_development_level=0 }
+}
+c_luuq={
+	4.1.1={ change_development_level=0 }
+}

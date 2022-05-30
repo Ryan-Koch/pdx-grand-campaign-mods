@@ -1,0 +1,148 @@
+k_IMPTOCK3_SWE_belgica_region={
+	-11.11.16={ liege="e_scandinavia" holder="imperator107166" government="feudal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_gelre={
+	4.1.1={ liege=0 }
+}
+c_guelders={
+	-11.11.16={ liege=0 holder="imperator107166" }
+	4.1.1={ change_development_level=16 }
+}
+c_arnhem={
+	-22.4.5={ liege=0 holder="imperator104601" }
+	4.1.1={ change_development_level=13 }
+}
+c_zutphen={
+	-22.4.5={ liege=0 holder="imperator104601" }
+	4.1.1={ change_development_level=13 }
+}
+d_luxembourg={
+	4.1.1={ liege=0 }
+}
+c_luxembourg={
+	-11.11.16={ liege=0 holder="imperator107166" }
+	4.1.1={ change_development_level=33 }
+}
+c_bouillon={
+	-11.11.16={ liege=0 holder="imperator107166" }
+	4.1.1={ change_development_level=30 }
+}
+c_liege={
+	-11.11.16={ liege=0 holder="imperator107166" }
+	4.1.1={ change_development_level=29 }
+}
+c_namur={
+	-11.11.16={ liege=0 holder="imperator107166" }
+	4.1.1={ change_development_level=34 }
+}
+d_brabant={
+	4.1.1={ liege=0 }
+}
+c_brabant={
+	-11.11.16={ liege=0 holder="imperator107166" }
+	4.1.1={ change_development_level=40 }
+}
+c_antwerpen={
+	-22.4.5={ liege=0 holder="imperator104601" }
+	4.1.1={ change_development_level=9 }
+}
+c_hainaut={
+	-11.11.16={ liege=0 holder="imperator107166" }
+	4.1.1={ change_development_level=28 }
+}
+c_cambray={
+	-11.11.16={ liege=0 holder="imperator107166" }
+	4.1.1={ change_development_level=39 }
+}
+d_julich={
+	4.1.1={ liege=0 }
+}
+c_aachen={
+	-11.11.16={ liege=0 holder="imperator107166" }
+	4.1.1={ change_development_level=29 }
+}
+c_cleves={
+	-11.11.16={ liege=0 holder="imperator107166" }
+	4.1.1={ change_development_level=15 }
+}
+c_maastricht={
+	-11.11.16={ liege=0 holder="imperator107166" }
+	4.1.1={ change_development_level=30 }
+}
+d_lower_lorraine={
+	4.1.1={ liege=0 }
+}
+c_cologne={
+	-11.11.16={ liege=0 holder="imperator107166" }
+	4.1.1={ change_development_level=27 }
+}
+c_dortmund={
+	-22.4.5={ liege=0 holder="imperator104601" }
+	4.1.1={ change_development_level=22 }
+}
+c_arnsberg={
+	-22.4.5={ liege=0 holder="imperator104601" }
+	4.1.1={ change_development_level=24 }
+}
+c_mark={
+	-22.4.5={ liege=0 holder="imperator104601" }
+	4.1.1={ change_development_level=9 }
+}
+c_koblenz={
+	-11.11.16={ liege=0 holder="imperator107166" }
+	4.1.1={ change_development_level=38 }
+}
+c_bergh={
+	-22.4.5={ liege=0 holder="imperator104601" }
+	4.1.1={ change_development_level=20 }
+}
+c_sayn={
+	-22.4.5={ liege=0 holder="imperator104601" }
+	4.1.1={ change_development_level=6 }
+}
+d_bar={
+	4.1.1={ liege=0 }
+}
+c_bar={
+	-11.11.16={ liege=0 holder="imperator107166" }
+	4.1.1={ change_development_level=35 }
+}
+c_briey={
+	-11.11.16={ liege=0 holder="imperator107166" }
+	4.1.1={ change_development_level=36 }
+}
+c_vaucouleurs={
+	-23.5.10={ liege=0 holder="imperator107167" }
+	4.1.1={ change_development_level=36 }
+}
+d_champagne={
+	4.1.1={ liege=0 }
+}
+c_reims={
+	-11.11.16={ liege=0 holder="imperator107166" }
+	4.1.1={ change_development_level=29 }
+}
+c_troyes={
+	-15.9.2={ liege=0 holder="imperator107043" }
+	4.1.1={ change_development_level=31 }
+}
+c_coulommiers={
+	-15.9.2={ liege=0 holder="imperator107043" }
+	4.1.1={ change_development_level=32 }
+}
+c_meaux={
+	-15.9.2={ liege=0 holder="imperator107043" }
+	4.1.1={ change_development_level=29 }
+}
+c_chalons={
+	-11.11.16={ liege=0 holder="imperator107166" }
+	4.1.1={ change_development_level=36 }
+}
+c_rethel={
+	-11.11.16={ liege=0 holder="imperator107166" }
+	4.1.1={ change_development_level=41 }
+}
+c_sens={
+	-15.9.2={ liege=0 holder="imperator107043" }
+	4.1.1={ change_development_level=30 }
+}

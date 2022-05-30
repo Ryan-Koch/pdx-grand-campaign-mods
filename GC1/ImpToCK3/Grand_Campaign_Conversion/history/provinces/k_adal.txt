@@ -1,0 +1,270 @@
+8354={
+	culture=somali
+	religion=egyptian_pagan
+	holding=none
+}
+8414={
+	culture=somali
+	religion=egyptian_pagan
+	holding=none
+}
+8415={
+	culture=somali
+	religion=egyptian_pagan
+	holding=none
+}
+8395={
+	culture=somali
+	religion=egyptian_pagan
+	holding=none
+}
+8396={
+	culture=somali
+	religion=egyptian_pagan
+	holding=none
+}
+8397={
+	culture=somali
+	religion=egyptian_pagan
+	holding=none
+}
+8409={
+	culture=somali
+	religion=egyptian_pagan
+	holding=none
+}
+8413={
+	culture=somali
+	religion=egyptian_pagan
+	holding=none
+}
+8384={
+	culture=somali
+	religion=egyptian_pagan
+	holding=none
+}
+8412={
+	culture=somali
+	religion=egyptian_pagan
+	holding=none
+}
+8406={
+	culture=macedonian
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+8393={
+	culture=macedonian
+	religion=kushitism_pagan
+	holding=none
+}
+8402={
+	culture=macedonian
+	religion=kushitism_pagan
+	holding=none
+}
+8407={
+	culture=macedonian
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+8394={
+	culture=macedonian
+	religion=kushitism_pagan
+	holding=none
+}
+8410={
+	culture=macedonian
+	religion=kushitism_pagan
+	holding=none
+}
+8408={
+	culture=somali
+	religion=egyptian_pagan
+	holding=none
+}
+8411={
+	culture=somali
+	religion=egyptian_pagan
+	holding=none
+}
+8416={
+	culture=somali
+	religion=egyptian_pagan
+	holding=none
+}
+8420={
+	culture=somali
+	religion=egyptian_pagan
+	holding=none
+}
+8405={
+	culture=macedonian
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+8500={
+	culture=somali
+	religion=egyptian_pagan
+	holding=none
+}
+8344={
+	culture=macedonian
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+8343={
+	culture=somali
+	religion=arabic_pagan
+	holding=city_holding
+}
+8345={
+	culture=ethiopian
+	religion=arabic_pagan
+	holding=none
+}
+8391={
+	culture=macedonian
+	religion=kushitism_pagan
+	holding=none
+}
+8392={
+	culture=macedonian
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+8346={
+	culture=ethiopian
+	religion=arabic_pagan
+	holding=none
+}
+8334={
+	culture=afar
+	religion=arabic_pagan
+	holding=none
+}
+8333={
+	culture=macedonian
+	religion=kushitism_pagan
+	holding=none
+}
+8335={
+	culture=macedonian
+	religion=kushitism_pagan
+	holding=none
+}
+8332={
+	culture=afar
+	religion=arabic_pagan
+	holding=none
+}
+8331={
+	culture=somali
+	religion=arabic_pagan
+	holding=none
+}
+8339={
+	culture=afar
+	religion=arabic_pagan
+	holding=castle_holding
+}
+8337={
+	culture=somali
+	religion=arabic_pagan
+	holding=none
+}
+8338={
+	culture=somali
+	religion=arabic_pagan
+	holding=none
+}
+8400={
+	culture=adnanite
+	religion=arabic_pagan
+	holding=castle_holding
+}
+8398={
+	culture=macedonian
+	religion=kushitism_pagan
+	holding=none
+}
+8399={
+	culture=macedonian
+	religion=kushitism_pagan
+	holding=none
+}
+8342={
+	culture=afar
+	religion=arabic_pagan
+	holding=castle_holding
+}
+8340={
+	culture=macedonian
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+8341={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=none
+}
+8404={
+	culture=macedonian
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+8401={
+	culture=macedonian
+	religion=kushitism_pagan
+	holding=none
+}
+8403={
+	culture=macedonian
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+8425={
+	culture=macedonian
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+8426={
+	culture=macedonian
+	religion=kushitism_pagan
+	holding=none
+}
+8427={
+	culture=macedonian
+	religion=kushitism_pagan
+	holding=none
+}
+8424={
+	culture=somali
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+8502={
+	culture=macedonian
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+8503={
+	culture=somali
+	religion=kushitism_pagan
+	holding=city_holding
+}
+8430={
+	culture=somali
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+8428={
+	culture=somali
+	religion=kushitism_pagan
+	holding=city_holding
+}
+8429={
+	culture=somali
+	religion=kushitism_pagan
+	holding=city_holding
+}

@@ -1,0 +1,95 @@
+2650={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2649={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+2647={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2648={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+2652={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2651={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+2653={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2654={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+2660={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+2659={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2661={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+2658={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2657={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+2662={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2665={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=none
+}
+2664={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=none
+}
+2663={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+2656={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2655={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}

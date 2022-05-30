@@ -1,0 +1,335 @@
+473={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3699={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+3700={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+3701={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3708={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3706={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+3707={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+3709={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+475={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3697={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+3698={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3702={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3703={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3704={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+3705={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+474={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3696={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+472={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3710={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+482={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3730={
+	culture=roman
+	religion=hellenic_pagan
+	holding=church_holding
+}
+3731={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+3728={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3727={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3729={
+	culture=roman
+	religion=hellenic_pagan
+	holding=church_holding
+}
+485={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3725={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3726={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+476={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3801={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3737={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+3738={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+481={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3732={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3798={
+	culture=roman
+	religion=hellenic_pagan
+	holding=church_holding
+}
+3799={
+	culture=roman
+	religion=hellenic_pagan
+	holding=church_holding
+}
+3733={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3734={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+3800={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+477={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3736={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+478={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=none
+}
+3735={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+479={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+480={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3743={
+	culture=roman
+	religion=hellenic_pagan
+	holding=church_holding
+}
+3744={
+	culture=roman
+	religion=hellenic_pagan
+	holding=church_holding
+}
+3745={
+	culture=roman
+	religion=hellenic_pagan
+	holding=church_holding
+}
+3746={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+484={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3757={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3755={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3756={
+	culture=roman
+	religion=hellenic_pagan
+	holding=church_holding
+}
+744={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3749={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+3750={
+	culture=greek
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3751={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+3748={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+487={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3752={
+	culture=roman
+	religion=eleusinian_mysteries
+	holding=church_holding
+}
+3753={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+486={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3754={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+483={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3740={
+	culture=greek
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3741={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3742={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}

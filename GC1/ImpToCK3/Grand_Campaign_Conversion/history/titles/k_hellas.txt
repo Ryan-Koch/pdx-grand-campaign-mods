@@ -1,0 +1,101 @@
+k_hellas={
+	-22.9.3={ government="feudal_government" holder="imperator106128" liege="e_roman_empire" succession_laws={ "high_partition_succession_law" } }
+}
+d_athens={
+	4.1.1={ liege=0 }
+}
+c_attica={
+	-22.9.3={ liege=0 holder="imperator106128" }
+	4.1.1={ change_development_level=44 }
+}
+c_boeotia={
+	-22.9.3={ liege=0 holder="imperator106128" }
+	4.1.1={ change_development_level=35 }
+}
+c_euboea={
+	-22.9.3={ liege=0 holder="imperator106128" }
+	4.1.1={ change_development_level=41 }
+}
+d_achaia={
+	4.1.1={ liege=0 }
+}
+c_achaia={
+	-22.9.3={ liege=0 holder="imperator106128" }
+	4.1.1={ change_development_level=41 }
+}
+c_korinthos={
+	-22.9.3={ liege=0 holder="imperator106128" }
+	4.1.1={ change_development_level=47 }
+}
+c_messenia={
+	-22.9.3={ liege=0 holder="imperator106128" }
+	4.1.1={ change_development_level=38 }
+}
+c_laconia={
+	-22.9.3={ liege=0 holder="imperator106128" }
+	4.1.1={ change_development_level=38 }
+}
+d_aegean_islands={
+	4.1.1={ liege=0 }
+}
+c_naxos={
+	-22.9.3={ liege=0 holder="imperator106128" }
+	4.1.1={ change_development_level=44 }
+}
+c_abydos={
+	-35.11.4={ liege=0 holder="imperator106573" }
+	4.1.1={ change_development_level=44 }
+}
+c_lesbos={
+	-35.11.4={ liege=0 holder="imperator106573" }
+	4.1.1={ change_development_level=42 }
+}
+c_chios={
+	-35.11.4={ liege=0 holder="imperator106573" }
+	4.1.1={ change_development_level=49 }
+}
+c_rhodos={
+	-35.11.4={ liege=0 holder="imperator106573" }
+	4.1.1={ change_development_level=50 }
+}
+d_epirus={
+	4.1.1={ liege=0 }
+}
+c_nicopolis={
+	-22.9.3={ liege=0 holder="imperator106128" }
+	4.1.1={ change_development_level=38 }
+}
+c_epeiros={
+	-22.9.3={ liege=0 holder="imperator106128" }
+	4.1.1={ change_development_level=33 }
+}
+c_aetolia={
+	-22.9.3={ liege=0 holder="imperator106128" }
+	4.1.1={ change_development_level=29 }
+}
+c_metzovo={
+	-18.8.11={ liege=0 holder="imperator107534" }
+	4.1.1={ change_development_level=24 }
+}
+d_cephalonia={
+	4.1.1={ liege=0 }
+}
+c_cephalonia={
+	-22.9.3={ liege=0 holder="imperator106128" }
+	4.1.1={ change_development_level=43 }
+}
+c_buthrotum={
+	-22.9.3={ liege=0 holder="imperator106128" }
+	4.1.1={ change_development_level=43 }
+}
+d_krete={
+	4.1.1={ liege=0 }
+}
+c_chandax={
+	-22.9.3={ liege=0 holder="imperator106128" }
+	4.1.1={ change_development_level=48 }
+}
+c_chania={
+	-22.9.3={ liege=0 holder="imperator106128" }
+	4.1.1={ change_development_level=33 }
+}

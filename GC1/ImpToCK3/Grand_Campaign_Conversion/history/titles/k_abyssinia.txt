@@ -1,0 +1,90 @@
+k_abyssinia={
+	4.1.1={ liege=0 }
+}
+d_aksum={
+	4.1.1={ liege=0 }
+}
+c_tigre={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=37 }
+}
+c_serae={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=21 }
+}
+c_intarta={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=35 }
+}
+d_dahlaks={
+	4.1.1={ liege=0 }
+}
+c_dahlak={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=22 }
+}
+c_massawa={
+	4.1.1={ holder="0" liege=0 change_development_level=28 }
+}
+c_bur={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=5 }
+}
+d_lasta={
+	4.1.1={ liege=0 }
+}
+c_lasta={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=21 }
+}
+c_hayq={
+	4.1.1={ holder="0" liege=0 change_development_level=2 }
+}
+c_angot={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=6 }
+}
+c_amhara={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_gondar={
+	4.1.1={ liege=0 }
+}
+c_dembiya={
+	4.1.1={ holder="0" liege=0 change_development_level=1 }
+}
+c_begemder={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=20 }
+}
+c_semien={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=20 }
+}
+d_gojjam={
+	4.1.1={ liege=0 }
+}
+c_gojjam={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_gafat={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_agaw_meder={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_showa={
+	4.1.1={ liege=0 }
+}
+c_showa={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_fetegar={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_waj={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_ifat={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}

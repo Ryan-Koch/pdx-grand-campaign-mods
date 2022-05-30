@@ -1,0 +1,71 @@
+k_denmark={
+	4.1.1={ liege=0 }
+}
+d_sjaelland={
+	4.1.1={ liege=0 }
+}
+c_sjaelland={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=24 }
+}
+c_fyn={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=37 }
+}
+c_lolland_falster={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=15 }
+}
+d_skane={
+	4.1.1={ liege=0 }
+}
+c_skane={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=24 }
+}
+c_halland={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=20 }
+}
+c_bornholm={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=50 }
+}
+c_blekinge={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=12 }
+}
+d_jylland={
+	4.1.1={ liege=0 }
+}
+c_aarhus={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=45 }
+}
+c_viborg={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=36 }
+}
+c_ringkobing={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=19 }
+}
+c_aalborg={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=39 }
+}
+d_slesvig={
+	4.1.1={ liege=0 }
+}
+c_slesvig={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=36 }
+}
+c_vorbasse={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=27 }
+}
+c_ribe={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=15 }
+}

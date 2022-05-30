@@ -1,0 +1,60 @@
+674={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+675={
+	culture=greek
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5304={
+	culture=sarmatian
+	religion=hellenic_pagan
+	holding=none
+}
+5341={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+5305={
+	culture=sarmatian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5306={
+	culture=greek
+	religion=hellenic_pagan
+	holding=none
+}
+5342={
+	culture=greek
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5343={
+	culture=sarmatian
+	religion=scythian_pagan
+	holding=castle_holding
+}
+5307={
+	culture=sarmatian
+	religion=hellenic_pagan
+	holding=none
+}
+5308={
+	culture=sarmatian
+	religion=hellenic_pagan
+	holding=none
+}
+5309={
+	culture=sarmatian
+	religion=caucasian_pagan
+	holding=castle_holding
+}
+5310={
+	culture=sarmatian
+	religion=hellenic_pagan
+	holding=none
+}

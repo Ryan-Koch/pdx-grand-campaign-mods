@@ -1,0 +1,41 @@
+k_sardinia={
+	4.1.1={ liege=0 }
+}
+d_corsica={
+	4.1.1={ liege=0 }
+}
+c_ajaccio={
+	-39.3.8={ liege=0 holder="imperator105005" }
+	4.1.1={ change_development_level=29 }
+}
+c_bastia={
+	-39.3.8={ liege=0 holder="imperator105005" }
+	4.1.1={ change_development_level=51 }
+}
+c_vecchio={
+	-39.3.8={ liege=0 holder="imperator105005" }
+	4.1.1={ change_development_level=40 }
+}
+d_sardinia={
+	4.1.1={ liege=0 }
+}
+c_cagliari={
+	-39.3.8={ liege=0 holder="imperator105005" }
+	4.1.1={ change_development_level=53 }
+}
+c_arborea={
+	-39.3.8={ liege=0 holder="imperator105005" }
+	4.1.1={ change_development_level=41 }
+}
+c_gallura={
+	-39.3.8={ liege=0 holder="imperator105005" }
+	4.1.1={ change_development_level=42 }
+}
+c_logudoro={
+	-39.3.8={ liege=0 holder="imperator105005" }
+	4.1.1={ change_development_level=37 }
+}
+c_tortoli={
+	-39.3.8={ liege=0 holder="imperator105005" }
+	4.1.1={ change_development_level=43 }
+}

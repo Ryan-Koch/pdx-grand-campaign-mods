@@ -1,0 +1,65 @@
+1147={
+	culture=rajput
+	religion=vaishnavism
+	holding=castle_holding
+}
+1182={
+	culture=rajput
+	religion=vaishnavism
+	holding=city_holding
+}
+1183={
+	culture=bengali
+	religion=vaishnavism
+	holding=city_holding
+}
+1184={
+	culture=rajput
+	religion=srikula_shaktism
+	holding=city_holding
+}
+1185={
+	culture=rajput
+	religion=srikula_shaktism
+	holding=none
+}
+1187={
+	culture=rajput
+	religion=vaishnavism
+	holding=none
+}
+1188={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+1189={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+1194={
+	culture=bengali
+	religion=vaishnavism
+	holding=city_holding
+}
+1195={
+	culture=bengali
+	religion=vaishnavism
+	holding=city_holding
+}
+1262={
+	culture=rajput
+	religion=vaishnavism
+	holding=castle_holding
+}
+1263={
+	culture=rajput
+	religion=vaishnavism
+	holding=castle_holding
+}
+1287={
+	culture=rajput
+	religion=srikula_shaktism
+	holding=castle_holding
+}

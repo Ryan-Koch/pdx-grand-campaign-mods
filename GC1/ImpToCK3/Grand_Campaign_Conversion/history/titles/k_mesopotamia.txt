@@ -1,0 +1,95 @@
+k_mesopotamia={
+	4.1.1={ liege=0 }
+}
+d_samarra={
+	4.1.1={ liege=0 }
+}
+c_samarra={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=25 }
+}
+c_hulwan={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=42 }
+}
+c_kirkuk={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=40 }
+}
+c_takrit={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=40 }
+}
+d_wasit={
+	4.1.1={ liege=0 }
+}
+c_wasit={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=53 }
+}
+c_tib={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=41 }
+}
+d_kufa={
+	4.1.1={ liege=0 }
+}
+c_kufa={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=24 }
+}
+c_safata={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=8 }
+}
+c_qadisiya={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_batiha={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=63 }
+}
+c_akhadid={
+	4.1.1={ holder="0" liege=0 change_development_level=17 }
+}
+c_waqisa={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_basra={
+	4.1.1={ liege=0 }
+}
+c_basra={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=13 }
+}
+c_ubulla={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=9 }
+}
+c_rusafa={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=27 }
+}
+d_baghdad={
+	4.1.1={ liege=0 }
+}
+c_baghdad={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=64 }
+}
+c_iskaf={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=61 }
+}
+c_anbar={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=27 }
+}
+c_karbala={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=17 }
+}
+c_badaraya={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=39 }
+}

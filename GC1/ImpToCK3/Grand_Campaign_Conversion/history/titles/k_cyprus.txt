@@ -1,0 +1,14 @@
+k_cyprus={
+	4.1.1={ liege=0 }
+}
+d_cyprus={
+	4.1.1={ liege=0 }
+}
+c_nicosia={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=43 }
+}
+c_famagusta={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=46 }
+}

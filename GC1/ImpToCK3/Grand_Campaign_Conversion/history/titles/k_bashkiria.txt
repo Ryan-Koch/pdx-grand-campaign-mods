@@ -1,0 +1,39 @@
+k_bashkiria={
+	4.1.1={ liege=0 }
+}
+d_bashkiria={
+	4.1.1={ liege=0 }
+}
+c_ufa={
+	4.1.1={ change_development_level=0 }
+}
+c_yanokul={
+	4.1.1={ change_development_level=0 }
+}
+c_sakmara={
+	4.1.1={ change_development_level=0 }
+}
+d_uraltau={
+	4.1.1={ liege=0 }
+}
+c_uraltau={
+	4.1.1={ change_development_level=0 }
+}
+c_karabash={
+	4.1.1={ change_development_level=0 }
+}
+c_uiska={
+	4.1.1={ change_development_level=0 }
+}
+d_vogulia={
+	4.1.1={ liege=0 }
+}
+c_yekaterinburg={
+	4.1.1={ change_development_level=0 }
+}
+c_chadrinsk={
+	4.1.1={ change_development_level=0 }
+}
+c_chelabinsk={
+	4.1.1={ change_development_level=0 }
+}

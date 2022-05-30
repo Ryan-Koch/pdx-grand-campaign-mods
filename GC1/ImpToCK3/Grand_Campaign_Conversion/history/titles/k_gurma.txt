@@ -1,0 +1,45 @@
+k_gurma={
+	4.1.1={ liege=0 }
+}
+d_lower_gurma={
+	4.1.1={ liege=0 }
+}
+c_gurma={
+	4.1.1={ change_development_level=0 }
+}
+c_bura={
+	4.1.1={ change_development_level=0 }
+}
+c_say={
+	4.1.1={ change_development_level=0 }
+}
+c_biun={
+	4.1.1={ change_development_level=0 }
+}
+d_upper_gurma={
+	4.1.1={ liege=0 }
+}
+c_oudalan={
+	4.1.1={ change_development_level=0 }
+}
+c_kurumba={
+	4.1.1={ change_development_level=0 }
+}
+c_upper_gurma={
+	4.1.1={ change_development_level=0 }
+}
+d_yatenga={
+	4.1.1={ liege=0 }
+}
+c_yatenga={
+	4.1.1={ change_development_level=0 }
+}
+c_gondo={
+	4.1.1={ change_development_level=0 }
+}
+c_seno={
+	4.1.1={ change_development_level=0 }
+}
+c_bandiagara={
+	4.1.1={ change_development_level=0 }
+}

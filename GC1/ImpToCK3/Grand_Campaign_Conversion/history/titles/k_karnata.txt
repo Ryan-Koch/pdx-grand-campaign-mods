@@ -1,0 +1,63 @@
+k_karnata={
+	-16.3.1={ government="feudal_government" holder="imperator106724" liege="e_india" succession_laws={ "high_partition_succession_law" } }
+}
+d_gangavadi={
+	4.1.1={ liege=0 }
+}
+c_srirangapatna={
+	-16.3.1={ liege=0 holder="imperator106724" }
+	4.1.1={ change_development_level=32 }
+}
+c_mahishaka={
+	-16.3.1={ liege=0 holder="imperator106724" }
+	4.1.1={ change_development_level=24 }
+}
+c_talakad={
+	-16.3.1={ liege=0 holder="imperator106724" }
+	4.1.1={ change_development_level=21 }
+}
+d_nulambavadi={
+	4.1.1={ liege=0 }
+}
+c_uchangidurga={
+	-16.3.1={ liege=0 holder="imperator106724" }
+	4.1.1={ change_development_level=22 }
+}
+c_gutti={
+	-2.1.31={ liege=0 holder="imperator107980" }
+	4.1.1={ change_development_level=29 }
+}
+c_parivi={
+	-16.3.1={ liege=0 holder="imperator106724" }
+	4.1.1={ change_development_level=20 }
+}
+c_adoni={
+	-2.5.25={ liege=0 holder="imperator108408" }
+	4.1.1={ change_development_level=24 }
+}
+c_banavasi={
+	-16.3.1={ liege=0 holder="imperator106724" }
+	4.1.1={ change_development_level=13 }
+}
+d_chera_nadu={
+	4.1.1={ liege=0 }
+}
+c_kerala={
+	-16.3.1={ liege=0 holder="imperator106724" }
+	4.1.1={ change_development_level=29 }
+}
+c_venadu={
+	-16.3.1={ liege=0 holder="imperator106724" }
+	4.1.1={ change_development_level=31 }
+}
+c_alupa={
+	-16.3.1={ liege=0 holder="imperator106724" }
+	4.1.1={ change_development_level=28 }
+}
+c_eranad={
+	-16.3.1={ liege=0 holder="imperator106724" }
+	4.1.1={ change_development_level=28 }
+}
+c_maldives={
+	4.1.1={ holder="0" liege=0 change_development_level=6 }
+}

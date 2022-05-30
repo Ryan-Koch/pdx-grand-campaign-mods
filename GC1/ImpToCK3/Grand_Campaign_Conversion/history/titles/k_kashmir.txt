@@ -1,0 +1,91 @@
+k_kashmir={
+	-14.10.28={ government="feudal_government" holder="imperator107449" liege="e_india" succession_laws={ "high_partition_succession_law" } }
+}
+d_kasmira={
+	4.1.1={ liege=0 }
+}
+c_kasmira={
+	-14.10.28={ liege=0 holder="imperator107449" }
+	4.1.1={ change_development_level=29 }
+}
+c_allai={
+	-14.10.28={ liege=0 holder="imperator107449" }
+	4.1.1={ change_development_level=30 }
+}
+c_astore={
+	1.4.2={ liege=0 holder="imperator105917" }
+	4.1.1={ change_development_level=27 }
+}
+d_lahore={
+	4.1.1={ liege=0 }
+}
+c_lahur={
+	-14.10.28={ liege=0 holder="imperator107449" }
+	4.1.1={ change_development_level=34 }
+}
+c_dipalpur={
+	-14.10.28={ liege=0 holder="imperator107449" }
+	4.1.1={ change_development_level=9 }
+}
+c_bhera={
+	-14.10.28={ liege=0 holder="imperator107449" }
+	4.1.1={ change_development_level=31 }
+}
+c_shorkot={
+	-14.10.28={ liege=0 holder="imperator107449" }
+	4.1.1={ change_development_level=33 }
+}
+c_sakala={
+	-14.10.28={ liege=0 holder="imperator107449" }
+	4.1.1={ change_development_level=39 }
+}
+c_trigarta={
+	-14.10.28={ liege=0 holder="imperator107449" }
+	4.1.1={ change_development_level=31 }
+}
+c_kangra={
+	-14.10.28={ liege=0 holder="imperator107449" }
+	4.1.1={ change_development_level=14 }
+}
+c_gurjaratra={
+	-14.10.28={ liege=0 holder="imperator107449" }
+	4.1.1={ change_development_level=32 }
+}
+d_gandhara={
+	4.1.1={ liege=0 }
+}
+c_udabhanda={
+	-14.10.28={ liege=0 holder="imperator107449" }
+	4.1.1={ change_development_level=30 }
+}
+c_purushapura={
+	-14.10.28={ liege=0 holder="imperator107449" }
+	4.1.1={ change_development_level=21 }
+}
+c_nandana={
+	-14.10.28={ liege=0 holder="imperator107449" }
+	4.1.1={ change_development_level=34 }
+}
+c_bannu={
+	-14.10.28={ liege=0 holder="imperator107449" }
+	4.1.1={ change_development_level=26 }
+}
+c_urgun={
+	-14.10.28={ liege=0 holder="imperator107449" }
+	4.1.1={ change_development_level=20 }
+}
+d_haritanaka={
+	4.1.1={ liege=0 }
+}
+c_tribandapura={
+	-14.10.28={ liege=0 holder="imperator107449" }
+	4.1.1={ change_development_level=34 }
+}
+c_hisar={
+	-14.10.28={ liege=0 holder="imperator107449" }
+	4.1.1={ change_development_level=23 }
+}
+c_sarasvati={
+	-14.10.28={ liege=0 holder="imperator107449" }
+	4.1.1={ change_development_level=17 }
+}

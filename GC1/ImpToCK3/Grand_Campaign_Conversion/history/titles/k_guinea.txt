@@ -1,0 +1,84 @@
+k_guinea={
+	4.1.1={ liege=0 }
+}
+d_sapi={
+	4.1.1={ liege=0 }
+}
+c_temne={
+	4.1.1={ change_development_level=0 }
+}
+c_nalu={
+	4.1.1={ change_development_level=0 }
+}
+c_tamiso={
+	4.1.1={ change_development_level=0 }
+}
+c_sanda={
+	4.1.1={ change_development_level=0 }
+}
+d_kono={
+	4.1.1={ liege=0 }
+}
+c_kono={
+	4.1.1={ change_development_level=0 }
+}
+c_sherbro={
+	4.1.1={ change_development_level=0 }
+}
+c_gola={
+	4.1.1={ change_development_level=0 }
+}
+d_bassa={
+	4.1.1={ liege=0 }
+}
+c_bassa={
+	4.1.1={ change_development_level=0 }
+}
+c_nuon={
+	4.1.1={ change_development_level=0 }
+}
+c_man={
+	4.1.1={ change_development_level=0 }
+}
+d_toro={
+	4.1.1={ liege=0 }
+}
+c_toro={
+	4.1.1={ change_development_level=0 }
+}
+c_kabarasana={
+	4.1.1={ change_development_level=0 }
+}
+c_konyan={
+	4.1.1={ change_development_level=0 }
+}
+c_mau={
+	4.1.1={ change_development_level=0 }
+}
+c_toma={
+	4.1.1={ change_development_level=0 }
+}
+d_wenyon={
+	4.1.1={ liege=0 }
+}
+c_wenyon={
+	4.1.1={ change_development_level=0 }
+}
+c_grebo={
+	4.1.1={ change_development_level=0 }
+}
+d_kru={
+	4.1.1={ liege=0 }
+}
+c_kru={
+	4.1.1={ change_development_level=0 }
+}
+c_dibri={
+	4.1.1={ change_development_level=0 }
+}
+c_lobo={
+	4.1.1={ change_development_level=0 }
+}
+c_boubo={
+	4.1.1={ change_development_level=0 }
+}

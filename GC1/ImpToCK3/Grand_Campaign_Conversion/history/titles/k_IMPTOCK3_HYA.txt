@@ -1,0 +1,31 @@
+k_IMPTOCK3_HYA={
+	-304.10.1={ holder="imperator20879" government="feudal_government" }
+	-252.10.17={ holder="imperator33572" government="feudal_government" }
+	-238.2.1={ holder="imperator53706" government="feudal_government" }
+	-182.12.15={ holder="imperator67072" government="feudal_government" }
+	-166.1.20={ holder="imperator75949" government="feudal_government" }
+	-129.2.14={ holder="imperator91857" government="feudal_government" }
+	-67.6.28={ holder="imperator101384" government="feudal_government" }
+	-22.9.15={ holder="imperator105208" government="feudal_government" }
+	-9.4.27={ holder="imperator106616" government="feudal_government" }
+	4.1.1={ succession_laws={ "male_only_law" "single_heir_succession_law" } }
+}
+d_anupa={
+	4.1.1={ liege=0 }
+}
+c_mandapika={
+	-9.4.27={ liege=0 holder="imperator106616" }
+	4.1.1={ change_development_level=31 }
+}
+c_asirgarh={
+	-2.5.25={ liege=0 holder="imperator108408" }
+	4.1.1={ change_development_level=38 }
+}
+c_burhanpur={
+	-2.5.25={ liege=0 holder="imperator108408" }
+	4.1.1={ change_development_level=12 }
+}
+c_thalner={
+	-2.5.25={ liege=0 holder="imperator108408" }
+	4.1.1={ change_development_level=19 }
+}

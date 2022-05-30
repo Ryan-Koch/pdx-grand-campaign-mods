@@ -1,0 +1,230 @@
+1752={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1778={
+	culture=lusoiberian
+	religion=hellenic_pagan
+	holding=none
+}
+1779={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1780={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1754={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1755={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+1753={
+	culture=roman
+	religion=hellenic_pagan
+	holding=church_holding
+}
+1776={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1774={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1775={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1777={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1751={
+	culture=celtiberian
+	religion=hellenic_pagan
+	holding=church_holding
+}
+1831={
+	culture=lusoiberian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1830={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1917={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1954={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1832={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1833={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1835={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1836={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1990={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1834={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1955={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1956={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1996={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1997={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1998={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1760={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1761={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1762={
+	culture=roman
+	religion=hellenic_pagan
+	holding=church_holding
+}
+1766={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1763={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1764={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1765={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1767={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1758={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1757={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1756={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1769={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1770={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1759={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2003={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1768={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1773={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1771={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1772={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}

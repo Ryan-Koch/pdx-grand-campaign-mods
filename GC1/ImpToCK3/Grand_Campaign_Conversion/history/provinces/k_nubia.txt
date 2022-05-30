@@ -1,0 +1,390 @@
+6334={
+	culture=old_egyptian
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+6332={
+	culture=macedonian
+	religion=kushitism_pagan
+	holding=none
+}
+6333={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+6336={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+6335={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=city_holding
+}
+6337={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+6338={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=city_holding
+}
+6329={
+	culture=old_egyptian
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+6330={
+	culture=old_egyptian
+	religion=kushitism_pagan
+	holding=none
+}
+6331={
+	culture=old_egyptian
+	religion=kushitism_pagan
+	holding=none
+}
+6362={
+	culture=macedonian
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+6361={
+	culture=macedonian
+	religion=kushitism_pagan
+	holding=city_holding
+}
+6344={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+6341={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=none
+}
+6342={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=city_holding
+}
+6343={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=none
+}
+6345={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=none
+}
+6339={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+6340={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=none
+}
+6359={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=none
+}
+6346={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+6347={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=none
+}
+6348={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=none
+}
+6349={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=none
+}
+6360={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=none
+}
+6415={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6427={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6428={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6896={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6363={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+6364={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=none
+}
+6365={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=none
+}
+6366={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=none
+}
+6350={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=none
+}
+6356={
+	culture=macedonian
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+6355={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=none
+}
+6357={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=none
+}
+6358={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=city_holding
+}
+6389={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=none
+}
+6367={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+6368={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=city_holding
+}
+6369={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=city_holding
+}
+6352={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+6354={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=none
+}
+6370={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=none
+}
+6351={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+6353={
+	culture=macedonian
+	religion=kushitism_pagan
+	holding=none
+}
+6394={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+6391={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=none
+}
+6392={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=none
+}
+6395={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+6397={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+6407={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6408={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+6409={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=none
+}
+6410={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6396={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+6398={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=none
+}
+6399={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6401={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=none
+}
+6405={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6404={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6406={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6393={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+6390={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=none
+}
+6400={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6402={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6403={
+	culture=ethiopian
+	religion=arabic_pagan
+	holding=none
+}
+6432={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6433={
+	culture=ethiopian
+	religion=arabic_pagan
+	holding=none
+}
+6434={
+	culture=ethiopian
+	religion=arabic_pagan
+	holding=none
+}
+6435={
+	culture=ethiopian
+	religion=arabic_pagan
+	holding=none
+}
+6429={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+6430={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6431={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+8514={
+	culture=ethiopian
+	religion=arabic_pagan
+	holding=none
+}
+8515={
+	culture=ethiopian
+	religion=arabic_pagan
+	holding=none
+}
+8516={
+	culture=ethiopian
+	religion=arabic_pagan
+	holding=none
+}

@@ -1,0 +1,29 @@
+k_IMPTOCK3_ROM_cappadocia_region={
+	-17.8.12={ liege="e_roman_empire" holder="imperator107655" government="feudal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_cappadocia={
+	4.1.1={ liege=0 }
+}
+c_cappadocia={
+	-17.8.12={ liege=0 holder="imperator107655" }
+	4.1.1={ change_development_level=39 }
+}
+c_lower_galatia={
+	-17.8.12={ liege=0 holder="imperator107655" }
+	4.1.1={ change_development_level=42 }
+}
+d_charsianon={
+	4.1.1={ liege=0 }
+}
+c_charsianon={
+	-17.8.12={ liege=0 holder="imperator107655" }
+	4.1.1={ change_development_level=38 }
+}
+c_kaisereia={
+	-17.8.12={ liege=0 holder="imperator107655" }
+	4.1.1={ change_development_level=33 }
+}
+c_kyzistra={
+	-17.8.12={ liege=0 holder="imperator107655" }
+	4.1.1={ change_development_level=43 }
+}

@@ -1,0 +1,142 @@
+886={
+	culture=komi
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+5434={
+	holding=none
+}
+5436={
+	holding=none
+}
+5435={
+	holding=none
+}
+5437={
+	culture=komi
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+5438={
+	holding=none
+}
+5439={
+	holding=none
+}
+5440={
+	holding=none
+}
+5441={
+	culture=komi
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+5442={
+	holding=none
+}
+5443={
+	holding=none
+}
+5444={
+	holding=none
+}
+5445={
+	culture=komi
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+5446={
+	holding=none
+}
+5447={
+	holding=none
+}
+5448={
+	holding=none
+}
+889={
+	culture=komi
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+5453={
+	holding=none
+}
+5454={
+	holding=none
+}
+5449={
+	culture=komi
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+5450={
+	holding=none
+}
+5451={
+	holding=none
+}
+5452={
+	holding=none
+}
+5455={
+	culture=komi
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+5456={
+	holding=none
+}
+5457={
+	holding=none
+}
+888={
+	culture=komi
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+5458={
+	holding=none
+}
+5459={
+	holding=none
+}
+5460={
+	holding=none
+}
+5461={
+	culture=komi
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+5462={
+	holding=none
+}
+612={
+	holding=none
+}
+5463={
+	culture=komi
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+5464={
+	holding=none
+}
+5465={
+	holding=none
+}
+5466={
+	culture=komi
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+5467={
+	holding=none
+}
+5468={
+	holding=none
+}
+5469={
+	holding=none
+}

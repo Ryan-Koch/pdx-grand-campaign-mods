@@ -1,0 +1,114 @@
+k_sweden={
+	4.1.1={ liege=0 }
+}
+d_svealand={
+	4.1.1={ liege=0 }
+}
+c_upland={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=25 }
+}
+c_gastrikland={
+	4.1.1={ change_development_level=0 }
+}
+c_sodermannaland={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=16 }
+}
+c_aland={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_bergslagen={
+	4.1.1={ liege=0 }
+}
+c_vastmanland={
+	4.1.1={ change_development_level=0 }
+}
+c_varmland={
+	4.1.1={ change_development_level=0 }
+}
+c_dalarna={
+	4.1.1={ change_development_level=0 }
+}
+c_dalabergslagen={
+	4.1.1={ change_development_level=0 }
+}
+d_vastergotland={
+	4.1.1={ liege=0 }
+}
+c_vastergotland={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=15 }
+}
+c_skara={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=17 }
+}
+c_dal={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=25 }
+}
+c_nordmark={
+	4.1.1={ change_development_level=0 }
+}
+d_ostergotland={
+	4.1.1={ liege=0 }
+}
+c_ostergotland={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=13 }
+}
+c_kinda={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=10 }
+}
+c_narke={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=17 }
+}
+d_smaland={
+	4.1.1={ liege=0 }
+}
+c_more={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=14 }
+}
+c_sevede={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=23 }
+}
+c_varend={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=13 }
+}
+c_njudung={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=20 }
+}
+c_finnveden={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=26 }
+}
+c_oland={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=14 }
+}
+d_norrland={
+	4.1.1={ liege=0 }
+}
+c_halsingland={
+	4.1.1={ change_development_level=0 }
+}
+c_medelpad={
+	4.1.1={ change_development_level=0 }
+}
+c_angermanland={
+	4.1.1={ change_development_level=0 }
+}
+d_gotland={
+	4.1.1={ liege=0 }
+}
+c_gutland={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=9 }
+}

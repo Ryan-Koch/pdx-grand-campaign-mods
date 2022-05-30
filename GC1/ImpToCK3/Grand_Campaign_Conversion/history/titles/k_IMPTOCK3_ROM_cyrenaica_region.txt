@@ -1,0 +1,32 @@
+k_IMPTOCK3_ROM_cyrenaica_region={
+	-23.12.24={ liege="e_roman_empire" holder="imperator103731" government="feudal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_tripolitania={
+	4.1.1={ liege=0 }
+}
+c_tripolitana={
+	-23.12.24={ liege=0 holder="imperator103731" }
+	4.1.1={ change_development_level=20 }
+}
+c_djerba={
+	-16.11.23={ liege=0 holder="imperator105940" }
+	4.1.1={ change_development_level=34 }
+}
+c_jafara={
+	-16.11.23={ liege=0 holder="imperator105940" }
+	4.1.1={ change_development_level=14 }
+}
+d_syrte={
+	4.1.1={ liege=0 }
+}
+c_syrte={
+	-23.12.24={ liege=0 holder="imperator103731" }
+	4.1.1={ change_development_level=42 }
+}
+c_labda={
+	-23.12.24={ liege=0 holder="imperator103731" }
+	4.1.1={ change_development_level=38 }
+}
+c_waddan={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}

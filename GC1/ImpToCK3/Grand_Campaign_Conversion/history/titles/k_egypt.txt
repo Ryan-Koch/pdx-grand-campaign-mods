@@ -1,0 +1,138 @@
+k_egypt={
+	4.1.1={ liege=0 }
+}
+d_cyrenaica={
+	4.1.1={ liege=0 }
+}
+c_barqa={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=51 }
+}
+c_awjila={
+	4.1.1={ holder="0" liege=0 change_development_level=24 }
+}
+c_derna={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=52 }
+}
+c_tobruk={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=45 }
+}
+d_alexandria={
+	4.1.1={ liege=0 }
+}
+c_alexandria={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=59 }
+}
+c_sullum={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=51 }
+}
+c_siwa={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=49 }
+}
+d_delta={
+	4.1.1={ liege=0 }
+}
+c_damietta={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=52 }
+}
+c_al-buhaira={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=71 }
+}
+c_al-gharbiya={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=55 }
+}
+c_sharkiya={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=57 }
+}
+d_cairo={
+	4.1.1={ liege=0 }
+}
+c_cairo={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=62 }
+}
+c_giza={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=51 }
+}
+c_fayyum={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=59 }
+}
+d_al-wahat={
+	4.1.1={ liege=0 }
+}
+c_bahriya={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=47 }
+}
+c_farafra={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=47 }
+}
+c_dakhla={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=55 }
+}
+c_kharga={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=48 }
+}
+d_al-said={
+	4.1.1={ liege=0 }
+}
+c_qus={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=52 }
+}
+c_bahnasa={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=52 }
+}
+c_ushmun={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=53 }
+}
+c_asyut={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=38 }
+}
+c_aswan={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=35 }
+}
+d_eastern_desert={
+	4.1.1={ liege=0 }
+}
+c_qusayr={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=47 }
+}
+c_jabal_quzlum={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=15 }
+}
+d_sinai={
+	4.1.1={ liege=0 }
+}
+c_farama={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=51 }
+}
+c_sinai={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=40 }
+}
+c_firaun={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=45 }
+}

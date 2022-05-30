@@ -1,0 +1,530 @@
+9051={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}
+9052={
+	culture=zhangzhung
+	religion=old_bon
+	holding=castle_holding
+}
+9053={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}
+9054={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}
+9055={
+	culture=zhangzhung
+	religion=old_bon
+	holding=castle_holding
+}
+9056={
+	culture=zhangzhung
+	religion=old_bon
+	holding=castle_holding
+}
+9057={
+	culture=zhangzhung
+	religion=old_bon
+	holding=city_holding
+}
+9058={
+	culture=zhangzhung
+	religion=old_bon
+	holding=castle_holding
+}
+9059={
+	culture=zhangzhung
+	religion=old_bon
+	holding=city_holding
+}
+9060={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}
+9061={
+	culture=zhangzhung
+	religion=old_bon
+	holding=castle_holding
+}
+9062={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}
+9063={
+	culture=zhangzhung
+	religion=old_bon
+	holding=tribal_holding
+}
+9064={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}
+9065={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}
+9066={
+	culture=sumpa
+	religion=old_bon
+	holding=castle_holding
+}
+9067={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}
+9068={
+	culture=zhangzhung
+	religion=old_bon
+	holding=castle_holding
+}
+9069={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}
+9070={
+	culture=zhangzhung
+	religion=old_bon
+	holding=castle_holding
+}
+9071={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}
+9072={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+9073={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}
+9074={
+	culture=sumpa
+	religion=old_bon
+	holding=castle_holding
+}
+9075={
+	culture=sumpa
+	religion=old_bon
+	holding=castle_holding
+}
+9076={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+9077={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+9078={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+9079={
+	culture=nepali
+	religion=old_bon
+	holding=none
+}
+9080={
+	culture=nepali
+	religion=old_bon
+	holding=none
+}
+9084={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+9085={
+	culture=nepali
+	religion=old_bon
+	holding=none
+}
+9086={
+	culture=zhangzhung
+	religion=old_bon
+	holding=church_holding
+}
+9202={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+9099={
+	culture=nepali
+	religion=old_bon
+	holding=none
+}
+9100={
+	culture=kirati
+	religion=old_bon
+	holding=none
+}
+9101={
+	culture=kirati
+	religion=old_bon
+	holding=castle_holding
+}
+9102={
+	culture=nepali
+	religion=old_bon
+	holding=none
+}
+9103={
+	culture=nepali
+	religion=old_bon
+	holding=none
+}
+9104={
+	culture=nepali
+	religion=old_bon
+	holding=none
+}
+9105={
+	culture=nepali
+	religion=old_bon
+	holding=none
+}
+9106={
+	culture=assamese
+	religion=shaivism
+	holding=church_holding
+}
+9107={
+	culture=hindustani
+	religion=vaishnavism
+	holding=church_holding
+}
+9108={
+	culture=assamese
+	religion=shaivism
+	holding=castle_holding
+}
+9109={
+	culture=assamese
+	religion=vaishnavism
+	holding=castle_holding
+}
+9110={
+	culture=assamese
+	religion=vaishnavism
+	holding=church_holding
+}
+9111={
+	culture=assamese
+	religion=shaivism
+	holding=castle_holding
+}
+9112={
+	culture=assamese
+	religion=vaishnavism
+	holding=church_holding
+}
+9113={
+	culture=nepali
+	religion=old_bon
+	holding=none
+}
+9115={
+	culture=bengali
+	religion=shaivism
+	holding=none
+}
+9116={
+	culture=bengali
+	religion=shaivism
+	holding=castle_holding
+}
+9117={
+	culture=bengali
+	religion=shaivism
+	holding=castle_holding
+}
+9118={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+9122={
+	culture=bengali
+	religion=shaivism
+	holding=none
+}
+9123={
+	culture=bengali
+	religion=shaivism
+	holding=none
+}
+9130={
+	culture=bengali
+	religion=shaivism
+	holding=castle_holding
+}
+9131={
+	culture=bengali
+	religion=shaivism
+	holding=castle_holding
+}
+9132={
+	culture=bengali
+	religion=shaivism
+	holding=none
+}
+1351={
+	culture=zhangzhung
+	religion=old_bon
+	holding=castle_holding
+}
+7951={
+	culture=zhangzhung
+	religion=vaishnavism
+	holding=castle_holding
+}
+7952={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}
+7953={
+	culture=sumpa
+	religion=old_bon
+	holding=castle_holding
+}
+7954={
+	culture=zhangzhung
+	religion=old_bon
+	holding=castle_holding
+}
+7955={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}
+7956={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}
+7957={
+	culture=bactrian
+	religion=old_bon
+	holding=castle_holding
+}
+9002={
+	culture=zhangzhung
+	religion=old_bon
+	holding=castle_holding
+}
+9003={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+9004={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}
+9005={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+9006={
+	culture=sumpa
+	religion=old_bon
+	holding=castle_holding
+}
+9007={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+9008={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+9009={
+	culture=sumpa
+	religion=old_bon
+	holding=castle_holding
+}
+9010={
+	culture=zhangzhung
+	religion=old_bon
+	holding=city_holding
+}
+9011={
+	culture=zhangzhung
+	religion=old_bon
+	holding=city_holding
+}
+9012={
+	culture=saka
+	religion=melieism
+	holding=none
+}
+9013={
+	culture=zhangzhung
+	religion=old_bon
+	holding=castle_holding
+}
+9014={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}
+9015={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}
+9016={
+	culture=zhangzhung
+	religion=old_bon
+	holding=castle_holding
+}
+9017={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+9018={
+	culture=zhangzhung
+	religion=old_bon
+	holding=castle_holding
+}
+9019={
+	culture=zhangzhung
+	religion=old_bon
+	holding=city_holding
+}
+9020={
+	culture=zhangzhung
+	religion=old_bon
+	holding=castle_holding
+}
+9021={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}
+9022={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}
+9023={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}
+9026={
+	culture=zhangzhung
+	religion=old_bon
+	holding=castle_holding
+}
+9027={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}
+9028={
+	culture=zhangzhung
+	religion=old_bon
+	holding=castle_holding
+}
+9029={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}
+9030={
+	culture=sumpa
+	religion=old_bon
+	holding=castle_holding
+}
+9031={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}
+9032={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}
+9033={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}
+9034={
+	culture=saka
+	religion=melieism
+	holding=none
+}
+9035={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}
+9036={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}
+9037={
+	culture=zhangzhung
+	religion=old_bon
+	holding=castle_holding
+}
+9038={
+	culture=sumpa
+	religion=old_bon
+	holding=castle_holding
+}
+9039={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}
+9040={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}
+9041={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}
+9042={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}
+9043={
+	culture=zhangzhung
+	religion=old_bon
+	holding=none
+}

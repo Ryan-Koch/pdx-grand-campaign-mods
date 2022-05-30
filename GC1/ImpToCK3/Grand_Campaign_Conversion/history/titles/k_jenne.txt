@@ -1,0 +1,27 @@
+k_jenne={
+	4.1.1={ liege=0 }
+}
+d_jenne={
+	4.1.1={ liege=0 }
+}
+c_jenne={
+	4.1.1={ change_development_level=0 }
+}
+c_dodugu={
+	4.1.1={ change_development_level=0 }
+}
+c_bindugu={
+	4.1.1={ change_development_level=0 }
+}
+c_kurmina={
+	4.1.1={ change_development_level=0 }
+}
+d_bobo={
+	4.1.1={ liege=0 }
+}
+c_sikasso={
+	4.1.1={ change_development_level=0 }
+}
+c_bena={
+	4.1.1={ change_development_level=0 }
+}

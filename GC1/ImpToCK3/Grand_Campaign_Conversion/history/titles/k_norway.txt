@@ -1,0 +1,115 @@
+k_norway={
+	4.1.1={ liege=0 }
+}
+d_viken={
+	4.1.1={ liege=0 }
+}
+c_vingulmork={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=10 }
+}
+c_raniriki={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=20 }
+}
+c_vestfold={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=9 }
+}
+c_telemark={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=11 }
+}
+d_agder={
+	4.1.1={ liege=0 }
+}
+c_nedenes={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=17 }
+}
+c_agdeside={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=12 }
+}
+d_vestlandi={
+	4.1.1={ liege=0 }
+}
+c_rogalandi={
+	-28.12.7={ liege=0 holder="imperator104644" }
+	4.1.1={ change_development_level=25 }
+}
+c_hordalandi={
+	4.1.1={ change_development_level=0 }
+}
+c_sogn={
+	4.1.1={ change_development_level=0 }
+}
+d_trandalog={
+	4.1.1={ liege=0 }
+}
+c_trandheim={
+	4.1.1={ change_development_level=0 }
+}
+c_norwegian_more={
+	4.1.1={ change_development_level=0 }
+}
+c_firdafylki={
+	4.1.1={ change_development_level=0 }
+}
+d_dalir={
+	4.1.1={ liege=0 }
+}
+c_hedmork={
+	4.1.1={ change_development_level=0 }
+}
+c_gudbrandsdalir={
+	4.1.1={ change_development_level=0 }
+}
+c_eystridalir={
+	4.1.1={ change_development_level=0 }
+}
+c_gauldala={
+	4.1.1={ change_development_level=0 }
+}
+d_halogaland={
+	4.1.1={ liege=0 }
+}
+c_vastvag={
+	4.1.1={ change_development_level=0 }
+}
+c_bothin={
+	4.1.1={ change_development_level=0 }
+}
+c_namdalfylki={
+	4.1.1={ change_development_level=0 }
+}
+d_iceland={
+	4.1.1={ liege=0 }
+}
+c_vestisland={
+	4.1.1={ change_development_level=0 }
+}
+c_nordrland={
+	4.1.1={ change_development_level=0 }
+}
+c_austisland={
+	4.1.1={ change_development_level=0 }
+}
+c_sudurland={
+	4.1.1={ change_development_level=0 }
+}
+d_jamtland={
+	4.1.1={ liege=0 }
+}
+c_jamtfir={
+	4.1.1={ change_development_level=0 }
+}
+c_morarna={
+	4.1.1={ change_development_level=0 }
+}
+c_helgum={
+	4.1.1={ change_development_level=0 }
+}
+c_harjadalen={
+	4.1.1={ change_development_level=0 }
+}

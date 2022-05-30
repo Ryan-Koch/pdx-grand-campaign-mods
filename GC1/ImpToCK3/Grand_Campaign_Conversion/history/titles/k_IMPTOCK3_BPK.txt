@@ -1,0 +1,30 @@
+k_IMPTOCK3_BPK={
+	-304.10.1={ holder="imperator193" government="feudal_government" }
+	-282.6.14={ holder="imperator32352" government="feudal_government" }
+	-250.5.20={ holder="imperator45168" government="feudal_government" }
+	-205.10.2={ holder="imperator57876" government="feudal_government" }
+	-174.1.31={ holder="imperator67478" government="feudal_government" }
+	-154.2.27={ holder="imperator87383" government="feudal_government" }
+	-123.9.24={ holder="imperator92368" government="feudal_government" }
+	-113.10.11={ holder="imperator87405" government="feudal_government" }
+	-103.8.17={ holder="imperator97745" government="feudal_government" }
+	-55.7.3={ holder="imperator100262" government="feudal_government" }
+	-18.11.3={ holder="imperator104303" government="feudal_government" }
+	2.1.20={ holder="imperator107618" government="feudal_government" }
+	4.1.1={ succession_laws={ "male_only_law" "single_heir_succession_law" } }
+}
+d_ciscaucasia={
+	4.1.1={ liege=0 }
+}
+c_derbent={
+	-8.6.16={ liege=0 holder="imperator107476" }
+	4.1.1={ change_development_level=9 }
+}
+c_samander={
+	2.1.20={ liege=0 holder="imperator107618" }
+	4.1.1={ change_development_level=17 }
+}
+c_samiran={
+	2.1.20={ liege=0 holder="imperator107618" }
+	4.1.1={ change_development_level=23 }
+}

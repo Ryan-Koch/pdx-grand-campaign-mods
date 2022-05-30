@@ -1,0 +1,72 @@
+k_finland={
+	4.1.1={ liege=0 }
+}
+d_finland={
+	4.1.1={ liege=0 }
+}
+c_finland={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_nyland={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_satakunta={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_messukyla={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_tavasts={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_savo={
+	4.1.1={ liege=0 }
+}
+c_olavinlinna={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_sysma={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_pielinen={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_pohjanmaa={
+	4.1.1={ liege=0 }
+}
+c_oulu={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_pedersore={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_mustasaari={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_kainuu={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_karelia={
+	4.1.1={ liege=0 }
+}
+c_kakisalmi={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_viipuri={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_sortavala={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_salinis={
+	4.1.1={ change_development_level=0 }
+}
+c_onega={
+	4.1.1={ change_development_level=0 }
+}
+c_viena={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_kontupohja={
+	4.1.1={ change_development_level=0 }
+}

@@ -1,0 +1,251 @@
+1273={
+	culture=kimek
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7259={
+	holding=none
+}
+7260={
+	holding=none
+}
+7261={
+	holding=none
+}
+7256={
+	culture=kimek
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7254={
+	holding=none
+}
+7255={
+	holding=none
+}
+7257={
+	culture=kimek
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7258={
+	holding=none
+}
+7263={
+	culture=kimek
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7262={
+	holding=none
+}
+7267={
+	holding=none
+}
+7268={
+	holding=none
+}
+7266={
+	culture=kimek
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7264={
+	holding=none
+}
+7265={
+	holding=none
+}
+895={
+	culture=bashkir
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+5890={
+	holding=none
+}
+5891={
+	holding=none
+}
+5892={
+	culture=bashkir
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+5893={
+	holding=none
+}
+5894={
+	holding=none
+}
+5895={
+	holding=none
+}
+7035={
+	culture=khanty
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7019={
+	holding=none
+}
+7021={
+	holding=none
+}
+7025={
+	culture=kimek
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7022={
+	holding=none
+}
+7024={
+	holding=none
+}
+7356={
+	holding=none
+}
+7253={
+	holding=none
+}
+7020={
+	culture=khanty
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7018={
+	holding=none
+}
+7058={
+	holding=none
+}
+7026={
+	culture=kimek
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7023={
+	holding=none
+}
+7042={
+	culture=cuman
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7277={
+	holding=none
+}
+7278={
+	holding=none
+}
+7280={
+	holding=none
+}
+7281={
+	holding=none
+}
+7282={
+	culture=cuman
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+1433={
+	holding=none
+}
+7283={
+	holding=none
+}
+7284={
+	holding=none
+}
+7285={
+	holding=none
+}
+7272={
+	culture=cuman
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7269={
+	holding=none
+}
+7270={
+	holding=none
+}
+7271={
+	holding=none
+}
+7276={
+	holding=none
+}
+7274={
+	culture=cuman
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7273={
+	holding=none
+}
+7275={
+	holding=none
+}
+7279={
+	holding=none
+}
+1435={
+	culture=kipchak
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7040={
+	holding=none
+}
+7288={
+	holding=none
+}
+7359={
+	holding=none
+}
+7038={
+	culture=kimek
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7036={
+	holding=none
+}
+7037={
+	holding=none
+}
+7039={
+	holding=none
+}
+7357={
+	holding=none
+}
+7358={
+	holding=none
+}
+7059={
+	culture=kipchak
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7060={
+	holding=none
+}
+7061={
+	holding=none
+}
+7062={
+	culture=laktan
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7063={
+	holding=none
+}
+7064={
+	holding=none
+}

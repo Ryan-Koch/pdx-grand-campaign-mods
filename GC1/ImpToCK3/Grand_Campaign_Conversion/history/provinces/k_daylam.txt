@@ -1,0 +1,130 @@
+4001={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4000={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+4004={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4325={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4326={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4327={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4323={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4006={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4324={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4312={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4310={
+	culture=parthian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+4311={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+4005={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4313={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4314={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4317={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4315={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4316={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4029={
+	culture=macedonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4028={
+	culture=parthian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+4030={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+4031={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4032={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4033={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4034={
+	culture=scythian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4035={
+	culture=scythian
+	religion=mesopotamian_pagan
+	holding=none
+}

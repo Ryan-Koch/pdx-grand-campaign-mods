@@ -1,0 +1,104 @@
+k_nubia={
+	4.1.1={ liege=0 }
+}
+d_nobatia={
+	4.1.1={ liege=0 }
+}
+c_qasr_ibrim={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=51 }
+}
+c_faras={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=51 }
+}
+c_batn_al-hajar={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=50 }
+}
+c_qurta={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=26 }
+}
+c_kalabsha={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=53 }
+}
+d_makuria={
+	4.1.1={ liege=0 }
+}
+c_dongola={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=50 }
+}
+c_sai={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=48 }
+}
+c_meroe={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=43 }
+}
+c_wadi_el-milk={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_abwab={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=43 }
+}
+c_atbara={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=43 }
+}
+d_shamir={
+	4.1.1={ liege=0 }
+}
+c_shamir={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=54 }
+}
+c_abu_hammad={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=30 }
+}
+c_kurgus={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=30 }
+}
+d_alwa={
+	4.1.1={ liege=0 }
+}
+c_alodia={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=31 }
+}
+c_naga={
+	4.1.1={ holder="0" liege=0 change_development_level=24 }
+}
+c_gezira={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=34 }
+}
+c_eleila={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_ushara={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=34 }
+}
+d_sennar={
+	4.1.1={ liege=0 }
+}
+c_sennar={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_fazughli={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_tagali={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=6 }
+}
+c_gumuz={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}

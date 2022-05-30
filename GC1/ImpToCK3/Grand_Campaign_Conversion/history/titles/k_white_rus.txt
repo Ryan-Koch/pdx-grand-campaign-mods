@@ -1,0 +1,57 @@
+k_white_rus={
+	4.1.1={ liege=0 }
+}
+d_pinsk={
+	4.1.1={ liege=0 }
+}
+c_pinsk={
+	4.1.1={ change_development_level=0 }
+}
+c_slutsk={
+	4.1.1={ change_development_level=0 }
+}
+c_kletsk={
+	4.1.1={ change_development_level=0 }
+}
+c_babruysk={
+	4.1.1={ change_development_level=0 }
+}
+d_minsk={
+	4.1.1={ liege=0 }
+}
+c_minsk={
+	4.1.1={ change_development_level=0 }
+}
+c_orsha={
+	4.1.1={ change_development_level=0 }
+}
+d_polotsk={
+	4.1.1={ liege=0 }
+}
+c_polotsk={
+	4.1.1={ change_development_level=0 }
+}
+c_lukoml={
+	4.1.1={ change_development_level=0 }
+}
+c_vitebsk={
+	4.1.1={ change_development_level=0 }
+}
+d_smolensk={
+	4.1.1={ liege=0 }
+}
+c_smolensk={
+	4.1.1={ change_development_level=0 }
+}
+c_gnezdovo={
+	4.1.1={ change_development_level=0 }
+}
+c_roslavl={
+	4.1.1={ change_development_level=0 }
+}
+c_mozhaysk={
+	4.1.1={ change_development_level=0 }
+}
+c_toropets={
+	4.1.1={ change_development_level=0 }
+}

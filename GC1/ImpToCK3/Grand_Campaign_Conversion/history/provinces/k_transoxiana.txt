@@ -1,0 +1,55 @@
+4528={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4524={
+	culture=parthian
+	religion=scythian_pagan
+	holding=none
+}
+4525={
+	culture=scythian
+	religion=scythian_pagan
+	holding=church_holding
+}
+4526={
+	culture=parthian
+	religion=scythian_pagan
+	holding=none
+}
+4527={
+	culture=scythian
+	religion=scythian_pagan
+	holding=city_holding
+}
+4529={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+4530={
+	culture=scythian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4415={
+	culture=scythian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+4531={
+	culture=scythian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4532={
+	culture=scythian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4533={
+	culture=scythian
+	religion=mesopotamian_pagan
+	holding=none
+}

@@ -1,0 +1,60 @@
+k_angara={
+	4.1.1={ liege=0 }
+}
+d_yenisei_kan={
+	4.1.1={ liege=0 }
+}
+c_krasnoyarsk={
+	4.1.1={ change_development_level=0 }
+}
+c_mana={
+	4.1.1={ change_development_level=0 }
+}
+c_shishina={
+	4.1.1={ change_development_level=0 }
+}
+c_kansk={
+	4.1.1={ change_development_level=0 }
+}
+c_tagul={
+	4.1.1={ change_development_level=0 }
+}
+d_chuna_valley={
+	4.1.1={ liege=0 }
+}
+c_chuna={
+	4.1.1={ change_development_level=0 }
+}
+c_bratsk={
+	4.1.1={ change_development_level=0 }
+}
+c_tulun={
+	4.1.1={ change_development_level=0 }
+}
+d_lena={
+	4.1.1={ liege=0 }
+}
+c_lena={
+	4.1.1={ change_development_level=0 }
+}
+c_ilga={
+	4.1.1={ change_development_level=0 }
+}
+c_gatsuurgazar={
+	4.1.1={ change_development_level=0 }
+}
+d_angara={
+	4.1.1={ liege=0 }
+}
+c_kitoi={
+	4.1.1={ change_development_level=0 }
+}
+c_kymyl_tey={
+	4.1.1={ change_development_level=0 }
+}
+c_okangara={
+	4.1.1={ change_development_level=0 }
+}
+c_kada={
+	4.1.1={ change_development_level=0 }
+}

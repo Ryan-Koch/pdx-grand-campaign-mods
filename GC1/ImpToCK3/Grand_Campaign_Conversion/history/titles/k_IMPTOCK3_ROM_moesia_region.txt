@@ -1,0 +1,132 @@
+k_IMPTOCK3_ROM_moesia_region={
+	-12.9.3={ liege="e_roman_empire" holder="imperator107472" government="feudal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_lower_bosna={
+	4.1.1={ liege=0 }
+}
+c_soli={
+	-12.9.3={ liege=0 holder="imperator107472" }
+	4.1.1={ change_development_level=25 }
+}
+c_usora={
+	-12.9.3={ liege=0 holder="imperator107472" }
+	4.1.1={ change_development_level=45 }
+}
+c_vodica={
+	-3.6.22={ liege=0 holder="imperator108236" }
+	4.1.1={ change_development_level=43 }
+}
+c_vrbas={
+	-3.6.22={ liege=0 holder="imperator108236" }
+	4.1.1={ change_development_level=42 }
+}
+d_macva={
+	4.1.1={ liege=0 }
+}
+c_macva={
+	-12.9.3={ liege=0 holder="imperator107472" }
+	4.1.1={ change_development_level=43 }
+}
+c_beograd={
+	-12.9.3={ liege=0 holder="imperator107472" }
+	4.1.1={ change_development_level=43 }
+}
+d_vidin={
+	4.1.1={ liege=0 }
+}
+c_vidin={
+	-12.9.3={ liege=0 holder="imperator107472" }
+	4.1.1={ change_development_level=43 }
+}
+c_branicevo={
+	-12.9.3={ liege=0 holder="imperator107472" }
+	4.1.1={ change_development_level=44 }
+}
+d_bulgaria={
+	4.1.1={ liege=0 }
+}
+c_naissus={
+	-12.9.3={ liege=0 holder="imperator107472" }
+	4.1.1={ change_development_level=35 }
+}
+c_pomoravlje={
+	-18.8.11={ liege=0 holder="imperator107534" }
+	4.1.1={ change_development_level=33 }
+}
+c_velbazhd={
+	-18.8.11={ liege=0 holder="imperator107534" }
+	4.1.1={ change_development_level=28 }
+}
+c_pirin={
+	-18.8.11={ liege=0 holder="imperator107534" }
+	4.1.1={ change_development_level=28 }
+}
+c_strumica={
+	-18.8.11={ liege=0 holder="imperator107534" }
+	4.1.1={ change_development_level=36 }
+}
+c_skopje={
+	-18.8.11={ liege=0 holder="imperator107534" }
+	4.1.1={ change_development_level=22 }
+}
+c_ohrid={
+	-18.8.11={ liege=0 holder="imperator107534" }
+	4.1.1={ change_development_level=30 }
+}
+d_transylvanian_alps={
+	4.1.1={ liege=0 }
+}
+c_campulung={
+	-12.9.3={ liege=0 holder="imperator107472" }
+	4.1.1={ change_development_level=28 }
+}
+c_polovragi={
+	-12.9.3={ liege=0 holder="imperator107472" }
+	4.1.1={ change_development_level=43 }
+}
+c_tabla_butii={
+	-12.9.3={ liege=0 holder="imperator107472" }
+	4.1.1={ change_development_level=42 }
+}
+d_muntenia={
+	4.1.1={ liege=0 }
+}
+c_giurgiu={
+	-12.9.3={ liege=0 holder="imperator107472" }
+	4.1.1={ change_development_level=35 }
+}
+c_bucuresti={
+	-12.9.3={ liege=0 holder="imperator107472" }
+	4.1.1={ change_development_level=48 }
+}
+c_calarasi={
+	-12.9.3={ liege=0 holder="imperator107472" }
+	4.1.1={ change_development_level=45 }
+}
+c_buzau={
+	-12.9.3={ liege=0 holder="imperator107472" }
+	4.1.1={ change_development_level=42 }
+}
+c_braila={
+	-12.9.3={ liege=0 holder="imperator107472" }
+	4.1.1={ change_development_level=42 }
+}
+d_oltenia={
+	4.1.1={ liege=0 }
+}
+c_targu_jiu={
+	-12.9.3={ liege=0 holder="imperator107472" }
+	4.1.1={ change_development_level=42 }
+}
+c_severin={
+	-12.9.3={ liege=0 holder="imperator107472" }
+	4.1.1={ change_development_level=42 }
+}
+c_calafat={
+	-12.9.3={ liege=0 holder="imperator107472" }
+	4.1.1={ change_development_level=42 }
+}
+c_craiova={
+	-12.9.3={ liege=0 holder="imperator107472" }
+	4.1.1={ change_development_level=43 }
+}

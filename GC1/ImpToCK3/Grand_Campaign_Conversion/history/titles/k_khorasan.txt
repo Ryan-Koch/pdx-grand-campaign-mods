@@ -1,0 +1,61 @@
+k_khorasan={
+	-304.10.1={ government="feudal_government" holder="imperator154" }
+	-284.10.31={ government="feudal_government" holder="imperator33162" }
+	-279.8.24={ government="feudal_government" holder="imperator26061" }
+	-249.1.22={ government="feudal_government" holder="imperator32657" }
+	-219.7.15={ government="feudal_government" holder="imperator59944" }
+	-167.8.22={ government="feudal_government" holder="imperator71313" }
+	-143.5.14={ government="feudal_government" holder="imperator87726" }
+	-94.2.3={ government="feudal_government" holder="imperator97535" }
+	-67.1.10={ government="feudal_government" holder="imperator101946" }
+	-2.6.7={ government="feudal_government" holder="imperator106067" }
+	4.1.1={ succession_laws={ "male_only_law" "single_heir_succession_law" } }
+}
+d_nishapur={
+	4.1.1={ liege=0 }
+}
+c_nishapur={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=45 }
+}
+c_tus={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=37 }
+}
+c_samaiqan={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=38 }
+}
+c_juwain={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=48 }
+}
+c_baihaq={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=52 }
+}
+c_damghan={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=43 }
+}
+d_nasa={
+	4.1.1={ liege=0 }
+}
+c_abivard={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=40 }
+}
+c_farava={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=29 }
+}
+d_kohestan={
+	4.1.1={ liege=0 }
+}
+c_qain={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=23 }
+}
+c_tun={
+	4.1.1={ holder="0" liege=0 change_development_level=10 }
+}

@@ -1,0 +1,66 @@
+k_sahara={
+	4.1.1={ liege=0 }
+}
+d_tadmekka={
+	4.1.1={ liege=0 }
+}
+c_tadmekka={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_tessalit={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_ghat={
+	4.1.1={ liege=0 }
+}
+c_ghat={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_djanet={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_air={
+	4.1.1={ liege=0 }
+}
+c_takkeda={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_air={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_kawar={
+	4.1.1={ liege=0 }
+}
+c_bilma={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_dirku={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_djado={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_tibesti={
+	4.1.1={ liege=0 }
+}
+c_ain_galakka={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_bodele={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_tibesti={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_fezzan={
+	4.1.1={ liege=0 }
+}
+c_murzuk={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_zawila={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_germa={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}

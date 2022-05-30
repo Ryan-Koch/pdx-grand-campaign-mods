@@ -1,0 +1,60 @@
+k_thessalonika={
+	-18.8.11={ liege="e_roman_empire" holder="imperator107534" government="feudal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_rashka={
+	4.1.1={ liege=0 }
+}
+c_rashka={
+	-18.8.11={ liege=0 holder="imperator107534" }
+	4.1.1={ change_development_level=25 }
+}
+c_zlatibor={
+	-18.8.11={ liege=0 holder="imperator107534" }
+	4.1.1={ change_development_level=34 }
+}
+c_sumadija={
+	-18.8.11={ liege=0 holder="imperator107534" }
+	4.1.1={ change_development_level=29 }
+}
+c_podrinje={
+	-3.6.22={ liege=0 holder="imperator108236" }
+	4.1.1={ change_development_level=14 }
+}
+c_hvosno={
+	-18.8.11={ liege=0 holder="imperator107534" }
+	4.1.1={ change_development_level=25 }
+}
+d_thessalonika={
+	4.1.1={ liege=0 }
+}
+c_thessalonika={
+	-18.8.11={ liege=0 holder="imperator107534" }
+	4.1.1={ change_development_level=33 }
+}
+c_chalkidike={
+	-18.8.11={ liege=0 holder="imperator107534" }
+	4.1.1={ change_development_level=30 }
+}
+c_veria={
+	-18.8.11={ liege=0 holder="imperator107534" }
+	4.1.1={ change_development_level=43 }
+}
+d_thessaly={
+	4.1.1={ liege=0 }
+}
+c_thessalia={
+	-18.8.11={ liege=0 holder="imperator107534" }
+	4.1.1={ change_development_level=29 }
+}
+c_demetrias={
+	-18.8.11={ liege=0 holder="imperator107534" }
+	4.1.1={ change_development_level=43 }
+}
+c_neopatras={
+	-22.9.3={ liege=0 holder="imperator106128" }
+	4.1.1={ change_development_level=30 }
+}
+c_thessaliotis={
+	-18.8.11={ liege=0 holder="imperator107534" }
+	4.1.1={ change_development_level=27 }
+}

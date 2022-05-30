@@ -1,0 +1,308 @@
+﻿dynn_IMPTOCK3_0={
+	name="dynn_IMPTOCK3_0"
+	culture="roman"
+}
+dynn_IMPTOCK3_1={
+	name="dynn_IMPTOCK3_1"
+	culture="roman"
+}
+dynn_IMPTOCK3_2={
+	name="dynn_IMPTOCK3_2"
+	culture="roman"
+}
+dynn_IMPTOCK3_6={
+	name="dynn_IMPTOCK3_6"
+	culture="macedonian"
+}
+dynn_IMPTOCK3_33554439={
+	name="dynn_IMPTOCK3_33554439"
+	culture="bactrian"
+}
+dynn_IMPTOCK3_33554447={
+	name="dynn_IMPTOCK3_33554447"
+	culture="pictish"
+}
+dynn_IMPTOCK3_27={
+	name="dynn_IMPTOCK3_27"
+	culture="bengali"
+}
+dynn_IMPTOCK3_28={
+	name="dynn_IMPTOCK3_28"
+	culture="bengali"
+}
+dynn_IMPTOCK3_33554471={
+	name="dynn_IMPTOCK3_33554471"
+	culture="roman"
+}
+dynn_IMPTOCK3_16777269={
+	name="dynn_IMPTOCK3_16777269"
+	culture="norse"
+}
+dynn_IMPTOCK3_16777278={
+	name="dynn_IMPTOCK3_16777278"
+	culture="anatolian"
+}
+dynn_IMPTOCK3_33554497={
+	name="dynn_IMPTOCK3_33554497"
+	culture="gallic"
+}
+dynn_IMPTOCK3_84={
+	name="dynn_IMPTOCK3_84"
+	culture="rajput"
+}
+dynn_IMPTOCK3_16777912={
+	name="dynn_IMPTOCK3_16777912"
+	culture="anatolian"
+}
+dynn_IMPTOCK3_33555149={
+	name="dynn_IMPTOCK3_33555149"
+	culture="norse"
+}
+dynn_IMPTOCK3_33555186={
+	name="dynn_IMPTOCK3_33555186"
+	culture="armenian"
+}
+dynn_IMPTOCK3_16777977={
+	name="dynn_IMPTOCK3_16777977"
+	culture="macedonian"
+}
+dynn_IMPTOCK3_50332433={
+	name="dynn_IMPTOCK3_50332433"
+	culture="roman"
+}
+dynn_IMPTOCK3_83886882={
+	name="dynn_IMPTOCK3_83886882"
+	culture="bengali"
+}
+dynn_IMPTOCK3_812={
+	name="dynn_IMPTOCK3_812"
+	culture="anatolian"
+}
+dynn_IMPTOCK3_50332493={
+	name="dynn_IMPTOCK3_50332493"
+	culture="armenian"
+}
+dynn_IMPTOCK3_50332515={
+	name="dynn_IMPTOCK3_50332515"
+	culture="kirati"
+}
+dynn_IMPTOCK3_33555324={
+	name="dynn_IMPTOCK3_33555324"
+	culture="scythian"
+}
+dynn_IMPTOCK3_16778123={
+	name="dynn_IMPTOCK3_16778123"
+	culture="urslavic"
+}
+dynn_IMPTOCK3_919={
+	name="dynn_IMPTOCK3_919"
+	culture="armenian"
+}
+dynn_IMPTOCK3_921={
+	name="dynn_IMPTOCK3_921"
+	culture="armenian"
+}
+dynn_IMPTOCK3_16778142={
+	name="dynn_IMPTOCK3_16778142"
+	culture="gallic"
+}
+dynn_IMPTOCK3_16778151={
+	name="dynn_IMPTOCK3_16778151"
+	culture="gallic"
+}
+dynn_IMPTOCK3_938={
+	name="dynn_IMPTOCK3_938"
+	culture="sogdian"
+}
+dynn_IMPTOCK3_100664242={
+	name="dynn_IMPTOCK3_100664242"
+	culture="qahtanite"
+}
+dynn_IMPTOCK3_33555398={
+	name="dynn_IMPTOCK3_33555398"
+	culture="babylonian"
+}
+dynn_IMPTOCK3_16778250={
+	name="dynn_IMPTOCK3_16778250"
+	culture="assamese"
+}
+dynn_IMPTOCK3_16778251={
+	name="dynn_IMPTOCK3_16778251"
+	culture="assamese"
+}
+dynn_IMPTOCK3_67109906={
+	name="dynn_IMPTOCK3_67109906"
+	culture="sarmatian"
+}
+dynn_IMPTOCK3_150995989={
+	name="dynn_IMPTOCK3_150995989"
+	culture="qahtanite"
+}
+dynn_IMPTOCK3_134218778={
+	name="dynn_IMPTOCK3_134218778"
+	culture="sarmatian"
+}
+dynn_IMPTOCK3_67109916={
+	name="dynn_IMPTOCK3_67109916"
+	culture="babylonian"
+}
+dynn_IMPTOCK3_67109918={
+	name="dynn_IMPTOCK3_67109918"
+	culture="bactrian"
+}
+dynn_IMPTOCK3_50332705={
+	name="dynn_IMPTOCK3_50332705"
+	culture="armenian"
+}
+dynn_IMPTOCK3_83887139={
+	name="dynn_IMPTOCK3_83887139"
+	culture="sarmatian"
+}
+dynn_IMPTOCK3_167773224={
+	name="dynn_IMPTOCK3_167773224"
+	culture="qahtanite"
+}
+dynn_IMPTOCK3_184550443={
+	name="dynn_IMPTOCK3_184550443"
+	culture="sarmatian"
+}
+dynn_IMPTOCK3_50332716={
+	name="dynn_IMPTOCK3_50332716"
+	culture="parthian"
+}
+dynn_IMPTOCK3_50332771={
+	name="dynn_IMPTOCK3_50332771"
+	culture="sumpa"
+}
+dynn_IMPTOCK3_1130={
+	name="dynn_IMPTOCK3_1130"
+	culture="pictish"
+}
+dynn_IMPTOCK3_1131={
+	name="dynn_IMPTOCK3_1131"
+	culture="pictish"
+}
+dynn_IMPTOCK3_1132={
+	name="dynn_IMPTOCK3_1132"
+	culture="pictish"
+}
+dynn_IMPTOCK3_16778357={
+	name="dynn_IMPTOCK3_16778357"
+	culture="kirati"
+}
+dynn_IMPTOCK3_16778358={
+	name="dynn_IMPTOCK3_16778358"
+	culture="bactrian"
+}
+dynn_IMPTOCK3_150996098={
+	name="dynn_IMPTOCK3_150996098"
+	culture="vandal"
+}
+dynn_IMPTOCK3_50332808={
+	name="dynn_IMPTOCK3_50332808"
+	culture="vandal"
+}
+dynn_IMPTOCK3_16778377={
+	name="dynn_IMPTOCK3_16778377"
+	culture="vandal"
+}
+dynn_IMPTOCK3_16778386={
+	name="dynn_IMPTOCK3_16778386"
+	culture="bengali"
+}
+dynn_IMPTOCK3_16778388={
+	name="dynn_IMPTOCK3_16778388"
+	culture="bactrian"
+}
+dynn_IMPTOCK3_100664472={
+	name="dynn_IMPTOCK3_100664472"
+	culture="macedonian"
+}
+dynn_IMPTOCK3_67110130={
+	name="dynn_IMPTOCK3_67110130"
+	culture="anatolian"
+}
+dynn_IMPTOCK3_100664567={
+	name="dynn_IMPTOCK3_100664567"
+	culture="scythian"
+}
+dynn_IMPTOCK3_100664568={
+	name="dynn_IMPTOCK3_100664568"
+	culture="scythian"
+}
+dynn_IMPTOCK3_67110140={
+	name="dynn_IMPTOCK3_67110140"
+	culture="armenian"
+}
+dynn_IMPTOCK3_33555715={
+	name="dynn_IMPTOCK3_33555715"
+	culture="bengali"
+}
+dynn_IMPTOCK3_67110152={
+	name="dynn_IMPTOCK3_67110152"
+	culture="parthian"
+}
+dynn_IMPTOCK3_1428={
+	name="dynn_IMPTOCK3_1428"
+	culture="macedonian"
+}
+dynn_IMPTOCK3_1429={
+	name="dynn_IMPTOCK3_1429"
+	culture="macedonian"
+}
+dynn_IMPTOCK3_1611={
+	name="dynn_IMPTOCK3_1611"
+	culture="gallic"
+}
+dynn_IMPTOCK3_1900={
+	name="dynn_IMPTOCK3_1900"
+	culture="babylonian"
+}
+dynn_IMPTOCK3_1902={
+	name="dynn_IMPTOCK3_1902"
+	culture="babylonian"
+}
+dynn_IMPTOCK3_1915={
+	name="dynn_IMPTOCK3_1915"
+	culture="bengali"
+}
+dynn_IMPTOCK3_2004={
+	name="dynn_IMPTOCK3_2004"
+	culture="sumpa"
+}
+dynn_IMPTOCK3_2029={
+	name="dynn_IMPTOCK3_2029"
+	culture="rajput"
+}
+dynn_IMPTOCK3_2030={
+	name="dynn_IMPTOCK3_2030"
+	culture="rajput"
+}
+dynn_IMPTOCK3_2031={
+	name="dynn_IMPTOCK3_2031"
+	culture="bengali"
+}
+dynn_IMPTOCK3_2032={
+	name="dynn_IMPTOCK3_2032"
+	culture="bengali"
+}
+dynn_IMPTOCK3_2033={
+	name="dynn_IMPTOCK3_2033"
+	culture="bengali"
+}
+dynn_IMPTOCK3_2069={
+	name="dynn_IMPTOCK3_2069"
+	culture="norse"
+}
+dynn_IMPTOCK3_2071={
+	name="dynn_IMPTOCK3_2071"
+	culture="norse"
+}
+dynn_IMPTOCK3_2217={
+	name="dynn_IMPTOCK3_2217"
+	culture="urslavic"
+}
+dynn_IMPTOCK3_2219={
+	name="dynn_IMPTOCK3_2219"
+	culture="urslavic"
+}

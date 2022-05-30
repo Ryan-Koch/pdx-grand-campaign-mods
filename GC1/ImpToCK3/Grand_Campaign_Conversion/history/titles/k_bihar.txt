@@ -1,0 +1,22 @@
+k_bihar={
+	4.1.1={ liege=0 }
+}
+d_magadha={
+	4.1.1={ liege=0 }
+}
+c_magadha={
+	-9.12.30={ liege=0 holder="imperator107121" }
+	4.1.1={ change_development_level=23 }
+}
+c_mudgagiri={
+	-9.12.30={ liege=0 holder="imperator107121" }
+	4.1.1={ change_development_level=20 }
+}
+c_gaya={
+	-9.12.30={ liege=0 holder="imperator107121" }
+	4.1.1={ change_development_level=20 }
+}
+c_sasaram={
+	-9.12.30={ liege=0 holder="imperator107121" }
+	4.1.1={ change_development_level=30 }
+}

@@ -1,0 +1,89 @@
+k_IMPTOCK3_ROM_magna_graecia_region={
+	-23.5.19={ liege="e_roman_empire" holder="imperator106188" government="feudal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_sicily={
+	4.1.1={ liege=0 }
+}
+c_palermo={
+	-23.5.19={ liege=0 holder="imperator106188" }
+	4.1.1={ change_development_level=51 }
+}
+c_messina={
+	-23.5.19={ liege=0 holder="imperator106188" }
+	4.1.1={ change_development_level=33 }
+}
+c_siracusa={
+	-23.5.19={ liege=0 holder="imperator106188" }
+	4.1.1={ change_development_level=38 }
+}
+c_agrigento={
+	-23.5.19={ liege=0 holder="imperator106188" }
+	4.1.1={ change_development_level=47 }
+}
+c_malta={
+	-23.5.19={ liege=0 holder="imperator106188" }
+	4.1.1={ change_development_level=42 }
+}
+d_benevento={
+	4.1.1={ liege=0 }
+}
+c_benevento={
+	-23.5.19={ liege=0 holder="imperator106188" }
+	4.1.1={ change_development_level=33 }
+}
+c_foggia={
+	-23.5.19={ liege=0 holder="imperator106188" }
+	4.1.1={ change_development_level=33 }
+}
+d_capua={
+	4.1.1={ liege=0 }
+}
+c_capua={
+	-23.5.19={ liege=0 holder="imperator106188" }
+	4.1.1={ change_development_level=32 }
+}
+c_napoli={
+	-23.5.19={ liege=0 holder="imperator106188" }
+	4.1.1={ change_development_level=28 }
+}
+d_apulia={
+	4.1.1={ liege=0 }
+}
+c_apulia={
+	-23.5.19={ liege=0 holder="imperator106188" }
+	4.1.1={ change_development_level=59 }
+}
+c_bari={
+	-23.5.19={ liege=0 holder="imperator106188" }
+	4.1.1={ change_development_level=47 }
+}
+c_lecce={
+	-23.5.19={ liege=0 holder="imperator106188" }
+	4.1.1={ change_development_level=45 }
+}
+d_salerno={
+	4.1.1={ liege=0 }
+}
+c_salerno={
+	-23.5.19={ liege=0 holder="imperator106188" }
+	4.1.1={ change_development_level=33 }
+}
+c_camarda={
+	-23.5.19={ liege=0 holder="imperator106188" }
+	4.1.1={ change_development_level=46 }
+}
+d_calabria={
+	4.1.1={ liege=0 }
+}
+c_reggio_calabria={
+	-23.5.19={ liege=0 holder="imperator106188" }
+	4.1.1={ change_development_level=22 }
+}
+c_cosenza={
+	-23.5.19={ liege=0 holder="imperator106188" }
+	4.1.1={ change_development_level=11 }
+}
+c_rossano={
+	-23.5.19={ liege=0 holder="imperator106188" }
+	4.1.1={ change_development_level=36 }
+}

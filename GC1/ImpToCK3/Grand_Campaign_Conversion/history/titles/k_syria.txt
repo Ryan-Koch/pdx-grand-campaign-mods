@@ -1,0 +1,100 @@
+k_syria={
+	4.1.1={ liege=0 }
+}
+d_aleppo={
+	4.1.1={ liege=0 }
+}
+c_aleppo={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=53 }
+}
+c_suriya={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=47 }
+}
+c_syrrusafa={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=13 }
+}
+c_qinnasrin={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=51 }
+}
+d_edessa={
+	4.1.1={ liege=0 }
+}
+c_edessa={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=59 }
+}
+c_samosata={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=40 }
+}
+c_marash={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=44 }
+}
+c_aintab={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=64 }
+}
+d_homs={
+	4.1.1={ liege=0 }
+}
+c_homs={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=41 }
+}
+c_shayzar={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=22 }
+}
+c_hama={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=50 }
+}
+d_lebanon={
+	4.1.1={ liege=0 }
+}
+c_beirut={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=53 }
+}
+c_tripoli={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=63 }
+}
+d_damascus={
+	4.1.1={ liege=0 }
+}
+c_damascus={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=56 }
+}
+c_juwair={
+	4.1.1={ holder="0" liege=0 change_development_level=24 }
+}
+c_baalbek={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=50 }
+}
+c_hauran={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=49 }
+}
+d_palmyra={
+	4.1.1={ liege=0 }
+}
+c_palmyra={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=50 }
+}
+c_sukhna={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=38 }
+}
+c_qaryatan={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=47 }
+}

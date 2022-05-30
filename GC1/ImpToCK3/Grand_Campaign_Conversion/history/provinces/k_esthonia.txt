@@ -1,0 +1,60 @@
+88={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}
+89={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}
+90={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}
+91={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}
+92={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}
+93={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}
+94={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}
+95={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}
+96={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}
+97={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}
+98={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}
+146={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}

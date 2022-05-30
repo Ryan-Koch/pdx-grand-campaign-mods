@@ -1,0 +1,176 @@
+1454={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7646={
+	holding=none
+}
+7647={
+	holding=none
+}
+7643={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7644={
+	holding=none
+}
+7645={
+	holding=none
+}
+7648={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7649={
+	holding=none
+}
+7650={
+	holding=none
+}
+7653={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7651={
+	holding=none
+}
+7652={
+	holding=none
+}
+7656={
+	holding=none
+}
+7654={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7655={
+	holding=none
+}
+7657={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7659={
+	holding=none
+}
+7660={
+	holding=none
+}
+7658={
+	holding=none
+}
+7663={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7661={
+	holding=none
+}
+7662={
+	holding=none
+}
+7664={
+	culture=uriankhai
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7665={
+	holding=none
+}
+7667={
+	holding=none
+}
+7668={
+	culture=uriankhai
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7666={
+	holding=none
+}
+7669={
+	holding=none
+}
+7670={
+	culture=uriankhai
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7671={
+	holding=none
+}
+7672={
+	holding=none
+}
+7673={
+	culture=uriankhai
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7674={
+	holding=none
+}
+7675={
+	holding=none
+}
+7676={
+	culture=uriankhai
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7677={
+	holding=none
+}
+7678={
+	holding=none
+}
+7679={
+	culture=buryat
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7680={
+	holding=none
+}
+7681={
+	holding=none
+}
+7682={
+	culture=buryat
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7683={
+	holding=none
+}
+7684={
+	holding=none
+}
+7685={
+	culture=buryat
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7686={
+	holding=none
+}
+7687={
+	holding=none
+}
+7689={
+	culture=buryat
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7688={
+	holding=none
+}

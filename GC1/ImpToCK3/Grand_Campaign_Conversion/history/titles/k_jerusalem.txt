@@ -1,0 +1,44 @@
+k_jerusalem={
+	4.1.1={ liege=0 }
+}
+d_oultrejourdain={
+	4.1.1={ liege=0 }
+}
+c_kerak={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=39 }
+}
+c_negev={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=55 }
+}
+d_palestine={
+	4.1.1={ liege=0 }
+}
+c_jerusalem={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=53 }
+}
+c_ghazza={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=61 }
+}
+c_jaffa={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=54 }
+}
+d_urdunn={
+	4.1.1={ liege=0 }
+}
+c_tiberias={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=55 }
+}
+c_acre={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=53 }
+}
+c_irbid={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=53 }
+}

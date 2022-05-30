@@ -1,0 +1,51 @@
+k_IMPTOCK3_ROM_taurica_region={
+	-22.1.7={ liege="e_roman_empire" holder="imperator104769" government="feudal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_don_valley={
+	-4.6.26={ government="tribal_government" holder="imperator105646" succession_laws={ "high_partition_succession_law" } }
+}
+c_tana={
+	-22.1.7={ liege=0 holder="imperator104769" }
+	4.1.1={ change_development_level=29 }
+}
+c_golden_hills={
+	-1.12.5={ liege=0 holder="imperator108401" }
+	4.1.1={ change_development_level=10 }
+}
+c_kazanskaya={
+	-7.8.12={ liege=0 holder="imperator106676" }
+	4.1.1={ change_development_level=14 }
+}
+c_sarysyn={
+	4.1.1={ holder="0" liege=0 change_development_level=4 }
+}
+d_crimea={
+	4.1.1={ liege=0 }
+}
+c_kerch={
+	-22.1.7={ liege=0 holder="imperator104769" }
+	4.1.1={ change_development_level=47 }
+}
+c_kalos_limen={
+	-22.1.7={ liege=0 holder="imperator104769" }
+	4.1.1={ change_development_level=41 }
+}
+c_perekop={
+	-22.1.7={ liege=0 holder="imperator104769" }
+	4.1.1={ change_development_level=39 }
+}
+d_azov={
+	4.1.1={ liege=0 }
+}
+c_tmutarakan={
+	-22.1.7={ liege=0 holder="imperator104769" }
+	4.1.1={ change_development_level=37 }
+}
+c_khumar={
+	-22.1.7={ liege=0 holder="imperator104769" }
+	4.1.1={ change_development_level=25 }
+}
+c_azov={
+	-22.1.7={ liege=0 holder="imperator104769" }
+	4.1.1={ change_development_level=13 }
+}

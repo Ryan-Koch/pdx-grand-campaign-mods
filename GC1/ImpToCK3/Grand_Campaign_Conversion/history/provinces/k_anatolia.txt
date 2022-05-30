@@ -1,0 +1,150 @@
+754={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+759={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5651={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5652={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5653={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5654={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5655={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=none
+}
+5656={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=none
+}
+5657={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5658={
+	culture=phrygian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5659={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5660={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5661={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=church_holding
+}
+5662={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=none
+}
+5663={
+	culture=roman
+	religion=hellenic_pagan
+	holding=church_holding
+}
+5664={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5665={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5666={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5667={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5668={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5669={
+	culture=hittite
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5670={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5671={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5672={
+	culture=luwian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5673={
+	culture=luwian
+	religion=hellenic_pagan
+	holding=church_holding
+}
+5674={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5675={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5676={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=none
+}
+5677={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5678={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}

@@ -1,0 +1,96 @@
+k_amdo={
+	4.1.1={ liege=0 }
+}
+d_xining={
+	4.1.1={ liege=0 }
+}
+c_xining={
+	4.1.1={ change_development_level=0 }
+}
+c_datong={
+	4.1.1={ change_development_level=0 }
+}
+d_tuyuhun={
+	4.1.1={ liege=0 }
+}
+c_fuqi={
+	4.1.1={ change_development_level=0 }
+}
+c_gerqen={
+	4.1.1={ change_development_level=0 }
+}
+c_xigortang={
+	4.1.1={ change_development_level=0 }
+}
+c_derlenka={
+	4.1.1={ change_development_level=0 }
+}
+c_ulam={
+	4.1.1={ change_development_level=0 }
+}
+c_tuulain={
+	4.1.1={ change_development_level=0 }
+}
+d_nagormo={
+	4.1.1={ liege=0 }
+}
+c_nagormo={
+	4.1.1={ change_development_level=0 }
+}
+c_hohaseco={
+	4.1.1={ change_development_level=0 }
+}
+c_lenghu={
+	4.1.1={ change_development_level=0 }
+}
+c_mangnai={
+	4.1.1={ change_development_level=0 }
+}
+c_kumkol={
+	4.1.1={ change_development_level=0 }
+}
+d_amdo={
+	4.1.1={ liege=0 }
+}
+c_amdo={
+	4.1.1={ change_development_level=0 }
+}
+c_nyainrong={
+	4.1.1={ change_development_level=0 }
+}
+c_yenshipin={
+	4.1.1={ change_development_level=0 }
+}
+c_dangla={
+	4.1.1={ change_development_level=0 }
+}
+c_aqenganggyai={
+	4.1.1={ change_development_level=0 }
+}
+c_chumarho={
+	4.1.1={ change_development_level=0 }
+}
+d_zadoi={
+	4.1.1={ liege=0 }
+}
+c_zadoi={
+	4.1.1={ change_development_level=0 }
+}
+c_trandam={
+	4.1.1={ change_development_level=0 }
+}
+c_zhidoi={
+	4.1.1={ change_development_level=0 }
+}
+d_qumarleb={
+	4.1.1={ liege=0 }
+}
+c_qumarleb={
+	4.1.1={ change_development_level=0 }
+}
+c_chindu={
+	4.1.1={ change_development_level=0 }
+}
+c_ngoring={
+	4.1.1={ change_development_level=0 }
+}

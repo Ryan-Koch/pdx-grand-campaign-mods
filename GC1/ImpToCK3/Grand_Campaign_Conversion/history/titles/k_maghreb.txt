@@ -1,0 +1,143 @@
+k_maghreb={
+	-6.2.14={ government="feudal_government" holder="imperator108021" liege="e_roman_empire" succession_laws={ "high_partition_succession_law" } }
+}
+d_marrakesh={
+	4.1.1={ liege=0 }
+}
+c_marrakesh={
+	-6.2.14={ liege=0 holder="imperator108021" }
+	4.1.1={ change_development_level=14 }
+}
+c_tadla={
+	4.1.1={ holder="0" liege=0 change_development_level=8 }
+}
+c_fazaz={
+	4.1.1={ holder="0" liege=0 change_development_level=18 }
+}
+c_tamasna={
+	-6.2.14={ liege=0 holder="imperator108021" }
+	4.1.1={ change_development_level=26 }
+}
+c_asfi={
+	-6.2.14={ liege=0 holder="imperator108021" }
+	4.1.1={ change_development_level=14 }
+}
+c_tinmallal={
+	-6.2.14={ liege=0 holder="imperator108021" }
+	4.1.1={ change_development_level=14 }
+}
+d_sous={
+	4.1.1={ liege=0 }
+}
+c_sous={
+	-6.2.14={ liege=0 holder="imperator108021" }
+	4.1.1={ change_development_level=9 }
+}
+c_agadir={
+	-6.2.14={ liege=0 holder="imperator108021" }
+	4.1.1={ change_development_level=2 }
+}
+c_ifni={
+	-6.2.14={ liege=0 holder="imperator108021" }
+	4.1.1={ change_development_level=2 }
+}
+c_draa={
+	-6.2.14={ liege=0 holder="imperator108021" }
+	4.1.1={ change_development_level=6 }
+}
+d_tafilalt={
+	4.1.1={ liege=0 }
+}
+c_sijilmasa={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_tudgha={
+	-6.2.14={ liege=0 holder="imperator108021" }
+	4.1.1={ change_development_level=10 }
+}
+c_ziz={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_fes={
+	4.1.1={ liege=0 }
+}
+c_fes={
+	4.1.1={ holder="0" liege=0 change_development_level=6 }
+}
+c_muluya={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_taza={
+	4.1.1={ holder="0" liege=0 change_development_level=19 }
+}
+c_meknes={
+	4.1.1={ holder="0" liege=0 change_development_level=13 }
+}
+c_gharb={
+	-6.2.14={ liege=0 holder="imperator108021" }
+	4.1.1={ change_development_level=35 }
+}
+d_rif={
+	4.1.1={ liege=0 }
+}
+c_tangiers={
+	-6.2.14={ liege=0 holder="imperator108021" }
+	4.1.1={ change_development_level=39 }
+}
+c_ceuta={
+	-6.2.14={ liege=0 holder="imperator108021" }
+	4.1.1={ change_development_level=22 }
+}
+c_melilla={
+	-6.2.14={ liege=0 holder="imperator108021" }
+	4.1.1={ change_development_level=25 }
+}
+d_canarias={
+	4.1.1={ liege=0 }
+}
+c_canarias={
+	4.1.1={ holder="0" liege=0 change_development_level=4 }
+}
+c_fuerteventura={
+	4.1.1={ holder="0" liege=0 change_development_level=4 }
+}
+c_madeira={
+	4.1.1={ holder="0" liege=0 change_development_level=4 }
+}
+d_tlemcen={
+	4.1.1={ liege=0 }
+}
+c_tlemcen={
+	-6.2.14={ liege=0 holder="imperator108021" }
+	4.1.1={ change_development_level=38 }
+}
+c_wajda={
+	-6.2.14={ liege=0 holder="imperator108021" }
+	4.1.1={ change_development_level=12 }
+}
+c_orania={
+	-6.2.14={ liege=0 holder="imperator108021" }
+	4.1.1={ change_development_level=51 }
+}
+c_hunyan={
+	-6.2.14={ liege=0 holder="imperator108021" }
+	4.1.1={ change_development_level=39 }
+}
+d_tahert={
+	4.1.1={ liege=0 }
+}
+c_tahert={
+	-6.2.14={ liege=0 holder="imperator108021" }
+	4.1.1={ change_development_level=26 }
+}
+c_yalala={
+	-6.2.14={ liege=0 holder="imperator108021" }
+	4.1.1={ change_development_level=44 }
+}
+c_ashir={
+	-34.8.22={ liege=0 holder="imperator105359" }
+	4.1.1={ change_development_level=12 }
+}
+c_figuig={
+	4.1.1={ holder="0" liege=0 change_development_level=8 }
+}

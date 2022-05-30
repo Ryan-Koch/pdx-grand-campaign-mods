@@ -1,0 +1,42 @@
+k_takrur={
+	4.1.1={ liege=0 }
+}
+d_takrur={
+	4.1.1={ liege=0 }
+}
+c_takrur={
+	4.1.1={ change_development_level=0 }
+}
+c_podor={
+	4.1.1={ change_development_level=0 }
+}
+c_dhraina={
+	4.1.1={ change_development_level=0 }
+}
+d_silla={
+	4.1.1={ liege=0 }
+}
+c_silla={
+	4.1.1={ change_development_level=0 }
+}
+c_jowol={
+	4.1.1={ change_development_level=0 }
+}
+c_galam={
+	4.1.1={ change_development_level=0 }
+}
+d_djolof={
+	4.1.1={ liege=0 }
+}
+c_jolof={
+	4.1.1={ change_development_level=0 }
+}
+c_namandiru={
+	4.1.1={ change_development_level=0 }
+}
+c_kayor={
+	4.1.1={ change_development_level=0 }
+}
+c_baol={
+	4.1.1={ change_development_level=0 }
+}

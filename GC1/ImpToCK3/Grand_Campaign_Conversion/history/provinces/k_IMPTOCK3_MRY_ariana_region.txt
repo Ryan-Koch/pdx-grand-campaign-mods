@@ -1,0 +1,245 @@
+4225={
+	culture=afghan
+	religion=mazdayasna
+	holding=castle_holding
+}
+4224={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+4226={
+	culture=bengali
+	religion=mazdayasna
+	holding=city_holding
+}
+4227={
+	culture=bactrian
+	religion=mazdayasna
+	holding=none
+}
+4201={
+	culture=afghan
+	religion=mazdayasna
+	holding=castle_holding
+}
+4228={
+	culture=bengali
+	religion=mazdayasna
+	holding=none
+}
+4300={
+	culture=macedonian
+	religion=mazdayasna
+	holding=none
+}
+4231={
+	culture=bactrian
+	religion=mazdayasna
+	holding=castle_holding
+}
+4232={
+	culture=afghan
+	religion=mazdayasna
+	holding=none
+}
+4233={
+	culture=bengali
+	religion=mazdayasna
+	holding=none
+}
+4215={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4216={
+	culture=macedonian
+	religion=mazdayasna
+	holding=none
+}
+4217={
+	culture=macedonian
+	religion=mazdayasna
+	holding=city_holding
+}
+4210={
+	culture=macedonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4207={
+	culture=parthian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4208={
+	culture=parthian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+4209={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+4211={
+	culture=macedonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4212={
+	culture=parthian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4213={
+	culture=bactrian
+	religion=scythian_pagan
+	holding=none
+}
+4214={
+	culture=tajik
+	religion=mesopotamian_pagan
+	holding=none
+}
+4204={
+	culture=afghan
+	religion=mazdayasna
+	holding=castle_holding
+}
+4205={
+	culture=parthian
+	religion=mazdayasna
+	holding=none
+}
+4206={
+	culture=afghan
+	religion=mazdayasna
+	holding=none
+}
+4203={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4202={
+	culture=persian
+	religion=vaishnavism
+	holding=none
+}
+4289={
+	culture=persian
+	religion=vaishnavism
+	holding=castle_holding
+}
+4288={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+4290={
+	culture=macedonian
+	religion=zun_pagan
+	holding=none
+}
+4291={
+	culture=macedonian
+	religion=mazdayasna
+	holding=none
+}
+4292={
+	culture=macedonian
+	religion=vaishnavism
+	holding=none
+}
+4283={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4295={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4296={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+4297={
+	culture=persian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4299={
+	culture=macedonian
+	religion=zun_pagan
+	holding=castle_holding
+}
+4293={
+	culture=macedonian
+	religion=mazdayasna
+	holding=none
+}
+4294={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4298={
+	culture=persian
+	religion=mazdayasna
+	holding=city_holding
+}
+4465={
+	culture=macedonian
+	religion=mazdayasna
+	holding=castle_holding
+}
+4463={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+4464={
+	culture=macedonian
+	religion=mazdayasna
+	holding=none
+}
+4466={
+	culture=macedonian
+	religion=mazdayasna
+	holding=none
+}
+4467={
+	culture=macedonian
+	religion=mazdayasna
+	holding=none
+}
+4484={
+	culture=afghan
+	religion=mazdayasna
+	holding=castle_holding
+}
+4482={
+	culture=macedonian
+	religion=mazdayasna
+	holding=none
+}
+4483={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+4485={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+4486={
+	culture=afghan
+	religion=mazdayasna
+	holding=none
+}

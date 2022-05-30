@@ -1,0 +1,70 @@
+4268={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4269={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4270={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4271={
+	culture=baloch
+	religion=mesopotamian_pagan
+	holding=none
+}
+4272={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4273={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4265={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4263={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4264={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4266={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4267={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4274={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4275={
+	culture=baloch
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+4276={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}

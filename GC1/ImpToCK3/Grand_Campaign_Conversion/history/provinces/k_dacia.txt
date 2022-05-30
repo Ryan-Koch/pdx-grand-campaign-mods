@@ -1,0 +1,373 @@
+539={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3914={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3915={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3917={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3918={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+537={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+3913={
+	culture=dacian
+	religion=hellenic_pagan
+	holding=none
+}
+3893={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+3894={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3898={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+519={
+	culture=dacian
+	religion=dacian_pagan
+	holding=castle_holding
+}
+3935={
+	culture=dacian
+	religion=hellenic_pagan
+	holding=none
+}
+3936={
+	culture=dacian
+	religion=hellenic_pagan
+	holding=none
+}
+3937={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3938={
+	culture=dacian
+	religion=hellenic_pagan
+	holding=none
+}
+3939={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+540={
+	culture=dacian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3929={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3930={
+	culture=getian
+	religion=dacian_pagan
+	holding=castle_holding
+}
+3946={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3942={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3943={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3944={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3945={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3940={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3941={
+	holding=none
+}
+3924={
+	culture=dacian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3925={
+	culture=dacian
+	religion=hellenic_pagan
+	holding=none
+}
+3926={
+	culture=dacian
+	religion=hellenic_pagan
+	holding=none
+}
+3927={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3928={
+	culture=dacian
+	religion=hellenic_pagan
+	holding=none
+}
+3919={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3920={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3921={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3922={
+	culture=dacian
+	religion=hellenic_pagan
+	holding=none
+}
+3923={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+3931={
+	culture=avar
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+3932={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3933={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+520={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3899={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3900={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3901={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3902={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3947={
+	culture=roman
+	religion=hellenic_pagan
+	holding=church_holding
+}
+3903={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3904={
+	culture=dacian
+	religion=hellenic_pagan
+	holding=none
+}
+3975={
+	culture=dacian
+	religion=hellenic_pagan
+	holding=none
+}
+3873={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3874={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3875={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3889={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+3890={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3891={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3892={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3907={
+	culture=dacian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3908={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3909={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3910={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3911={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3912={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+517={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3880={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+3973={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3905={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3906={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3882={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3883={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3884={
+	culture=dacian
+	religion=hellenic_pagan
+	holding=church_holding
+}
+3877={
+	culture=celtic_pannonian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3878={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3879={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+521={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3872={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3974={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}

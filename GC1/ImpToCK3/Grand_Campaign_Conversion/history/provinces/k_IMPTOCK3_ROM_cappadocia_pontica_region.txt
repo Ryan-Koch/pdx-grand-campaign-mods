@@ -1,0 +1,220 @@
+678={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+705={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+706={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+735={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+738={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+739={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5588={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=none
+}
+5589={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5590={
+	culture=hittite
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5591={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5592={
+	culture=hittite
+	religion=hellenic_pagan
+	holding=church_holding
+}
+5593={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=none
+}
+5594={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5595={
+	culture=hittite
+	religion=anatolian_pagan
+	holding=none
+}
+5596={
+	culture=hittite
+	religion=anatolian_pagan
+	holding=city_holding
+}
+5597={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5598={
+	culture=hittite
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5599={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=none
+}
+5600={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=none
+}
+5601={
+	culture=armenian
+	religion=anatolian_pagan
+	holding=city_holding
+}
+5602={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5603={
+	culture=hittite
+	religion=hellenic_pagan
+	holding=none
+}
+5604={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5605={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=none
+}
+5606={
+	culture=hittite
+	religion=hellenic_pagan
+	holding=none
+}
+5607={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=none
+}
+5608={
+	culture=armenian
+	religion=anatolian_pagan
+	holding=none
+}
+5609={
+	culture=hittite
+	religion=hellenic_pagan
+	holding=none
+}
+5613={
+	culture=hittite
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5689={
+	culture=hittite
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5690={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5691={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=none
+}
+5692={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5693={
+	culture=armenian
+	religion=mithraic_mysteries
+	holding=none
+}
+5694={
+	culture=armenian
+	religion=mithraic_mysteries
+	holding=church_holding
+}
+5695={
+	culture=armenian
+	religion=mithraic_mysteries
+	holding=none
+}
+5698={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=none
+}
+5699={
+	culture=armenian
+	religion=mithraic_mysteries
+	holding=city_holding
+}
+5700={
+	culture=hittite
+	religion=hellenic_pagan
+	holding=none
+}
+5701={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=none
+}
+5702={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=none
+}
+5703={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5704={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=none
+}
+5705={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=none
+}

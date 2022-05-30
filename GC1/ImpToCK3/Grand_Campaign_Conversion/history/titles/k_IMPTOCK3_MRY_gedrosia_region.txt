@@ -1,0 +1,49 @@
+k_IMPTOCK3_MRY_gedrosia_region={
+	-28.2.17={ liege="e_india" holder="imperator103206" government="feudal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_makran={
+	4.1.1={ liege=0 }
+}
+c_panjgur={
+	-28.2.17={ liege=0 holder="imperator103206" }
+	4.1.1={ change_development_level=2 }
+}
+c_kiz={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=14 }
+}
+c_sanij={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=40 }
+}
+c_khawr={
+	-28.2.17={ liege=0 holder="imperator103206" }
+	4.1.1={ change_development_level=28 }
+}
+c_turan={
+	-28.2.17={ liege=0 holder="imperator103206" }
+	4.1.1={ change_development_level=19 }
+}
+d_sauvira={
+	4.1.1={ liege=0 }
+}
+c_debul={
+	-28.2.17={ liege=0 holder="imperator103206" }
+	4.1.1={ change_development_level=29 }
+}
+c_sonda={
+	-28.2.17={ liege=0 holder="imperator103206" }
+	4.1.1={ change_development_level=19 }
+}
+c_mansura={
+	-11.12.24={ liege=0 holder="imperator107284" }
+	4.1.1={ change_development_level=24 }
+}
+c_ranikot={
+	-11.12.24={ liege=0 holder="imperator107284" }
+	4.1.1={ change_development_level=38 }
+}
+c_siwistan={
+	-11.12.24={ liege=0 holder="imperator107284" }
+	4.1.1={ change_development_level=34 }
+}

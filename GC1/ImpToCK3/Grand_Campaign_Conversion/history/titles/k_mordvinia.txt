@@ -1,0 +1,63 @@
+k_mordvinia={
+	4.1.1={ liege=0 }
+}
+d_mordvinia={
+	4.1.1={ liege=0 }
+}
+c_cheboksary={
+	4.1.1={ change_development_level=0 }
+}
+c_kozlov={
+	4.1.1={ change_development_level=0 }
+}
+c_lachyk-uba={
+	4.1.1={ change_development_level=0 }
+}
+c_saran={
+	4.1.1={ change_development_level=0 }
+}
+d_voronezh={
+	4.1.1={ liege=0 }
+}
+c_voronezh={
+	4.1.1={ change_development_level=0 }
+}
+c_karatayak={
+	4.1.1={ change_development_level=0 }
+}
+c_oskol={
+	4.1.1={ holder="0" liege=0 change_development_level=3 }
+}
+d_chuvashia={
+	4.1.1={ liege=0 }
+}
+c_saratov={
+	4.1.1={ change_development_level=0 }
+}
+c_penza={
+	4.1.1={ change_development_level=0 }
+}
+c_atkarsk={
+	4.1.1={ change_development_level=0 }
+}
+c_petrovsk={
+	4.1.1={ change_development_level=0 }
+}
+d_khopyor={
+	4.1.1={ liege=0 }
+}
+c_khopyor={
+	4.1.1={ change_development_level=0 }
+}
+c_tuluchezeva={
+	4.1.1={ change_development_level=0 }
+}
+c_balachev={
+	4.1.1={ change_development_level=0 }
+}
+c_tambov={
+	4.1.1={ change_development_level=0 }
+}
+c_durovka={
+	4.1.1={ change_development_level=0 }
+}

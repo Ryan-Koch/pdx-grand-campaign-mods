@@ -1,0 +1,85 @@
+7242={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+7243={
+	holding=none
+}
+7244={
+	holding=none
+}
+7245={
+	holding=none
+}
+7251={
+	culture=kimek
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7249={
+	holding=none
+}
+7250={
+	holding=none
+}
+7252={
+	holding=none
+}
+7239={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+7240={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+7241={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+896={
+	culture=pecheneg
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+5499={
+	holding=none
+}
+5500={
+	holding=none
+}
+7220={
+	holding=none
+}
+5501={
+	culture=pecheneg
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+897={
+	holding=none
+}
+7218={
+	holding=none
+}
+7219={
+	holding=none
+}
+7247={
+	culture=kimek
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7246={
+	holding=none
+}
+7248={
+	holding=none
+}
+1430={
+	holding=none
+}

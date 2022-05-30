@@ -1,0 +1,224 @@
+1446={
+	culture=uyghur
+	religion=manichean
+	holding=castle_holding
+}
+7455={
+	holding=city_holding
+}
+7456={
+	holding=city_holding
+}
+7457={
+	holding=none
+}
+7459={
+	culture=uyghur
+	religion=manichean
+	holding=castle_holding
+}
+7460={
+	holding=none
+}
+7461={
+	holding=city_holding
+}
+7462={
+	holding=castle_holding
+}
+7463={
+	holding=none
+}
+7464={
+	holding=none
+}
+7465={
+	culture=uyghur
+	religion=manichean
+	holding=castle_holding
+}
+1449={
+	holding=city_holding
+}
+7466={
+	holding=none
+}
+7467={
+	holding=none
+}
+7468={
+	holding=none
+}
+7469={
+	culture=uyghur
+	religion=vajrayana
+	holding=castle_holding
+}
+7470={
+	holding=none
+}
+7471={
+	holding=none
+}
+7472={
+	holding=none
+}
+7458={
+	culture=uyghur
+	religion=manichean
+	holding=castle_holding
+}
+9617={
+	holding=castle_holding
+}
+9618={
+	holding=none
+}
+9619={
+	holding=none
+}
+9620={
+	holding=none
+}
+1451={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=castle_holding
+}
+7473={
+	holding=none
+}
+7474={
+	holding=none
+}
+7475={
+	holding=none
+}
+7476={
+	holding=none
+}
+7477={
+	holding=none
+}
+7478={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=castle_holding
+}
+7479={
+	holding=none
+}
+7480={
+	holding=none
+}
+7481={
+	holding=none
+}
+7482={
+	holding=none
+}
+7483={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=castle_holding
+}
+7484={
+	holding=none
+}
+7485={
+	holding=none
+}
+7486={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=castle_holding
+}
+7487={
+	holding=none
+}
+7488={
+	holding=none
+}
+7489={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=castle_holding
+}
+7490={
+	holding=none
+}
+7491={
+	holding=none
+}
+7492={
+	culture=uyghur
+	religion=vajrayana
+	holding=castle_holding
+}
+7493={
+	holding=none
+}
+7494={
+	holding=none
+}
+7495={
+	holding=none
+}
+7496={
+	culture=uyghur
+	religion=vajrayana
+	holding=castle_holding
+}
+7497={
+	holding=none
+}
+7498={
+	holding=none
+}
+7499={
+	culture=uyghur
+	religion=vajrayana
+	holding=castle_holding
+}
+7500={
+	holding=none
+}
+7501={
+	holding=none
+}
+7502={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=castle_holding
+}
+7503={
+	holding=none
+}
+7504={
+	holding=none
+}
+7505={
+	holding=none
+}
+7506={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=castle_holding
+}
+7507={
+	holding=none
+}
+7508={
+	holding=none
+}
+7509={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=castle_holding
+}
+7510={
+	holding=none
+}
+7511={
+	holding=none
+}

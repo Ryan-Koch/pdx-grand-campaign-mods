@@ -1,0 +1,45 @@
+k_kong={
+	4.1.1={ liege=0 }
+}
+d_worodugu={
+	4.1.1={ liege=0 }
+}
+c_worodugu={
+	4.1.1={ change_development_level=0 }
+}
+c_tyendugu={
+	4.1.1={ change_development_level=0 }
+}
+c_nyene={
+	4.1.1={ change_development_level=0 }
+}
+d_kong={
+	4.1.1={ liege=0 }
+}
+c_kong={
+	4.1.1={ change_development_level=0 }
+}
+c_leraba={
+	4.1.1={ change_development_level=0 }
+}
+c_boron={
+	4.1.1={ change_development_level=0 }
+}
+c_nzi={
+	4.1.1={ change_development_level=0 }
+}
+d_lobi={
+	4.1.1={ liege=0 }
+}
+c_lobi={
+	4.1.1={ change_development_level=0 }
+}
+c_loropeni={
+	4.1.1={ change_development_level=0 }
+}
+c_dyulaso={
+	4.1.1={ change_development_level=0 }
+}
+c_wa={
+	4.1.1={ change_development_level=0 }
+}

@@ -1,0 +1,100 @@
+607={
+	culture=scythian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5315={
+	culture=sarmatian
+	religion=scythian_pagan
+	holding=none
+}
+5332={
+	culture=sarmatian
+	religion=hellenic_pagan
+	holding=none
+}
+5311={
+	culture=sarmatian
+	religion=scythian_pagan
+	holding=castle_holding
+}
+5312={
+	culture=sarmatian
+	religion=hellenic_pagan
+	holding=none
+}
+604={
+	culture=greek
+	religion=scythian_pagan
+	holding=none
+}
+605={
+	culture=sarmatian
+	religion=scythian_pagan
+	holding=castle_holding
+}
+5333={
+	culture=sarmatian
+	religion=scythian_pagan
+	holding=none
+}
+5334={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=none
+}
+5299={
+	culture=alan
+	religion=scythian_pagan
+	holding=castle_holding
+}
+5300={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=none
+}
+5301={
+	culture=anatolian
+	religion=scythian_pagan
+	holding=city_holding
+}
+603={
+	culture=greek
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5302={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=none
+}
+606={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5303={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=none
+}
+5344={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=none
+}
+5296={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5297={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=none
+}
+5298={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}

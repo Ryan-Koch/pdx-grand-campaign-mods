@@ -1,0 +1,171 @@
+7690={
+	culture=mongol
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7691={
+	holding=none
+}
+7692={
+	holding=none
+}
+7693={
+	holding=none
+}
+7694={
+	culture=mongol
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7695={
+	holding=none
+}
+7696={
+	holding=none
+}
+7704={
+	culture=buryat
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+1460={
+	holding=none
+}
+7705={
+	holding=none
+}
+7707={
+	culture=buryat
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7706={
+	holding=none
+}
+7703={
+	holding=none
+}
+7699={
+	culture=buryat
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7697={
+	holding=none
+}
+7698={
+	holding=none
+}
+7700={
+	culture=buryat
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7701={
+	holding=none
+}
+7702={
+	holding=none
+}
+7708={
+	culture=buryat
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7709={
+	holding=none
+}
+7710={
+	holding=none
+}
+7711={
+	holding=none
+}
+7714={
+	culture=buryat
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7712={
+	holding=none
+}
+7713={
+	holding=none
+}
+7715={
+	culture=buryat
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7716={
+	holding=none
+}
+7717={
+	holding=none
+}
+7719={
+	culture=buryat
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7718={
+	holding=none
+}
+7720={
+	culture=buryat
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7722={
+	holding=none
+}
+7723={
+	holding=none
+}
+7721={
+	culture=buryat
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7724={
+	holding=none
+}
+7725={
+	holding=none
+}
+7726={
+	holding=none
+}
+7778={
+	culture=buryat
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7779={
+	holding=none
+}
+7777={
+	holding=none
+}
+7780={
+	culture=buryat
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7775={
+	holding=none
+}
+7776={
+	holding=none
+}
+7727={
+	culture=buryat
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7728={
+	holding=none
+}
+7729={
+	holding=none
+}

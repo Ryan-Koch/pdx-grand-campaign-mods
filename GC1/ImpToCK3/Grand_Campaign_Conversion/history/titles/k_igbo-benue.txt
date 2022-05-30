@@ -1,0 +1,48 @@
+k_igbo-benue={
+	4.1.1={ liege=0 }
+}
+d_igboland={
+	4.1.1={ liege=0 }
+}
+c_igbo={
+	4.1.1={ change_development_level=0 }
+}
+c_idoma={
+	4.1.1={ change_development_level=0 }
+}
+c_igala={
+	4.1.1={ change_development_level=0 }
+}
+c_ijaw={
+	4.1.1={ change_development_level=0 }
+}
+c_ibibo={
+	4.1.1={ change_development_level=0 }
+}
+d_nupe={
+	4.1.1={ liege=0 }
+}
+c_nupe={
+	4.1.1={ change_development_level=0 }
+}
+c_guwari={
+	4.1.1={ change_development_level=0 }
+}
+c_opanda={
+	4.1.1={ change_development_level=0 }
+}
+c_kyadya={
+	4.1.1={ change_development_level=0 }
+}
+d_kwararafa={
+	4.1.1={ liege=0 }
+}
+c_kwararafa={
+	4.1.1={ change_development_level=0 }
+}
+c_keffi={
+	4.1.1={ change_development_level=0 }
+}
+c_bauchi={
+	4.1.1={ change_development_level=0 }
+}

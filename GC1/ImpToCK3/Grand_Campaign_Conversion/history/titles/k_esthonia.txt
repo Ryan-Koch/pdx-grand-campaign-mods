@@ -1,0 +1,18 @@
+k_esthonia={
+	4.1.1={ liege=0 }
+}
+d_esthonia={
+	4.1.1={ liege=0 }
+}
+c_reval={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_narva={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_osel={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_wiek={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}

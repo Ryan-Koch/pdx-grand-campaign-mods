@@ -1,0 +1,85 @@
+3979={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3897={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+3895={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3885={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+3886={
+	culture=dacian
+	religion=germanic_pagan
+	holding=none
+}
+3887={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3888={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3896={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3870={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+3871={
+	culture=dacian
+	religion=germanic_pagan
+	holding=none
+}
+533={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+3860={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3862={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+3861={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+538={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+3876={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3978={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}

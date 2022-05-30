@@ -1,0 +1,200 @@
+k_IMPTOCK3_SWE_germania_superior_region={
+	-23.5.10={ liege="e_scandinavia" holder="imperator107167" government="feudal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_upper_lorraine={
+	4.1.1={ liege=0 }
+}
+c_trier={
+	-23.5.10={ liege=0 holder="imperator107167" }
+	4.1.1={ change_development_level=23 }
+}
+c_nancy={
+	-23.5.10={ liege=0 holder="imperator107167" }
+	4.1.1={ change_development_level=22 }
+}
+c_metz={
+	-23.5.10={ liege=0 holder="imperator107167" }
+	4.1.1={ change_development_level=23 }
+}
+c_saarbrucken={
+	-23.5.10={ liege=0 holder="imperator107167" }
+	4.1.1={ change_development_level=36 }
+}
+c_puttlingen={
+	-23.5.10={ liege=0 holder="imperator107167" }
+	4.1.1={ change_development_level=17 }
+}
+c_neufchateau={
+	-23.5.10={ liege=0 holder="imperator107167" }
+	4.1.1={ change_development_level=31 }
+}
+d_augsburg={
+	4.1.1={ liege=0 }
+}
+c_augsburg={
+	-23.5.10={ liege=0 holder="imperator107167" }
+	4.1.1={ change_development_level=30 }
+}
+c_alpsee={
+	-16.7.9={ liege=0 holder="imperator106633" }
+	4.1.1={ change_development_level=21 }
+}
+c_kempten={
+	-16.7.9={ liege=0 holder="imperator106633" }
+	4.1.1={ change_development_level=34 }
+}
+c_ravensburg={
+	-16.7.9={ liege=0 holder="imperator106633" }
+	4.1.1={ change_development_level=29 }
+}
+c_burgau={
+	-15.12.7={ liege=0 holder="imperator106817" }
+	4.1.1={ change_development_level=38 }
+}
+d_west_franconia={
+	4.1.1={ liege=0 }
+}
+c_frankfurt={
+	-23.5.10={ liege=0 holder="imperator107167" }
+	4.1.1={ change_development_level=23 }
+}
+c_mainz={
+	-23.5.10={ liege=0 holder="imperator107167" }
+	4.1.1={ change_development_level=24 }
+}
+c_klingenberg={
+	-23.5.10={ liege=0 holder="imperator107167" }
+	4.1.1={ change_development_level=14 }
+}
+c_erbach={
+	-23.5.10={ liege=0 holder="imperator107167" }
+	4.1.1={ change_development_level=30 }
+}
+c_worms={
+	-23.5.10={ liege=0 holder="imperator107167" }
+	4.1.1={ change_development_level=27 }
+}
+c_speyer={
+	-23.5.10={ liege=0 holder="imperator107167" }
+	4.1.1={ change_development_level=31 }
+}
+c_vaihingen={
+	-23.5.10={ liege=0 holder="imperator107167" }
+	4.1.1={ change_development_level=23 }
+}
+c_durne={
+	-23.5.10={ liege=0 holder="imperator107167" }
+	4.1.1={ change_development_level=16 }
+}
+c_kaiserslautern={
+	-23.5.10={ liege=0 holder="imperator107167" }
+	4.1.1={ change_development_level=21 }
+}
+d_east_franconia={
+	4.1.1={ liege=0 }
+}
+c_wurzburg={
+	-23.5.10={ liege=0 holder="imperator107167" }
+	4.1.1={ change_development_level=11 }
+}
+c_ansbach={
+	-15.12.7={ liege=0 holder="imperator106817" }
+	4.1.1={ change_development_level=28 }
+}
+c_coburg={
+	-15.12.7={ liege=0 holder="imperator106817" }
+	4.1.1={ change_development_level=32 }
+}
+c_hohenlohe={
+	-23.5.10={ liege=0 holder="imperator107167" }
+	4.1.1={ change_development_level=18 }
+}
+c_nurnberg={
+	-15.12.7={ liege=0 holder="imperator106817" }
+	4.1.1={ change_development_level=11 }
+}
+c_bamberg={
+	-15.12.7={ liege=0 holder="imperator106817" }
+	4.1.1={ change_development_level=18 }
+}
+c_nordlingen={
+	-15.12.7={ liege=0 holder="imperator106817" }
+	4.1.1={ change_development_level=23 }
+}
+c_wiltberg={
+	-15.12.7={ liege=0 holder="imperator106817" }
+	4.1.1={ change_development_level=13 }
+}
+d_alsace={
+	4.1.1={ liege=0 }
+}
+c_strassburg={
+	-23.5.10={ liege=0 holder="imperator107167" }
+	4.1.1={ change_development_level=23 }
+}
+c_breisgau={
+	-23.5.10={ liege=0 holder="imperator107167" }
+	4.1.1={ change_development_level=26 }
+}
+c_colmar={
+	-23.5.10={ liege=0 holder="imperator107167" }
+	4.1.1={ change_development_level=26 }
+}
+c_sundgau={
+	2.10.18={ liege=0 holder="imperator106789" }
+	4.1.1={ change_development_level=30 }
+}
+d_swabia={
+	4.1.1={ liege=0 }
+}
+c_ulm={
+	-23.5.10={ liege=0 holder="imperator107167" }
+	4.1.1={ change_development_level=32 }
+}
+c_grunningen={
+	-23.5.10={ liege=0 holder="imperator107167" }
+	4.1.1={ change_development_level=24 }
+}
+c_wurttemberg={
+	-23.5.10={ liege=0 holder="imperator107167" }
+	4.1.1={ change_development_level=15 }
+}
+c_baden={
+	-23.5.10={ liege=0 holder="imperator107167" }
+	4.1.1={ change_development_level=21 }
+}
+c_zollern={
+	-23.5.10={ liege=0 holder="imperator107167" }
+	4.1.1={ change_development_level=24 }
+}
+c_hohenberg={
+	-23.5.10={ liege=0 holder="imperator107167" }
+	4.1.1={ change_development_level=10 }
+}
+c_furstenberg={
+	-16.7.9={ liege=0 holder="imperator106633" }
+	4.1.1={ change_development_level=24 }
+}
+d_thuringia={
+	4.1.1={ liege=0 }
+}
+c_schmalkalden={
+	-23.5.10={ liege=0 holder="imperator107167" }
+	4.1.1={ change_development_level=14 }
+}
+c_gottingen={
+	-22.4.5={ liege=0 holder="imperator104601" }
+	4.1.1={ change_development_level=36 }
+}
+c_gleichenstein={
+	-22.4.5={ liege=0 holder="imperator104601" }
+	4.1.1={ change_development_level=15 }
+}
+c_orlamunde={
+	-15.12.7={ liege=0 holder="imperator106817" }
+	4.1.1={ change_development_level=11 }
+}
+c_lobdaburg={
+	-15.12.7={ liege=0 holder="imperator106817" }
+	4.1.1={ change_development_level=21 }
+}

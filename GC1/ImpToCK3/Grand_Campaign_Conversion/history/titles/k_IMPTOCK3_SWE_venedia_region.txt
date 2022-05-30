@@ -1,0 +1,265 @@
+k_IMPTOCK3_SWE_venedia_region={
+	-10.11.11={ liege="e_scandinavia" holder="imperator107750" government="feudal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_pomerelia={
+	4.1.1={ liege=0 }
+}
+c_danzig={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=5 }
+}
+c_slupsk={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=12 }
+}
+c_miastko={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=17 }
+}
+c_berent={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=11 }
+}
+d_lithuanians={
+	4.1.1={ liege=0 }
+}
+c_kernave={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_trakai={
+	4.1.1={ change_development_level=5 }
+}
+c_yatvyagi={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=24 }
+}
+c_braslau={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_prussia={
+	4.1.1={ liege=0 }
+}
+c_malbork={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=21 }
+}
+c_wormditt={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=19 }
+}
+c_natangia={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=12 }
+}
+c_konigsberg={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=24 }
+}
+c_bartenstein={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=8 }
+}
+d_masuria={
+	4.1.1={ liege=0 }
+}
+c_torun={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=18 }
+}
+c_osterode={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=28 }
+}
+c_allenstein={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=16 }
+}
+c_angerburg={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=13 }
+}
+d_courland={
+	4.1.1={ liege=0 }
+}
+c_zemigalians={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=11 }
+}
+c_vanemane={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=9 }
+}
+c_grobin={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=28 }
+}
+c_selpils={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_samogitia={
+	4.1.1={ liege=0 }
+}
+c_raseiniai={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=5 }
+}
+c_scalovia={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=15 }
+}
+c_memel={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=10 }
+}
+c_palanga={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=19 }
+}
+c_siauliai={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=6 }
+}
+d_livonia={
+	4.1.1={ liege=0 }
+}
+c_vidzeme={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=5 }
+}
+c_livs={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_dorpat={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_wielkopolska={
+	4.1.1={ liege=0 }
+}
+c_poznanska={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=13 }
+}
+c_gnieznienska={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=10 }
+}
+c_kaliska={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=23 }
+}
+c_wschowska={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=28 }
+}
+c_krajna={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=28 }
+}
+c_lubusz={
+	-22.4.5={ liege=0 holder="imperator104601" }
+	4.1.1={ change_development_level=15 }
+}
+d_mazovia={
+	4.1.1={ liege=0 }
+}
+c_plocka={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=32 }
+}
+c_czerska={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=15 }
+}
+c_gostyninska={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=13 }
+}
+c_lomzynska={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=17 }
+}
+c_zakroczymska={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=27 }
+}
+d_upper_silesia={
+	4.1.1={ liege=0 }
+}
+c_opole={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=10 }
+}
+c_brzeg={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=29 }
+}
+c_nysa={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=21 }
+}
+c_cieszyn={
+	-4.11.6={ liege=0 holder="imperator108075" }
+	4.1.1={ change_development_level=26 }
+}
+c_ratibor={
+	-4.11.6={ liege=0 holder="imperator108075" }
+	4.1.1={ change_development_level=9 }
+}
+c_bethen={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=10 }
+}
+d_lower_silesia={
+	4.1.1={ liege=0 }
+}
+c_breslau={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=27 }
+}
+c_miliez={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=22 }
+}
+c_schweibus={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=9 }
+}
+c_grunberg={
+	-15.12.7={ liege=0 holder="imperator106817" }
+	4.1.1={ change_development_level=12 }
+}
+c_sprottau={
+	-15.12.7={ liege=0 holder="imperator106817" }
+	4.1.1={ change_development_level=9 }
+}
+c_przemkow={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=22 }
+}
+c_legnica={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=24 }
+}
+d_kuyavia={
+	4.1.1={ liege=0 }
+}
+c_kujawy={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=30 }
+}
+c_dobrzynska={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=17 }
+}
+c_leczycka={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=16 }
+}
+c_sieradzka={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=13 }
+}
+c_wielunska={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=17 }
+}

@@ -1,0 +1,225 @@
+2310={
+	culture=gallic
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2311={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2308={
+	culture=gallic
+	religion=hellenic_pagan
+	holding=none
+}
+2281={
+	culture=gallic
+	religion=hellenic_pagan
+	holding=none
+}
+2284={
+	culture=gallic
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2464={
+	culture=gallic
+	religion=hellenic_pagan
+	holding=none
+}
+2309={
+	culture=gallic
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2306={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2285={
+	culture=gallic
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2286={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2287={
+	culture=gallic
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2076={
+	culture=gallic
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2077={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2075={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+2459={
+	culture=gallic
+	religion=hellenic_pagan
+	holding=none
+}
+2383={
+	culture=gallic
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2071={
+	culture=gallic
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2457={
+	culture=gallic
+	religion=hellenic_pagan
+	holding=none
+}
+2458={
+	culture=gallic
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2191={
+	culture=gallic
+	religion=hellenic_pagan
+	holding=none
+}
+2073={
+	culture=gallic
+	religion=hellenic_pagan
+	holding=none
+}
+2072={
+	culture=gallic
+	religion=hellenic_pagan
+	holding=none
+}
+2380={
+	culture=gallic
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2382={
+	culture=gallic
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2381={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2348={
+	culture=gallic
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2377={
+	culture=gallic
+	religion=gallic_celtic
+	holding=city_holding
+}
+2376={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2347={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2346={
+	culture=gallic
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2345={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2350={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2351={
+	culture=gallic
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2379={
+	culture=gallic
+	religion=germanic_pagan
+	holding=city_holding
+}
+2349={
+	culture=gallic
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2378={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+2302={
+	culture=gallic
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2304={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2303={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2343={
+	culture=gallic
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+2307={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2344={
+	culture=gallic
+	religion=hellenic_pagan
+	holding=none
+}
+2374={
+	culture=gallic
+	religion=gallic_celtic
+	holding=castle_holding
+}
+2386={
+	culture=gallic
+	religion=gallic_celtic
+	holding=none
+}
+2385={
+	culture=gallic
+	religion=germanic_pagan
+	holding=none
+}

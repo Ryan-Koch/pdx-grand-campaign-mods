@@ -1,0 +1,385 @@
+1457={
+	culture=kerait
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7519={
+	holding=none
+}
+7520={
+	holding=none
+}
+7521={
+	holding=none
+}
+7522={
+	holding=none
+}
+7523={
+	holding=none
+}
+7525={
+	culture=mongol
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+1461={
+	holding=none
+}
+7524={
+	holding=none
+}
+7526={
+	holding=none
+}
+7530={
+	holding=none
+}
+7531={
+	holding=none
+}
+7517={
+	culture=mongol
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7518={
+	holding=none
+}
+7527={
+	holding=none
+}
+7528={
+	holding=none
+}
+7529={
+	holding=none
+}
+7532={
+	culture=mongol
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7533={
+	holding=none
+}
+7534={
+	holding=none
+}
+7535={
+	holding=none
+}
+7539={
+	culture=mongol
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7537={
+	holding=none
+}
+7538={
+	holding=none
+}
+7540={
+	holding=none
+}
+7542={
+	culture=mongol
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7541={
+	holding=none
+}
+7536={
+	holding=none
+}
+7555={
+	culture=mongol
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7552={
+	holding=none
+}
+7553={
+	holding=none
+}
+7554={
+	holding=none
+}
+7543={
+	culture=mongol
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7544={
+	holding=none
+}
+7545={
+	holding=none
+}
+7547={
+	culture=mongol
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7546={
+	holding=none
+}
+7548={
+	holding=none
+}
+7550={
+	culture=mongol
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7549={
+	holding=none
+}
+7551={
+	holding=none
+}
+7556={
+	culture=mongol
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7557={
+	holding=none
+}
+7558={
+	holding=none
+}
+7573={
+	culture=kerait
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7571={
+	holding=none
+}
+7572={
+	holding=none
+}
+7567={
+	holding=none
+}
+7570={
+	culture=kerait
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7568={
+	holding=none
+}
+7569={
+	holding=none
+}
+1456={
+	culture=kerait
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7565={
+	holding=none
+}
+7566={
+	holding=none
+}
+7562={
+	culture=kerait
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7563={
+	holding=none
+}
+7564={
+	holding=none
+}
+7559={
+	culture=kerait
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7560={
+	holding=none
+}
+7561={
+	holding=none
+}
+1458={
+	culture=mongol
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7581={
+	holding=none
+}
+7582={
+	holding=none
+}
+7574={
+	culture=mongol
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7575={
+	holding=none
+}
+7576={
+	holding=none
+}
+7577={
+	holding=none
+}
+7579={
+	culture=mongol
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7578={
+	holding=none
+}
+7580={
+	holding=none
+}
+7588={
+	culture=oirat
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7589={
+	holding=none
+}
+1455={
+	holding=none
+}
+7585={
+	culture=oirat
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7583={
+	holding=none
+}
+7584={
+	holding=none
+}
+7586={
+	culture=oirat
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7587={
+	holding=none
+}
+7592={
+	culture=naiman
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7591={
+	holding=none
+}
+1453={
+	holding=none
+}
+1450={
+	culture=naiman
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7590={
+	holding=none
+}
+7593={
+	culture=naiman
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7594={
+	holding=none
+}
+7595={
+	holding=none
+}
+7596={
+	culture=mongol
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7603={
+	holding=none
+}
+7604={
+	holding=none
+}
+7597={
+	culture=naiman
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7598={
+	holding=none
+}
+7599={
+	holding=none
+}
+7600={
+	culture=mongol
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7601={
+	holding=none
+}
+7602={
+	holding=none
+}
+7605={
+	culture=mongol
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7606={
+	holding=none
+}
+7607={
+	holding=none
+}
+7610={
+	culture=naiman
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7608={
+	holding=none
+}
+7609={
+	holding=none
+}
+7611={
+	culture=naiman
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7612={
+	holding=none
+}
+7613={
+	holding=none
+}
+7615={
+	culture=naiman
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7614={
+	holding=none
+}
+7616={
+	holding=none
+}

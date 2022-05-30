@@ -1,0 +1,69 @@
+k_kipchak={
+	4.1.1={ liege=0 }
+}
+d_semey={
+	4.1.1={ liege=0 }
+}
+c_semey={
+	4.1.1={ change_development_level=0 }
+}
+c_jinghiz={
+	4.1.1={ change_development_level=0 }
+}
+c_degelen={
+	4.1.1={ change_development_level=0 }
+}
+c_arkat={
+	4.1.1={ change_development_level=0 }
+}
+c_kalbin={
+	4.1.1={ change_development_level=0 }
+}
+d_kentarlau={
+	4.1.1={ liege=0 }
+}
+c_kulan_uynak={
+	4.1.1={ change_development_level=0 }
+}
+c_jiren_suat={
+	4.1.1={ change_development_level=0 }
+}
+c_koi-bagar={
+	4.1.1={ change_development_level=0 }
+}
+d_karkaraly={
+	4.1.1={ liege=0 }
+}
+c_karkaraly={
+	4.1.1={ change_development_level=0 }
+}
+c_tokumbay={
+	4.1.1={ change_development_level=0 }
+}
+c_nurtay={
+	4.1.1={ change_development_level=0 }
+}
+d_karabas={
+	4.1.1={ liege=0 }
+}
+c_karabas={
+	4.1.1={ change_development_level=0 }
+}
+c_jasky_kart={
+	4.1.1={ change_development_level=0 }
+}
+c_uliuty={
+	4.1.1={ change_development_level=0 }
+}
+d_betpa={
+	4.1.1={ liege=0 }
+}
+c_betpa={
+	4.1.1={ change_development_level=0 }
+}
+c_targyl={
+	4.1.1={ change_development_level=0 }
+}
+c_kulan_utmas={
+	4.1.1={ change_development_level=0 }
+}

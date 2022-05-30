@@ -1,0 +1,64 @@
+k_IMPTOCK3_MRY_ariana_region={
+	-6.1.9={ liege="e_india" holder="imperator107204" government="feudal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_ghur={
+	4.1.1={ liege=0 }
+}
+c_ghur={
+	-6.1.9={ liege=0 holder="imperator107204" }
+	4.1.1={ change_development_level=25 }
+}
+c_darmashan={
+	-6.1.9={ liege=0 holder="imperator107204" }
+	4.1.1={ change_development_level=26 }
+}
+c_upper_ghur={
+	-2.6.6={ liege=0 holder="imperator107736" }
+	4.1.1={ change_development_level=30 }
+}
+d_herat={
+	4.1.1={ liege=0 }
+}
+c_herat={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=35 }
+}
+c_bakharz={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=30 }
+}
+c_badghis={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=30 }
+}
+c_sabzevar={
+	-6.1.9={ liege=0 holder="imperator107204" }
+	4.1.1={ change_development_level=19 }
+}
+c_zirkuh={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=22 }
+}
+d_sistan={
+	4.1.1={ liege=0 }
+}
+c_zaranj={
+	-6.1.9={ liege=0 holder="imperator107204" }
+	4.1.1={ change_development_level=18 }
+}
+c_nih={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=48 }
+}
+c_farah={
+	-6.1.9={ liege=0 holder="imperator107204" }
+	4.1.1={ change_development_level=24 }
+}
+c_rudbar={
+	-6.1.9={ liege=0 holder="imperator107204" }
+	4.1.1={ change_development_level=9 }
+}
+c_bost={
+	-6.1.9={ liege=0 holder="imperator107204" }
+	4.1.1={ change_development_level=9 }
+}

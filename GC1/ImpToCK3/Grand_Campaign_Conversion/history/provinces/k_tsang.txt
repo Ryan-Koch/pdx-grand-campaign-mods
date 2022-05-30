@@ -1,0 +1,36 @@
+9215={
+	culture=zhangzhung
+	religion=old_bon
+	holding=tribal_holding
+}
+9217={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+9214={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+9222={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+9216={
+	culture=zhangzhung
+	religion=old_bon
+	holding=tribal_holding
+}
+9218={
+	holding=none
+}
+9212={
+	culture=zhangzhung
+	religion=old_bon
+	holding=tribal_holding
+}
+9213={
+	holding=none
+}

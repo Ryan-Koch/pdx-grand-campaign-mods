@@ -1,0 +1,63 @@
+k_zhetysu={
+	4.1.1={ liege=0 }
+}
+d_zhetysu={
+	4.1.1={ liege=0 }
+}
+c_qayaliq={
+	4.1.1={ change_development_level=0 }
+}
+c_almaty={
+	4.1.1={ change_development_level=0 }
+}
+c_kopathal={
+	4.1.1={ change_development_level=0 }
+}
+c_kaskelen={
+	4.1.1={ change_development_level=0 }
+}
+c_aksuyek={
+	4.1.1={ change_development_level=0 }
+}
+c_uchkul={
+	4.1.1={ change_development_level=0 }
+}
+d_alakol={
+	4.1.1={ liege=0 }
+}
+c_chuguchak={
+	4.1.1={ change_development_level=0 }
+}
+c_kokpekty={
+	4.1.1={ change_development_level=0 }
+}
+c_guzkol={
+	4.1.1={ change_development_level=0 }
+}
+c_lepsink={
+	4.1.1={ change_development_level=0 }
+}
+d_tarbagatai={
+	4.1.1={ liege=0 }
+}
+c_emil={
+	4.1.1={ change_development_level=0 }
+}
+c_jinsko={
+	4.1.1={ change_development_level=0 }
+}
+c_karamay={
+	4.1.1={ change_development_level=0 }
+}
+d_ili-alatau={
+	4.1.1={ liege=0 }
+}
+c_iliq={
+	4.1.1={ change_development_level=0 }
+}
+c_ghulja={
+	4.1.1={ change_development_level=0 }
+}
+c_kash={
+	4.1.1={ change_development_level=0 }
+}

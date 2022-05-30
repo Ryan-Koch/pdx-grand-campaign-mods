@@ -1,0 +1,192 @@
+5798={
+	culture=samoyed
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5799={
+	holding=none
+}
+5800={
+	holding=none
+}
+5801={
+	holding=none
+}
+5802={
+	holding=none
+}
+5803={
+	culture=samoyed
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5804={
+	holding=none
+}
+5805={
+	holding=none
+}
+5806={
+	holding=none
+}
+5807={
+	culture=samoyed
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5808={
+	holding=none
+}
+5809={
+	holding=none
+}
+5810={
+	holding=none
+}
+5811={
+	culture=samoyed
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5812={
+	holding=none
+}
+5813={
+	holding=none
+}
+5814={
+	culture=vepsian
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5815={
+	holding=none
+}
+5816={
+	holding=none
+}
+5817={
+	culture=vepsian
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5818={
+	holding=none
+}
+5819={
+	holding=none
+}
+5820={
+	culture=vepsian
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5821={
+	holding=none
+}
+5822={
+	holding=none
+}
+5823={
+	holding=none
+}
+5824={
+	culture=vepsian
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5825={
+	holding=none
+}
+5826={
+	holding=none
+}
+5827={
+	holding=none
+}
+5828={
+	holding=none
+}
+5829={
+	culture=vepsian
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5830={
+	holding=none
+}
+5831={
+	holding=none
+}
+5832={
+	culture=vepsian
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5833={
+	holding=none
+}
+5834={
+	holding=none
+}
+5835={
+	culture=vepsian
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5836={
+	holding=none
+}
+5837={
+	holding=none
+}
+5838={
+	culture=vepsian
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5839={
+	holding=none
+}
+5840={
+	holding=none
+}
+5841={
+	holding=none
+}
+5842={
+	culture=vepsian
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5843={
+	holding=none
+}
+5844={
+	holding=none
+}
+5845={
+	culture=vepsian
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5846={
+	holding=none
+}
+5847={
+	holding=none
+}
+5848={
+	holding=none
+}
+5849={
+	culture=vepsian
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5850={
+	holding=none
+}
+5851={
+	holding=none
+}

@@ -1,0 +1,260 @@
+6845={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6846={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6847={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6848={
+	culture=zaghawa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6849={
+	culture=zaghawa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6850={
+	culture=zaghawa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6851={
+	culture=zaghawa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6852={
+	culture=zaghawa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6853={
+	culture=zaghawa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6854={
+	culture=zaghawa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6855={
+	culture=zaghawa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6860={
+	culture=zaghawa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6861={
+	culture=zaghawa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6862={
+	culture=zaghawa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6863={
+	culture=zaghawa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6864={
+	culture=zaghawa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6865={
+	culture=daju
+	religion=kushitism_pagan
+	holding=none
+}
+6866={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6867={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6868={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6869={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6870={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6871={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6872={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6873={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6874={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6875={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6876={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6877={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6878={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6879={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6880={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6881={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6882={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6883={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6884={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6885={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6886={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6887={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6888={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6889={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6890={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6891={
+	culture=daju
+	religion=kushitism_pagan
+	holding=none
+}
+6892={
+	culture=daju
+	religion=kushitism_pagan
+	holding=none
+}
+6893={
+	culture=daju
+	religion=kushitism_pagan
+	holding=none
+}
+6894={
+	culture=daju
+	religion=kushitism_pagan
+	holding=none
+}
+6895={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6897={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6898={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6899={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6900={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}
+6901={
+	culture=nubian
+	religion=egyptian_pagan
+	holding=none
+}

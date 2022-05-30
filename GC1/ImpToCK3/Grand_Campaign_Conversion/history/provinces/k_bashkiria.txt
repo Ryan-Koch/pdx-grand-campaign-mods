@@ -1,0 +1,120 @@
+615={
+	culture=bashkir
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+5475={
+	holding=none
+}
+5477={
+	holding=none
+}
+5476={
+	holding=none
+}
+5481={
+	culture=bashkir
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+5478={
+	holding=none
+}
+5480={
+	holding=none
+}
+5479={
+	holding=none
+}
+5483={
+	culture=bashkir
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+5482={
+	holding=none
+}
+5485={
+	holding=none
+}
+5484={
+	holding=none
+}
+5497={
+	culture=bashkir
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+5496={
+	holding=none
+}
+5495={
+	holding=none
+}
+5494={
+	holding=none
+}
+5493={
+	holding=none
+}
+5490={
+	culture=bashkir
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+5491={
+	holding=none
+}
+5492={
+	holding=none
+}
+5487={
+	culture=bashkir
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+5486={
+	holding=none
+}
+5488={
+	holding=none
+}
+5489={
+	holding=none
+}
+5519={
+	culture=bashkir
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+5520={
+	holding=none
+}
+5521={
+	holding=none
+}
+5522={
+	holding=none
+}
+5525={
+	culture=bashkir
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+5523={
+	holding=none
+}
+5528={
+	holding=none
+}
+5526={
+	culture=bashkir
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+5527={
+	holding=none
+}
+5524={
+	holding=none
+}

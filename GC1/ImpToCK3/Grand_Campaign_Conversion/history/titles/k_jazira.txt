@@ -1,0 +1,75 @@
+k_jazira={
+	4.1.1={ liege=0 }
+}
+d_diyarrabia={
+	4.1.1={ liege=0 }
+}
+c_mosul={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=40 }
+}
+c_ninive={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=38 }
+}
+c_sinjar={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=22 }
+}
+c_nasibin={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=36 }
+}
+c_khabur={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=28 }
+}
+c_upper_khabur={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=45 }
+}
+d_diyarmudar={
+	4.1.1={ liege=0 }
+}
+c_raqqa={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=43 }
+}
+c_harran={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=40 }
+}
+c_dausar={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=44 }
+}
+d_euphrates={
+	4.1.1={ liege=0 }
+}
+c_rahba={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=38 }
+}
+c_hadithat-ana={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=38 }
+}
+c_al-haditha={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=38 }
+}
+d_kurdistan={
+	4.1.1={ liege=0 }
+}
+c_irbil={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=33 }
+}
+c_kurdistan={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=36 }
+}
+c_shahrazur={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=39 }
+}

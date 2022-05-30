@@ -1,0 +1,220 @@
+63={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+433={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+85={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+64={
+	culture=norse
+	religion=norse_pagan
+	holding=church_holding
+}
+69={
+	culture=norse
+	religion=norse_pagan
+	holding=church_holding
+}
+65={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+66={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+228={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+67={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+68={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+70={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+71={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+72={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+86={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+73={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+74={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+75={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+76={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+77={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+78={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+79={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+87={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+80={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+57={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+58={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+226={
+	culture=norse
+	religion=norse_pagan
+	holding=city_holding
+}
+56={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+222={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+82={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+221={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+223={
+	culture=norse
+	religion=norse_pagan
+	holding=city_holding
+}
+225={
+	culture=norse
+	religion=norse_pagan
+	holding=city_holding
+}
+81={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+55={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+224={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+62={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+61={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+84={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+59={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+227={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+434={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+60={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+83={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+220={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}

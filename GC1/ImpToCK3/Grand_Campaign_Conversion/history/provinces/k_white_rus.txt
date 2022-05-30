@@ -1,0 +1,168 @@
+548={
+	culture=russian
+	religion=slavic_pagan
+	holding=tribal_holding
+}
+5112={
+	holding=none
+}
+5113={
+	holding=none
+}
+5114={
+	culture=russian
+	religion=slavic_pagan
+	holding=tribal_holding
+}
+5115={
+	holding=none
+}
+5116={
+	holding=none
+}
+5117={
+	culture=russian
+	religion=slavic_pagan
+	holding=none
+}
+5118={
+	holding=none
+}
+5119={
+	culture=russian
+	religion=slavic_pagan
+	holding=tribal_holding
+}
+5120={
+	holding=none
+}
+5121={
+	holding=none
+}
+5122={
+	holding=none
+}
+550={
+	culture=russian
+	religion=slavic_pagan
+	holding=tribal_holding
+}
+5123={
+	holding=none
+}
+5124={
+	holding=none
+}
+5125={
+	holding=none
+}
+5126={
+	holding=none
+}
+5127={
+	culture=russian
+	religion=slavic_pagan
+	holding=tribal_holding
+}
+5128={
+	holding=none
+}
+5129={
+	culture=russian
+	religion=slavic_pagan
+	holding=tribal_holding
+}
+5130={
+	culture=vandilian
+	religion=germanic_pagan
+	holding=none
+}
+5131={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}
+934={
+	culture=russian
+	religion=slavic_pagan
+	holding=tribal_holding
+}
+5132={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}
+5133={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}
+5134={
+	culture=russian
+	religion=slavic_pagan
+	holding=tribal_holding
+}
+5135={
+	holding=none
+}
+568={
+	culture=russian
+	religion=slavic_pagan
+	holding=tribal_holding
+}
+5219={
+	holding=none
+}
+551={
+	holding=none
+}
+5220={
+	holding=none
+}
+569={
+	holding=none
+}
+5221={
+	culture=russian
+	religion=slavic_pagan
+	holding=tribal_holding
+}
+5222={
+	holding=none
+}
+5223={
+	holding=none
+}
+933={
+	culture=russian
+	religion=slavic_pagan
+	holding=tribal_holding
+}
+5224={
+	holding=none
+}
+5225={
+	holding=none
+}
+587={
+	culture=merya
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5226={
+	holding=none
+}
+5227={
+	holding=none
+}
+5170={
+	culture=russian
+	religion=slavic_pagan
+	holding=tribal_holding
+}
+5171={
+	holding=none
+}
+5172={
+	holding=none
+}

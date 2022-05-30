@@ -1,0 +1,6 @@
+name="Converted - Grand_Campaign_Conversion"
+replace_path="common/landed_titles"
+replace_path="history/province_mapping"
+replace_path="history/provinces"
+replace_path="history/titles"
+path="C:/Users/Ryan/Documents/Paradox Interactive/Crusader Kings III/mod/Grand_Campaign_Conversion"

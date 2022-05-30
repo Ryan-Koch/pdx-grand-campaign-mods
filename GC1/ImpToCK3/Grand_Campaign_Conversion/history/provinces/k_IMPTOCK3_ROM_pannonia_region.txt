@@ -1,0 +1,385 @@
+3117={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3111={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3118={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3110={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3116={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3092={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3120={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3109={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3103={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3106={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3121={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3119={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+461={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3533={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3534={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3535={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+458={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+460={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+462={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3531={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3532={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3529={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3528={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3530={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3610={
+	culture=celtic_pannonian
+	religion=celtic_pagan
+	holding=castle_holding
+}
+3609={
+	culture=celtic_pannonian
+	religion=hellenic_pagan
+	holding=none
+}
+3608={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3803={
+	culture=celtic_pannonian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+522={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3802={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3804={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3809={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3916={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3808={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3976={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3805={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3806={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3807={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+523={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+3867={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3868={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3869={
+	culture=celtic_pannonian
+	religion=germanic_pagan
+	holding=castle_holding
+}
+3948={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+3835={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3836={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3837={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3838={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3827={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3828={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3829={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3839={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3840={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3841={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3842={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3843={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3844={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3845={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+518={
+	culture=celtic_pannonian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3830={
+	culture=celtic_pannonian
+	religion=hellenic_pagan
+	holding=none
+}
+3863={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3864={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3865={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3866={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3823={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3822={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3817={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3818={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3819={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3820={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3821={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3977={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3826={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3824={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3825={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+3739={
+	culture=celtic_pannonian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+3611={
+	culture=celtic_pannonian
+	religion=hellenic_pagan
+	holding=none
+}
+3613={
+	culture=celtic_pannonian
+	religion=hellenic_pagan
+	holding=none
+}

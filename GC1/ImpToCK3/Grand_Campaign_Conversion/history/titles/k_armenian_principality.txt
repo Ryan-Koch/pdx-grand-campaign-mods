@@ -1,0 +1,110 @@
+k_armenian_principality={
+	-1.8.29={ government="feudal_government" holder="imperator108465" liege="e_roman_empire" succession_laws={ "high_partition_succession_law" } }
+}
+d_mesopotamia={
+	4.1.1={ liege=0 }
+}
+c_theodosiopolis={
+	-1.8.29={ liege=0 holder="imperator108465" }
+	4.1.1={ change_development_level=40 }
+}
+c_melitene={
+	-17.8.12={ liege=0 holder="imperator107655" }
+	4.1.1={ change_development_level=27 }
+}
+c_mesopotamia={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=43 }
+}
+d_vaspurakan={
+	4.1.1={ liege=0 }
+}
+c_vaspurakan={
+	-1.8.29={ liege=0 holder="imperator108465" }
+	4.1.1={ change_development_level=41 }
+}
+c_turuberan={
+	-1.8.29={ liege=0 holder="imperator108465" }
+	4.1.1={ change_development_level=33 }
+}
+c_apahunik={
+	-1.8.29={ liege=0 holder="imperator108465" }
+	4.1.1={ change_development_level=34 }
+}
+d_greater_armenia={
+	4.1.1={ liege=0 }
+}
+c_hayk={
+	-1.8.29={ liege=0 holder="imperator108465" }
+	4.1.1={ change_development_level=36 }
+}
+c_bagrewand={
+	-1.8.29={ liege=0 holder="imperator108465" }
+	4.1.1={ change_development_level=37 }
+}
+c_vanand={
+	-20.7.28={ liege=0 holder="imperator107399" }
+	4.1.1={ change_development_level=37 }
+}
+c_khachen={
+	-42.1.9={ liege=0 holder="imperator103777" }
+	4.1.1={ change_development_level=24 }
+}
+c_suenik={
+	-42.1.9={ liege=0 holder="imperator103777" }
+	4.1.1={ change_development_level=26 }
+}
+c_dvin={
+	-42.1.9={ liege=0 holder="imperator103777" }
+	4.1.1={ change_development_level=25 }
+}
+d_azerbaijan={
+	4.1.1={ liege=0 }
+}
+c_tabriz={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=35 }
+}
+c_talish={
+	-8.3.21={ liege=0 holder="imperator107035" }
+	4.1.1={ change_development_level=6 }
+}
+c_ardabil={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=43 }
+}
+c_maragha={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=48 }
+}
+c_bailaqan={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=34 }
+}
+c_urmiya={
+	-1.8.29={ liege=0 holder="imperator108465" }
+	4.1.1={ change_development_level=42 }
+}
+d_diyarbakr={
+	4.1.1={ liege=0 }
+}
+c_amida={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=35 }
+}
+c_tall_basma={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=40 }
+}
+c_hakkari={
+	-1.8.29={ liege=0 holder="imperator108465" }
+	4.1.1={ change_development_level=26 }
+}
+c_mayyafariqin={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=37 }
+}
+c_bakriya={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=35 }
+}

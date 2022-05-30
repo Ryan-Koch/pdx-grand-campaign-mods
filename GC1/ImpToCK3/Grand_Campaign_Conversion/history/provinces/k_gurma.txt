@@ -1,0 +1,185 @@
+6582={
+	culture=sorko
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6674={
+	culture=marka
+	religion=west_african_pagan
+	holding=none
+}
+6675={
+	culture=marka
+	religion=west_african_pagan
+	holding=none
+}
+6676={
+	culture=marka
+	religion=west_african_pagan
+	holding=none
+}
+6677={
+	culture=marka
+	religion=west_african_pagan
+	holding=none
+}
+6678={
+	culture=marka
+	religion=west_african_pagan
+	holding=none
+}
+6679={
+	culture=gur
+	religion=west_african_pagan
+	holding=none
+}
+6680={
+	culture=sorko
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6681={
+	culture=gur
+	religion=west_african_pagan
+	holding=none
+}
+6682={
+	culture=gur
+	religion=west_african_pagan
+	holding=none
+}
+6683={
+	culture=sorko
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6684={
+	culture=sorko
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6685={
+	culture=marka
+	religion=west_african_pagan
+	holding=none
+}
+6686={
+	culture=gur
+	religion=west_african_pagan
+	holding=none
+}
+6687={
+	culture=gur
+	religion=west_african_pagan
+	holding=none
+}
+6688={
+	culture=sorko
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6689={
+	culture=gur
+	religion=west_african_pagan
+	holding=none
+}
+6690={
+	culture=gur
+	religion=west_african_pagan
+	holding=none
+}
+6691={
+	culture=gur
+	religion=west_african_pagan
+	holding=none
+}
+6692={
+	culture=gur
+	religion=west_african_pagan
+	holding=none
+}
+6693={
+	culture=gur
+	religion=west_african_pagan
+	holding=none
+}
+6694={
+	culture=gur
+	religion=west_african_pagan
+	holding=none
+}
+6695={
+	culture=marka
+	religion=west_african_pagan
+	holding=none
+}
+6696={
+	culture=marka
+	religion=west_african_pagan
+	holding=none
+}
+6697={
+	culture=marka
+	religion=west_african_pagan
+	holding=none
+}
+6698={
+	culture=marka
+	religion=west_african_pagan
+	holding=none
+}
+6701={
+	culture=marka
+	religion=west_african_pagan
+	holding=none
+}
+6702={
+	culture=marka
+	religion=west_african_pagan
+	holding=none
+}
+6703={
+	culture=marka
+	religion=west_african_pagan
+	holding=none
+}
+6704={
+	culture=marka
+	religion=west_african_pagan
+	holding=none
+}
+6705={
+	culture=marka
+	religion=west_african_pagan
+	holding=none
+}
+6706={
+	culture=marka
+	religion=west_african_pagan
+	holding=none
+}
+6707={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+6713={
+	culture=sorko
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6719={
+	culture=gur
+	religion=west_african_pagan
+	holding=none
+}
+6720={
+	culture=gur
+	religion=west_african_pagan
+	holding=none
+}
+6721={
+	culture=gur
+	religion=west_african_pagan
+	holding=none
+}

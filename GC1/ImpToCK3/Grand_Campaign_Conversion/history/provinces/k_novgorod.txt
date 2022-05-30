@@ -1,0 +1,164 @@
+5137={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}
+5138={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}
+5139={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}
+5140={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}
+5141={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}
+5142={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}
+5143={
+	culture=russian
+	religion=slavic_pagan
+	holding=tribal_holding
+}
+5144={
+	holding=none
+}
+5145={
+	holding=none
+}
+5177={
+	holding=none
+}
+5146={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}
+5147={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}
+5148={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}
+5149={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}
+5150={
+	culture=russian
+	religion=slavic_pagan
+	holding=tribal_holding
+}
+5151={
+	holding=none
+}
+5152={
+	holding=none
+}
+169={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}
+170={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}
+168={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}
+167={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}
+5156={
+	culture=vepsian
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5157={
+	holding=none
+}
+5158={
+	holding=none
+}
+5153={
+	culture=vepsian
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5154={
+	holding=none
+}
+5155={
+	holding=none
+}
+5254={
+	holding=none
+}
+5255={
+	holding=none
+}
+5159={
+	culture=vepsian
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5160={
+	holding=none
+}
+5161={
+	culture=russian
+	religion=slavic_pagan
+	holding=tribal_holding
+}
+5162={
+	holding=none
+}
+5163={
+	holding=none
+}
+5164={
+	culture=vepsian
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5165={
+	holding=none
+}
+5166={
+	holding=none
+}
+5167={
+	holding=none
+}
+5168={
+	culture=vepsian
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5169={
+	holding=none
+}

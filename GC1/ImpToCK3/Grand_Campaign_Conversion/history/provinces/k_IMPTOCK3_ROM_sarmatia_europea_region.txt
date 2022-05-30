@@ -1,0 +1,150 @@
+5015={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5016={
+	culture=getian
+	religion=hellenic_pagan
+	holding=none
+}
+512={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5011={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5012={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5013={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5014={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5017={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5018={
+	culture=getian
+	religion=hellenic_pagan
+	holding=none
+}
+543={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5267={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5268={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+542={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5257={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=castle_holding
+}
+5258={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5259={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5260={
+	culture=scythian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5261={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+5262={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+5263={
+	culture=scythian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5264={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+5265={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+5266={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+5269={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5270={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+5271={
+	culture=scythian
+	religion=hellenic_pagan
+	holding=none
+}
+5274={
+	culture=scythian
+	religion=scythian_pagan
+	holding=castle_holding
+}
+5272={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5273={
+	culture=vandal
+	religion=germanic_pagan
+	holding=none
+}
+5275={
+	culture=scythian
+	religion=hellenic_pagan
+	holding=none
+}

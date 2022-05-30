@@ -1,0 +1,174 @@
+k_persia={
+	4.1.1={ liege=0 }
+}
+d_isfahan={
+	4.1.1={ liege=0 }
+}
+c_isfahan={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=42 }
+}
+c_ardestan={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=24 }
+}
+c_qumisha={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=21 }
+}
+c_luristan={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=4 }
+}
+d_kirman={
+	4.1.1={ liege=0 }
+}
+c_kirman={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=43 }
+}
+c_behabad={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=40 }
+}
+c_bam={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=34 }
+}
+c_sirjan={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=24 }
+}
+c_jiruft={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=37 }
+}
+d_yazd={
+	4.1.1={ liege=0 }
+}
+c_yazd={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=42 }
+}
+c_mafaza={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=27 }
+}
+c_shahre-babak={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=39 }
+}
+d_rayy={
+	4.1.1={ liege=0 }
+}
+c_rayy={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=42 }
+}
+c_khuwar={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=38 }
+}
+c_qom={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=48 }
+}
+d_hamadan={
+	4.1.1={ liege=0 }
+}
+c_hamadan={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=46 }
+}
+c_nihawand={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=39 }
+}
+c_dinawar={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=39 }
+}
+d_fars={
+	4.1.1={ liege=0 }
+}
+c_shiraz={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=50 }
+}
+c_lar={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=6 }
+}
+c_darabjerd={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=44 }
+}
+c_arrajan={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=30 }
+}
+c_istakhr={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=43 }
+}
+c_mandestan={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=34 }
+}
+c_irahistan={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=13 }
+}
+d_hormuz={
+	4.1.1={ liege=0 }
+}
+c_hormuz={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=39 }
+}
+c_sif-i-umara={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=30 }
+}
+d_khuzestan={
+	4.1.1={ liege=0 }
+}
+c_ahvaz={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=35 }
+}
+c_sardan={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=9 }
+}
+c_ramhurmuz={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=20 }
+}
+c_tustar={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=34 }
+}
+c_abbadan={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=50 }
+}
+c_dawraq={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=41 }
+}
+d_kermanshah={
+	4.1.1={ liege=0 }
+}
+c_kermanshah={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=37 }
+}
+c_masabadhan={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=30 }
+}
+c_saimara={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=38 }
+}

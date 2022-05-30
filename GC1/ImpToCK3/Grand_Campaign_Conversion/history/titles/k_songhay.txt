@@ -1,0 +1,36 @@
+k_songhay={
+	4.1.1={ liege=0 }
+}
+d_kawkaw={
+	4.1.1={ liege=0 }
+}
+c_gao={
+	4.1.1={ change_development_level=0 }
+}
+c_ansongo={
+	4.1.1={ change_development_level=0 }
+}
+c_kukiya={
+	4.1.1={ change_development_level=0 }
+}
+d_timbuktu={
+	4.1.1={ liege=0 }
+}
+c_tirakka={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_arawan={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_dendi={
+	4.1.1={ liege=0 }
+}
+c_dendi={
+	4.1.1={ change_development_level=0 }
+}
+c_dyamare={
+	4.1.1={ change_development_level=0 }
+}
+c_zarma={
+	4.1.1={ change_development_level=0 }
+}

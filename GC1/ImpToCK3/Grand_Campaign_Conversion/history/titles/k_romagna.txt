@@ -1,0 +1,56 @@
+k_romagna={
+	4.1.1={ liege=0 }
+}
+d_ancona={
+	4.1.1={ liege=0 }
+}
+c_ancona={
+	-39.3.8={ liege=0 holder="imperator105005" }
+	4.1.1={ change_development_level=21 }
+}
+c_urbino={
+	-39.3.8={ liege=0 holder="imperator105005" }
+	4.1.1={ change_development_level=40 }
+}
+c_fermo={
+	-39.3.8={ liege=0 holder="imperator105005" }
+	4.1.1={ change_development_level=40 }
+}
+d_spoleto={
+	4.1.1={ liege=0 }
+}
+c_spoleto={
+	-39.3.8={ liege=0 holder="imperator105005" }
+	4.1.1={ change_development_level=34 }
+}
+c_orvieto={
+	-39.3.8={ liege=0 holder="imperator105005" }
+	4.1.1={ change_development_level=42 }
+}
+c_teramo={
+	-39.3.8={ liege=0 holder="imperator105005" }
+	4.1.1={ change_development_level=36 }
+}
+c_lanciano={
+	-39.3.8={ liege=0 holder="imperator105005" }
+	4.1.1={ change_development_level=26 }
+}
+c_abruzzi={
+	-39.3.8={ liege=0 holder="imperator105005" }
+	4.1.1={ change_development_level=40 }
+}
+d_latium={
+	4.1.1={ liege=0 }
+}
+c_roma={
+	-39.3.8={ liege=0 holder="imperator105005" }
+	4.1.1={ change_development_level=49 }
+}
+c_viterbo={
+	-39.3.8={ liege=0 holder="imperator105005" }
+	4.1.1={ change_development_level=34 }
+}
+c_tivoli={
+	-39.3.8={ liege=0 holder="imperator105005" }
+	4.1.1={ change_development_level=44 }
+}

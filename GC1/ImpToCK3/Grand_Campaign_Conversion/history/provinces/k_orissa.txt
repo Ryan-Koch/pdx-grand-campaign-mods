@@ -1,0 +1,560 @@
+1123={
+	culture=telugu
+	religion=shaivism
+	holding=castle_holding
+}
+1221={
+	culture=bengali
+	religion=krishnaism
+	holding=none
+}
+1222={
+	culture=bengali
+	religion=shaivism
+	holding=none
+}
+1415={
+	culture=bengali
+	religion=shaivism
+	holding=castle_holding
+}
+7911={
+	culture=bengali
+	religion=shaivism
+	holding=none
+}
+7912={
+	culture=bengali
+	religion=shaivism
+	holding=castle_holding
+}
+7916={
+	culture=telugu
+	religion=shaivism
+	holding=castle_holding
+}
+862={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+863={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+864={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+865={
+	culture=bengali
+	religion=vaishnavism
+	holding=city_holding
+}
+866={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+1232={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+1235={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+1238={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+906={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+907={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+908={
+	culture=bengali
+	religion=vaishnavism
+	holding=city_holding
+}
+909={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+910={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+911={
+	culture=bengali
+	religion=vaishnavism
+	holding=city_holding
+}
+912={
+	culture=bengali
+	religion=vaishnavism
+	holding=city_holding
+}
+1234={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+1237={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+1241={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+1248={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+1327={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+921={
+	culture=bengali
+	religion=srikula_shaktism
+	holding=city_holding
+}
+922={
+	culture=bengali
+	religion=srikula_shaktism
+	holding=none
+}
+923={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+925={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+926={
+	culture=bengali
+	religion=vaishnavism
+	holding=city_holding
+}
+1165={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+1272={
+	culture=bengali
+	religion=srikula_shaktism
+	holding=castle_holding
+}
+1277={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+7920={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+7921={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+7922={
+	culture=bengali
+	religion=vaishnavism
+	holding=city_holding
+}
+7923={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+927={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+928={
+	culture=bengali
+	religion=vaishnavism
+	holding=city_holding
+}
+929={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+930={
+	culture=bengali
+	religion=vaishnavism
+	holding=city_holding
+}
+931={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+932={
+	culture=bengali
+	religion=vaishnavism
+	holding=city_holding
+}
+1128={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+1129={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+1155={
+	culture=bengali
+	religion=srikula_shaktism
+	holding=castle_holding
+}
+1156={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+1160={
+	culture=bengali
+	religion=srikula_shaktism
+	holding=castle_holding
+}
+1224={
+	culture=oriya
+	religion=vaishnavism
+	holding=castle_holding
+}
+1225={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+1226={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+1227={
+	culture=telugu
+	religion=srikula_shaktism
+	holding=castle_holding
+}
+1228={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+1229={
+	culture=oriya
+	religion=vaishnavism
+	holding=none
+}
+1230={
+	culture=bengali
+	religion=srikula_shaktism
+	holding=castle_holding
+}
+1231={
+	culture=oriya
+	religion=vaishnavism
+	holding=castle_holding
+}
+1247={
+	culture=oriya
+	religion=vaishnavism
+	holding=none
+}
+1249={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+1252={
+	culture=bengali
+	religion=srikula_shaktism
+	holding=castle_holding
+}
+1270={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+3980={
+	culture=oriya
+	religion=vaishnavism
+	holding=city_holding
+}
+3981={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+3982={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+3983={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+3984={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+3985={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+3986={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+3987={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+3988={
+	culture=bengali
+	religion=vaishnavism
+	holding=city_holding
+}
+3989={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+3990={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+3991={
+	culture=bengali
+	religion=srikula_shaktism
+	holding=none
+}
+3992={
+	culture=bengali
+	religion=srikula_shaktism
+	holding=none
+}
+3993={
+	culture=bengali
+	religion=srikula_shaktism
+	holding=none
+}
+3994={
+	culture=bengali
+	religion=srikula_shaktism
+	holding=none
+}
+3995={
+	culture=bengali
+	religion=srikula_shaktism
+	holding=city_holding
+}
+3996={
+	culture=bengali
+	religion=srikula_shaktism
+	holding=none
+}
+3997={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+3998={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+3999={
+	culture=bengali
+	religion=srikula_shaktism
+	holding=city_holding
+}
+7913={
+	culture=oriya
+	religion=srikula_shaktism
+	holding=none
+}
+7914={
+	culture=bengali
+	religion=srikula_shaktism
+	holding=city_holding
+}
+7915={
+	culture=bengali
+	religion=srikula_shaktism
+	holding=none
+}
+7932={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+7933={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+7934={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9648={
+	culture=oriya
+	religion=vaishnavism
+	holding=church_holding
+}
+9649={
+	culture=oriya
+	religion=vaishnavism
+	holding=city_holding
+}
+9650={
+	culture=oriya
+	religion=vaishnavism
+	holding=city_holding
+}
+9651={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9652={
+	culture=oriya
+	religion=vaishnavism
+	holding=city_holding
+}
+9653={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9659={
+	culture=bengali
+	religion=srikula_shaktism
+	holding=none
+}
+1144={
+	culture=bengali
+	religion=shaivism
+	holding=none
+}
+1157={
+	culture=bengali
+	religion=shaivism
+	holding=none
+}
+1208={
+	culture=bengali
+	religion=shaivism
+	holding=none
+}
+1209={
+	culture=telugu
+	religion=shaivism
+	holding=castle_holding
+}
+1211={
+	culture=bengali
+	religion=shaivism
+	holding=castle_holding
+}
+1255={
+	culture=bengali
+	religion=shaivism
+	holding=castle_holding
+}
+1256={
+	culture=bengali
+	religion=shaivism
+	holding=castle_holding
+}
+1257={
+	culture=bengali
+	religion=shaivism
+	holding=none
+}
+7902={
+	culture=bengali
+	religion=shaivism
+	holding=city_holding
+}
+7903={
+	culture=bengali
+	religion=shaivism
+	holding=none
+}
+7904={
+	culture=bengali
+	religion=shaivism
+	holding=none
+}
+7905={
+	culture=bengali
+	religion=shaivism
+	holding=castle_holding
+}
+7906={
+	culture=bengali
+	religion=shaivism
+	holding=castle_holding
+}
+7907={
+	culture=bengali
+	religion=shaivism
+	holding=none
+}
+7908={
+	culture=bengali
+	religion=shaivism
+	holding=none
+}
+7909={
+	culture=bengali
+	religion=shaivism
+	holding=city_holding
+}
+7910={
+	culture=bengali
+	religion=shaivism
+	holding=castle_holding
+}

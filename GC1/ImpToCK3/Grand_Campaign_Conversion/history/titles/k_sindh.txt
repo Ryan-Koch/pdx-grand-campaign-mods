@@ -1,0 +1,111 @@
+k_sindh={
+	-11.12.24={ government="feudal_government" holder="imperator107284" liege="e_india" succession_laws={ "high_partition_succession_law" } }
+}
+d_multan={
+	4.1.1={ liege=0 }
+}
+c_multan={
+	-11.12.24={ liege=0 holder="imperator107284" }
+	4.1.1={ change_development_level=24 }
+}
+c_kafirkot={
+	-14.10.28={ liege=0 holder="imperator107449" }
+	4.1.1={ change_development_level=22 }
+}
+c_uch={
+	-11.12.24={ liege=0 holder="imperator107284" }
+	4.1.1={ change_development_level=24 }
+}
+c_karur={
+	4.1.1={ holder="0" liege=0 change_development_level=17 }
+}
+c_karor={
+	-14.10.28={ liege=0 holder="imperator107449" }
+	4.1.1={ change_development_level=30 }
+}
+c_kalat={
+	-28.2.17={ liege=0 holder="imperator103206" }
+	4.1.1={ change_development_level=7 }
+}
+d_bhakkar={
+	4.1.1={ liege=0 }
+}
+c_bhakkar={
+	-11.12.24={ liege=0 holder="imperator107284" }
+	4.1.1={ change_development_level=18 }
+}
+c_aror={
+	-11.12.24={ liege=0 holder="imperator107284" }
+	4.1.1={ change_development_level=25 }
+}
+c_rajanpur={
+	-11.12.24={ liege=0 holder="imperator107284" }
+	4.1.1={ change_development_level=15 }
+}
+c_vijnot={
+	-11.12.24={ liege=0 holder="imperator107284" }
+	4.1.1={ change_development_level=27 }
+}
+c_sibi={
+	-11.12.24={ liege=0 holder="imperator107284" }
+	4.1.1={ change_development_level=12 }
+}
+d_gurjara_mandala={
+	4.1.1={ liege=0 }
+}
+c_sarasvata_mandala={
+	-11.12.24={ liege=0 holder="imperator107284" }
+	4.1.1={ change_development_level=22 }
+}
+c_khetaka={
+	-2.5.25={ liege=0 holder="imperator108408" }
+	4.1.1={ change_development_level=11 }
+}
+c_mohadavasaka={
+	-2.12.21={ liege=0 holder="imperator107651" }
+	4.1.1={ change_development_level=28 }
+}
+d_anartta={
+	4.1.1={ liege=0 }
+}
+c_dvaraka={
+	-11.12.24={ liege=0 holder="imperator107284" }
+	4.1.1={ change_development_level=19 }
+}
+c_dhamalpur={
+	-11.12.24={ liege=0 holder="imperator107284" }
+	4.1.1={ change_development_level=21 }
+}
+c_kutch={
+	-11.12.24={ liege=0 holder="imperator107284" }
+	4.1.1={ change_development_level=28 }
+}
+d_saurashtra={
+	4.1.1={ liege=0 }
+}
+c_bhumilka={
+	-11.12.24={ liege=0 holder="imperator107284" }
+	4.1.1={ change_development_level=22 }
+}
+c_somnath={
+	-11.12.24={ liege=0 holder="imperator107284" }
+	4.1.1={ change_development_level=22 }
+}
+c_vardhamana={
+	-11.12.24={ liege=0 holder="imperator107284" }
+	4.1.1={ change_development_level=28 }
+}
+c_valabhi={
+	-11.12.24={ liege=0 holder="imperator107284" }
+	4.1.1={ change_development_level=29 }
+}
+d_stravani={
+	4.1.1={ liege=0 }
+}
+c_ludrava={
+	4.1.1={ holder="0" liege=0 change_development_level=5 }
+}
+c_satyapura={
+	-11.12.24={ liege=0 holder="imperator107284" }
+	4.1.1={ change_development_level=20 }
+}

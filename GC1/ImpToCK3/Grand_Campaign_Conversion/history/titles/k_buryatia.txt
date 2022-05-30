@@ -1,0 +1,63 @@
+k_buryatia={
+	4.1.1={ liege=0 }
+}
+d_uda_valley={
+	4.1.1={ liege=0 }
+}
+c_ulan_ude={
+	4.1.1={ change_development_level=0 }
+}
+c_chikoy={
+	4.1.1={ change_development_level=0 }
+}
+d_dauria={
+	4.1.1={ liege=0 }
+}
+c_bargajan={
+	4.1.1={ change_development_level=0 }
+}
+c_muya={
+	4.1.1={ change_development_level=0 }
+}
+c_kotokel={
+	4.1.1={ change_development_level=0 }
+}
+c_yera={
+	4.1.1={ change_development_level=0 }
+}
+d_bargujin_tukum={
+	4.1.1={ liege=0 }
+}
+c_kotera={
+	4.1.1={ change_development_level=0 }
+}
+c_vitim={
+	4.1.1={ change_development_level=0 }
+}
+c_karabaigal={
+	4.1.1={ change_development_level=0 }
+}
+c_chuya={
+	4.1.1={ change_development_level=0 }
+}
+d_baigaluuls={
+	4.1.1={ liege=0 }
+}
+c_baigaluuls={
+	4.1.1={ change_development_level=0 }
+}
+c_uulynkhol={
+	4.1.1={ change_development_level=0 }
+}
+d_tsagaanbaigal={
+	4.1.1={ liege=0 }
+}
+c_olkhon={
+	4.1.1={ change_development_level=0 }
+}
+c_irkutsk={
+	4.1.1={ change_development_level=0 }
+}
+c_ryty={
+	4.1.1={ change_development_level=0 }
+}

@@ -1,0 +1,318 @@
+9277={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+9278={
+	culture=lhomon
+	religion=old_bon
+	holding=church_holding
+}
+9279={
+	culture=lhomon
+	religion=old_bon
+	holding=castle_holding
+}
+9281={
+	culture=lhomon
+	religion=old_bon
+	holding=castle_holding
+}
+9282={
+	culture=lhomon
+	religion=old_bon
+	holding=castle_holding
+}
+9283={
+	culture=lhomon
+	religion=old_bon
+	holding=church_holding
+}
+9284={
+	culture=sumpa
+	religion=old_bon
+	holding=church_holding
+}
+9285={
+	culture=sumpa
+	religion=old_bon
+	holding=church_holding
+}
+9286={
+	culture=sumpa
+	religion=old_bon
+	holding=church_holding
+}
+9287={
+	culture=sumpa
+	religion=old_bon
+	holding=castle_holding
+}
+9288={
+	culture=sumpa
+	religion=old_bon
+	holding=church_holding
+}
+9289={
+	culture=sumpa
+	religion=old_bon
+	holding=city_holding
+}
+9290={
+	culture=sumpa
+	religion=old_bon
+	holding=church_holding
+}
+9291={
+	culture=sumpa
+	religion=old_bon
+	holding=city_holding
+}
+9292={
+	culture=sumpa
+	religion=old_bon
+	holding=church_holding
+}
+9293={
+	culture=sumpa
+	religion=old_bon
+	holding=castle_holding
+}
+9294={
+	culture=sumpa
+	religion=old_bon
+	holding=castle_holding
+}
+9295={
+	culture=sumpa
+	religion=old_bon
+	holding=church_holding
+}
+9296={
+	culture=sumpa
+	religion=old_bon
+	holding=church_holding
+}
+9297={
+	culture=sumpa
+	religion=old_bon
+	holding=castle_holding
+}
+9298={
+	culture=sumpa
+	religion=old_bon
+	holding=city_holding
+}
+9299={
+	culture=sumpa
+	religion=old_bon
+	holding=castle_holding
+}
+9300={
+	culture=sumpa
+	religion=old_bon
+	holding=church_holding
+}
+9301={
+	culture=sumpa
+	religion=old_bon
+	holding=city_holding
+}
+9302={
+	culture=sumpa
+	religion=old_bon
+	holding=castle_holding
+}
+9303={
+	culture=sumpa
+	religion=old_bon
+	holding=castle_holding
+}
+9304={
+	culture=sumpa
+	religion=old_bon
+	holding=castle_holding
+}
+9305={
+	culture=sumpa
+	religion=old_bon
+	holding=church_holding
+}
+9306={
+	culture=sumpa
+	religion=old_bon
+	holding=castle_holding
+}
+9307={
+	culture=sumpa
+	religion=old_bon
+	holding=church_holding
+}
+9308={
+	culture=sumpa
+	religion=old_bon
+	holding=city_holding
+}
+9309={
+	culture=sumpa
+	religion=old_bon
+	holding=church_holding
+}
+9310={
+	culture=sumpa
+	religion=old_bon
+	holding=castle_holding
+}
+9311={
+	culture=sumpa
+	religion=old_bon
+	holding=city_holding
+}
+9312={
+	culture=sumpa
+	religion=old_bon
+	holding=castle_holding
+}
+9313={
+	culture=sumpa
+	religion=old_bon
+	holding=church_holding
+}
+9314={
+	culture=qiang
+	religion=rrmeaism
+	holding=castle_holding
+}
+9315={
+	culture=qiang
+	religion=rrmeaism
+	holding=city_holding
+}
+9316={
+	culture=qiang
+	religion=rrmeaism
+	holding=castle_holding
+}
+9317={
+	culture=qiang
+	religion=rrmeaism
+	holding=city_holding
+}
+9318={
+	culture=qiang
+	religion=rrmeaism
+	holding=castle_holding
+}
+9319={
+	culture=qiang
+	religion=rrmeaism
+	holding=city_holding
+}
+9320={
+	culture=qiang
+	religion=rrmeaism
+	holding=church_holding
+}
+9321={
+	culture=qiang
+	religion=rrmeaism
+	holding=church_holding
+}
+9322={
+	culture=qiang
+	religion=rrmeaism
+	holding=church_holding
+}
+9323={
+	culture=qiang
+	religion=rrmeaism
+	holding=castle_holding
+}
+9324={
+	culture=qiang
+	religion=rrmeaism
+	holding=castle_holding
+}
+9325={
+	culture=qiang
+	religion=rrmeaism
+	holding=castle_holding
+}
+9326={
+	culture=qiang
+	religion=rrmeaism
+	holding=church_holding
+}
+9327={
+	culture=qiang
+	religion=rrmeaism
+	holding=city_holding
+}
+9336={
+	culture=qiang
+	religion=rrmeaism
+	holding=castle_holding
+}
+9339={
+	culture=qiang
+	religion=rrmeaism
+	holding=church_holding
+}
+9340={
+	culture=qiang
+	religion=rrmeaism
+	holding=tribal_holding
+}
+9347={
+	holding=none
+}
+9343={
+	culture=qiang
+	religion=rrmeaism
+	holding=castle_holding
+}
+9344={
+	culture=qiang
+	religion=rrmeaism
+	holding=church_holding
+}
+9345={
+	culture=qiang
+	religion=rrmeaism
+	holding=none
+}
+9346={
+	culture=qiang
+	religion=rrmeaism
+	holding=none
+}
+9348={
+	culture=qiang
+	religion=rrmeaism
+	holding=city_holding
+}
+9349={
+	culture=qiang
+	religion=rrmeaism
+	holding=castle_holding
+}
+9350={
+	culture=qiang
+	religion=rrmeaism
+	holding=castle_holding
+}
+9351={
+	culture=qiang
+	religion=rrmeaism
+	holding=church_holding
+}
+9352={
+	culture=qiang
+	religion=rrmeaism
+	holding=castle_holding
+}
+9353={
+	culture=qiang
+	religion=rrmeaism
+	holding=city_holding
+}

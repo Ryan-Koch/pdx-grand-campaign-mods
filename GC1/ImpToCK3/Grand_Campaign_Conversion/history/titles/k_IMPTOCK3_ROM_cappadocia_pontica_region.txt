@@ -1,0 +1,56 @@
+k_IMPTOCK3_ROM_cappadocia_pontica_region={
+	-3.5.28={ liege="e_roman_empire" holder="imperator106686" government="feudal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_armeniac={
+	4.1.1={ liege=0 }
+}
+c_helenopontus={
+	-3.5.28={ liege=0 holder="imperator106686" }
+	4.1.1={ change_development_level=39 }
+}
+c_sinope={
+	-22.8.21={ liege=0 holder="imperator106000" }
+	4.1.1={ change_development_level=46 }
+}
+c_euchaita={
+	-22.8.21={ liege=0 holder="imperator106000" }
+	4.1.1={ change_development_level=42 }
+}
+c_zela={
+	-3.5.28={ liege=0 holder="imperator106686" }
+	4.1.1={ change_development_level=34 }
+}
+d_sebasteia={
+	4.1.1={ liege=0 }
+}
+c_sebasteia={
+	-3.5.28={ liege=0 holder="imperator106686" }
+	4.1.1={ change_development_level=43 }
+}
+c_azysia={
+	-17.8.12={ liege=0 holder="imperator107655" }
+	4.1.1={ change_development_level=24 }
+}
+c_ablastha={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=33 }
+}
+d_chaldia={
+	4.1.1={ liege=0 }
+}
+c_trebizond={
+	-3.5.28={ liege=0 holder="imperator106686" }
+	4.1.1={ change_development_level=32 }
+}
+c_cerasus={
+	-3.5.28={ liege=0 holder="imperator106686" }
+	4.1.1={ change_development_level=32 }
+}
+c_colonea={
+	-3.5.28={ liege=0 holder="imperator106686" }
+	4.1.1={ change_development_level=34 }
+}
+c_satala={
+	-3.5.28={ liege=0 holder="imperator106686" }
+	4.1.1={ change_development_level=26 }
+}

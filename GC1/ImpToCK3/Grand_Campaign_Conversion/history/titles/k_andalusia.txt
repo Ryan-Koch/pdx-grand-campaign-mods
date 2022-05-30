@@ -1,0 +1,75 @@
+k_andalusia={
+	3.2.2={ government="feudal_government" holder="imperator108517" liege="e_roman_empire" succession_laws={ "high_partition_succession_law" } }
+}
+d_cordoba={
+	4.1.1={ liege=0 }
+}
+c_cordoba={
+	3.2.2={ liege=0 holder="imperator108517" }
+	4.1.1={ change_development_level=44 }
+}
+c_calatrava={
+	-39.5.13={ liege=0 holder="imperator104849" }
+	4.1.1={ change_development_level=41 }
+}
+c_almader={
+	3.2.2={ liege=0 holder="imperator108517" }
+	4.1.1={ change_development_level=48 }
+}
+c_andujar={
+	3.2.2={ liege=0 holder="imperator108517" }
+	4.1.1={ change_development_level=43 }
+}
+d_granada={
+	4.1.1={ liege=0 }
+}
+c_granada={
+	3.2.2={ liege=0 holder="imperator108517" }
+	4.1.1={ change_development_level=41 }
+}
+c_almeria={
+	3.2.2={ liege=0 holder="imperator108517" }
+	4.1.1={ change_development_level=44 }
+}
+c_cabra={
+	3.2.2={ liege=0 holder="imperator108517" }
+	4.1.1={ change_development_level=44 }
+}
+c_malaga={
+	3.2.2={ liege=0 holder="imperator108517" }
+	4.1.1={ change_development_level=43 }
+}
+d_sevilla={
+	4.1.1={ liege=0 }
+}
+c_sevilla={
+	3.2.2={ liege=0 holder="imperator108517" }
+	4.1.1={ change_development_level=41 }
+}
+c_cadiz={
+	3.2.2={ liege=0 holder="imperator108517" }
+	4.1.1={ change_development_level=48 }
+}
+c_algeciras={
+	3.2.2={ liege=0 holder="imperator108517" }
+	4.1.1={ change_development_level=45 }
+}
+c_niebla={
+	3.2.2={ liege=0 holder="imperator108517" }
+	4.1.1={ change_development_level=26 }
+}
+c_moura={
+	-11.2.26={ liege=0 holder="imperator107903" }
+	4.1.1={ change_development_level=33 }
+}
+d_algarve={
+	4.1.1={ liege=0 }
+}
+c_faro={
+	3.2.2={ liege=0 holder="imperator108517" }
+	4.1.1={ change_development_level=42 }
+}
+c_silves={
+	3.2.2={ liege=0 holder="imperator108517" }
+	4.1.1={ change_development_level=42 }
+}

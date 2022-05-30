@@ -1,0 +1,63 @@
+k_darfur={
+	4.1.1={ liege=0 }
+}
+d_darfur={
+	4.1.1={ liege=0 }
+}
+c_el_fasher={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_dar_al-said={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_dar-al-rih={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_east_darfur={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_west_darfur={
+	4.1.1={ liege=0 }
+}
+c_ayn_farah={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_qimr={
+	4.1.1={ change_development_level=0 }
+}
+c_masalit={
+	4.1.1={ change_development_level=0 }
+}
+d_wadai={
+	4.1.1={ liege=0 }
+}
+c_wadai={
+	4.1.1={ change_development_level=0 }
+}
+c_dar_sila={
+	4.1.1={ change_development_level=0 }
+}
+c_kadam={
+	4.1.1={ change_development_level=0 }
+}
+c_fitri={
+	4.1.1={ change_development_level=0 }
+}
+c_fellata={
+	4.1.1={ change_development_level=0 }
+}
+c_ghazzal={
+	4.1.1={ change_development_level=0 }
+}
+d_kordofan={
+	4.1.1={ liege=0 }
+}
+c_kordofan={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_west_kordofan={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_south_kordofan={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}

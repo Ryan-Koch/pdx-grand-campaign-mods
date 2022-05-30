@@ -1,0 +1,36 @@
+k_gur={
+	4.1.1={ liege=0 }
+}
+d_dagomba={
+	4.1.1={ liege=0 }
+}
+c_dagomba={
+	4.1.1={ change_development_level=0 }
+}
+c_gonja={
+	4.1.1={ change_development_level=0 }
+}
+c_daboya={
+	4.1.1={ change_development_level=0 }
+}
+d_wagadugu={
+	4.1.1={ liege=0 }
+}
+c_wagadugu={
+	4.1.1={ change_development_level=0 }
+}
+c_po={
+	4.1.1={ change_development_level=0 }
+}
+d_mamprusi={
+	4.1.1={ liege=0 }
+}
+c_mamprusi={
+	4.1.1={ change_development_level=0 }
+}
+c_kuisugu={
+	4.1.1={ change_development_level=0 }
+}
+c_pendjari={
+	4.1.1={ change_development_level=0 }
+}

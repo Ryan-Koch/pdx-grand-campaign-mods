@@ -1,0 +1,148 @@
+8387={
+	culture=somali
+	religion=egyptian_pagan
+	holding=none
+}
+8388={
+	culture=somali
+	religion=egyptian_pagan
+	holding=none
+}
+8363={
+	culture=somali
+	religion=egyptian_pagan
+	holding=none
+}
+8365={
+	culture=somali
+	religion=egyptian_pagan
+	holding=none
+}
+8369={
+	culture=somali
+	religion=egyptian_pagan
+	holding=none
+}
+8370={
+	culture=somali
+	religion=egyptian_pagan
+	holding=none
+}
+8376={
+	culture=welayta
+	religion=waaqism_pagan
+	holding=tribal_holding
+}
+8375={
+	culture=ethiopian
+	religion=arabic_pagan
+	holding=none
+}
+8377={
+	culture=welayta
+	religion=waaqism_pagan
+	holding=tribal_holding
+}
+8437={
+	holding=none
+}
+8438={
+	holding=none
+}
+8362={
+	culture=somali
+	religion=egyptian_pagan
+	holding=none
+}
+8389={
+	culture=somali
+	religion=egyptian_pagan
+	holding=none
+}
+8433={
+	culture=somali
+	religion=egyptian_pagan
+	holding=none
+}
+8435={
+	culture=welayta
+	religion=waaqism_pagan
+	holding=tribal_holding
+}
+8436={
+	holding=none
+}
+8358={
+	culture=welayta
+	religion=waaqism_pagan
+	holding=tribal_holding
+}
+8361={
+	holding=none
+}
+8373={
+	culture=somali
+	religion=egyptian_pagan
+	holding=none
+}
+8434={
+	holding=none
+}
+8360={
+	culture=welayta
+	religion=waaqism_pagan
+	holding=tribal_holding
+}
+8390={
+	holding=none
+}
+8518={
+	holding=none
+}
+8355={
+	culture=somali
+	religion=egyptian_pagan
+	holding=none
+}
+8357={
+	culture=somali
+	religion=egyptian_pagan
+	holding=none
+}
+8368={
+	culture=somali
+	religion=egyptian_pagan
+	holding=none
+}
+8379={
+	culture=welayta
+	religion=waaqism_pagan
+	holding=tribal_holding
+}
+8450={
+	holding=none
+}
+8517={
+	culture=welayta
+	religion=waaqism_pagan
+	holding=tribal_holding
+}
+8359={
+	holding=none
+}
+8380={
+	holding=none
+}
+8381={
+	holding=none
+}
+8356={
+	culture=somali
+	religion=egyptian_pagan
+	holding=none
+}
+8374={
+	culture=somali
+	religion=egyptian_pagan
+	holding=none
+}

@@ -1,0 +1,98 @@
+4557={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4568={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=church_holding
+}
+4569={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4562={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4565={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+4566={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=none
+}
+4561={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4558={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=church_holding
+}
+4559={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=none
+}
+4560={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+4567={
+	holding=none
+}
+4552={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4550={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=none
+}
+4551={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=city_holding
+}
+4556={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4554={
+	culture=butr
+	religion=berber_pagan
+	holding=church_holding
+}
+4555={
+	culture=roman
+	religion=hellenic_pagan
+	holding=church_holding
+}
+4563={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+4553={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+4564={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}

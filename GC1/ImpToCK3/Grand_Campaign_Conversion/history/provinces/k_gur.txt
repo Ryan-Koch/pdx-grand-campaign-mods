@@ -1,0 +1,125 @@
+6700={
+	culture=gur
+	religion=west_african_pagan
+	holding=none
+}
+6949={
+	culture=gur
+	religion=west_african_pagan
+	holding=none
+}
+6937={
+	culture=gur
+	religion=west_african_orisha_pagan
+	holding=none
+}
+6933={
+	culture=gur
+	religion=west_african_pagan
+	holding=none
+}
+6940={
+	culture=gur
+	religion=west_african_pagan
+	holding=none
+}
+6947={
+	culture=gur
+	religion=west_african_pagan
+	holding=none
+}
+6948={
+	culture=gur
+	religion=west_african_pagan
+	holding=none
+}
+6950={
+	culture=gur
+	religion=west_african_pagan
+	holding=none
+}
+6929={
+	culture=gur
+	religion=west_african_orisha_pagan
+	holding=none
+}
+6930={
+	culture=gur
+	religion=west_african_orisha_pagan
+	holding=none
+}
+6931={
+	culture=gur
+	religion=west_african_orisha_pagan
+	holding=none
+}
+6932={
+	culture=gur
+	religion=west_african_orisha_pagan
+	holding=none
+}
+6936={
+	culture=gur
+	religion=west_african_orisha_pagan
+	holding=none
+}
+6938={
+	culture=gur
+	religion=west_african_orisha_pagan
+	holding=none
+}
+6934={
+	culture=gur
+	religion=west_african_pagan
+	holding=none
+}
+6935={
+	culture=gur
+	religion=west_african_pagan
+	holding=none
+}
+6941={
+	culture=guan
+	religion=akom_pagan
+	holding=none
+}
+6942={
+	culture=guan
+	religion=akom_pagan
+	holding=none
+}
+6943={
+	culture=guan
+	religion=akom_pagan
+	holding=none
+}
+6944={
+	culture=guan
+	religion=akom_pagan
+	holding=none
+}
+6945={
+	culture=guan
+	religion=akom_pagan
+	holding=none
+}
+6946={
+	culture=guan
+	religion=akom_pagan
+	holding=none
+}
+6957={
+	culture=guan
+	religion=akom_pagan
+	holding=none
+}
+6958={
+	culture=guan
+	religion=akom_pagan
+	holding=none
+}
+6966={
+	culture=guan
+	religion=akom_pagan
+	holding=none
+}

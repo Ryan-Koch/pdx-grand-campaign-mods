@@ -1,0 +1,22 @@
+k_IMPTOCK3_ROM_sarmatia_asiatica_region={
+	-7.8.12={ liege="e_roman_empire" holder="imperator106676" government="feudal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_levedia={
+	4.1.1={ liege=0 }
+}
+c_khortytsia={
+	-4.6.26={ liege=0 holder="imperator105646" }
+	4.1.1={ change_development_level=32 }
+}
+c_oleshye={
+	-22.1.7={ liege=0 holder="imperator104769" }
+	4.1.1={ change_development_level=40 }
+}
+c_bakhmut={
+	-7.8.12={ liege=0 holder="imperator106676" }
+	4.1.1={ change_development_level=31 }
+}
+c_samar={
+	-7.8.12={ liege=0 holder="imperator106676" }
+	4.1.1={ change_development_level=4 }
+}

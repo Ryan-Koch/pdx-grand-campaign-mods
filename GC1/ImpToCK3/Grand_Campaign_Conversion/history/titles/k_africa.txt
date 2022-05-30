@@ -1,0 +1,64 @@
+k_africa={
+	-16.11.23={ government="feudal_government" holder="imperator105940" liege="e_roman_empire" succession_laws={ "high_partition_succession_law" } }
+}
+d_kairouan={
+	4.1.1={ liege=0 }
+}
+c_kairwan={
+	-16.11.23={ liege=0 holder="imperator105940" }
+	4.1.1={ change_development_level=41 }
+}
+c_west_qamuda={
+	-16.11.23={ liege=0 holder="imperator105940" }
+	4.1.1={ change_development_level=43 }
+}
+c_tabassa={
+	-34.8.22={ liege=0 holder="imperator105359" }
+	4.1.1={ change_development_level=42 }
+}
+d_tunis={
+	4.1.1={ liege=0 }
+}
+c_tunis={
+	-16.11.23={ liege=0 holder="imperator105940" }
+	4.1.1={ change_development_level=49 }
+}
+c_satfura={
+	-16.11.23={ liege=0 holder="imperator105940" }
+	4.1.1={ change_development_level=42 }
+}
+c_medjerda={
+	-16.11.23={ liege=0 holder="imperator105940" }
+	4.1.1={ change_development_level=41 }
+}
+c_mahdiya={
+	-16.11.23={ liege=0 holder="imperator105940" }
+	4.1.1={ change_development_level=54 }
+}
+d_gabes={
+	4.1.1={ liege=0 }
+}
+c_gabes={
+	-16.11.23={ liege=0 holder="imperator105940" }
+	4.1.1={ change_development_level=34 }
+}
+c_sfax={
+	-16.11.23={ liege=0 holder="imperator105940" }
+	4.1.1={ change_development_level=48 }
+}
+d_jerid={
+	4.1.1={ liege=0 }
+}
+c_qashtiliya={
+	4.1.1={ holder="0" liege=0 change_development_level=24 }
+}
+c_souf={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_bir_amir={
+	-16.11.23={ liege=0 holder="imperator105940" }
+	4.1.1={ change_development_level=10 }
+}
+c_ghadames={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}

@@ -1,0 +1,75 @@
+k_portugal={
+	-11.2.26={ liege="e_roman_empire" holder="imperator107903" government="feudal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_porto={
+	4.1.1={ liege=0 }
+}
+c_porto={
+	-11.2.26={ liege=0 holder="imperator107903" }
+	4.1.1={ change_development_level=37 }
+}
+c_braganza={
+	-32.10.23={ liege=0 holder="imperator104638" }
+	4.1.1={ change_development_level=44 }
+}
+d_coimbra={
+	4.1.1={ liege=0 }
+}
+c_coimbra={
+	-11.2.26={ liege=0 holder="imperator107903" }
+	4.1.1={ change_development_level=44 }
+}
+c_viseu={
+	-11.2.26={ liege=0 holder="imperator107903" }
+	4.1.1={ change_development_level=41 }
+}
+c_aveiro={
+	-11.2.26={ liege=0 holder="imperator107903" }
+	4.1.1={ change_development_level=42 }
+}
+c_castelo_branco={
+	-11.2.26={ liege=0 holder="imperator107903" }
+	4.1.1={ change_development_level=42 }
+}
+d_beja={
+	4.1.1={ liege=0 }
+}
+c_lisboa={
+	-11.2.26={ liege=0 holder="imperator107903" }
+	4.1.1={ change_development_level=43 }
+}
+c_beja={
+	-11.2.26={ liege=0 holder="imperator107903" }
+	4.1.1={ change_development_level=48 }
+}
+c_alcacer_do_sal={
+	-11.2.26={ liege=0 holder="imperator107903" }
+	4.1.1={ change_development_level=43 }
+}
+c_elvas={
+	-11.2.26={ liege=0 holder="imperator107903" }
+	4.1.1={ change_development_level=42 }
+}
+d_badajoz={
+	4.1.1={ liege=0 }
+}
+c_badajoz={
+	-11.2.26={ liege=0 holder="imperator107903" }
+	4.1.1={ change_development_level=41 }
+}
+c_plasencia={
+	-11.2.26={ liege=0 holder="imperator107903" }
+	4.1.1={ change_development_level=42 }
+}
+c_caceres={
+	-11.2.26={ liege=0 holder="imperator107903" }
+	4.1.1={ change_development_level=42 }
+}
+c_merida={
+	-11.2.26={ liege=0 holder="imperator107903" }
+	4.1.1={ change_development_level=43 }
+}
+c_medellin={
+	-11.2.26={ liege=0 holder="imperator107903" }
+	4.1.1={ change_development_level=42 }
+}

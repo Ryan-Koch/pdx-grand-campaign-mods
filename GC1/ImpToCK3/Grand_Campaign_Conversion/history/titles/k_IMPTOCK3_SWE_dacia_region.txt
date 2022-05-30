@@ -1,0 +1,30 @@
+k_IMPTOCK3_SWE_dacia_region={
+	-23.4.10={ liege="e_scandinavia" holder="imperator107105" government="feudal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_ungvar={
+	4.1.1={ liege=0 }
+}
+c_ungvar={
+	-23.4.10={ liege=0 holder="imperator107105" }
+	4.1.1={ change_development_level=12 }
+}
+c_zemplen={
+	-23.4.10={ liege=0 holder="imperator107105" }
+	4.1.1={ change_development_level=16 }
+}
+c_borsod={
+	-23.4.10={ liege=0 holder="imperator107105" }
+	4.1.1={ change_development_level=13 }
+}
+c_saris={
+	-23.4.10={ liege=0 holder="imperator107105" }
+	4.1.1={ change_development_level=20 }
+}
+c_spis={
+	-23.4.10={ liege=0 holder="imperator107105" }
+	4.1.1={ change_development_level=10 }
+}
+c_abauj={
+	-23.4.10={ liege=0 holder="imperator107105" }
+	4.1.1={ change_development_level=9 }
+}

@@ -1,0 +1,200 @@
+7168={
+	culture=karluk
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7169={
+	holding=none
+}
+7170={
+	holding=none
+}
+7164={
+	culture=karluk
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7165={
+	holding=none
+}
+7166={
+	holding=none
+}
+7167={
+	holding=none
+}
+7163={
+	culture=karluk
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7159={
+	holding=none
+}
+7160={
+	holding=none
+}
+7162={
+	culture=karluk
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7158={
+	holding=none
+}
+7161={
+	holding=none
+}
+7157={
+	culture=karluk
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7155={
+	holding=none
+}
+7156={
+	holding=none
+}
+7173={
+	culture=karluk
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7171={
+	holding=none
+}
+7172={
+	holding=none
+}
+7174={
+	holding=none
+}
+7181={
+	culture=kimek
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7179={
+	holding=none
+}
+7180={
+	holding=none
+}
+7178={
+	culture=kimek
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7176={
+	holding=none
+}
+7177={
+	holding=none
+}
+1427={
+	holding=none
+}
+7183={
+	culture=karluk
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7175={
+	holding=none
+}
+7182={
+	holding=none
+}
+7185={
+	culture=karluk
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+1426={
+	holding=none
+}
+7184={
+	holding=none
+}
+7186={
+	holding=none
+}
+7187={
+	culture=kimek
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7189={
+	holding=none
+}
+7188={
+	holding=none
+}
+7193={
+	holding=none
+}
+7197={
+	culture=karluk
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7194={
+	holding=none
+}
+7195={
+	holding=none
+}
+7196={
+	holding=none
+}
+7198={
+	holding=none
+}
+7192={
+	culture=kimek
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7190={
+	holding=none
+}
+7191={
+	holding=none
+}
+7199={
+	culture=karluk
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+1425={
+	holding=none
+}
+7200={
+	holding=none
+}
+7201={
+	holding=none
+}
+7202={
+	culture=karluk
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7205={
+	holding=none
+}
+7207={
+	holding=none
+}
+7203={
+	culture=karluk
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7204={
+	holding=none
+}
+7206={
+	holding=none
+}

@@ -1,0 +1,90 @@
+k_dacia={
+	-54.7.23={ government="feudal_government" holder="imperator102795" liege="e_roman_empire" succession_laws={ "high_partition_succession_law" } }
+}
+d_bihar={
+	4.1.1={ liege=0 }
+}
+c_bihar={
+	-54.7.23={ liege=0 holder="imperator102795" }
+	4.1.1={ change_development_level=29 }
+}
+c_zarand={
+	-54.7.23={ liege=0 holder="imperator102795" }
+	4.1.1={ change_development_level=42 }
+}
+c_bekes={
+	-54.7.23={ liege=0 holder="imperator102795" }
+	4.1.1={ change_development_level=33 }
+}
+c_szabolcs={
+	-23.4.10={ liege=0 holder="imperator107105" }
+	4.1.1={ change_development_level=16 }
+}
+c_szatmar={
+	-54.7.23={ liege=0 holder="imperator102795" }
+	4.1.1={ change_development_level=17 }
+}
+d_transylvania={
+	4.1.1={ liege=0 }
+}
+c_feher={
+	-54.7.23={ liege=0 holder="imperator102795" }
+	4.1.1={ change_development_level=45 }
+}
+c_szekelyfold={
+	-54.7.23={ liege=0 holder="imperator102795" }
+	4.1.1={ change_development_level=35 }
+}
+c_barcasag={
+	-54.7.23={ liege=0 holder="imperator102795" }
+	4.1.1={ change_development_level=32 }
+}
+c_fogaras={
+	-54.7.23={ liege=0 holder="imperator102795" }
+	4.1.1={ change_development_level=20 }
+}
+c_torda={
+	-54.7.23={ liege=0 holder="imperator102795" }
+	4.1.1={ change_development_level=33 }
+}
+c_beszterce={
+	-54.7.23={ liege=0 holder="imperator102795" }
+	4.1.1={ change_development_level=32 }
+}
+c_hunyad={
+	4.1.1={ change_development_level=28 }
+}
+d_transcarpathia={
+	4.1.1={ liege=0 }
+}
+c_marmaros={
+	-54.7.23={ liege=0 holder="imperator102795" }
+	4.1.1={ change_development_level=18 }
+}
+c_bereg={
+	-23.4.10={ liege=0 holder="imperator107105" }
+	4.1.1={ change_development_level=11 }
+}
+d_temes={
+	4.1.1={ liege=0 }
+}
+c_temes={
+	-54.7.23={ liege=0 holder="imperator102795" }
+	4.1.1={ change_development_level=35 }
+}
+c_arad={
+	-54.7.23={ liege=0 holder="imperator102795" }
+	4.1.1={ change_development_level=40 }
+}
+c_krasso={
+	-54.7.23={ liege=0 holder="imperator102795" }
+	4.1.1={ change_development_level=41 }
+}
+c_keve={
+	-54.7.23={ liege=0 holder="imperator102795" }
+	4.1.1={ change_development_level=46 }
+}
+c_csanad={
+	-54.7.23={ liege=0 holder="imperator102795" }
+	4.1.1={ change_development_level=33 }
+}

@@ -1,0 +1,315 @@
+6635={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+6637={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+6638={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+6639={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+6640={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+6725={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+6726={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+6727={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+6728={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+6729={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+6730={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+6731={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+6732={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+6733={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+6734={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+6735={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+6736={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+6737={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+6738={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+6739={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+6740={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+6741={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+6742={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+6743={
+	culture=malinke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6744={
+	culture=malinke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6745={
+	culture=malinke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6747={
+	culture=malinke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6748={
+	culture=malinke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6749={
+	culture=malinke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6750={
+	culture=malinke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6751={
+	culture=malinke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6801={
+	culture=malinke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6802={
+	culture=malinke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6803={
+	culture=malinke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6995={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+8169={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+8170={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+8171={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+8172={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+8173={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+8177={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+8182={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+8183={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+8184={
+	culture=malinke
+	religion=west_african_pagan
+	holding=none
+}
+8232={
+	culture=malinke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+8233={
+	culture=malinke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+8234={
+	culture=malinke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+8235={
+	culture=malinke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+8236={
+	culture=malinke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+8185={
+	culture=mel
+	religion=west_african_roog_pagan
+	holding=none
+}
+8186={
+	culture=mel
+	religion=west_african_roog_pagan
+	holding=none
+}
+8192={
+	culture=mel
+	religion=west_african_roog_pagan
+	holding=none
+}
+8193={
+	culture=mel
+	religion=west_african_roog_pagan
+	holding=none
+}
+8194={
+	culture=mel
+	religion=west_african_roog_pagan
+	holding=none
+}
+8195={
+	culture=mel
+	religion=west_african_roog_pagan
+	holding=none
+}
+8196={
+	culture=mel
+	religion=west_african_roog_pagan
+	holding=none
+}
+8197={
+	culture=mel
+	religion=west_african_roog_pagan
+	holding=none
+}
+8198={
+	culture=mel
+	religion=west_african_roog_pagan
+	holding=none
+}
+8163={
+	culture=mel
+	religion=west_african_pagan
+	holding=none
+}
+8164={
+	culture=mel
+	religion=west_african_pagan
+	holding=none
+}
+8166={
+	culture=mel
+	religion=west_african_pagan
+	holding=none
+}
+8174={
+	culture=mel
+	religion=west_african_pagan
+	holding=none
+}
+8175={
+	culture=mel
+	religion=west_african_pagan
+	holding=none
+}

@@ -1,0 +1,1488 @@
+620={
+	culture=greek
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+619={
+	culture=bengali
+	religion=scythian_pagan
+	holding=none
+}
+5316={
+	culture=bengali
+	religion=scythian_pagan
+	holding=none
+}
+5345={
+	culture=bengali
+	religion=scythian_pagan
+	holding=none
+}
+5313={
+	culture=sarmatian
+	religion=scythian_pagan
+	holding=castle_holding
+}
+5317={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+5346={
+	culture=sarmatian
+	religion=scythian_pagan
+	holding=none
+}
+617={
+	culture=khazar
+	religion=tengri_pagan
+	holding=none
+}
+5314={
+	holding=none
+}
+608={
+	holding=none
+}
+5347={
+	holding=none
+}
+5348={
+	holding=none
+}
+4238={
+	culture=bactrian
+	religion=mazdayasna
+	holding=castle_holding
+}
+4234={
+	culture=tajik
+	religion=mazdayasna
+	holding=none
+}
+4235={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+4236={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=none
+}
+4237={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=none
+}
+4239={
+	culture=sogdian
+	religion=scythian_pagan
+	holding=none
+}
+4007={
+	culture=parthian
+	religion=mazdayasna
+	holding=castle_holding
+}
+4008={
+	culture=macedonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4009={
+	culture=macedonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4221={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4218={
+	culture=tajik
+	religion=mazdayasna
+	holding=none
+}
+4219={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+4220={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+4222={
+	culture=bactrian
+	religion=mazdayasna
+	holding=city_holding
+}
+4223={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4229={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+4230={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+4251={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4249={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+4250={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+4252={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+4253={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+4254={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+4240={
+	culture=scythian
+	religion=scythian_pagan
+	holding=castle_holding
+}
+4241={
+	culture=parthian
+	religion=scythian_pagan
+	holding=church_holding
+}
+4245={
+	culture=sogdian
+	religion=scythian_pagan
+	holding=none
+}
+4247={
+	culture=sogdian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4246={
+	culture=sogdian
+	religion=scythian_pagan
+	holding=none
+}
+1438={
+	culture=bactrian
+	religion=old_bon
+	holding=castle_holding
+}
+1439={
+	culture=bactrian
+	religion=old_bon
+	holding=castle_holding
+}
+1440={
+	culture=saka
+	religion=melieism
+	holding=none
+}
+1441={
+	culture=bactrian
+	religion=old_bon
+	holding=castle_holding
+}
+1442={
+	culture=bactrian
+	religion=old_bon
+	holding=castle_holding
+}
+1443={
+	culture=tocharian
+	religion=vajrayana
+	holding=castle_holding
+}
+1444={
+	culture=bactrian
+	religion=old_bon
+	holding=castle_holding
+}
+1445={
+	culture=bactrian
+	religion=old_bon
+	holding=castle_holding
+}
+1447={
+	culture=bactrian
+	religion=old_bon
+	holding=castle_holding
+}
+1448={
+	culture=khitan
+	religion=vajrayana
+	holding=none
+}
+7958={
+	culture=bactrian
+	religion=old_bon
+	holding=none
+}
+7959={
+	culture=bactrian
+	religion=old_bon
+	holding=none
+}
+7960={
+	culture=bactrian
+	religion=old_bon
+	holding=city_holding
+}
+7963={
+	culture=bactrian
+	religion=old_bon
+	holding=none
+}
+7966={
+	culture=bactrian
+	religion=old_bon
+	holding=none
+}
+7967={
+	culture=bactrian
+	religion=old_bon
+	holding=castle_holding
+}
+7968={
+	culture=bactrian
+	religion=old_bon
+	holding=castle_holding
+}
+7969={
+	culture=bactrian
+	religion=old_bon
+	holding=castle_holding
+}
+7970={
+	culture=bactrian
+	religion=old_bon
+	holding=none
+}
+7971={
+	culture=tocharian
+	religion=melieism
+	holding=none
+}
+7972={
+	culture=bactrian
+	religion=old_bon
+	holding=none
+}
+7973={
+	culture=bactrian
+	religion=old_bon
+	holding=none
+}
+7974={
+	culture=bactrian
+	religion=old_bon
+	holding=castle_holding
+}
+7975={
+	culture=bactrian
+	religion=old_bon
+	holding=castle_holding
+}
+7977={
+	culture=bactrian
+	religion=old_bon
+	holding=castle_holding
+}
+7978={
+	culture=bactrian
+	religion=old_bon
+	holding=castle_holding
+}
+7979={
+	culture=bactrian
+	religion=old_bon
+	holding=castle_holding
+}
+7980={
+	culture=bactrian
+	religion=old_bon
+	holding=castle_holding
+}
+7981={
+	culture=bactrian
+	religion=old_bon
+	holding=church_holding
+}
+7982={
+	culture=bactrian
+	religion=old_bon
+	holding=church_holding
+}
+7983={
+	culture=tocharian
+	religion=vajrayana
+	holding=none
+}
+7984={
+	culture=tocharian
+	religion=vajrayana
+	holding=none
+}
+7985={
+	culture=tocharian
+	religion=vajrayana
+	holding=castle_holding
+}
+7986={
+	culture=tocharian
+	religion=vajrayana
+	holding=none
+}
+7987={
+	culture=tocharian
+	religion=vajrayana
+	holding=none
+}
+7988={
+	culture=bactrian
+	religion=old_bon
+	holding=church_holding
+}
+7989={
+	culture=bactrian
+	religion=old_bon
+	holding=church_holding
+}
+7990={
+	culture=bactrian
+	religion=old_bon
+	holding=church_holding
+}
+7991={
+	culture=bactrian
+	religion=old_bon
+	holding=church_holding
+}
+7992={
+	culture=bactrian
+	religion=old_bon
+	holding=church_holding
+}
+7993={
+	culture=bactrian
+	religion=old_bon
+	holding=church_holding
+}
+7994={
+	culture=khitan
+	religion=vajrayana
+	holding=castle_holding
+}
+7995={
+	culture=khitan
+	religion=vajrayana
+	holding=none
+}
+7996={
+	culture=khitan
+	religion=vajrayana
+	holding=none
+}
+7997={
+	culture=khitan
+	religion=vajrayana
+	holding=none
+}
+7998={
+	culture=khitan
+	religion=vajrayana
+	holding=none
+}
+7999={
+	culture=khitan
+	religion=vajrayana
+	holding=castle_holding
+}
+9600={
+	culture=bactrian
+	religion=old_bon
+	holding=none
+}
+9601={
+	culture=bactrian
+	religion=old_bon
+	holding=none
+}
+9602={
+	culture=bactrian
+	religion=old_bon
+	holding=none
+}
+9603={
+	culture=bactrian
+	religion=old_bon
+	holding=none
+}
+9604={
+	culture=bactrian
+	religion=old_bon
+	holding=none
+}
+9605={
+	culture=bactrian
+	religion=old_bon
+	holding=none
+}
+9606={
+	culture=bactrian
+	religion=old_bon
+	holding=castle_holding
+}
+9607={
+	culture=saka
+	religion=melieism
+	holding=none
+}
+9609={
+	culture=bactrian
+	religion=old_bon
+	holding=none
+}
+9610={
+	culture=bactrian
+	religion=old_bon
+	holding=none
+}
+9611={
+	culture=bactrian
+	religion=old_bon
+	holding=castle_holding
+}
+9612={
+	culture=bactrian
+	religion=old_bon
+	holding=castle_holding
+}
+9613={
+	culture=saka
+	religion=melieism
+	holding=none
+}
+9614={
+	culture=bactrian
+	religion=old_bon
+	holding=city_holding
+}
+9615={
+	culture=bactrian
+	religion=old_bon
+	holding=city_holding
+}
+9616={
+	culture=bactrian
+	religion=old_bon
+	holding=castle_holding
+}
+618={
+	culture=parthian
+	religion=scythian_pagan
+	holding=castle_holding
+}
+7222={
+	culture=sarmatian
+	religion=scythian_pagan
+	holding=none
+}
+7228={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+7229={
+	culture=scythian
+	religion=scythian_pagan
+	holding=city_holding
+}
+7227={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+7226={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+7232={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+7230={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+7231={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+7221={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+7223={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+7224={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+7225={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+7238={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+7236={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+7237={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+7233={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+7234={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+7235={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+624={
+	culture=scythian
+	religion=scythian_pagan
+	holding=castle_holding
+}
+7078={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+7079={
+	culture=scythian
+	religion=scythian_pagan
+	holding=church_holding
+}
+7080={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+7081={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+7083={
+	culture=scythian
+	religion=scythian_pagan
+	holding=city_holding
+}
+627={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+631={
+	culture=scythian
+	religion=mesopotamian_pagan
+	holding=none
+}
+7085={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+7086={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+7087={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+7088={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+625={
+	culture=scythian
+	religion=scythian_pagan
+	holding=castle_holding
+}
+7077={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+7082={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+7084={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+7065={
+	culture=scythian
+	religion=scythian_pagan
+	holding=castle_holding
+}
+7066={
+	culture=parthian
+	religion=scythian_pagan
+	holding=none
+}
+7072={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+7073={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+7074={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+621={
+	culture=scythian
+	religion=scythian_pagan
+	holding=castle_holding
+}
+7093={
+	culture=scythian
+	religion=scythian_pagan
+	holding=city_holding
+}
+7067={
+	culture=scythian
+	religion=scythian_pagan
+	holding=city_holding
+}
+7068={
+	culture=scythian
+	religion=scythian_pagan
+	holding=city_holding
+}
+7069={
+	culture=scythian
+	religion=scythian_pagan
+	holding=city_holding
+}
+7070={
+	culture=scythian
+	religion=scythian_pagan
+	holding=castle_holding
+}
+7071={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+7075={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+7076={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+900={
+	culture=scythian
+	religion=melieism
+	holding=none
+}
+7110={
+	culture=khwarezmian
+	religion=melieism
+	holding=none
+}
+7114={
+	culture=khwarezmian
+	religion=melieism
+	holding=none
+}
+7115={
+	culture=scythian
+	religion=melieism
+	holding=none
+}
+7111={
+	culture=scythian
+	religion=melieism
+	holding=none
+}
+7109={
+	culture=scythian
+	religion=melieism
+	holding=none
+}
+7108={
+	culture=scythian
+	religion=melieism
+	holding=none
+}
+7112={
+	culture=scythian
+	religion=melieism
+	holding=none
+}
+622={
+	culture=scythian
+	religion=melieism
+	holding=none
+}
+7097={
+	culture=scythian
+	religion=scythian_pagan
+	holding=city_holding
+}
+7102={
+	culture=scythian
+	religion=melieism
+	holding=none
+}
+623={
+	culture=scythian
+	religion=scythian_pagan
+	holding=castle_holding
+}
+7091={
+	culture=scythian
+	religion=scythian_pagan
+	holding=city_holding
+}
+7092={
+	culture=scythian
+	religion=scythian_pagan
+	holding=city_holding
+}
+7090={
+	culture=scythian
+	religion=scythian_pagan
+	holding=city_holding
+}
+7103={
+	culture=scythian
+	religion=melieism
+	holding=none
+}
+7099={
+	culture=scythian
+	religion=scythian_pagan
+	holding=city_holding
+}
+7100={
+	culture=scythian
+	religion=melieism
+	holding=none
+}
+7101={
+	culture=scythian
+	religion=melieism
+	holding=none
+}
+7096={
+	culture=scythian
+	religion=scythian_pagan
+	holding=castle_holding
+}
+7094={
+	culture=scythian
+	religion=scythian_pagan
+	holding=city_holding
+}
+7095={
+	culture=scythian
+	religion=scythian_pagan
+	holding=city_holding
+}
+7098={
+	culture=scythian
+	religion=scythian_pagan
+	holding=city_holding
+}
+7104={
+	culture=scythian
+	religion=melieism
+	holding=none
+}
+7105={
+	culture=scythian
+	religion=melieism
+	holding=none
+}
+7106={
+	culture=scythian
+	religion=melieism
+	holding=none
+}
+7107={
+	culture=scythian
+	religion=melieism
+	holding=none
+}
+1186={
+	culture=sogdian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+7135={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+7136={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+7137={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+7138={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+1431={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+7139={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+7140={
+	culture=bactrian
+	religion=melieism
+	holding=city_holding
+}
+7129={
+	culture=scythian
+	religion=melieism
+	holding=none
+}
+7126={
+	culture=scythian
+	religion=melieism
+	holding=none
+}
+7127={
+	culture=scythian
+	religion=melieism
+	holding=none
+}
+7128={
+	culture=scythian
+	religion=melieism
+	holding=none
+}
+1181={
+	culture=bactrian
+	religion=old_bon
+	holding=castle_holding
+}
+7134={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+7130={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+7154={
+	culture=tocharian
+	religion=melieism
+	holding=none
+}
+7152={
+	culture=tocharian
+	religion=melieism
+	holding=none
+}
+7153={
+	culture=tocharian
+	religion=melieism
+	holding=none
+}
+7147={
+	culture=bactrian
+	religion=melieism
+	holding=none
+}
+1424={
+	culture=bactrian
+	religion=melieism
+	holding=castle_holding
+}
+7144={
+	culture=bactrian
+	religion=melieism
+	holding=none
+}
+7145={
+	culture=tocharian
+	religion=melieism
+	holding=church_holding
+}
+7141={
+	culture=bactrian
+	religion=melieism
+	holding=none
+}
+7146={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+7148={
+	culture=tocharian
+	religion=melieism
+	holding=none
+}
+7142={
+	culture=karluk
+	religion=tengri_pagan
+	holding=none
+}
+1432={
+	holding=none
+}
+7143={
+	holding=none
+}
+7133={
+	culture=turkish
+	religion=tengri_pagan
+	holding=none
+}
+7121={
+	holding=none
+}
+7131={
+	holding=none
+}
+7132={
+	holding=none
+}
+7151={
+	culture=sogdian
+	religion=khurmazta
+	holding=tribal_holding
+}
+7149={
+	culture=tocharian
+	religion=melieism
+	holding=none
+}
+7150={
+	culture=tocharian
+	religion=melieism
+	holding=none
+}
+4394={
+	culture=bactrian
+	religion=scythian_pagan
+	holding=castle_holding
+}
+4395={
+	culture=parthian
+	religion=scythian_pagan
+	holding=none
+}
+4396={
+	culture=parthian
+	religion=scythian_pagan
+	holding=none
+}
+4397={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+4398={
+	culture=sogdian
+	religion=scythian_pagan
+	holding=none
+}
+4388={
+	culture=sogdian
+	religion=scythian_pagan
+	holding=castle_holding
+}
+4384={
+	culture=sogdian
+	religion=hellenic_pagan
+	holding=none
+}
+4385={
+	culture=sogdian
+	religion=scythian_pagan
+	holding=city_holding
+}
+4387={
+	culture=sogdian
+	religion=scythian_pagan
+	holding=none
+}
+4386={
+	culture=sogdian
+	religion=scythian_pagan
+	holding=none
+}
+4248={
+	culture=sogdian
+	religion=hellenic_pagan
+	holding=none
+}
+4390={
+	culture=sogdian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4389={
+	culture=sogdian
+	religion=scythian_pagan
+	holding=none
+}
+4391={
+	culture=sogdian
+	religion=scythian_pagan
+	holding=city_holding
+}
+4392={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+4393={
+	culture=parthian
+	religion=scythian_pagan
+	holding=castle_holding
+}
+4242={
+	culture=parthian
+	religion=scythian_pagan
+	holding=church_holding
+}
+4243={
+	culture=parthian
+	religion=scythian_pagan
+	holding=none
+}
+4244={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+4402={
+	culture=sogdian
+	religion=scythian_pagan
+	holding=castle_holding
+}
+4399={
+	culture=sogdian
+	religion=mazdayasna
+	holding=none
+}
+4400={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+4401={
+	culture=sogdian
+	religion=scythian_pagan
+	holding=none
+}
+4404={
+	culture=sogdian
+	religion=scythian_pagan
+	holding=castle_holding
+}
+4403={
+	culture=sogdian
+	religion=scythian_pagan
+	holding=none
+}
+4405={
+	culture=sogdian
+	religion=mazdayasna
+	holding=none
+}
+4406={
+	culture=sogdian
+	religion=gayomarthianism
+	holding=none
+}
+4407={
+	culture=sogdian
+	religion=scythian_pagan
+	holding=city_holding
+}
+4414={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4411={
+	culture=sogdian
+	religion=hellenic_pagan
+	holding=none
+}
+4412={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+4413={
+	culture=sogdian
+	religion=melieism
+	holding=none
+}
+4417={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+4416={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+4409={
+	culture=sogdian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4408={
+	culture=sogdian
+	religion=scythian_pagan
+	holding=city_holding
+}
+4410={
+	culture=sogdian
+	religion=scythian_pagan
+	holding=city_holding
+}
+4438={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4433={
+	culture=bactrian
+	religion=scythian_pagan
+	holding=none
+}
+4434={
+	holding=none
+}
+4435={
+	culture=bactrian
+	religion=scythian_pagan
+	holding=none
+}
+4436={
+	culture=bactrian
+	religion=melieism
+	holding=city_holding
+}
+4437={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+4418={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4419={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+4420={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+4421={
+	culture=bactrian
+	religion=melieism
+	holding=castle_holding
+}
+903={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+4422={
+	culture=sogdian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4423={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+4424={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+4425={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+4426={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+4429={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4427={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+4428={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+4430={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4431={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+4432={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+4439={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+1423={
+	culture=bactrian
+	religion=melieism
+	holding=castle_holding
+}
+7216={
+	culture=bactrian
+	religion=melieism
+	holding=church_holding
+}
+7217={
+	culture=bactrian
+	religion=melieism
+	holding=church_holding
+}
+4456={
+	culture=scythian
+	religion=scythian_pagan
+	holding=castle_holding
+}
+4454={
+	culture=parthian
+	religion=scythian_pagan
+	holding=city_holding
+}
+4455={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+4457={
+	holding=none
+}
+4458={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+1378={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+7089={
+	culture=scythian
+	religion=scythian_pagan
+	holding=city_holding
+}
+4441={
+	culture=scythian
+	religion=scythian_pagan
+	holding=castle_holding
+}
+4440={
+	culture=parthian
+	religion=scythian_pagan
+	holding=none
+}
+4442={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+4443={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+4448={
+	culture=scythian
+	religion=scythian_pagan
+	holding=castle_holding
+}
+4444={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+4445={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+4446={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+4447={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+4452={
+	culture=parthian
+	religion=scythian_pagan
+	holding=castle_holding
+}
+4449={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+4450={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+4451={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+4453={
+	culture=parthian
+	religion=scythian_pagan
+	holding=city_holding
+}
+4460={
+	culture=scythian
+	religion=scythian_pagan
+	holding=castle_holding
+}
+4459={
+	culture=khwarezmian
+	religion=melieism
+	holding=none
+}
+4461={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+4462={
+	culture=khwarezmian
+	religion=melieism
+	holding=none
+}

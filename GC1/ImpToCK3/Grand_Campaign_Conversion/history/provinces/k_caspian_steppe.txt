@@ -1,0 +1,43 @@
+616={
+	culture=pecheneg
+	religion=tengri_pagan
+	holding=none
+}
+5502={
+	holding=none
+}
+5503={
+	holding=none
+}
+5504={
+	culture=pecheneg
+	religion=tengri_pagan
+	holding=none
+}
+5505={
+	holding=none
+}
+5506={
+	holding=none
+}
+5507={
+	holding=none
+}
+5319={
+	culture=pecheneg
+	religion=tengri_pagan
+	holding=none
+}
+5318={
+	culture=sarmatian
+	religion=scythian_pagan
+	holding=none
+}
+5349={
+	culture=scythian
+	religion=scythian_pagan
+	holding=none
+}
+602={
+	holding=none
+}

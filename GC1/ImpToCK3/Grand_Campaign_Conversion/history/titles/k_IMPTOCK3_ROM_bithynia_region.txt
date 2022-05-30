@@ -1,0 +1,59 @@
+k_IMPTOCK3_ROM_bithynia_region={
+	-22.8.21={ liege="e_roman_empire" holder="imperator106000" government="feudal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_opsikion={
+	4.1.1={ liege=0 }
+}
+c_nikaea={
+	-22.8.21={ liege=0 holder="imperator106000" }
+	4.1.1={ change_development_level=35 }
+}
+c_mysia={
+	-35.11.4={ liege=0 holder="imperator106573" }
+	4.1.1={ change_development_level=30 }
+}
+c_prusa={
+	-22.8.21={ liege=0 holder="imperator106000" }
+	4.1.1={ change_development_level=31 }
+}
+c_phrygia={
+	-22.8.21={ liege=0 holder="imperator106000" }
+	4.1.1={ change_development_level=38 }
+}
+d_optimatoi={
+	4.1.1={ liege=0 }
+}
+c_bithynia={
+	-22.8.21={ liege=0 holder="imperator106000" }
+	4.1.1={ change_development_level=41 }
+}
+c_tarsos={
+	-22.8.21={ liege=0 holder="imperator106000" }
+	4.1.1={ change_development_level=26 }
+}
+d_bucellaria={
+	4.1.1={ liege=0 }
+}
+c_honorias={
+	-22.8.21={ liege=0 holder="imperator106000" }
+	4.1.1={ change_development_level=37 }
+}
+c_galatia={
+	1.4.21={ liege=0 holder="imperator105281" }
+	4.1.1={ change_development_level=48 }
+}
+c_hadrianopolis={
+	-22.8.21={ liege=0 holder="imperator106000" }
+	4.1.1={ change_development_level=36 }
+}
+d_paphlagonia={
+	4.1.1={ liege=0 }
+}
+c_paphlagonia={
+	-22.8.21={ liege=0 holder="imperator106000" }
+	4.1.1={ change_development_level=27 }
+}
+c_pompeiopolis={
+	-22.8.21={ liege=0 holder="imperator106000" }
+	4.1.1={ change_development_level=34 }
+}

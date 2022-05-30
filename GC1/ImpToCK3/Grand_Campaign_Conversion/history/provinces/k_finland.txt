@@ -1,0 +1,279 @@
+171={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}
+172={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}
+173={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}
+174={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+175={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+176={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+177={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+178={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+179={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+180={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+181={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+182={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+183={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+184={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+185={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+186={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+187={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+188={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+189={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+190={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+191={
+	holding=none
+}
+192={
+	culture=karelian
+	religion=finnish_pagan
+	holding=none
+}
+193={
+	holding=none
+}
+194={
+	holding=none
+}
+195={
+	culture=karelian
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+196={
+	holding=none
+}
+197={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+198={
+	culture=karelian
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+199={
+	holding=none
+}
+200={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+201={
+	holding=none
+}
+202={
+	holding=none
+}
+203={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+204={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+205={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+206={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+207={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+208={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+209={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+210={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+211={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+212={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+213={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+214={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+215={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+218={
+	holding=none
+}
+219={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+442={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+443={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+444={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+445={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+446={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+447={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+448={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+449={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+450={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+451={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+452={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+453={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}

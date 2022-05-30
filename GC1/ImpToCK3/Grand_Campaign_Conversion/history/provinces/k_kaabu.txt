@@ -1,0 +1,135 @@
+8237={
+	culture=mel
+	religion=west_african_roog_pagan
+	holding=none
+}
+8238={
+	culture=mel
+	religion=west_african_roog_pagan
+	holding=none
+}
+8264={
+	culture=mel
+	religion=west_african_roog_pagan
+	holding=none
+}
+8265={
+	culture=mel
+	religion=west_african_roog_pagan
+	holding=none
+}
+8267={
+	culture=mel
+	religion=west_african_roog_pagan
+	holding=none
+}
+8268={
+	culture=mel
+	religion=west_african_roog_pagan
+	holding=none
+}
+8269={
+	culture=mel
+	religion=west_african_roog_pagan
+	holding=none
+}
+8270={
+	culture=mel
+	religion=west_african_roog_pagan
+	holding=none
+}
+8271={
+	culture=mel
+	religion=west_african_roog_pagan
+	holding=none
+}
+8272={
+	culture=mel
+	religion=west_african_roog_pagan
+	holding=none
+}
+8274={
+	culture=mel
+	religion=west_african_roog_pagan
+	holding=none
+}
+8276={
+	culture=mel
+	religion=west_african_roog_pagan
+	holding=none
+}
+8277={
+	culture=mel
+	religion=west_african_roog_pagan
+	holding=none
+}
+8239={
+	culture=wolof
+	religion=west_african_roog_pagan
+	holding=none
+}
+8240={
+	culture=wolof
+	religion=west_african_roog_pagan
+	holding=none
+}
+8242={
+	culture=wolof
+	religion=west_african_roog_pagan
+	holding=none
+}
+8243={
+	culture=wolof
+	religion=west_african_roog_pagan
+	holding=none
+}
+8244={
+	culture=wolof
+	religion=west_african_roog_pagan
+	holding=none
+}
+8245={
+	culture=wolof
+	religion=west_african_roog_pagan
+	holding=none
+}
+8247={
+	culture=wolof
+	religion=west_african_roog_pagan
+	holding=none
+}
+8256={
+	culture=wolof
+	religion=west_african_roog_pagan
+	holding=none
+}
+8259={
+	culture=wolof
+	religion=west_african_roog_pagan
+	holding=none
+}
+8260={
+	culture=wolof
+	religion=west_african_roog_pagan
+	holding=none
+}
+8261={
+	culture=wolof
+	religion=west_african_roog_pagan
+	holding=none
+}
+8262={
+	culture=wolof
+	religion=west_african_roog_pagan
+	holding=none
+}
+8263={
+	culture=wolof
+	religion=west_african_roog_pagan
+	holding=none
+}
+8266={
+	culture=wolof
+	religion=west_african_roog_pagan
+	holding=none
+}

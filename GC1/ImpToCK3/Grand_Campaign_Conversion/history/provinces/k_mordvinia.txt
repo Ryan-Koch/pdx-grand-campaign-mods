@@ -1,0 +1,199 @@
+590={
+	culture=mordvin
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5363={
+	holding=none
+}
+5364={
+	holding=none
+}
+5365={
+	holding=none
+}
+5357={
+	culture=mordvin
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5358={
+	holding=none
+}
+5359={
+	culture=mordvin
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5361={
+	holding=none
+}
+5362={
+	holding=none
+}
+5360={
+	holding=none
+}
+5383={
+	culture=mordvin
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5384={
+	holding=none
+}
+5387={
+	holding=none
+}
+5386={
+	holding=none
+}
+5385={
+	holding=none
+}
+5350={
+	culture=mordvin
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5352={
+	holding=none
+}
+5351={
+	holding=none
+}
+5371={
+	culture=mordvin
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5373={
+	holding=none
+}
+5372={
+	holding=none
+}
+566={
+	culture=sarmatian
+	religion=scythian_pagan
+	holding=none
+}
+5285={
+	holding=none
+}
+5286={
+	holding=none
+}
+5284={
+	culture=sarmatian
+	religion=scythian_pagan
+	holding=none
+}
+592={
+	culture=chuvash
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+5369={
+	holding=none
+}
+5370={
+	holding=none
+}
+5366={
+	culture=chuvash
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+579={
+	holding=none
+}
+5367={
+	holding=none
+}
+5368={
+	holding=none
+}
+5509={
+	culture=chuvash
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+5508={
+	holding=none
+}
+5410={
+	holding=none
+}
+5390={
+	culture=chuvash
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+5391={
+	holding=none
+}
+5392={
+	holding=none
+}
+593={
+	culture=mordvin
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5380={
+	holding=none
+}
+5381={
+	holding=none
+}
+5382={
+	holding=none
+}
+5374={
+	culture=mordvin
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5375={
+	holding=none
+}
+5376={
+	holding=none
+}
+5377={
+	culture=mordvin
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5378={
+	holding=none
+}
+5379={
+	holding=none
+}
+5353={
+	culture=mordvin
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5356={
+	holding=none
+}
+5355={
+	holding=none
+}
+5354={
+	holding=none
+}
+5388={
+	culture=mordvin
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5389={
+	holding=none
+}
+5498={
+	holding=none
+}

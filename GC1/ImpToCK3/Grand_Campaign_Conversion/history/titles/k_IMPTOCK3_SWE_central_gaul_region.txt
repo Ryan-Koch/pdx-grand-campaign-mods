@@ -1,0 +1,34 @@
+k_IMPTOCK3_SWE_central_gaul_region={
+	-15.9.2={ liege="e_scandinavia" holder="imperator107043" government="feudal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_valois={
+	4.1.1={ liege=0 }
+}
+c_ile_de_france={
+	-15.9.2={ liege=0 holder="imperator107043" }
+	4.1.1={ change_development_level=35 }
+}
+c_brie_francaise={
+	-15.9.2={ liege=0 holder="imperator107043" }
+	4.1.1={ change_development_level=34 }
+}
+c_vermandois={
+	-11.11.16={ liege=0 holder="imperator107166" }
+	4.1.1={ change_development_level=26 }
+}
+c_valois={
+	-11.11.16={ liege=0 holder="imperator107166" }
+	4.1.1={ change_development_level=17 }
+}
+c_amiens={
+	-41.7.24={ liege=0 holder="imperator106053" }
+	4.1.1={ change_development_level=26 }
+}
+c_beaumont={
+	-15.9.2={ liege=0 holder="imperator107043" }
+	4.1.1={ change_development_level=36 }
+}
+c_clermont={
+	-11.11.16={ liege=0 holder="imperator107166" }
+	4.1.1={ change_development_level=36 }
+}

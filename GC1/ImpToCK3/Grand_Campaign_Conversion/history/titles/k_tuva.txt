@@ -1,0 +1,36 @@
+k_tuva={
+	4.1.1={ liege=0 }
+}
+d_togina={
+	4.1.1={ liege=0 }
+}
+c_arzhan={
+	4.1.1={ change_development_level=0 }
+}
+c_tapsa={
+	4.1.1={ change_development_level=0 }
+}
+c_azas={
+	4.1.1={ change_development_level=0 }
+}
+d_tannu_ola={
+	4.1.1={ liege=0 }
+}
+c_eastern_tannu={
+	4.1.1={ change_development_level=0 }
+}
+c_western_tannu={
+	4.1.1={ change_development_level=0 }
+}
+d_western_sayan={
+	4.1.1={ liege=0 }
+}
+c_stoyanka={
+	4.1.1={ change_development_level=0 }
+}
+c_katu_yaryk={
+	4.1.1={ change_development_level=0 }
+}
+c_kantegir={
+	4.1.1={ change_development_level=0 }
+}

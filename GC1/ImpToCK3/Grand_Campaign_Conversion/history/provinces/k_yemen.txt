@@ -1,0 +1,265 @@
+6276={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=castle_holding
+}
+6272={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=none
+}
+6273={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=none
+}
+6274={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=church_holding
+}
+6275={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=none
+}
+6240={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+6241={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=none
+}
+6270={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=none
+}
+6271={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=none
+}
+6243={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=castle_holding
+}
+6242={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=none
+}
+6280={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=castle_holding
+}
+6278={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=none
+}
+6279={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=none
+}
+6281={
+	culture=qahtanite
+	religion=egyptian_pagan
+	holding=none
+}
+6299={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=castle_holding
+}
+6296={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=none
+}
+6297={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=none
+}
+6298={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=none
+}
+6300={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=castle_holding
+}
+6301={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=none
+}
+6284={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=castle_holding
+}
+6285={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=none
+}
+6286={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=none
+}
+6287={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=none
+}
+6288={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=none
+}
+6282={
+	culture=qahtanite
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+6283={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=none
+}
+6289={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=none
+}
+6290={
+	culture=somali
+	religion=arabic_pagan
+	holding=none
+}
+6291={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=castle_holding
+}
+6292={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=none
+}
+6294={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=none
+}
+6295={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=city_holding
+}
+6306={
+	culture=adnanite
+	religion=arabic_pagan
+	holding=none
+}
+6304={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=none
+}
+6305={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=none
+}
+6307={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=none
+}
+6308={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=none
+}
+6302={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=castle_holding
+}
+6303={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=none
+}
+6309={
+	culture=adnanite
+	religion=arabic_pagan
+	holding=none
+}
+6310={
+	culture=adnanite
+	religion=arabic_pagan
+	holding=none
+}
+6312={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=castle_holding
+}
+6293={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=none
+}
+6311={
+	culture=qahtanite
+	religion=egyptian_pagan
+	holding=none
+}
+6313={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=castle_holding
+}
+1369={
+	culture=somali
+	religion=kushitism_pagan
+	holding=none
+}
+1310={
+	culture=somali
+	religion=kushitism_pagan
+	holding=none
+}
+6314={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=castle_holding
+}
+6315={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=none
+}
+6316={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=none
+}
+6317={
+	culture=qahtanite
+	religion=arabic_pagan
+	holding=none
+}

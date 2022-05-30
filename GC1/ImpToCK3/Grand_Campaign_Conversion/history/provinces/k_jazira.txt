@@ -1,0 +1,250 @@
+4810={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4811={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4812={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4836={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=church_holding
+}
+4837={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+4838={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4839={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4840={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4841={
+	culture=macedonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4842={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4843={
+	culture=macedonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4845={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4846={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4848={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4849={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4850={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4851={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4852={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4853={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4854={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+4856={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4870={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4873={
+	culture=macedonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4874={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4875={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+4876={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+4877={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+4878={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4879={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4880={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+4881={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4882={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4883={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4884={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4885={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4886={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4887={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4888={
+	culture=macedonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4889={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+5943={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+4773={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4774={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4775={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4776={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4777={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4778={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4779={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4780={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4808={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4809={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}

@@ -1,0 +1,51 @@
+k_sibir={
+	4.1.1={ liege=0 }
+}
+d_sibir={
+	4.1.1={ liege=0 }
+}
+c_sibir={
+	4.1.1={ change_development_level=0 }
+}
+c_tobol={
+	4.1.1={ change_development_level=0 }
+}
+c_belogorje={
+	4.1.1={ change_development_level=0 }
+}
+c_bardak={
+	4.1.1={ change_development_level=0 }
+}
+d_ishim={
+	4.1.1={ liege=0 }
+}
+c_ishim={
+	4.1.1={ change_development_level=0 }
+}
+c_dolgujar={
+	4.1.1={ change_development_level=0 }
+}
+d_tara={
+	4.1.1={ liege=0 }
+}
+c_tara={
+	4.1.1={ change_development_level=0 }
+}
+c_kazanskoye={
+	4.1.1={ change_development_level=0 }
+}
+c_petropavolsk={
+	4.1.1={ change_development_level=0 }
+}
+d_lanikaz={
+	4.1.1={ liege=0 }
+}
+c_omsk={
+	4.1.1={ change_development_level=0 }
+}
+c_kainsk={
+	4.1.1={ change_development_level=0 }
+}
+c_pavlodar={
+	4.1.1={ change_development_level=0 }
+}

@@ -1,0 +1,34 @@
+k_anatolia={
+	1.4.21={ government="feudal_government" holder="imperator105281" liege="e_roman_empire" succession_laws={ "high_partition_succession_law" } }
+}
+d_anatolia={
+	4.1.1={ liege=0 }
+}
+c_lycaonia={
+	1.4.21={ liege=0 holder="imperator105281" }
+	4.1.1={ change_development_level=39 }
+}
+c_pacatiana={
+	1.4.21={ liege=0 holder="imperator105281" }
+	4.1.1={ change_development_level=38 }
+}
+c_pisidia={
+	-58.10.21={ liege=0 holder="imperator104592" }
+	4.1.1={ change_development_level=32 }
+}
+c_selge={
+	-58.10.21={ liege=0 holder="imperator104592" }
+	4.1.1={ change_development_level=34 }
+}
+c_galatia_salutaris={
+	1.4.21={ liege=0 holder="imperator105281" }
+	4.1.1={ change_development_level=42 }
+}
+c_philomelium={
+	1.4.21={ liege=0 holder="imperator105281" }
+	4.1.1={ change_development_level=29 }
+}
+c_isauria={
+	1.4.21={ liege=0 holder="imperator105281" }
+	4.1.1={ change_development_level=44 }
+}

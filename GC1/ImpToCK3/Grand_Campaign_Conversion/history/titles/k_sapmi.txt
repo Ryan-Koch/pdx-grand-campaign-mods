@@ -1,0 +1,90 @@
+k_sapmi={
+	4.1.1={ liege=0 }
+}
+d_aarjetje={
+	4.1.1={ liege=0 }
+}
+c_sjeltie={
+	4.1.1={ change_development_level=0 }
+}
+c_ubmejeiednuo={
+	4.1.1={ change_development_level=0 }
+}
+c_pite={
+	4.1.1={ change_development_level=0 }
+}
+c_jahkamakke={
+	4.1.1={ change_development_level=0 }
+}
+d_vuovdisamieana={
+	4.1.1={ liege=0 }
+}
+c_biton={
+	4.1.1={ change_development_level=0 }
+}
+c_julevadno={
+	4.1.1={ change_development_level=0 }
+}
+c_kittila={
+	4.1.1={ change_development_level=0 }
+}
+c_torne={
+	4.1.1={ change_development_level=0 }
+}
+d_duortnoseatnu={
+	4.1.1={ liege=0 }
+}
+c_siggevara={
+	4.1.1={ change_development_level=0 }
+}
+c_suondavara={
+	4.1.1={ change_development_level=0 }
+}
+c_rounala={
+	4.1.1={ change_development_level=0 }
+}
+c_aviovara={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_karasjohka={
+	4.1.1={ change_development_level=0 }
+}
+d_giemajohka={
+	4.1.1={ liege=0 }
+}
+c_peaccam={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_kitka={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_koutajoki={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_akkel={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_sombio={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_inari={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_skolt={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_guoldat={
+	4.1.1={ liege=0 }
+}
+c_ter={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_jovvkuj={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_east_kiilt={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_kintus={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}

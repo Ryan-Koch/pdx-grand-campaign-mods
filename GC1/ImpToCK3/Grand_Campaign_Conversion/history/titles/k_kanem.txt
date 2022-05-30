@@ -1,0 +1,39 @@
+k_kanem={
+	4.1.1={ liege=0 }
+}
+d_kanem={
+	4.1.1={ liege=0 }
+}
+c_kanem={
+	4.1.1={ change_development_level=0 }
+}
+c_jimi={
+	4.1.1={ change_development_level=0 }
+}
+d_bornu={
+	4.1.1={ liege=0 }
+}
+c_bornu={
+	4.1.1={ change_development_level=0 }
+}
+c_garumele={
+	4.1.1={ change_development_level=0 }
+}
+c_yau={
+	4.1.1={ change_development_level=0 }
+}
+c_munio={
+	4.1.1={ change_development_level=0 }
+}
+d_kagha={
+	4.1.1={ liege=0 }
+}
+c_kagha={
+	4.1.1={ change_development_level=0 }
+}
+c_fika={
+	4.1.1={ change_development_level=0 }
+}
+c_katagum={
+	4.1.1={ change_development_level=0 }
+}

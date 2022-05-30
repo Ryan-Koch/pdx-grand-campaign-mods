@@ -1,0 +1,190 @@
+736={
+	culture=hittite
+	religion=anatolian_pagan
+	holding=castle_holding
+}
+755={
+	culture=luwian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+758={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+761={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+762={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+4895={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4896={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4897={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5610={
+	culture=hittite
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5611={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5612={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5624={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5625={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5626={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5627={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5635={
+	culture=hittite
+	religion=anatolian_pagan
+	holding=city_holding
+}
+5636={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5637={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5638={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5639={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5640={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5641={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5642={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5643={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5644={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5645={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5646={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5647={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5648={
+	culture=hittite
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5649={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5650={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5903={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+5904={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+5905={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5909={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+5910={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+5911={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=church_holding
+}
+5912={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=church_holding
+}

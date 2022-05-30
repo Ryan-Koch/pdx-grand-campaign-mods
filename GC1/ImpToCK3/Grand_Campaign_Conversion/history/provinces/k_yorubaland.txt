@@ -1,0 +1,210 @@
+8068={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8071={
+	culture=edo
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8072={
+	culture=edo
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8040={
+	culture=ewe
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8041={
+	culture=ewe
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8051={
+	culture=ewe
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8052={
+	culture=ewe
+	religion=west_african_orisha_pagan
+	holding=none
+}
+6911={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+6912={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+6923={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8050={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8053={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8054={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8055={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8056={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8057={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8058={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8059={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8060={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8061={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8062={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8063={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8064={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8065={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8066={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8067={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8069={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8074={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8075={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8079={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8080={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8081={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8082={
+	culture=yoruba
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8070={
+	culture=edo
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8073={
+	culture=edo
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8076={
+	culture=edo
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8086={
+	culture=edo
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8088={
+	culture=edo
+	religion=west_african_orisha_pagan
+	holding=none
+}
+6910={
+	culture=nupe
+	religion=west_african_bori_pagan
+	holding=none
+}
+6913={
+	culture=nupe
+	religion=west_african_bori_pagan
+	holding=none
+}
+8083={
+	culture=nupe
+	religion=west_african_bori_pagan
+	holding=none
+}
+8084={
+	culture=nupe
+	religion=west_african_bori_pagan
+	holding=none
+}

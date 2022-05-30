@@ -1,0 +1,49 @@
+k_galicia-volhynia={
+	-14.3.4={ government="feudal_government" holder="imperator107701" liege="e_roman_empire" succession_laws={ "high_partition_succession_law" } }
+}
+d_moldova={
+	4.1.1={ liege=0 }
+}
+c_iasi={
+	-14.3.4={ liege=0 holder="imperator107701" }
+	4.1.1={ change_development_level=31 }
+}
+c_orhei={
+	-10.2.20={ liege=0 holder="imperator107471" }
+	4.1.1={ change_development_level=49 }
+}
+c_soroca={
+	-14.3.4={ liege=0 holder="imperator107701" }
+	4.1.1={ change_development_level=28 }
+}
+c_barlad={
+	-14.3.4={ liege=0 holder="imperator107701" }
+	4.1.1={ change_development_level=45 }
+}
+c_galati={
+	-12.9.3={ liege=0 holder="imperator107472" }
+	4.1.1={ change_development_level=48 }
+}
+c_stoenesti={
+	-14.3.4={ liege=0 holder="imperator107701" }
+	4.1.1={ change_development_level=28 }
+}
+d_bukovina={
+	4.1.1={ liege=0 }
+}
+c_suceava={
+	-14.3.4={ liege=0 holder="imperator107701" }
+	4.1.1={ change_development_level=11 }
+}
+c_neamnt={
+	-14.3.4={ liege=0 holder="imperator107701" }
+	4.1.1={ change_development_level=19 }
+}
+c_dorohoi={
+	-14.3.4={ liege=0 holder="imperator107701" }
+	4.1.1={ change_development_level=30 }
+}
+c_hotin={
+	-14.3.4={ liege=0 holder="imperator107701" }
+	4.1.1={ change_development_level=26 }
+}

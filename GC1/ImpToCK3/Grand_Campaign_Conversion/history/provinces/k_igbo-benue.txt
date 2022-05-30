@@ -1,0 +1,195 @@
+6521={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6523={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6524={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6525={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6530={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6531={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6533={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6546={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6548={
+	culture=nupe
+	religion=west_african_bori_pagan
+	holding=none
+}
+8110={
+	culture=igbo
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8077={
+	culture=edo
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8087={
+	culture=edo
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8115={
+	culture=edo
+	religion=west_african_orisha_pagan
+	holding=none
+}
+6906={
+	culture=nupe
+	religion=west_african_bori_pagan
+	holding=none
+}
+6907={
+	culture=nupe
+	religion=west_african_bori_pagan
+	holding=none
+}
+6908={
+	culture=nupe
+	religion=west_african_bori_pagan
+	holding=none
+}
+6909={
+	culture=nupe
+	religion=west_african_bori_pagan
+	holding=none
+}
+8078={
+	culture=nupe
+	religion=west_african_bori_pagan
+	holding=none
+}
+8085={
+	culture=nupe
+	religion=west_african_bori_pagan
+	holding=none
+}
+8100={
+	culture=nupe
+	religion=west_african_bori_pagan
+	holding=none
+}
+8101={
+	culture=nupe
+	religion=west_african_bori_pagan
+	holding=none
+}
+8102={
+	culture=nupe
+	religion=west_african_bori_pagan
+	holding=none
+}
+8103={
+	culture=nupe
+	religion=west_african_bori_pagan
+	holding=none
+}
+8104={
+	culture=nupe
+	religion=west_african_bori_pagan
+	holding=none
+}
+8105={
+	culture=nupe
+	religion=west_african_bori_pagan
+	holding=none
+}
+8106={
+	culture=nupe
+	religion=west_african_bori_pagan
+	holding=none
+}
+8107={
+	culture=igbo
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8108={
+	culture=igbo
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8111={
+	culture=igbo
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8112={
+	culture=igbo
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8113={
+	culture=igbo
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8114={
+	culture=igbo
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8116={
+	culture=igbo
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8117={
+	culture=igbo
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8118={
+	culture=igbo
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8119={
+	culture=igbo
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8120={
+	culture=igbo
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8121={
+	culture=igbo
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8122={
+	culture=igbo
+	religion=west_african_orisha_pagan
+	holding=none
+}

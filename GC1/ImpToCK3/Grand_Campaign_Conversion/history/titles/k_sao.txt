@@ -1,0 +1,51 @@
+k_sao={
+	4.1.1={ liege=0 }
+}
+d_baguirmi={
+	4.1.1={ liege=0 }
+}
+c_baguirmi={
+	4.1.1={ change_development_level=0 }
+}
+c_banre={
+	4.1.1={ change_development_level=0 }
+}
+c_barma={
+	4.1.1={ change_development_level=0 }
+}
+c_masa={
+	4.1.1={ change_development_level=0 }
+}
+c_kuku={
+	4.1.1={ change_development_level=0 }
+}
+c_tumak={
+	4.1.1={ change_development_level=0 }
+}
+d_salamat={
+	4.1.1={ liege=0 }
+}
+c_salamat={
+	4.1.1={ change_development_level=0 }
+}
+c_dar_rashid={
+	4.1.1={ change_development_level=0 }
+}
+d_wandala={
+	4.1.1={ liege=0 }
+}
+c_wandala={
+	4.1.1={ change_development_level=0 }
+}
+c_kotoko={
+	4.1.1={ change_development_level=0 }
+}
+c_diamare={
+	4.1.1={ change_development_level=0 }
+}
+c_garoua={
+	4.1.1={ change_development_level=0 }
+}
+c_kera={
+	4.1.1={ change_development_level=0 }
+}

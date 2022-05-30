@@ -1,0 +1,235 @@
+7346={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7347={
+	holding=none
+}
+7348={
+	holding=none
+}
+7349={
+	holding=none
+}
+7350={
+	holding=none
+}
+7351={
+	holding=none
+}
+7332={
+	culture=karluk
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7345={
+	holding=none
+}
+7343={
+	holding=none
+}
+7344={
+	holding=none
+}
+7333={
+	culture=karluk
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7319={
+	holding=none
+}
+7334={
+	holding=none
+}
+7335={
+	holding=none
+}
+7338={
+	culture=karluk
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7337={
+	holding=none
+}
+7339={
+	holding=none
+}
+7355={
+	holding=none
+}
+7342={
+	culture=karluk
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7341={
+	holding=none
+}
+7336={
+	holding=none
+}
+7340={
+	holding=none
+}
+7327={
+	culture=karluk
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7328={
+	holding=none
+}
+7329={
+	holding=none
+}
+7330={
+	holding=none
+}
+7331={
+	holding=none
+}
+7324={
+	culture=karluk
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7325={
+	holding=none
+}
+7326={
+	holding=none
+}
+7320={
+	holding=none
+}
+7322={
+	culture=karluk
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7323={
+	holding=none
+}
+7321={
+	holding=none
+}
+1434={
+	culture=kipchak
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7296={
+	holding=none
+}
+7297={
+	holding=none
+}
+7307={
+	holding=none
+}
+7318={
+	holding=none
+}
+7304={
+	culture=kipchak
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7303={
+	holding=none
+}
+7300={
+	holding=none
+}
+7301={
+	holding=none
+}
+7305={
+	culture=kipchak
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7306={
+	holding=none
+}
+7317={
+	holding=none
+}
+7299={
+	culture=kipchak
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7298={
+	holding=none
+}
+7302={
+	holding=none
+}
+7290={
+	culture=kipchak
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7289={
+	holding=none
+}
+7291={
+	holding=none
+}
+7294={
+	holding=none
+}
+7293={
+	culture=kipchak
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7292={
+	holding=none
+}
+7295={
+	holding=none
+}
+7310={
+	culture=kipchak
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7308={
+	holding=none
+}
+7309={
+	holding=none
+}
+7311={
+	holding=none
+}
+7312={
+	holding=none
+}
+7316={
+	culture=kipchak
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7313={
+	holding=none
+}
+7314={
+	holding=none
+}
+7315={
+	holding=none
+}
+7287={
+	culture=kipchak
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7286={
+	holding=none
+}

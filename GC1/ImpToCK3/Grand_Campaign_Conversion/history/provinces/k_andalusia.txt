@@ -1,0 +1,220 @@
+1837={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1838={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1843={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1844={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1842={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+1845={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1982={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+1983={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1846={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1847={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1848={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1963={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1965={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1966={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1849={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1972={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1974={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1978={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1976={
+	culture=roman
+	religion=hellenic_pagan
+	holding=church_holding
+}
+1975={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1979={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1984={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+1981={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1980={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1841={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1993={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1977={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1986={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1985={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1987={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1989={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1991={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1839={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1840={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1992={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1995={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1994={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1999={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1988={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1747={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1746={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1749={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+1748={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+1750={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}

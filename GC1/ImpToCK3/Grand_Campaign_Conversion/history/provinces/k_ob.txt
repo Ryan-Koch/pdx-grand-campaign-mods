@@ -1,0 +1,359 @@
+7427={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7430={
+	holding=none
+}
+7428={
+	holding=none
+}
+7429={
+	holding=none
+}
+1132={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7413={
+	holding=none
+}
+7414={
+	holding=none
+}
+7426={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7425={
+	holding=none
+}
+7424={
+	holding=none
+}
+7422={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7423={
+	holding=none
+}
+7420={
+	holding=none
+}
+7421={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7415={
+	holding=none
+}
+7416={
+	holding=none
+}
+7419={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7418={
+	holding=none
+}
+7417={
+	holding=none
+}
+7406={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7403={
+	holding=none
+}
+7407={
+	holding=none
+}
+7408={
+	holding=none
+}
+7405={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7404={
+	holding=none
+}
+7409={
+	holding=none
+}
+7412={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7411={
+	holding=none
+}
+7410={
+	holding=none
+}
+7514={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7515={
+	holding=none
+}
+7516={
+	holding=none
+}
+1463={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+1329={
+	holding=none
+}
+7431={
+	holding=none
+}
+7433={
+	holding=none
+}
+7432={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7434={
+	holding=none
+}
+7438={
+	holding=none
+}
+7436={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7435={
+	holding=none
+}
+7437={
+	holding=none
+}
+7443={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7441={
+	holding=none
+}
+7439={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7440={
+	holding=none
+}
+7442={
+	holding=none
+}
+1205={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7444={
+	holding=none
+}
+7445={
+	holding=none
+}
+7446={
+	holding=none
+}
+7448={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7447={
+	holding=none
+}
+7449={
+	culture=kirghiz
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7450={
+	holding=none
+}
+7451={
+	holding=none
+}
+7368={
+	culture=khanty
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7372={
+	holding=none
+}
+7371={
+	holding=none
+}
+7369={
+	holding=none
+}
+7367={
+	culture=khanty
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7366={
+	holding=none
+}
+7370={
+	holding=none
+}
+7363={
+	culture=khanty
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7365={
+	holding=none
+}
+7364={
+	holding=none
+}
+7360={
+	culture=khanty
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7361={
+	holding=none
+}
+7362={
+	holding=none
+}
+7381={
+	culture=khanty
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7382={
+	holding=none
+}
+7383={
+	holding=none
+}
+7384={
+	holding=none
+}
+7386={
+	culture=khanty
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7387={
+	holding=none
+}
+7385={
+	holding=none
+}
+7373={
+	culture=khanty
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7374={
+	holding=none
+}
+7380={
+	holding=none
+}
+7375={
+	culture=khanty
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7376={
+	holding=none
+}
+7377={
+	holding=none
+}
+7378={
+	culture=khanty
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7379={
+	holding=none
+}
+7393={
+	culture=khanty
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7394={
+	holding=none
+}
+7395={
+	holding=none
+}
+7392={
+	holding=none
+}
+7397={
+	culture=khanty
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7396={
+	holding=none
+}
+7398={
+	holding=none
+}
+7399={
+	holding=none
+}
+7400={
+	culture=khanty
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7401={
+	holding=none
+}
+7402={
+	holding=none
+}
+7391={
+	culture=khanty
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7390={
+	holding=none
+}
+7389={
+	holding=none
+}
+7388={
+	holding=none
+}

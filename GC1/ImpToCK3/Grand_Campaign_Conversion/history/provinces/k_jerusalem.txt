@@ -1,0 +1,105 @@
+5921={
+	culture=phoenician
+	religion=egyptian_pagan
+	holding=church_holding
+}
+5922={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=church_holding
+}
+5958={
+	culture=hebrew
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+5959={
+	culture=hebrew
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+5960={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+5961={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=city_holding
+}
+5962={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+5963={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=city_holding
+}
+5964={
+	culture=hebrew
+	religion=egyptian_pagan
+	holding=church_holding
+}
+5965={
+	culture=hebrew
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+5966={
+	culture=hebrew
+	religion=egyptian_pagan
+	holding=none
+}
+5967={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+5968={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+5969={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+5971={
+	culture=nabatean
+	religion=arabic_pagan
+	holding=castle_holding
+}
+5972={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+5973={
+	culture=nabatean
+	religion=egyptian_pagan
+	holding=church_holding
+}
+5978={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+5979={
+	culture=hebrew
+	religion=egyptian_pagan
+	holding=none
+}
+5980={
+	culture=hebrew
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+5985={
+	culture=hebrew
+	religion=egyptian_pagan
+	holding=none
+}

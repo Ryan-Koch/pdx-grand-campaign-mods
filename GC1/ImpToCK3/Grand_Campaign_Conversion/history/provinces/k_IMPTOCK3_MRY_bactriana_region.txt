@@ -1,0 +1,373 @@
+4343={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+4500={
+	culture=bengali
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4515={
+	culture=sumpa
+	religion=old_bon
+	holding=castle_holding
+}
+4335={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4334={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+4336={
+	culture=bactrian
+	religion=vaishnavism
+	holding=none
+}
+4337={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+4338={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4341={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4339={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+4340={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+4351={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4347={
+	culture=bactrian
+	religion=mazdayasna
+	holding=none
+}
+4348={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+4349={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+4350={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+4352={
+	culture=bengali
+	religion=hellenic_pagan
+	holding=none
+}
+4355={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4353={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+4354={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+4356={
+	culture=sumpa
+	religion=old_bon
+	holding=city_holding
+}
+4357={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4358={
+	holding=none
+}
+4359={
+	culture=saka
+	religion=old_bon
+	holding=castle_holding
+}
+4362={
+	culture=sumpa
+	religion=old_bon
+	holding=castle_holding
+}
+4360={
+	culture=saka
+	religion=old_bon
+	holding=castle_holding
+}
+4361={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+4363={
+	culture=sumpa
+	religion=old_bon
+	holding=castle_holding
+}
+4364={
+	culture=sumpa
+	religion=old_bon
+	holding=city_holding
+}
+4365={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+7964={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+7965={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+4366={
+	culture=sumpa
+	religion=old_bon
+	holding=castle_holding
+}
+4367={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+4378={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4379={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=none
+}
+4380={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+4376={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4374={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+4375={
+	culture=sogdian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+4377={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+4369={
+	culture=sogdian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4368={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+4370={
+	culture=sogdian
+	religion=hellenic_pagan
+	holding=none
+}
+4371={
+	culture=sogdian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+4372={
+	culture=sogdian
+	religion=mazdayasna
+	holding=none
+}
+4373={
+	culture=sogdian
+	religion=mazdayasna
+	holding=none
+}
+4383={
+	culture=bactrian
+	religion=scythian_pagan
+	holding=castle_holding
+}
+4381={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+4382={
+	culture=sogdian
+	religion=hellenic_pagan
+	holding=none
+}
+4344={
+	culture=afghan
+	religion=mazdayasna
+	holding=church_holding
+}
+4342={
+	culture=bactrian
+	religion=hellenic_pagan
+	holding=none
+}
+4345={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=none
+}
+4346={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+4491={
+	culture=afghan
+	religion=vaishnavism
+	holding=none
+}
+4493={
+	culture=macedonian
+	religion=vaishnavism
+	holding=none
+}
+4492={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=none
+}
+4489={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+4490={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+4494={
+	culture=bengali
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4499={
+	culture=bengali
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4498={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+4495={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=none
+}
+4496={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=none
+}
+4507={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4509={
+	culture=macedonian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+4506={
+	culture=macedonian
+	religion=vaishnavism
+	holding=none
+}
+4505={
+	culture=macedonian
+	religion=vaishnavism
+	holding=none
+}
+4514={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+4501={
+	culture=macedonian
+	religion=mazdayasna
+	holding=none
+}
+4502={
+	culture=macedonian
+	religion=mazdayasna
+	holding=none
+}
+4503={
+	culture=afghan
+	religion=mazdayasna
+	holding=none
+}
+4504={
+	culture=afghan
+	religion=vaishnavism
+	holding=castle_holding
+}
+4508={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+4516={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}

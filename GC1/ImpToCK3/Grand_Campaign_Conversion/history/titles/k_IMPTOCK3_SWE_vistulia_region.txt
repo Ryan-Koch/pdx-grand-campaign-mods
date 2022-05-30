@@ -1,0 +1,114 @@
+k_IMPTOCK3_SWE_vistulia_region={
+	-4.11.6={ liege="e_scandinavia" holder="imperator108075" government="feudal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_lesser_poland={
+	4.1.1={ liege=0 }
+}
+c_krakowska={
+	-4.11.6={ liege=0 holder="imperator108075" }
+	4.1.1={ change_development_level=14 }
+}
+c_sacz={
+	-4.11.6={ liege=0 holder="imperator108075" }
+	4.1.1={ change_development_level=12 }
+}
+c_sandomierska={
+	-4.11.6={ liege=0 holder="imperator108075" }
+	4.1.1={ change_development_level=27 }
+}
+c_stezycka={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=36 }
+}
+c_radomska={
+	-4.11.6={ liege=0 holder="imperator108075" }
+	4.1.1={ change_development_level=31 }
+}
+c_lubelska={
+	-4.11.6={ liege=0 holder="imperator108075" }
+	4.1.1={ change_development_level=34 }
+}
+c_tarnowska={
+	-4.11.6={ liege=0 holder="imperator108075" }
+	4.1.1={ change_development_level=17 }
+}
+d_volhynia={
+	4.1.1={ liege=0 }
+}
+c_volodymyr={
+	-4.11.6={ liege=0 holder="imperator108075" }
+	4.1.1={ change_development_level=33 }
+}
+c_peresopnytsia={
+	-4.11.6={ liege=0 holder="imperator108075" }
+	4.1.1={ change_development_level=34 }
+}
+c_berestye={
+	-4.11.6={ liege=0 holder="imperator108075" }
+	4.1.1={ change_development_level=27 }
+}
+c_dorohychyn={
+	-10.11.11={ liege=0 holder="imperator107750" }
+	4.1.1={ change_development_level=35 }
+}
+d_halych={
+	4.1.1={ liege=0 }
+}
+c_halych={
+	-4.11.6={ liege=0 holder="imperator108075" }
+	4.1.1={ change_development_level=35 }
+}
+c_lviv={
+	-4.11.6={ liege=0 holder="imperator108075" }
+	4.1.1={ change_development_level=33 }
+}
+c_terebovl={
+	-4.11.6={ liege=0 holder="imperator108075" }
+	4.1.1={ change_development_level=29 }
+}
+c_zaslavl={
+	-13.3.20={ liege=0 holder="imperator107287" }
+	4.1.1={ change_development_level=34 }
+}
+d_cherven_cities={
+	4.1.1={ liege=0 }
+}
+c_cherven={
+	-4.11.6={ liege=0 holder="imperator108075" }
+	4.1.1={ change_development_level=23 }
+}
+c_belz={
+	-4.11.6={ liege=0 holder="imperator108075" }
+	4.1.1={ change_development_level=33 }
+}
+c_peremyshl={
+	-4.11.6={ liege=0 holder="imperator108075" }
+	4.1.1={ change_development_level=34 }
+}
+d_turov={
+	4.1.1={ liege=0 }
+}
+c_turov={
+	-4.11.6={ liege=0 holder="imperator108075" }
+	4.1.1={ change_development_level=23 }
+}
+c_korosten={
+	4.1.1={ change_development_level=0 }
+}
+c_dubrovytsia={
+	-4.11.6={ liege=0 holder="imperator108075" }
+	4.1.1={ change_development_level=35 }
+}
+d_grodno={
+	4.1.1={ liege=0 }
+}
+c_grodno={
+	4.1.1={ change_development_level=0 }
+}
+c_volkovysk={
+	-4.11.6={ liege=0 holder="imperator108075" }
+	4.1.1={ change_development_level=21 }
+}
+c_novogrudok={
+	4.1.1={ change_development_level=0 }
+}

@@ -1,0 +1,210 @@
+4471={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+4468={
+	culture=baloch
+	religion=mazdayasna
+	holding=none
+}
+4469={
+	culture=baloch
+	religion=mazdayasna
+	holding=none
+}
+4470={
+	culture=baloch
+	religion=mazdayasna
+	holding=none
+}
+4472={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+4285={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4284={
+	culture=baloch
+	religion=mazdayasna
+	holding=none
+}
+4286={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4287={
+	culture=baloch
+	religion=mazdayasna
+	holding=none
+}
+4277={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4278={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+4279={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+4280={
+	culture=macedonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4477={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+4473={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+4474={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+4475={
+	culture=qahtanite
+	religion=mazdayasna
+	holding=castle_holding
+}
+4476={
+	culture=qahtanite
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4479={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+4478={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+4480={
+	culture=bengali
+	religion=vaishnavism
+	holding=city_holding
+}
+4481={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+4487={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+4488={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+1137={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+1297={
+	culture=bengali
+	religion=smartism
+	holding=castle_holding
+}
+1303={
+	culture=bengali
+	religion=smartism
+	holding=castle_holding
+}
+1331={
+	culture=sindhi
+	religion=smartism
+	holding=castle_holding
+}
+1333={
+	culture=sindhi
+	religion=smartism
+	holding=castle_holding
+}
+3394={
+	culture=sindhi
+	religion=smartism
+	holding=none
+}
+3395={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+3396={
+	culture=sindhi
+	religion=vaishnavism
+	holding=none
+}
+3397={
+	culture=sindhi
+	religion=vaishnavism
+	holding=none
+}
+3398={
+	culture=bengali
+	religion=smartism
+	holding=none
+}
+3399={
+	culture=bengali
+	religion=smartism
+	holding=none
+}
+3400={
+	culture=bengali
+	religion=smartism
+	holding=none
+}
+3401={
+	culture=bengali
+	religion=smartism
+	holding=city_holding
+}
+3402={
+	culture=bengali
+	religion=smartism
+	holding=city_holding
+}
+3403={
+	culture=gujarati
+	religion=smartism
+	holding=none
+}
+3404={
+	culture=sindhi
+	religion=smartism
+	holding=city_holding
+}
+3405={
+	culture=sindhi
+	religion=smartism
+	holding=none
+}
+3971={
+	culture=gujarati
+	religion=smartism
+	holding=none
+}

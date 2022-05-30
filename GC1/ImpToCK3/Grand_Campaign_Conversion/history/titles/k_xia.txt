@@ -1,0 +1,135 @@
+k_xia={
+	4.1.1={ liege=0 }
+}
+d_xia={
+	4.1.1={ liege=0 }
+}
+c_xingqing={
+	4.1.1={ change_development_level=0 }
+}
+c_shunzhou={
+	4.1.1={ change_development_level=0 }
+}
+d_wuluhai={
+	4.1.1={ liege=0 }
+}
+c_wuluhai={
+	4.1.1={ change_development_level=0 }
+}
+c_wuda={
+	4.1.1={ change_development_level=0 }
+}
+d_zhenfan={
+	4.1.1={ liege=0 }
+}
+c_zhenfan={
+	4.1.1={ change_development_level=0 }
+}
+c_tenggeli={
+	4.1.1={ change_development_level=0 }
+}
+c_alxa={
+	4.1.1={ change_development_level=0 }
+}
+d_liangzhou={
+	4.1.1={ liege=0 }
+}
+c_liangzhou={
+	4.1.1={ change_development_level=0 }
+}
+c_fanhe={
+	4.1.1={ change_development_level=0 }
+}
+c_dajing={
+	4.1.1={ change_development_level=0 }
+}
+c_baiyin={
+	4.1.1={ change_development_level=0 }
+}
+c_yongdeng={
+	4.1.1={ change_development_level=0 }
+}
+d_shanzhou={
+	4.1.1={ liege=0 }
+}
+c_shanzhou={
+	4.1.1={ change_development_level=0 }
+}
+c_kuozhou={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_qilin={
+	4.1.1={ liege=0 }
+}
+c_qilin={
+	4.1.1={ change_development_level=0 }
+}
+c_yalong={
+	4.1.1={ change_development_level=0 }
+}
+d_ganzhou={
+	4.1.1={ liege=0 }
+}
+c_ganzhou={
+	4.1.1={ change_development_level=0 }
+}
+c_linze={
+	4.1.1={ change_development_level=0 }
+}
+c_gaotai={
+	4.1.1={ change_development_level=0 }
+}
+c_jinta={
+	4.1.1={ change_development_level=0 }
+}
+c_suzhou={
+	4.1.1={ change_development_level=0 }
+}
+c_yumen={
+	4.1.1={ change_development_level=0 }
+}
+d_yijinai={
+	4.1.1={ liege=0 }
+}
+c_yijinai={
+	4.1.1={ change_development_level=0 }
+}
+c_wentugaole={
+	4.1.1={ change_development_level=0 }
+}
+c_heihe={
+	4.1.1={ change_development_level=0 }
+}
+c_mazongshan={
+	4.1.1={ change_development_level=0 }
+}
+d_guiyi={
+	4.1.1={ liege=0 }
+}
+c_guazhou={
+	4.1.1={ change_development_level=0 }
+}
+c_changma={
+	4.1.1={ change_development_level=0 }
+}
+c_hongliuyuan={
+	4.1.1={ change_development_level=0 }
+}
+c_shazhou={
+	4.1.1={ change_development_level=0 }
+}
+c_yumenguan={
+	4.1.1={ change_development_level=0 }
+}
+c_subei={
+	4.1.1={ change_development_level=0 }
+}
+d_aksay={
+	4.1.1={ liege=0 }
+}
+c_aksay={
+	4.1.1={ change_development_level=0 }
+}
+c_haltang={
+	4.1.1={ change_development_level=0 }
+}

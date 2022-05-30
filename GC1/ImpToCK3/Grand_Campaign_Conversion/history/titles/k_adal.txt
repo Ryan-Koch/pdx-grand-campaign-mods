@@ -1,0 +1,86 @@
+k_adal={
+	4.1.1={ liege=0 }
+}
+d_dawaro={
+	4.1.1={ liege=0 }
+}
+c_dawaro={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_gabal={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_arusi={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_adal={
+	4.1.1={ liege=0 }
+}
+c_dakkar={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=10 }
+}
+c_harar={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=4 }
+}
+c_hargaya={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_fafan={
+	4.1.1={ holder="0" liege=0 change_development_level=2 }
+}
+d_mora={
+	4.1.1={ liege=0 }
+}
+c_awssa={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=17 }
+}
+c_sitti={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=1 }
+}
+d_danakil={
+	4.1.1={ liege=0 }
+}
+c_danakil={
+	4.1.1={ holder="0" liege=0 change_development_level=3 }
+}
+c_edd={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_afar={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=6 }
+}
+d_zaila={
+	4.1.1={ liege=0 }
+}
+c_zaila={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=17 }
+}
+c_tadjoura={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=28 }
+}
+c_berbera={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=10 }
+}
+d_sanaag={
+	4.1.1={ liege=0 }
+}
+c_mait={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=22 }
+}
+c_makhir={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=20 }
+}
+c_busaso={
+	-5.3.29={ liege=0 holder="imperator107266" }
+	4.1.1={ change_development_level=27 }
+}

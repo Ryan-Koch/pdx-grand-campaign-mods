@@ -1,0 +1,220 @@
+600={
+	culture=georgian
+	religion=hellenic_pagan
+	holding=none
+}
+601={
+	culture=georgian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+673={
+	culture=armenian
+	religion=caucasian_pagan
+	holding=none
+}
+676={
+	culture=georgian
+	religion=mazdayasna
+	holding=castle_holding
+}
+677={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+679={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=none
+}
+680={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=none
+}
+1013={
+	culture=armenian
+	religion=mazdayasna
+	holding=castle_holding
+}
+5696={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5697={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=none
+}
+5736={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5737={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5738={
+	culture=georgian
+	religion=hellenic_pagan
+	holding=none
+}
+5739={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=none
+}
+5740={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5741={
+	culture=georgian
+	religion=hellenic_pagan
+	holding=none
+}
+5742={
+	culture=armenian
+	religion=caucasian_pagan
+	holding=none
+}
+5743={
+	culture=georgian
+	religion=caucasian_pagan
+	holding=castle_holding
+}
+5744={
+	culture=georgian
+	religion=hellenic_pagan
+	holding=none
+}
+5745={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5746={
+	culture=georgian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5747={
+	culture=georgian
+	religion=hellenic_pagan
+	holding=none
+}
+5748={
+	culture=georgian
+	religion=caucasian_pagan
+	holding=none
+}
+5749={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5750={
+	culture=scythian
+	religion=hellenic_pagan
+	holding=none
+}
+5751={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5752={
+	culture=georgian
+	religion=caucasian_pagan
+	holding=none
+}
+5753={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5754={
+	culture=georgian
+	religion=hellenic_pagan
+	holding=none
+}
+5756={
+	culture=georgian
+	religion=hellenic_pagan
+	holding=church_holding
+}
+5757={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5758={
+	culture=georgian
+	religion=hellenic_pagan
+	holding=none
+}
+5759={
+	culture=georgian
+	religion=caucasian_pagan
+	holding=castle_holding
+}
+5760={
+	culture=armenian
+	religion=caucasian_pagan
+	holding=none
+}
+5761={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=none
+}
+5762={
+	culture=armenian
+	religion=mazdayasna
+	holding=none
+}
+5763={
+	culture=armenian
+	religion=caucasian_pagan
+	holding=church_holding
+}
+5764={
+	culture=georgian
+	religion=mazdayasna
+	holding=none
+}
+5765={
+	culture=georgian
+	religion=caucasian_pagan
+	holding=none
+}
+5766={
+	culture=armenian
+	religion=mazdayasna
+	holding=none
+}
+5767={
+	culture=armenian
+	religion=caucasian_pagan
+	holding=none
+}
+5768={
+	culture=georgian
+	religion=caucasian_pagan
+	holding=castle_holding
+}
+5769={
+	culture=armenian
+	religion=caucasian_pagan
+	holding=none
+}
+5770={
+	culture=armenian
+	religion=caucasian_pagan
+	holding=none
+}

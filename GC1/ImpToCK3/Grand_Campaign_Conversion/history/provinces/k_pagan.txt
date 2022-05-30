@@ -1,0 +1,313 @@
+9550={
+	culture=burmese
+	religion=ari
+	holding=castle_holding
+}
+9551={
+	holding=church_holding
+}
+9552={
+	holding=city_holding
+}
+9553={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9554={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9555={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9556={
+	culture=burmese
+	religion=ari
+	holding=castle_holding
+}
+9557={
+	holding=none
+}
+9558={
+	holding=none
+}
+9559={
+	culture=burmese
+	religion=ari
+	holding=castle_holding
+}
+9560={
+	holding=city_holding
+}
+9561={
+	holding=none
+}
+9570={
+	holding=none
+}
+9562={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9563={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9564={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9565={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9568={
+	culture=burmese
+	religion=ari
+	holding=castle_holding
+}
+9569={
+	holding=city_holding
+}
+9639={
+	holding=none
+}
+9571={
+	culture=burmese
+	religion=ari
+	holding=castle_holding
+}
+9574={
+	holding=none
+}
+9573={
+	holding=city_holding
+}
+9643={
+	culture=burmese
+	religion=ari
+	holding=castle_holding
+}
+9644={
+	holding=city_holding
+}
+9645={
+	holding=none
+}
+9646={
+	holding=none
+}
+9640={
+	culture=burmese
+	religion=ari
+	holding=castle_holding
+}
+9642={
+	holding=none
+}
+9641={
+	holding=none
+}
+9647={
+	culture=burmese
+	religion=ari
+	holding=castle_holding
+}
+9622={
+	holding=none
+}
+9623={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9624={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9625={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9658={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9588={
+	culture=burmese
+	religion=ari
+	holding=castle_holding
+}
+9589={
+	holding=city_holding
+}
+9590={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9634={
+	holding=church_holding
+}
+9575={
+	culture=burmese
+	religion=ari
+	holding=castle_holding
+}
+9572={
+	holding=none
+}
+9591={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9592={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9593={
+	culture=burmese
+	religion=mahayana
+	holding=castle_holding
+}
+9594={
+	holding=none
+}
+9595={
+	holding=none
+}
+9576={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9577={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9578={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9579={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9580={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9581={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9582={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9583={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9584={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9585={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9586={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9587={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9627={
+	culture=mon
+	religion=theravada
+	holding=castle_holding
+}
+9628={
+	holding=city_holding
+}
+9629={
+	holding=church_holding
+}
+9630={
+	holding=none
+}
+9637={
+	culture=mon
+	religion=theravada
+	holding=castle_holding
+}
+9638={
+	holding=none
+}
+9596={
+	culture=mon
+	religion=theravada
+	holding=castle_holding
+}
+9635={
+	holding=none
+}
+9636={
+	holding=none
+}
+9598={
+	culture=mon
+	religion=theravada
+	holding=castle_holding
+}
+9597={
+	holding=city_holding
+}
+9599={
+	holding=none
+}
+9626={
+	holding=none
+}
+9632={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9633={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9631={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}

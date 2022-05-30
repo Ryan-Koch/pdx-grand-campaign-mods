@@ -1,0 +1,187 @@
+610={
+	culture=bolghar
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+613={
+	holding=none
+}
+5405={
+	holding=church_holding
+}
+5406={
+	holding=none
+}
+614={
+	culture=bolghar
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+591={
+	holding=none
+}
+5411={
+	holding=none
+}
+5408={
+	culture=bolghar
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+5409={
+	holding=none
+}
+5407={
+	holding=none
+}
+5412={
+	culture=bolghar
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+5413={
+	holding=none
+}
+5414={
+	holding=none
+}
+609={
+	culture=bolghar
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+5416={
+	holding=none
+}
+5417={
+	holding=none
+}
+5415={
+	holding=none
+}
+611={
+	culture=mari
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5397={
+	holding=none
+}
+5400={
+	holding=none
+}
+5399={
+	holding=none
+}
+5398={
+	holding=none
+}
+588={
+	culture=mari
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5393={
+	holding=none
+}
+5394={
+	holding=none
+}
+5396={
+	holding=none
+}
+5395={
+	holding=none
+}
+5403={
+	culture=komi
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5404={
+	holding=none
+}
+5402={
+	holding=none
+}
+5401={
+	holding=none
+}
+5422={
+	culture=bolghar
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+5423={
+	holding=none
+}
+5425={
+	holding=none
+}
+5424={
+	holding=none
+}
+5418={
+	culture=bolghar
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+5419={
+	holding=none
+}
+5420={
+	holding=none
+}
+5421={
+	holding=none
+}
+5426={
+	culture=bolghar
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+5427={
+	holding=none
+}
+5428={
+	holding=none
+}
+5431={
+	culture=bolghar
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+5432={
+	holding=none
+}
+5433={
+	holding=none
+}
+5430={
+	holding=none
+}
+5429={
+	holding=none
+}
+589={
+	culture=mari
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5473={
+	holding=none
+}
+5474={
+	holding=none
+}
+5470={
+	culture=mari
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5471={
+	holding=none
+}
+5472={
+	holding=none
+}

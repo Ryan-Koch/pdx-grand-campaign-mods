@@ -1,0 +1,440 @@
+6104={
+	culture=carchidonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+6102={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=city_holding
+}
+6103={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+6105={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+6106={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6107={
+	culture=butr
+	religion=berber_pagan
+	holding=none
+}
+6108={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+6099={
+	culture=carchidonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+6100={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+6101={
+	culture=carchidonian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+6098={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+6053={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+6094={
+	culture=old_egyptian
+	religion=egyptian_pagan
+	holding=none
+}
+6116={
+	culture=old_egyptian
+	religion=egyptian_pagan
+	holding=none
+}
+6097={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+6095={
+	culture=old_egyptian
+	religion=egyptian_pagan
+	holding=none
+}
+6096={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=city_holding
+}
+6093={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+6092={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=city_holding
+}
+6117={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+6046={
+	culture=old_egyptian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+6043={
+	culture=old_egyptian
+	religion=egyptian_pagan
+	holding=city_holding
+}
+6045={
+	culture=old_egyptian
+	religion=egyptian_pagan
+	holding=none
+}
+6052={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+6054={
+	culture=old_egyptian
+	religion=egyptian_pagan
+	holding=city_holding
+}
+6055={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=city_holding
+}
+6051={
+	culture=old_egyptian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+6047={
+	culture=old_egyptian
+	religion=egyptian_pagan
+	holding=city_holding
+}
+6048={
+	culture=old_egyptian
+	religion=egyptian_pagan
+	holding=none
+}
+6049={
+	culture=old_egyptian
+	religion=egyptian_pagan
+	holding=none
+}
+6050={
+	culture=old_egyptian
+	religion=egyptian_pagan
+	holding=city_holding
+}
+6040={
+	culture=old_egyptian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+6041={
+	culture=old_egyptian
+	religion=egyptian_pagan
+	holding=church_holding
+}
+6044={
+	culture=old_egyptian
+	religion=egyptian_pagan
+	holding=none
+}
+6042={
+	culture=old_egyptian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+6039={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+6065={
+	culture=old_egyptian
+	religion=egyptian_pagan
+	holding=city_holding
+}
+6066={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+6057={
+	culture=old_egyptian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+6056={
+	culture=old_egyptian
+	religion=egyptian_pagan
+	holding=none
+}
+6058={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+6060={
+	culture=old_egyptian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+6059={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+6061={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=city_holding
+}
+6089={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+6090={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+6091={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+6088={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+6085={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+6086={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=city_holding
+}
+6087={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+6083={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+6084={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+6077={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+6074={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=city_holding
+}
+6075={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=church_holding
+}
+6076={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=city_holding
+}
+6078={
+	culture=macedonian
+	religion=kushitism_pagan
+	holding=church_holding
+}
+6063={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+6062={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=city_holding
+}
+6064={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+6067={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+6068={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+6069={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=city_holding
+}
+6070={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+6071={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=church_holding
+}
+6072={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=city_holding
+}
+6073={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=church_holding
+}
+6081={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=castle_holding
+}
+6079={
+	culture=macedonian
+	religion=kushitism_pagan
+	holding=church_holding
+}
+6080={
+	culture=macedonian
+	religion=kushitism_pagan
+	holding=none
+}
+6082={
+	culture=nubian
+	religion=kushitism_pagan
+	holding=church_holding
+}
+6109={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+6122={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+6118={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+6119={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+6120={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+6121={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+6038={
+	culture=old_egyptian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+6036={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+5970={
+	culture=old_egyptian
+	religion=egyptian_pagan
+	holding=city_holding
+}
+6033={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+6032={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=church_holding
+}
+6034={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+6035={
+	culture=old_egyptian
+	religion=egyptian_pagan
+	holding=city_holding
+}
+6037={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+6030={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+6031={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}

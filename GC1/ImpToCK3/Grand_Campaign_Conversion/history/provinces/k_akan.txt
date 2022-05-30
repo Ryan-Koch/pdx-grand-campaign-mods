@@ -1,0 +1,285 @@
+8000={
+	culture=guan
+	religion=akom_pagan
+	holding=none
+}
+8009={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+8125={
+	culture=bobo
+	religion=west_african_pagan
+	holding=none
+}
+8133={
+	culture=kru
+	religion=akom_pagan
+	holding=none
+}
+8135={
+	culture=kru
+	religion=akom_pagan
+	holding=none
+}
+8136={
+	culture=kru
+	religion=akom_pagan
+	holding=none
+}
+8137={
+	culture=kru
+	religion=akom_pagan
+	holding=none
+}
+8138={
+	culture=kru
+	religion=akom_pagan
+	holding=none
+}
+8144={
+	culture=kru
+	religion=akom_pagan
+	holding=none
+}
+8145={
+	culture=kru
+	religion=akom_pagan
+	holding=none
+}
+6961={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+6962={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+6963={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+6964={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+6965={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+6967={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+6968={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+6969={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+6970={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+6971={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+8001={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+8002={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+8003={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+8008={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+8010={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+8011={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+8012={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+8013={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+8014={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+8016={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+8017={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+8018={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+8019={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+8020={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+8021={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+8022={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+8023={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+8024={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+8025={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+8026={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+8027={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+8028={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+8029={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+8123={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+8124={
+	culture=akan
+	religion=akom_pagan
+	holding=none
+}
+8004={
+	culture=guan
+	religion=akom_pagan
+	holding=none
+}
+8005={
+	culture=guan
+	religion=akom_pagan
+	holding=none
+}
+8006={
+	culture=guan
+	religion=akom_pagan
+	holding=none
+}
+8007={
+	culture=guan
+	religion=akom_pagan
+	holding=none
+}
+8015={
+	culture=ewe
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8030={
+	culture=guan
+	religion=akom_pagan
+	holding=none
+}
+8031={
+	culture=guan
+	religion=akom_pagan
+	holding=none
+}
+8037={
+	culture=guan
+	religion=akom_pagan
+	holding=none
+}
+8038={
+	culture=guan
+	religion=akom_pagan
+	holding=none
+}
+8032={
+	culture=ewe
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8035={
+	culture=ewe
+	religion=west_african_orisha_pagan
+	holding=none
+}
+8036={
+	culture=ewe
+	religion=west_african_orisha_pagan
+	holding=none
+}

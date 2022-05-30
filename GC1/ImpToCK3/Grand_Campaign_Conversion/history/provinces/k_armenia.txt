@@ -1,0 +1,85 @@
+5771={
+	culture=georgian
+	religion=caucasian_pagan
+	holding=castle_holding
+}
+5772={
+	culture=armenian
+	religion=mazdayasna
+	holding=city_holding
+}
+668={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+5773={
+	culture=armenian
+	religion=mazdayasna
+	holding=none
+}
+669={
+	culture=georgian
+	religion=caucasian_pagan
+	holding=castle_holding
+}
+5774={
+	culture=georgian
+	religion=caucasian_pagan
+	holding=castle_holding
+}
+5775={
+	culture=armenian
+	religion=caucasian_pagan
+	holding=none
+}
+5776={
+	culture=armenian
+	religion=mazdayasna
+	holding=none
+}
+5777={
+	culture=armenian
+	religion=mazdayasna
+	holding=castle_holding
+}
+5778={
+	culture=armenian
+	religion=mazdayasna
+	holding=none
+}
+5779={
+	culture=armenian
+	religion=caucasian_pagan
+	holding=none
+}
+5790={
+	culture=armenian
+	religion=khurramism
+	holding=castle_holding
+}
+5788={
+	culture=armenian
+	religion=khurramism
+	holding=city_holding
+}
+5789={
+	culture=armenian
+	religion=khurramism
+	holding=none
+}
+5791={
+	culture=armenian
+	religion=khurramism
+	holding=none
+}
+5792={
+	culture=armenian
+	religion=khurramism
+	holding=none
+}
+5793={
+	culture=armenian
+	religion=khurramism
+	holding=city_holding
+}

@@ -1,0 +1,386 @@
+216={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+217={
+	culture=finnish
+	religion=finnish_pagan
+	holding=none
+}
+341={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+342={
+	holding=church_holding
+}
+343={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+344={
+	culture=norse
+	religion=norse_pagan
+	holding=church_holding
+}
+354={
+	culture=norse
+	religion=norse_pagan
+	holding=tribal_holding
+}
+355={
+	holding=none
+}
+356={
+	holding=none
+}
+339={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+336={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+337={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+338={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+340={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+346={
+	culture=norse
+	religion=norse_pagan
+	holding=tribal_holding
+}
+347={
+	holding=none
+}
+348={
+	holding=none
+}
+349={
+	holding=none
+}
+323={
+	culture=norse
+	religion=norse_pagan
+	holding=tribal_holding
+}
+324={
+	holding=none
+}
+326={
+	holding=none
+}
+8739={
+	holding=none
+}
+351={
+	culture=norse
+	religion=norse_pagan
+	holding=tribal_holding
+}
+352={
+	holding=none
+}
+8730={
+	holding=none
+}
+8729={
+	holding=none
+}
+350={
+	culture=norse
+	religion=norse_pagan
+	holding=tribal_holding
+}
+353={
+	holding=none
+}
+345={
+	holding=none
+}
+8728={
+	holding=none
+}
+317={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+319={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+318={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+8724={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+8725={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+8723={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+316={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+320={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+321={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+322={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+8731={
+	culture=norse
+	religion=norse_pagan
+	holding=tribal_holding
+}
+8732={
+	holding=none
+}
+325={
+	holding=none
+}
+330={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+331={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+334={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+8733={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+332={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+333={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+8734={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+327={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+328={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+329={
+	holding=none
+}
+307={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+308={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+8726={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+8727={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+309={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+310={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+302={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+303={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+304={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+305={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+306={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+335={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+312={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+311={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+313={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+301={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+300={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+314={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+315={
+	culture=norse
+	religion=norse_pagan
+	holding=none
+}
+360={
+	culture=norse
+	religion=norse_pagan
+	holding=tribal_holding
+}
+357={
+	holding=none
+}
+358={
+	holding=none
+}
+359={
+	holding=none
+}
+361={
+	culture=norse
+	religion=norse_pagan
+	holding=tribal_holding
+}
+362={
+	holding=none
+}
+363={
+	holding=none
+}
+364={
+	holding=none
+}
+366={
+	culture=norse
+	religion=norse_pagan
+	holding=tribal_holding
+}
+365={
+	holding=none
+}
+367={
+	holding=none
+}
+368={
+	holding=none
+}
+369={
+	culture=norse
+	religion=norse_pagan
+	holding=castle_holding
+}
+370={
+	culture=norse
+	religion=norse_pagan
+	holding=city_holding
+}
+371={
+	culture=norse
+	religion=norse_pagan
+	holding=city_holding
+}
+372={
+	culture=norse
+	religion=norse_pagan
+	holding=city_holding
+}

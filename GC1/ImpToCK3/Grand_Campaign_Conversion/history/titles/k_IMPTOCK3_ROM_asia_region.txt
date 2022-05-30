@@ -1,0 +1,33 @@
+k_IMPTOCK3_ROM_asia_region={
+	-35.11.4={ liege="e_roman_empire" holder="imperator106573" government="feudal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_ephese={
+	4.1.1={ liege=0 }
+}
+c_ionia={
+	-35.11.4={ liege=0 holder="imperator106573" }
+	4.1.1={ change_development_level=35 }
+}
+c_aeolis={
+	-35.11.4={ liege=0 holder="imperator106573" }
+	4.1.1={ change_development_level=41 }
+}
+d_thracesia={
+	4.1.1={ liege=0 }
+}
+c_lydia={
+	-35.11.4={ liege=0 holder="imperator106573" }
+	4.1.1={ change_development_level=32 }
+}
+c_thyatira={
+	-35.11.4={ liege=0 holder="imperator106573" }
+	4.1.1={ change_development_level=25 }
+}
+c_hadrianeia={
+	-35.11.4={ liege=0 holder="imperator106573" }
+	4.1.1={ change_development_level=32 }
+}
+c_chonae={
+	1.4.21={ liege=0 holder="imperator105281" }
+	4.1.1={ change_development_level=34 }
+}

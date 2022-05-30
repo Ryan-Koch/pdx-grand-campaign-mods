@@ -1,0 +1,555 @@
+4718={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4713={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4714={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4719={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4731={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4709={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+4710={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4707={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+4708={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+4711={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4712={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4706={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+4746={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4747={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4703={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4702={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4704={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4705={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4720={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4721={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=none
+}
+4722={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=none
+}
+4716={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4715={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4717={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4724={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4725={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4732={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4723={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4726={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=none
+}
+4727={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4728={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=none
+}
+4729={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=none
+}
+4730={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=none
+}
+4757={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=none
+}
+4758={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=none
+}
+4735={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4740={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+4741={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4755={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4756={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4737={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+4738={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+4759={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+4736={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4733={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4734={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4739={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+4742={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+4694={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+4688={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+4692={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4695={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+4696={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+4745={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+4743={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+4744={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+4677={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+4748={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+4699={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+4693={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4697={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4698={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+4700={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4687={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4689={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4690={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4691={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4701={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4683={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4684={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=none
+}
+4685={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=none
+}
+4686={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4682={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4681={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=none
+}
+4680={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+4678={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4679={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+849={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+8713={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+8714={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+8715={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+8716={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+4672={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4663={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4667={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4671={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4673={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+4674={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4675={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4676={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4666={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4664={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+4665={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+4669={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4668={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+4670={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=none
+}
+4659={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4658={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+4660={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=none
+}
+4661={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4662={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=none
+}
+4655={
+	culture=roman
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4656={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=none
+}
+4657={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=none
+}
+4647={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+4645={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+4646={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+4762={
+	culture=carthaginian
+	religion=hellenic_pagan
+	holding=city_holding
+}
+4749={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+4750={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}
+4751={
+	culture=baranis
+	religion=berber_pagan
+	holding=none
+}

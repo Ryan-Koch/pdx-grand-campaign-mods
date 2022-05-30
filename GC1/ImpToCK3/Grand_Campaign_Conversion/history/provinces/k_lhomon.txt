@@ -1,0 +1,51 @@
+9175={
+	culture=bengali
+	religion=donyipoloism
+	holding=castle_holding
+}
+9173={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9174={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9176={
+	culture=lhomon
+	religion=donyipoloism
+	holding=tribal_holding
+}
+9177={
+	holding=none
+}
+9178={
+	holding=none
+}
+9165={
+	culture=bengali
+	religion=donyipoloism
+	holding=castle_holding
+}
+9164={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9166={
+	culture=bengali
+	religion=donyipoloism
+	holding=castle_holding
+}
+9167={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+9168={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}

@@ -1,0 +1,25 @@
+﻿historical_succession_access_single_heir_succession_law_trigger={
+	OR={
+		has_title=title:k_scotland
+		has_title=title:e_roman_empire
+		has_title=title:k_armenia
+		has_title=title:e_scandinavia
+		has_title=title:k_pontic_steppe
+		has_title=title:e_persia
+		has_title=title:k_khorasan
+		has_title=title:e_india
+		has_title=title:k_gyalrong
+		has_title=title:k_IMPTOCK3_BPK
+		has_title=title:k_IMPTOCK3_SCA
+		has_title=title:e_IMPTOCK3_EGY
+		has_title=title:e_IMPTOCK3_TYO
+		has_title=title:k_IMPTOCK3_HYA
+		has_title=title:d_IMPTOCK3_C57
+		has_title=title:d_IMPTOCK3_C58
+		has_title=title:k_IMPTOCK3_F58
+	}
+}
+historical_succession_access_single_heir_dynasty_house_trigger={
+	OR={
+	}
+}

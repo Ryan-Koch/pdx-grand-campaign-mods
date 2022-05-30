@@ -1,0 +1,87 @@
+k_pagan={
+	4.1.1={ liege=0 }
+}
+d_pagan={
+	4.1.1={ liege=0 }
+}
+c_pagan={
+	4.1.1={ change_development_level=0 }
+}
+c_ava={
+	4.1.1={ change_development_level=0 }
+}
+c_kyaukse={
+	4.1.1={ change_development_level=0 }
+}
+c_minbu={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_sagaing={
+	4.1.1={ change_development_level=0 }
+}
+c_yamethin={
+	4.1.1={ change_development_level=0 }
+}
+d_tagaung={
+	4.1.1={ liege=0 }
+}
+c_takon={
+	4.1.1={ change_development_level=0 }
+}
+c_madaya={
+	4.1.1={ change_development_level=0 }
+}
+c_hanlan={
+	4.1.1={ change_development_level=0 }
+}
+c_kale={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_sriksetra={
+	4.1.1={ liege=0 }
+}
+c_sriksetra={
+	4.1.1={ change_development_level=0 }
+}
+c_magwe={
+	4.1.1={ change_development_level=0 }
+}
+c_hinthada={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_toungoo={
+	4.1.1={ change_development_level=0 }
+}
+d_arakan={
+	4.1.1={ liege=0 }
+}
+c_vaisali={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_ramu={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_thabeik_taung={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_sandoway={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_ramannadesa={
+	4.1.1={ liege=0 }
+}
+c_thaton={
+	4.1.1={ change_development_level=0 }
+}
+c_sittaung={
+	4.1.1={ change_development_level=0 }
+}
+c_pegu={
+	4.1.1={ change_development_level=0 }
+}
+c_dagon={
+	4.1.1={ change_development_level=0 }
+}
+c_kusumi={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}

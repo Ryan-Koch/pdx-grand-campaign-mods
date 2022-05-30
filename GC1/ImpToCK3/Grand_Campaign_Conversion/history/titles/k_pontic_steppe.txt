@@ -1,0 +1,38 @@
+k_pontic_steppe={
+	-304.10.1={ government="tribal_government" holder="imperator2485" }
+	-6.4.27={ government="tribal_government" holder="imperator108169" }
+	4.1.1={ succession_laws={ "male_only_law" "single_heir_succession_law" } }
+}
+d_alania={
+	4.1.1={ liege=0 }
+}
+c_maghas={
+	-6.4.27={ liege=0 holder="imperator108169" }
+	4.1.1={ change_development_level=12 }
+}
+c_cabardinia={
+	2.1.20={ liege=0 holder="imperator107618" }
+	4.1.1={ change_development_level=16 }
+}
+c_zichia={
+	-22.1.7={ liege=0 holder="imperator104769" }
+	4.1.1={ change_development_level=29 }
+}
+d_IMPTOCK3_SRM_sarmatia_asiatica_region={
+	-1.12.5={ liege="k_pontic_steppe" holder="imperator108401" government="tribal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_khazaria={
+	4.1.1={ liege=0 }
+}
+c_sarkel={
+	-1.12.5={ liege=0 holder="imperator108401" }
+	4.1.1={ change_development_level=18 }
+}
+c_astrakhan={
+	-12.5.6={ liege=0 holder="imperator104714" }
+	4.1.1={ change_development_level=21 }
+}
+c_beksima={
+	2.1.20={ liege=0 holder="imperator107618" }
+	4.1.1={ change_development_level=20 }
+}

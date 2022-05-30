@@ -1,0 +1,57 @@
+k_ruthenia={
+	4.1.1={ liege=0 }
+}
+d_pereyaslavl={
+	4.1.1={ liege=0 }
+}
+c_pereyaslavl={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_hradyzk={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_romen={
+	4.1.1={ holder="0" liege=0 change_development_level=1 }
+}
+c_voin={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_chernigov={
+	4.1.1={ liege=0 }
+}
+c_chernigov={
+	4.1.1={ change_development_level=0 }
+}
+c_starodub={
+	4.1.1={ change_development_level=0 }
+}
+c_novgorod_seversky={
+	4.1.1={ change_development_level=0 }
+}
+c_putyvl={
+	4.1.1={ change_development_level=0 }
+}
+c_kursk={
+	4.1.1={ change_development_level=0 }
+}
+d_karachev={
+	4.1.1={ liege=0 }
+}
+c_karachev={
+	4.1.1={ change_development_level=0 }
+}
+c_kozelsk={
+	4.1.1={ change_development_level=0 }
+}
+c_sevsk={
+	4.1.1={ change_development_level=0 }
+}
+d_novosil={
+	4.1.1={ liege=0 }
+}
+c_novosil={
+	4.1.1={ change_development_level=0 }
+}
+c_odoyev={
+	4.1.1={ change_development_level=0 }
+}

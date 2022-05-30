@@ -1,0 +1,200 @@
+1118={
+	culture=tamil
+	religion=vaishnavism
+	holding=castle_holding
+}
+1121={
+	culture=bengali
+	religion=shaivism
+	holding=castle_holding
+}
+1196={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+1197={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+1216={
+	culture=tamil
+	religion=vaishnavism
+	holding=castle_holding
+}
+1217={
+	culture=tamil
+	religion=vaishnavism
+	holding=city_holding
+}
+7847={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+7848={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+7850={
+	culture=bengali
+	religion=shaivism
+	holding=castle_holding
+}
+7851={
+	culture=bengali
+	religion=shaivism
+	holding=none
+}
+7852={
+	culture=bengali
+	religion=shaivism
+	holding=none
+}
+7853={
+	culture=bengali
+	religion=shaivism
+	holding=none
+}
+7854={
+	culture=bengali
+	religion=shaivism
+	holding=none
+}
+7855={
+	culture=bengali
+	religion=shaivism
+	holding=castle_holding
+}
+7856={
+	culture=bengali
+	religion=shaivism
+	holding=none
+}
+7857={
+	culture=bengali
+	religion=shaivism
+	holding=castle_holding
+}
+7858={
+	culture=bengali
+	religion=shaivism
+	holding=none
+}
+7859={
+	culture=bengali
+	religion=shaivism
+	holding=none
+}
+7860={
+	culture=bengali
+	religion=shaivism
+	holding=none
+}
+7861={
+	culture=bengali
+	religion=shaivism
+	holding=none
+}
+7862={
+	culture=bengali
+	religion=shaivism
+	holding=none
+}
+7863={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+7864={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+7865={
+	culture=bengali
+	religion=vaishnavism
+	holding=church_holding
+}
+7866={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+7867={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+1114={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+1117={
+	culture=bengali
+	religion=vaishnavism
+	holding=castle_holding
+}
+1200={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+1360={
+	culture=tamil
+	religion=vaishnavism
+	holding=none
+}
+8712={
+	culture=tamil
+	religion=vaishnavism
+	holding=none
+}
+1413={
+	culture=tamil
+	religion=vaishnavism
+	holding=city_holding
+}
+7797={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+7798={
+	culture=tamil
+	religion=vaishnavism
+	holding=castle_holding
+}
+7799={
+	culture=bengali
+	religion=vaishnavism
+	holding=none
+}
+7800={
+	culture=tamil
+	religion=vaishnavism
+	holding=city_holding
+}
+7801={
+	culture=tamil
+	religion=vaishnavism
+	holding=castle_holding
+}
+7802={
+	culture=tamil
+	religion=vaishnavism
+	holding=none
+}
+7803={
+	culture=tamil
+	religion=vaishnavism
+	holding=castle_holding
+}
+7814={
+	culture=bengali
+	religion=vaishnavism
+	holding=church_holding
+}

@@ -1,0 +1,160 @@
+572={
+	culture=merya
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+574={
+	holding=none
+}
+571={
+	holding=none
+}
+5176={
+	holding=none
+}
+582={
+	culture=meshchera
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+583={
+	holding=none
+}
+5236={
+	holding=none
+}
+5237={
+	holding=none
+}
+5238={
+	holding=none
+}
+5239={
+	culture=merya
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5240={
+	holding=none
+}
+573={
+	holding=none
+}
+5241={
+	holding=none
+}
+5242={
+	holding=none
+}
+5173={
+	culture=merya
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5174={
+	holding=none
+}
+5243={
+	holding=none
+}
+5175={
+	holding=none
+}
+575={
+	culture=meshchera
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+578={
+	holding=none
+}
+570={
+	holding=none
+}
+5244={
+	holding=none
+}
+5245={
+	holding=none
+}
+580={
+	culture=meshchera
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5228={
+	holding=none
+}
+5229={
+	holding=none
+}
+5253={
+	holding=none
+}
+5230={
+	holding=none
+}
+5231={
+	culture=meshchera
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5232={
+	holding=none
+}
+577={
+	holding=none
+}
+581={
+	culture=muroma
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5233={
+	holding=none
+}
+5234={
+	holding=none
+}
+5235={
+	holding=none
+}
+584={
+	culture=mari
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+585={
+	holding=none
+}
+5246={
+	holding=none
+}
+5256={
+	holding=none
+}
+5247={
+	culture=merya
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5248={
+	holding=none
+}
+5249={
+	holding=none
+}
+5250={
+	culture=merya
+	religion=finnish_pagan
+	holding=tribal_holding
+}
+5251={
+	holding=none
+}
+586={
+	holding=none
+}
+5252={
+	holding=none
+}

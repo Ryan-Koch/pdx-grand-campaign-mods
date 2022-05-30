@@ -1,0 +1,75 @@
+k_bengal={
+	4.1.1={ liege=0 }
+}
+d_gauda={
+	4.1.1={ liege=0 }
+}
+c_laksmanavati={
+	-9.12.30={ liege=0 holder="imperator107121" }
+	4.1.1={ change_development_level=23 }
+}
+c_kotivarsa={
+	-9.12.30={ liege=0 holder="imperator107121" }
+	4.1.1={ change_development_level=27 }
+}
+c_gauda={
+	-9.12.30={ liege=0 holder="imperator107121" }
+	4.1.1={ change_development_level=31 }
+}
+c_radha={
+	-9.12.30={ liege=0 holder="imperator107121" }
+	4.1.1={ change_development_level=12 }
+}
+d_varendra={
+	4.1.1={ liege=0 }
+}
+c_pundravardhana={
+	-9.12.30={ liege=0 holder="imperator107121" }
+	4.1.1={ change_development_level=28 }
+}
+c_suvarnagram={
+	-9.12.30={ liege=0 holder="imperator107121" }
+	4.1.1={ change_development_level=29 }
+}
+c_madhupur={
+	-9.12.30={ liege=0 holder="imperator107121" }
+	4.1.1={ change_development_level=20 }
+}
+d_vanga={
+	4.1.1={ liege=0 }
+}
+c_bikrampur={
+	-9.12.30={ liege=0 holder="imperator107121" }
+	4.1.1={ change_development_level=16 }
+}
+c_candradvipa={
+	-9.12.30={ liege=0 holder="imperator107121" }
+	4.1.1={ change_development_level=31 }
+}
+c_karmanta={
+	-9.12.30={ liege=0 holder="imperator107121" }
+	4.1.1={ change_development_level=6 }
+}
+c_samatata={
+	-9.12.30={ liege=0 holder="imperator107121" }
+	4.1.1={ change_development_level=9 }
+}
+c_harikela={
+	-9.12.30={ liege=0 holder="imperator107121" }
+	4.1.1={ change_development_level=7 }
+}
+d_nadia={
+	4.1.1={ liege=0 }
+}
+c_nabadwipa={
+	-9.12.30={ liege=0 holder="imperator107121" }
+	4.1.1={ change_development_level=15 }
+}
+c_saptagrama={
+	-9.12.30={ liege=0 holder="imperator107121" }
+	4.1.1={ change_development_level=12 }
+}
+c_vijayapura={
+	-9.12.30={ liege=0 holder="imperator107121" }
+	4.1.1={ change_development_level=14 }
+}

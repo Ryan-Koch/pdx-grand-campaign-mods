@@ -1,0 +1,44 @@
+k_daylam={
+	4.1.1={ liege=0 }
+}
+d_daylam={
+	4.1.1={ liege=0 }
+}
+c_gilan={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=65 }
+}
+c_zanjan={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=40 }
+}
+c_qazwin={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=39 }
+}
+d_tabaristan={
+	4.1.1={ liege=0 }
+}
+c_mazandaran={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=46 }
+}
+c_ruyan={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=25 }
+}
+c_baduspan={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=20 }
+}
+d_gurgan={
+	4.1.1={ liege=0 }
+}
+c_gurgan={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=48 }
+}
+c_dihistan={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=27 }
+}

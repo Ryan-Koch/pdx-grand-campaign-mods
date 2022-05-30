@@ -1,0 +1,36 @@
+k_borgu={
+	4.1.1={ liege=0 }
+}
+d_borgu={
+	4.1.1={ liege=0 }
+}
+c_nikki={
+	4.1.1={ change_development_level=0 }
+}
+c_bussa={
+	4.1.1={ change_development_level=0 }
+}
+c_ilo={
+	4.1.1={ change_development_level=0 }
+}
+c_ilesa={
+	4.1.1={ change_development_level=0 }
+}
+c_djugu={
+	4.1.1={ change_development_level=0 }
+}
+d_savalu={
+	4.1.1={ liege=0 }
+}
+c_savalu={
+	4.1.1={ change_development_level=0 }
+}
+c_sokode={
+	4.1.1={ change_development_level=0 }
+}
+c_todo={
+	4.1.1={ change_development_level=0 }
+}
+c_shabe={
+	4.1.1={ change_development_level=0 }
+}

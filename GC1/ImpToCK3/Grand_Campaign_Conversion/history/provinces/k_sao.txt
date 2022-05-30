@@ -1,0 +1,210 @@
+6804={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6805={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6806={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6807={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6808={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6809={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6810={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6811={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6812={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6813={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6814={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6815={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6816={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6817={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6818={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6819={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6820={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6821={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6823={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6824={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6825={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6827={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6828={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6829={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6830={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6831={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6832={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6833={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6834={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6835={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6836={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6837={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6838={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6839={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6840={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6841={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6842={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6843={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6844={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6857={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6858={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6859={
+	culture=zaghawa
+	religion=west_african_bori_pagan
+	holding=none
+}

@@ -1,0 +1,63 @@
+k_dzungaria={
+	4.1.1={ liege=0 }
+}
+d_kara_khoja={
+	4.1.1={ liege=0 }
+}
+c_kara_khoja={
+	4.1.1={ change_development_level=0 }
+}
+c_beshbalik={
+	4.1.1={ change_development_level=0 }
+}
+c_yangjibaliq={
+	4.1.1={ change_development_level=0 }
+}
+c_barkul={
+	4.1.1={ change_development_level=0 }
+}
+c_chamil={
+	4.1.1={ change_development_level=0 }
+}
+d_altay={
+	4.1.1={ liege=0 }
+}
+c_altay={
+	4.1.1={ change_development_level=0 }
+}
+c_qinggil={
+	4.1.1={ change_development_level=0 }
+}
+c_agairik={
+	4.1.1={ change_development_level=0 }
+}
+c_narym_DZU={
+	4.1.1={ change_development_level=0 }
+}
+c_torangy_kul={
+	4.1.1={ change_development_level=0 }
+}
+d_gurbantunggut={
+	4.1.1={ liege=0 }
+}
+c_hoboksar={
+	4.1.1={ change_development_level=0 }
+}
+c_ulan_chuzir={
+	4.1.1={ change_development_level=0 }
+}
+c_jie_DZU={
+	4.1.1={ change_development_level=0 }
+}
+d_naiman_gobi={
+	4.1.1={ liege=0 }
+}
+c_balgun={
+	4.1.1={ change_development_level=0 }
+}
+c_kara_asirgan={
+	4.1.1={ change_development_level=0 }
+}
+c_boro_burgasu={
+	4.1.1={ change_development_level=0 }
+}

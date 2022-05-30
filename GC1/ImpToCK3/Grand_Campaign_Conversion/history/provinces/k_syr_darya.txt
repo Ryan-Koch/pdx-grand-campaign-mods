@@ -1,0 +1,55 @@
+901={
+	culture=scythian
+	religion=melieism
+	holding=none
+}
+7113={
+	culture=scythian
+	religion=melieism
+	holding=none
+}
+7116={
+	culture=scythian
+	religion=melieism
+	holding=none
+}
+7117={
+	culture=scythian
+	religion=melieism
+	holding=none
+}
+7123={
+	culture=scythian
+	religion=melieism
+	holding=none
+}
+7119={
+	culture=scythian
+	religion=melieism
+	holding=none
+}
+7120={
+	culture=scythian
+	religion=melieism
+	holding=none
+}
+7122={
+	culture=scythian
+	religion=melieism
+	holding=none
+}
+7125={
+	culture=tocharian
+	religion=melieism
+	holding=none
+}
+7118={
+	culture=scythian
+	religion=melieism
+	holding=none
+}
+7124={
+	culture=scythian
+	religion=melieism
+	holding=none
+}

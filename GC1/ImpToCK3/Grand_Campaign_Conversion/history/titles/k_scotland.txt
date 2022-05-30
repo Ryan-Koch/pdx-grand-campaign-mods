@@ -1,0 +1,554 @@
+k_scotland={
+	-304.10.1={ government="tribal_government" holder="imperator7515" }
+	-250.9.16={ government="tribal_government" holder="imperator7536" }
+	-244.1.4={ government="tribal_government" holder="imperator7526" }
+	-244.2.23={ government="tribal_government" holder="imperator7553" }
+	-229.7.21={ government="tribal_government" holder="imperator28642" }
+	-228.2.27={ government="tribal_government" holder="imperator55642" }
+	-209.10.29={ government="tribal_government" holder="imperator51616" }
+	-184.12.2={ government="feudal_government" holder="imperator61420" }
+	-183.10.12={ government="feudal_government" holder="imperator67396" }
+	-151.6.17={ government="feudal_government" holder="imperator82507" }
+	-117.12.17={ government="feudal_government" holder="imperator90274" }
+	-84.4.5={ government="feudal_government" holder="imperator95943" }
+	-48.8.30={ government="feudal_government" holder="imperator100706" }
+	-23.7.19={ government="feudal_government" holder="imperator101827" }
+	-7.3.24={ government="feudal_government" holder="imperator105625" }
+	4.1.1={ succession_laws={ "male_preference_law" "single_heir_succession_law" } }
+}
+d_albany={
+	4.1.1={ liege=0 }
+}
+c_gowrie={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=4 }
+}
+c_fife={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=2 }
+}
+c_strathearn={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=2 }
+}
+c_atholl={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=4 }
+}
+c_angus={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=4 }
+}
+c_mearns={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=5 }
+}
+d_the_isles={
+	4.1.1={ liege=0 }
+}
+c_isle_of_man={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=16 }
+}
+d_galloway={
+	4.1.1={ liege=0 }
+}
+c_lennox={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=2 }
+}
+c_galloway={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=18 }
+}
+c_carrick={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=12 }
+}
+c_ayrshire={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=9 }
+}
+c_annandale={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=10 }
+}
+d_western_isles={
+	4.1.1={ liege=0 }
+}
+c_inner_hebrides={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=21 }
+}
+c_outer_hebrides={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=32 }
+}
+c_argyll={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=14 }
+}
+d_lothian={
+	4.1.1={ liege=0 }
+}
+c_lothian={
+	4.1.1={ change_development_level=5 }
+}
+c_dunbar={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=7 }
+}
+c_teviotdale={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=9 }
+}
+c_linlithgowshire={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=6 }
+}
+c_lanarkshire={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=9 }
+}
+d_moray={
+	4.1.1={ liege=0 }
+}
+c_moray={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=12 }
+}
+c_ross={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=20 }
+}
+c_buchan={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=10 }
+}
+c_sutherland={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=15 }
+}
+c_caithness={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=22 }
+}
+c_inverness={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=19 }
+}
+d_brittany={
+	-32.11.18={ government="feudal_government" holder="imperator105245" liege="k_scotland" succession_laws={ "high_partition_succession_law" } }
+}
+c_vannes={
+	-32.11.18={ liege=0 holder="imperator105245" }
+	4.1.1={ change_development_level=35 }
+}
+c_nantes={
+	-32.11.18={ liege=0 holder="imperator105245" }
+	4.1.1={ change_development_level=34 }
+}
+c_cornouaille={
+	-32.11.18={ liege=0 holder="imperator105245" }
+	4.1.1={ change_development_level=34 }
+}
+c_french_leon={
+	-32.11.18={ liege=0 holder="imperator105245" }
+	4.1.1={ change_development_level=32 }
+}
+c_penthievre={
+	-32.11.18={ liege=0 holder="imperator105245" }
+	4.1.1={ change_development_level=35 }
+}
+c_rennes={
+	-32.11.18={ liege=0 holder="imperator105245" }
+	4.1.1={ change_development_level=32 }
+}
+d_IMPTOCK3_CAL_belgica_region={
+	-41.7.24={ liege="k_scotland" holder="imperator106053" government="feudal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_bedford={
+	4.1.1={ liege=0 }
+}
+c_middlesex={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=10 }
+}
+c_essex={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=31 }
+}
+c_bedford={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=11 }
+}
+c_hertfordshire={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=11 }
+}
+c_buckinghamshire={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=17 }
+}
+d_northumberland={
+	4.1.1={ liege=0 }
+}
+c_northumberland={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=24 }
+}
+c_durham={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=33 }
+}
+c_cumberland={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=24 }
+}
+d_lancaster={
+	4.1.1={ liege=0 }
+}
+c_lancashire={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=31 }
+}
+c_westmorland={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=24 }
+}
+c_cheshire={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=23 }
+}
+c_derby={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=17 }
+}
+d_york={
+	4.1.1={ liege=0 }
+}
+c_north_riding={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=18 }
+}
+c_east_riding={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=17 }
+}
+c_west_riding={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=26 }
+}
+c_lincolnshire={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=20 }
+}
+d_norfolk={
+	4.1.1={ liege=0 }
+}
+c_norfolk={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=26 }
+}
+c_suffolk={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=15 }
+}
+c_cambridgeshire={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=13 }
+}
+d_hereford={
+	4.1.1={ liege=0 }
+}
+c_warwickshire={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=35 }
+}
+c_leicestershire={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=24 }
+}
+c_nottinghamshire={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=26 }
+}
+c_staffordshire={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=29 }
+}
+c_worcestershire={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=20 }
+}
+c_huntingdonshire={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=16 }
+}
+c_northamptonshire={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=15 }
+}
+c_shropshire={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=22 }
+}
+d_gloucester={
+	4.1.1={ liege=0 }
+}
+c_gloucestershire={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=24 }
+}
+c_wiltshire={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=24 }
+}
+c_oxfordshire={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=29 }
+}
+c_berkshire={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=22 }
+}
+d_canterbury={
+	4.1.1={ liege=0 }
+}
+c_kent={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=18 }
+}
+c_surrey={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=13 }
+}
+c_sussex={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=23 }
+}
+d_somerset={
+	4.1.1={ liege=0 }
+}
+c_hampton={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=23 }
+}
+c_isle_of_wight={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=33 }
+}
+c_dorset={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=8 }
+}
+c_somerset={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=19 }
+}
+d_cornwall={
+	4.1.1={ liege=0 }
+}
+c_devon={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=33 }
+}
+c_cornwall={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=31 }
+}
+d_gwynedd={
+	4.1.1={ liege=0 }
+}
+c_cardiganshire={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=15 }
+}
+c_merioneth={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=5 }
+}
+c_caernarfonshire={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=6 }
+}
+c_anglesey={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=9 }
+}
+c_denbighshire={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=8 }
+}
+d_powys={
+	4.1.1={ liege=0 }
+}
+c_maldwyn={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=33 }
+}
+c_sir_faesyfed={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=15 }
+}
+c_hereford={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=15 }
+}
+d_deheubarth={
+	4.1.1={ liege=0 }
+}
+c_carmarthenshire={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=14 }
+}
+c_pembrokeshire={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=14 }
+}
+c_glamorgan={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=21 }
+}
+c_monmouthshire={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=15 }
+}
+c_brecknockshire={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=30 }
+}
+d_meath={
+	4.1.1={ liege=0 }
+}
+c_dublin={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=13 }
+}
+c_athlone={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=17 }
+}
+d_ulster={
+	4.1.1={ liege=0 }
+}
+c_ulster={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=23 }
+}
+c_oriel={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=31 }
+}
+c_ailech={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=21 }
+}
+d_connacht={
+	4.1.1={ liege=0 }
+}
+c_connacht={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=18 }
+}
+c_mayo={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=20 }
+}
+c_breifne={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=29 }
+}
+d_leinster={
+	4.1.1={ liege=0 }
+}
+c_leinster={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=23 }
+}
+c_ossory={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=11 }
+}
+d_munster={
+	4.1.1={ liege=0 }
+}
+c_thomond={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=23 }
+}
+c_ennis={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=14 }
+}
+c_ormond={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=21 }
+}
+c_desmond={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=22 }
+}
+d_northern_isles={
+	4.1.1={ liege=0 }
+}
+c_orkney={
+	-7.3.24={ liege=0 holder="imperator105625" }
+	4.1.1={ change_development_level=33 }
+}
+c_faereyar={
+	4.1.1={ change_development_level=0 }
+}
+c_shetland={
+	4.1.1={ change_development_level=0 }
+}
+d_anjou={
+	4.1.1={ liege=0 }
+}
+c_anjou={
+	-32.11.18={ liege=0 holder="imperator105245" }
+	4.1.1={ change_development_level=36 }
+}
+c_saumur={
+	-54.7.9={ liege=0 holder="imperator103403" }
+	4.1.1={ change_development_level=43 }
+}
+c_maine={
+	-32.11.18={ liege=0 holder="imperator105245" }
+	4.1.1={ change_development_level=21 }
+}
+c_sable={
+	-32.11.18={ liege=0 holder="imperator105245" }
+	4.1.1={ change_development_level=33 }
+}
+d_normandy={
+	4.1.1={ liege=0 }
+}
+c_rouen={
+	-41.7.24={ liege=0 holder="imperator106053" }
+	4.1.1={ change_development_level=38 }
+}
+c_evreux={
+	-8.3.30={ liege=0 holder="imperator106518" }
+	4.1.1={ change_development_level=24 }
+}
+c_bayeux={
+	-32.11.18={ liege=0 holder="imperator105245" }
+	4.1.1={ change_development_level=34 }
+}
+c_avranches={
+	-32.11.18={ liege=0 holder="imperator105245" }
+	4.1.1={ change_development_level=34 }
+}
+c_alencon={
+	-32.11.18={ liege=0 holder="imperator105245" }
+	4.1.1={ change_development_level=31 }
+}
+c_lisieux={
+	-32.11.18={ liege=0 holder="imperator105245" }
+	4.1.1={ change_development_level=35 }
+}
+c_eu={
+	-41.7.24={ liege=0 holder="imperator106053" }
+	4.1.1={ change_development_level=32 }
+}

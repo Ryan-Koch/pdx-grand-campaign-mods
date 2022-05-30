@@ -1,0 +1,270 @@
+4869={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4872={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+4890={
+	culture=aramaic
+	religion=canaanite_pagan
+	holding=none
+}
+4891={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4892={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4893={
+	culture=aramaic
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4894={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4899={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=city_holding
+}
+5900={
+	culture=aramaic
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+5902={
+	culture=aramaic
+	religion=canaanite_pagan
+	holding=none
+}
+5906={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=city_holding
+}
+5907={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+5908={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+5914={
+	culture=phoenician
+	religion=canaanite_pagan
+	holding=none
+}
+5915={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+5916={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=city_holding
+}
+5917={
+	culture=roman
+	religion=hellenic_pagan
+	holding=city_holding
+}
+5918={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+5919={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+5920={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=church_holding
+}
+5923={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=city_holding
+}
+5924={
+	culture=aramaic
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+5925={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+5926={
+	culture=aramaic
+	religion=canaanite_pagan
+	holding=castle_holding
+}
+5927={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+5928={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=city_holding
+}
+5929={
+	culture=aramaic
+	religion=canaanite_pagan
+	holding=castle_holding
+}
+5930={
+	culture=aramaic
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+5931={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+5932={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+5933={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+5934={
+	culture=macedonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+5935={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+5936={
+	culture=macedonian
+	religion=mazdayasna
+	holding=city_holding
+}
+5937={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+5938={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+5939={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+5940={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+5941={
+	culture=aramaic
+	religion=egyptian_pagan
+	holding=none
+}
+5942={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+5944={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+5945={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+5946={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+5947={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+5948={
+	culture=adnanite
+	religion=canaanite_pagan
+	holding=castle_holding
+}
+5949={
+	culture=aramaic
+	religion=egyptian_pagan
+	holding=none
+}
+5950={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+5951={
+	culture=adnanite
+	religion=arabic_pagan
+	holding=none
+}
+5952={
+	culture=adnanite
+	religion=arabic_pagan
+	holding=none
+}
+5953={
+	culture=aramaic
+	religion=egyptian_pagan
+	holding=church_holding
+}
+5954={
+	culture=hebrew
+	religion=egyptian_pagan
+	holding=city_holding
+}
+5955={
+	culture=hebrew
+	religion=egyptian_pagan
+	holding=castle_holding
+}
+5956={
+	culture=macedonian
+	religion=egyptian_pagan
+	holding=none
+}
+5957={
+	culture=aramaic
+	religion=egyptian_pagan
+	holding=none
+}

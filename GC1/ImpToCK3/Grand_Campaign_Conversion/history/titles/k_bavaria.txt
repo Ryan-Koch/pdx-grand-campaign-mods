@@ -1,0 +1,86 @@
+k_bavaria={
+	-16.7.9={ government="feudal_government" holder="imperator106633" liege="e_roman_empire" succession_laws={ "high_partition_succession_law" } }
+}
+d_transjurania={
+	4.1.1={ liege=0 }
+}
+c_bern={
+	-16.7.9={ liege=0 holder="imperator106633" }
+	4.1.1={ change_development_level=33 }
+}
+c_aargau={
+	-16.7.9={ liege=0 holder="imperator106633" }
+	4.1.1={ change_development_level=8 }
+}
+c_neuchatel={
+	-16.7.9={ liege=0 holder="imperator106633" }
+	4.1.1={ change_development_level=9 }
+}
+d_tyrol={
+	4.1.1={ liege=0 }
+}
+c_innsbruck={
+	-16.7.9={ liege=0 holder="imperator106633" }
+	4.1.1={ change_development_level=28 }
+}
+c_brixen={
+	-16.7.9={ liege=0 holder="imperator106633" }
+	4.1.1={ change_development_level=39 }
+}
+c_lienz={
+	-16.7.9={ liege=0 holder="imperator106633" }
+	4.1.1={ change_development_level=26 }
+}
+d_carinthia={
+	4.1.1={ liege=0 }
+}
+c_karnten={
+	-16.7.9={ liege=0 holder="imperator106633" }
+	4.1.1={ change_development_level=26 }
+}
+c_kammersberg={
+	-16.7.9={ liege=0 holder="imperator106633" }
+	4.1.1={ change_development_level=12 }
+}
+c_knittelfeld={
+	-16.7.9={ liege=0 holder="imperator106633" }
+	4.1.1={ change_development_level=10 }
+}
+c_villach={
+	-3.6.22={ liege=0 holder="imperator108236" }
+	4.1.1={ change_development_level=19 }
+}
+d_savoie={
+	4.1.1={ liege=0 }
+}
+c_savoie={
+	-16.7.9={ liege=0 holder="imperator106633" }
+	4.1.1={ change_development_level=35 }
+}
+c_aosta={
+	-16.7.9={ liege=0 holder="imperator106633" }
+	4.1.1={ change_development_level=29 }
+}
+c_geneva={
+	-16.7.9={ liege=0 holder="imperator106633" }
+	4.1.1={ change_development_level=25 }
+}
+c_canavese={
+	-16.7.9={ liege=0 holder="imperator106633" }
+	4.1.1={ change_development_level=35 }
+}
+d_currezia={
+	4.1.1={ liege=0 }
+}
+c_grisons={
+	-16.7.9={ liege=0 holder="imperator106633" }
+	4.1.1={ change_development_level=29 }
+}
+c_sankt_gallen={
+	-16.7.9={ liege=0 holder="imperator106633" }
+	4.1.1={ change_development_level=42 }
+}
+c_zurich={
+	-16.7.9={ liege=0 holder="imperator106633" }
+	4.1.1={ change_development_level=16 }
+}

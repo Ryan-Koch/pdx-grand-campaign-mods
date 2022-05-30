@@ -1,0 +1,145 @@
+6746={
+	culture=soninke
+	religion=west_african_pagan
+	holding=none
+}
+6775={
+	culture=soninke
+	religion=west_african_pagan
+	holding=none
+}
+6776={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6777={
+	culture=soninke
+	religion=west_african_pagan
+	holding=none
+}
+6778={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6779={
+	culture=soninke
+	religion=west_african_bidu_pagan
+	holding=none
+}
+6780={
+	culture=soninke
+	religion=west_african_pagan
+	holding=none
+}
+6781={
+	culture=pulaar
+	religion=west_african_roog_pagan
+	holding=none
+}
+6782={
+	culture=pulaar
+	religion=west_african_roog_pagan
+	holding=tribal_holding
+}
+6783={
+	culture=pulaar
+	religion=west_african_roog_pagan
+	holding=none
+}
+6784={
+	culture=pulaar
+	religion=west_african_roog_pagan
+	holding=none
+}
+6785={
+	culture=pulaar
+	religion=west_african_roog_pagan
+	holding=none
+}
+6786={
+	culture=soninke
+	religion=west_african_pagan
+	holding=none
+}
+6787={
+	culture=pulaar
+	religion=west_african_roog_pagan
+	holding=none
+}
+6797={
+	culture=pulaar
+	religion=west_african_roog_pagan
+	holding=none
+}
+6798={
+	culture=pulaar
+	religion=west_african_roog_pagan
+	holding=none
+}
+6800={
+	culture=soninke
+	religion=west_african_pagan
+	holding=none
+}
+8251={
+	culture=wolof
+	religion=west_african_roog_pagan
+	holding=none
+}
+8241={
+	culture=wolof
+	religion=west_african_roog_pagan
+	holding=none
+}
+8246={
+	culture=wolof
+	religion=west_african_roog_pagan
+	holding=none
+}
+8248={
+	culture=wolof
+	religion=west_african_roog_pagan
+	holding=none
+}
+8249={
+	culture=wolof
+	religion=west_african_roog_pagan
+	holding=none
+}
+8250={
+	culture=wolof
+	religion=west_african_roog_pagan
+	holding=none
+}
+8252={
+	culture=wolof
+	religion=west_african_roog_pagan
+	holding=none
+}
+8253={
+	culture=wolof
+	religion=west_african_roog_pagan
+	holding=none
+}
+8254={
+	culture=wolof
+	religion=west_african_roog_pagan
+	holding=none
+}
+8255={
+	culture=wolof
+	religion=west_african_roog_pagan
+	holding=none
+}
+8257={
+	culture=wolof
+	religion=west_african_roog_pagan
+	holding=none
+}
+8258={
+	culture=wolof
+	religion=west_african_roog_pagan
+	holding=none
+}

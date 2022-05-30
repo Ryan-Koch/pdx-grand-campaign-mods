@@ -1,0 +1,180 @@
+6483={
+	culture=kanuri
+	religion=west_african_bori_pagan
+	holding=none
+}
+6484={
+	culture=kanuri
+	religion=west_african_bori_pagan
+	holding=none
+}
+6485={
+	culture=kanuri
+	religion=west_african_bori_pagan
+	holding=none
+}
+6486={
+	culture=zaghawa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6487={
+	culture=kanuri
+	religion=west_african_bori_pagan
+	holding=none
+}
+6488={
+	culture=kanuri
+	religion=west_african_bori_pagan
+	holding=none
+}
+6489={
+	culture=kanuri
+	religion=west_african_bori_pagan
+	holding=none
+}
+6490={
+	culture=kanuri
+	religion=west_african_bori_pagan
+	holding=none
+}
+6491={
+	culture=kanuri
+	religion=west_african_bori_pagan
+	holding=none
+}
+6492={
+	culture=kanuri
+	religion=west_african_bori_pagan
+	holding=none
+}
+6500={
+	culture=kanuri
+	religion=west_african_bori_pagan
+	holding=none
+}
+6501={
+	culture=kanuri
+	religion=west_african_bori_pagan
+	holding=none
+}
+6502={
+	culture=kanuri
+	religion=west_african_bori_pagan
+	holding=none
+}
+6503={
+	culture=kanuri
+	religion=west_african_bori_pagan
+	holding=none
+}
+6504={
+	culture=kanuri
+	religion=west_african_bori_pagan
+	holding=none
+}
+6505={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6506={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6507={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6508={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6509={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6510={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6511={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6512={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6513={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6514={
+	culture=zaghawa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6515={
+	culture=zaghawa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6516={
+	culture=zaghawa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6522={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6526={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6527={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6528={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6532={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6534={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6535={
+	culture=hausa
+	religion=west_african_bori_pagan
+	holding=none
+}
+6822={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}
+6826={
+	culture=sao
+	religion=west_african_bori_pagan
+	holding=none
+}

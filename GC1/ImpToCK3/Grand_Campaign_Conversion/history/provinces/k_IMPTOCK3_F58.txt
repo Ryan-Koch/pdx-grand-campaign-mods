@@ -1,0 +1,110 @@
+547={
+	culture=sarmatian
+	religion=scythian_pagan
+	holding=castle_holding
+}
+5082={
+	culture=sarmatian
+	religion=scythian_pagan
+	holding=none
+}
+5083={
+	culture=sarmatian
+	religion=scythian_pagan
+	holding=none
+}
+5084={
+	culture=sarmatian
+	religion=scythian_pagan
+	holding=none
+}
+5085={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=none
+}
+5086={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+5087={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+5088={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+5089={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+5091={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+5092={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+5093={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+5094={
+	culture=vandilian
+	religion=germanic_pagan
+	holding=none
+}
+5095={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+5096={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+5097={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+5098={
+	culture=norse
+	religion=germanic_pagan
+	holding=castle_holding
+}
+5099={
+	culture=norse
+	religion=germanic_pagan
+	holding=none
+}
+5100={
+	culture=urslavic
+	religion=germanic_pagan
+	holding=none
+}
+544={
+	culture=urslavic
+	religion=slavic_pagan
+	holding=castle_holding
+}
+5090={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}
+5101={
+	culture=roman
+	religion=hellenic_pagan
+	holding=none
+}

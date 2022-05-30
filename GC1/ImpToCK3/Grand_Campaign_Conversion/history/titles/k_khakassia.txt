@@ -1,0 +1,63 @@
+k_khakassia={
+	4.1.1={ liege=0 }
+}
+d_khakass_hollow={
+	4.1.1={ liege=0 }
+}
+c_abakan={
+	4.1.1={ change_development_level=0 }
+}
+c_julym={
+	4.1.1={ change_development_level=0 }
+}
+c_jerjul={
+	4.1.1={ change_development_level=0 }
+}
+c_kizir={
+	4.1.1={ change_development_level=0 }
+}
+c_anja={
+	4.1.1={ change_development_level=0 }
+}
+c_kyzylkul={
+	4.1.1={ change_development_level=0 }
+}
+d_shoria={
+	4.1.1={ liege=0 }
+}
+c_kuzbas={
+	4.1.1={ change_development_level=0 }
+}
+c_shor={
+	4.1.1={ change_development_level=0 }
+}
+c_uul_chors={
+	4.1.1={ change_development_level=0 }
+}
+d_kargassia={
+	4.1.1={ liege=0 }
+}
+c_burugu_aallar={
+	4.1.1={ change_development_level=0 }
+}
+c_chagdy_aallar={
+	4.1.1={ change_development_level=0 }
+}
+c_songuu_aallar={
+	4.1.1={ change_development_level=0 }
+}
+d_eastern_sayan={
+	4.1.1={ liege=0 }
+}
+c_karauda={
+	4.1.1={ change_development_level=0 }
+}
+c_shityy={
+	4.1.1={ change_development_level=0 }
+}
+c_kropot={
+	4.1.1={ change_development_level=0 }
+}
+c_monkh_saridag={
+	4.1.1={ change_development_level=0 }
+}

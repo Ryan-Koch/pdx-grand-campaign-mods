@@ -1,0 +1,430 @@
+670={
+	culture=armenian
+	religion=mazdayasna
+	holding=city_holding
+}
+671={
+	culture=armenian
+	religion=armenian_pagan
+	holding=castle_holding
+}
+672={
+	culture=armenian
+	religion=mazdayasna
+	holding=castle_holding
+}
+681={
+	culture=armenian
+	religion=mithraic_mysteries
+	holding=castle_holding
+}
+682={
+	culture=armenian
+	religion=armenian_pagan
+	holding=castle_holding
+}
+701={
+	culture=armenian
+	religion=armenian_pagan
+	holding=none
+}
+702={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+703={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+704={
+	culture=armenian
+	religion=mithraic_mysteries
+	holding=castle_holding
+}
+707={
+	culture=armenian
+	religion=mazdayasna
+	holding=castle_holding
+}
+5706={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=none
+}
+5707={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+5708={
+	culture=hittite
+	religion=anatolian_pagan
+	holding=none
+}
+5709={
+	culture=armenian
+	religion=mithraic_mysteries
+	holding=none
+}
+5710={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5711={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+5712={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+5713={
+	culture=armenian
+	religion=mithraic_mysteries
+	holding=none
+}
+5714={
+	culture=armenian
+	religion=armenian_pagan
+	holding=city_holding
+}
+5715={
+	culture=armenian
+	religion=armenian_pagan
+	holding=castle_holding
+}
+5716={
+	culture=armenian
+	religion=armenian_pagan
+	holding=castle_holding
+}
+5717={
+	culture=armenian
+	religion=mithraic_mysteries
+	holding=none
+}
+5718={
+	culture=armenian
+	religion=mithraic_mysteries
+	holding=none
+}
+5719={
+	culture=armenian
+	religion=mithraic_mysteries
+	holding=none
+}
+5720={
+	culture=armenian
+	religion=mazdayasna
+	holding=none
+}
+5721={
+	culture=armenian
+	religion=armenian_pagan
+	holding=none
+}
+5722={
+	culture=armenian
+	religion=armenian_pagan
+	holding=none
+}
+5723={
+	culture=armenian
+	religion=armenian_pagan
+	holding=none
+}
+5724={
+	culture=armenian
+	religion=armenian_pagan
+	holding=none
+}
+5725={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=none
+}
+5726={
+	culture=armenian
+	religion=armenian_pagan
+	holding=city_holding
+}
+5727={
+	culture=armenian
+	religion=mazdayasna
+	holding=none
+}
+5728={
+	culture=armenian
+	religion=armenian_pagan
+	holding=none
+}
+5729={
+	culture=armenian
+	religion=mazdayasna
+	holding=none
+}
+5730={
+	culture=armenian
+	religion=armenian_pagan
+	holding=city_holding
+}
+5731={
+	culture=armenian
+	religion=armenian_pagan
+	holding=castle_holding
+}
+5732={
+	culture=armenian
+	religion=mithraic_mysteries
+	holding=none
+}
+5733={
+	culture=georgian
+	religion=mazdayasna
+	holding=none
+}
+5734={
+	culture=armenian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5735={
+	culture=armenian
+	religion=armenian_pagan
+	holding=church_holding
+}
+5780={
+	culture=armenian
+	religion=caucasian_pagan
+	holding=none
+}
+5781={
+	culture=armenian
+	religion=armenian_pagan
+	holding=none
+}
+5782={
+	culture=armenian
+	religion=mazdayasna
+	holding=none
+}
+5783={
+	culture=armenian
+	religion=caucasian_pagan
+	holding=castle_holding
+}
+5784={
+	culture=armenian
+	religion=mazdayasna
+	holding=none
+}
+5785={
+	culture=armenian
+	religion=mazdayasna
+	holding=none
+}
+5786={
+	culture=armenian
+	religion=mazdayasna
+	holding=none
+}
+5787={
+	culture=armenian
+	religion=mazdayasna
+	holding=city_holding
+}
+4537={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4536={
+	culture=armenian
+	religion=mazdayasna
+	holding=none
+}
+4538={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4539={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4540={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4541={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4534={
+	culture=armenian
+	religion=mazdayasna
+	holding=castle_holding
+}
+4535={
+	culture=armenian
+	religion=mazdayasna
+	holding=none
+}
+4543={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4002={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4542={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4544={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4545={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4003={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+4546={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4547={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4548={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4549={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+4767={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4766={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+4768={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4769={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4771={
+	culture=armenian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4770={
+	culture=armenian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4772={
+	culture=armenian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}
+5794={
+	culture=armenian
+	religion=mazdayasna
+	holding=city_holding
+}
+4813={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4814={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4815={
+	culture=armenian
+	religion=mithraic_mysteries
+	holding=castle_holding
+}
+4816={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4817={
+	culture=armenian
+	religion=mithraic_mysteries
+	holding=none
+}
+4855={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4859={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4861={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4866={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4867={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=castle_holding
+}
+4868={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=none
+}
+4871={
+	culture=babylonian
+	religion=mesopotamian_pagan
+	holding=city_holding
+}

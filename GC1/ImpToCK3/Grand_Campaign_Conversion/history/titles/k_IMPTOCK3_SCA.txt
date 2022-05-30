@@ -1,0 +1,335 @@
+k_IMPTOCK3_SCA={
+	-304.10.1={ holder="imperator3254" government="tribal_government" }
+	-108.9.29={ holder="imperator98600" government="tribal_government" }
+	-70.3.23={ holder="imperator103615" government="tribal_government" }
+	-22.1.14={ holder="imperator101530" government="tribal_government" }
+	-12.5.6={ holder="imperator104714" government="feudal_government" }
+	4.1.1={ succession_laws={ "male_only_law" "single_heir_succession_law" } }
+}
+d_IMPTOCK3_SCA_bactriana_region={
+	-5.9.8={ liege="k_IMPTOCK3_SCA" holder="imperator104526" government="feudal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_IMPTOCK3_SCA_himalayan_region={
+	-5.4.5={ liege="k_IMPTOCK3_SCA" holder="imperator106186" government="feudal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_IMPTOCK3_SCA_sogdiana_region={
+	1.10.30={ liege="k_IMPTOCK3_SCA" holder="imperator107382" government="feudal_government" succession_laws={ "high_partition_succession_law" } }
+}
+d_itil={
+	4.1.1={ liege=0 }
+}
+c_itil={
+	-12.5.6={ liege=0 holder="imperator104714" }
+	4.1.1={ change_development_level=7 }
+}
+c_saqsin={
+	-12.5.6={ liege=0 holder="imperator104714" }
+	4.1.1={ change_development_level=20 }
+}
+c_uzen={
+	4.1.1={ change_development_level=0 }
+}
+d_atyrau={
+	4.1.1={ liege=0 }
+}
+c_atyrau={
+	-12.5.6={ liege=0 holder="imperator104714" }
+	4.1.1={ change_development_level=16 }
+}
+c_sagiz={
+	4.1.1={ holder="0" liege=0 change_development_level=2 }
+}
+c_manatau={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_baisary={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_basagha={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_khotan={
+	4.1.1={ liege=0 }
+}
+c_khotan={
+	4.1.1={ holder="0" liege=0 change_development_level=5 }
+}
+c_karghalik={
+	-5.4.5={ liege=0 holder="imperator106186" }
+	4.1.1={ change_development_level=17 }
+}
+c_keriya={
+	-5.4.5={ liege=0 holder="imperator106186" }
+	4.1.1={ change_development_level=6 }
+}
+c_cherchen={
+	-5.4.5={ liege=0 holder="imperator106186" }
+	4.1.1={ change_development_level=6 }
+}
+d_kashgar={
+	4.1.1={ liege=0 }
+}
+c_kashgar={
+	-5.4.5={ liege=0 holder="imperator106186" }
+	4.1.1={ change_development_level=13 }
+}
+c_terek_pass={
+	-5.4.5={ liege=0 holder="imperator106186" }
+	4.1.1={ change_development_level=16 }
+}
+c_aksu={
+	-5.4.5={ liege=0 holder="imperator106186" }
+	4.1.1={ change_development_level=6 }
+}
+c_yarkand={
+	-5.4.5={ liege=0 holder="imperator106186" }
+	4.1.1={ change_development_level=7 }
+}
+d_karashar={
+	4.1.1={ liege=0 }
+}
+c_karashar={
+	4.1.1={ change_development_level=0 }
+}
+c_kucha={
+	-5.4.5={ liege=0 holder="imperator106186" }
+	4.1.1={ change_development_level=2 }
+}
+c_luntai={
+	-5.4.5={ liege=0 holder="imperator106186" }
+	4.1.1={ change_development_level=2 }
+}
+c_toksun={
+	4.1.1={ change_development_level=0 }
+}
+d_charkliq={
+	4.1.1={ liege=0 }
+}
+c_charkliq={
+	-5.4.5={ liege=0 holder="imperator106186" }
+	4.1.1={ change_development_level=3 }
+}
+c_loulan={
+	-5.4.5={ liege=0 holder="imperator106186" }
+	4.1.1={ change_development_level=2 }
+}
+c_dunhuang={
+	4.1.1={ change_development_level=0 }
+}
+c_kumtag={
+	4.1.1={ change_development_level=0 }
+}
+d_transcaspiana={
+	4.1.1={ liege=0 }
+}
+c_mangyshlak={
+	-12.5.6={ liege=0 holder="imperator104714" }
+	4.1.1={ change_development_level=22 }
+}
+c_garabogazkol={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=30 }
+}
+c_ustyurt={
+	-12.5.6={ liege=0 holder="imperator104714" }
+	4.1.1={ change_development_level=5 }
+}
+d_jemba={
+	4.1.1={ liege=0 }
+}
+c_qoshagyl={
+	-12.5.6={ liege=0 holder="imperator104714" }
+	4.1.1={ change_development_level=21 }
+}
+c_akkityk={
+	-12.5.6={ liege=0 holder="imperator104714" }
+	4.1.1={ change_development_level=0 }
+}
+c_kos-buwak={
+	-12.5.6={ liege=0 holder="imperator104714" }
+	4.1.1={ change_development_level=16 }
+}
+d_aral_il={
+	4.1.1={ liege=0 }
+}
+c_yangikent={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_raimskoe={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_ak-dzulpas={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_aralkizil={
+	-12.5.6={ liege=0 holder="imperator104714" }
+	4.1.1={ change_development_level=7 }
+}
+d_barsuki={
+	4.1.1={ liege=0 }
+}
+c_terekli={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_barsuki={
+	-12.5.6={ liege=0 holder="imperator104714" }
+	4.1.1={ change_development_level=0 }
+}
+c_aral_karakum={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+d_chah={
+	4.1.1={ liege=0 }
+}
+c_chah={
+	1.10.30={ liege=0 holder="imperator107382" }
+	4.1.1={ change_development_level=20 }
+}
+c_otrar={
+	1.10.30={ liege=0 holder="imperator107382" }
+	4.1.1={ change_development_level=17 }
+}
+c_shavgar={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_sutkend={
+	1.10.30={ liege=0 holder="imperator107382" }
+	4.1.1={ change_development_level=19 }
+}
+d_muyunkum={
+	4.1.1={ liege=0 }
+}
+c_balashagun={
+	4.1.1={ holder="0" liege=0 change_development_level=4 }
+}
+c_suyab={
+	1.10.30={ liege=0 holder="imperator107382" }
+	4.1.1={ change_development_level=22 }
+}
+c_taraz={
+	4.1.1={ holder="0" liege=0 change_development_level=12 }
+}
+c_shelji={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_quriltay={
+	4.1.1={ holder="0" liege=0 change_development_level=0 }
+}
+c_cherik={
+	4.1.1={ change_development_level=0 }
+}
+d_soghd={
+	4.1.1={ liege=0 }
+}
+c_bukhara={
+	1.10.30={ liege=0 holder="imperator107382" }
+	4.1.1={ change_development_level=10 }
+}
+c_kishsh={
+	1.10.30={ liege=0 holder="imperator107382" }
+	4.1.1={ change_development_level=20 }
+}
+c_nakhshab={
+	1.10.30={ liege=0 holder="imperator107382" }
+	4.1.1={ change_development_level=27 }
+}
+c_firabr={
+	1.10.30={ liege=0 holder="imperator107382" }
+	4.1.1={ change_development_level=20 }
+}
+c_dabusiya={
+	1.10.30={ liege=0 holder="imperator107382" }
+	4.1.1={ change_development_level=8 }
+}
+c_samarkand={
+	1.10.30={ liege=0 holder="imperator107382" }
+	4.1.1={ change_development_level=6 }
+}
+d_osrushana={
+	4.1.1={ liege=0 }
+}
+c_oshrusana={
+	1.10.30={ liege=0 holder="imperator107382" }
+	4.1.1={ change_development_level=21 }
+}
+c_zarafshan={
+	-2.6.7={ liege=0 holder="imperator106067" }
+	4.1.1={ change_development_level=11 }
+}
+d_ferghana={
+	4.1.1={ liege=0 }
+}
+c_ferghana={
+	1.10.30={ liege=0 holder="imperator107382" }
+	4.1.1={ change_development_level=12 }
+}
+c_khojand={
+	1.10.30={ liege=0 holder="imperator107382" }
+	4.1.1={ change_development_level=18 }
+}
+c_isfara={
+	1.10.30={ liege=0 holder="imperator107382" }
+	4.1.1={ change_development_level=10 }
+}
+c_nasaiya={
+	1.10.30={ liege=0 holder="imperator107382" }
+	4.1.1={ change_development_level=12 }
+}
+c_nasrabad={
+	1.10.30={ liege=0 holder="imperator107382" }
+	4.1.1={ change_development_level=5 }
+}
+d_khorezm={
+	4.1.1={ liege=0 }
+}
+c_gurganj={
+	-12.5.6={ liege=0 holder="imperator104714" }
+	4.1.1={ change_development_level=16 }
+}
+c_darghan={
+	-12.5.6={ liege=0 holder="imperator104714" }
+	4.1.1={ change_development_level=11 }
+}
+c_kath={
+	1.10.30={ liege=0 holder="imperator107382" }
+	4.1.1={ change_development_level=1 }
+}
+c_khiva={
+	-12.5.6={ liege=0 holder="imperator104714" }
+	4.1.1={ change_development_level=17 }
+}
+c_kurdar={
+	-12.5.6={ liege=0 holder="imperator104714" }
+	4.1.1={ change_development_level=8 }
+}
+d_merv={
+	4.1.1={ liege=0 }
+}
+c_merv={
+	-5.9.8={ liege=0 holder="imperator104526" }
+	4.1.1={ change_development_level=19 }
+}
+c_sarakhs={
+	-5.9.8={ liege=0 holder="imperator104526" }
+	4.1.1={ change_development_level=21 }
+}
+c_marvarrud={
+	-5.9.8={ liege=0 holder="imperator104526" }
+	4.1.1={ change_development_level=11 }
+}
+c_rivsharan={
+	-5.9.8={ liege=0 holder="imperator104526" }
+	4.1.1={ change_development_level=14 }
+}
+c_guzgan={
+	-2.6.6={ liege=0 holder="imperator107736" }
+	4.1.1={ change_development_level=28 }
+}
+c_amol={
+	1.10.30={ liege=0 holder="imperator107382" }
+	4.1.1={ change_development_level=20 }
+}
+c_zamm={
+	-2.6.6={ liege=0 holder="imperator107736" }
+	4.1.1={ change_development_level=29 }
+}

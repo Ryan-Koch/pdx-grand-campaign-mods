@@ -1,0 +1,314 @@
+9354={
+	culture=sumpa
+	religion=old_bon
+	holding=castle_holding
+}
+9355={
+	culture=sumpa
+	religion=old_bon
+	holding=castle_holding
+}
+9356={
+	culture=sumpa
+	religion=old_bon
+	holding=city_holding
+}
+9357={
+	culture=sumpa
+	religion=old_bon
+	holding=church_holding
+}
+9358={
+	culture=sumpa
+	religion=old_bon
+	holding=church_holding
+}
+9359={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+9360={
+	culture=sumpa
+	religion=old_bon
+	holding=castle_holding
+}
+9361={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+9362={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+9364={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+9368={
+	culture=sumpa
+	religion=old_bon
+	holding=tribal_holding
+}
+9369={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+9370={
+	culture=sumpa
+	religion=old_bon
+	holding=castle_holding
+}
+9371={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+9372={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+9373={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+9374={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+9375={
+	culture=sumpa
+	religion=old_bon
+	holding=tribal_holding
+}
+9376={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+9377={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+9378={
+	culture=sumpa
+	religion=old_bon
+	holding=tribal_holding
+}
+9379={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+9380={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+9381={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+9382={
+	culture=sumpa
+	religion=old_bon
+	holding=tribal_holding
+}
+9383={
+	culture=sumpa
+	religion=old_bon
+	holding=castle_holding
+}
+9384={
+	culture=sumpa
+	religion=old_bon
+	holding=church_holding
+}
+9385={
+	culture=sumpa
+	religion=old_bon
+	holding=tribal_holding
+}
+9386={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+9387={
+	culture=sumpa
+	religion=old_bon
+	holding=none
+}
+9388={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=none
+}
+9389={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+9390={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=none
+}
+9391={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=none
+}
+9392={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=none
+}
+9393={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+9394={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=none
+}
+9395={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+9396={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+9397={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=none
+}
+9398={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=none
+}
+9399={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+9400={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=none
+}
+9401={
+	culture=sumpa
+	religion=old_bon
+	holding=tribal_holding
+}
+9402={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=none
+}
+9403={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+9404={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+9405={
+	holding=none
+}
+9406={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=castle_holding
+}
+9407={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=city_holding
+}
+9408={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=none
+}
+9409={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=none
+}
+9410={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=none
+}
+9411={
+	holding=none
+}
+9412={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=church_holding
+}
+9413={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=castle_holding
+}
+9414={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=church_holding
+}
+9421={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=castle_holding
+}
+9422={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=city_holding
+}
+9423={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=castle_holding
+}
+9426={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=city_holding
+}
+9427={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=castle_holding
+}
+9428={
+	holding=church_holding
+}
+9468={
+	culture=tuyuhun
+	religion=tengri_pagan
+	holding=none
+}

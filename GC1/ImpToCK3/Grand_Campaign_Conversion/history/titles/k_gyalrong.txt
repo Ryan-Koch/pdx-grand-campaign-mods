@@ -1,0 +1,107 @@
+k_gyalrong={
+	-304.10.1={ government="tribal_government" holder="imperator20513" }
+	-254.8.23={ government="tribal_government" holder="imperator20502" }
+	-249.6.13={ government="tribal_government" holder="imperator26084" }
+	-248.12.14={ government="tribal_government" holder="imperator38214" }
+	-209.10.23={ government="tribal_government" holder="imperator35976" }
+	-207.1.17={ government="tribal_government" holder="imperator44669" }
+	-199.1.30={ government="feudal_government" holder="imperator68258" }
+	-150.11.9={ government="feudal_government" holder="imperator78611" }
+	-145.1.27={ government="feudal_government" holder="imperator84317" }
+	-137.2.10={ government="feudal_government" holder="imperator92093" }
+	-67.11.24={ government="feudal_government" holder="imperator95411" }
+	-53.11.12={ government="feudal_government" holder="imperator101974" }
+	-25.12.16={ government="feudal_government" holder="imperator100239" }
+	-24.12.17={ government="feudal_government" holder="imperator103738" }
+	4.1.1={ succession_laws={ "male_only_law" "single_heir_succession_law" } }
+}
+d_gyalrong={
+	4.1.1={ liege=0 }
+}
+c_barkam={
+	4.1.1={ change_development_level=0 }
+}
+c_ngawa={
+	4.1.1={ change_development_level=0 }
+}
+c_maowun={
+	4.1.1={ change_development_level=0 }
+}
+c_sungqu={
+	4.1.1={ change_development_level=0 }
+}
+c_zoige={
+	4.1.1={ change_development_level=0 }
+}
+c_quqen={
+	4.1.1={ change_development_level=0 }
+}
+d_chakla={
+	4.1.1={ liege=0 }
+}
+c_chakla={
+	4.1.1={ change_development_level=0 }
+}
+c_lhagang={
+	4.1.1={ change_development_level=0 }
+}
+c_dawu={
+	4.1.1={ change_development_level=0 }
+}
+c_sertar={
+	4.1.1={ change_development_level=0 }
+}
+d_golog={
+	4.1.1={ liege=0 }
+}
+c_maqen={
+	4.1.1={ change_development_level=0 }
+}
+c_madoi={
+	4.1.1={ change_development_level=0 }
+}
+c_baima={
+	4.1.1={ change_development_level=0 }
+}
+d_malho={
+	4.1.1={ liege=0 }
+}
+c_rebgong={
+	4.1.1={ change_development_level=0 }
+}
+c_mangra={
+	4.1.1={ change_development_level=0 }
+}
+c_zekog={
+	4.1.1={ change_development_level=0 }
+}
+d_gainlho={
+	4.1.1={ liege=0 }
+}
+c_jone={
+	4.1.1={ change_development_level=0 }
+}
+c_sangqu={
+	4.1.1={ change_development_level=0 }
+}
+c_tewo={
+	4.1.1={ change_development_level=0 }
+}
+c_maqu={
+	4.1.1={ change_development_level=0 }
+}
+d_monyul={
+	4.1.1={ liege=0 }
+}
+c_tawang={
+	-24.12.17={ liege=0 holder="imperator103738" }
+	4.1.1={ change_development_level=11 }
+}
+c_cona={
+	-24.12.17={ liege=0 holder="imperator103738" }
+	4.1.1={ change_development_level=6 }
+}
+c_lhunze={
+	-24.12.17={ liege=0 holder="imperator103738" }
+	4.1.1={ change_development_level=11 }
+}

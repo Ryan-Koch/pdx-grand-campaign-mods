@@ -1,0 +1,18 @@
+k_makran={
+	4.1.1={ liege=0 }
+}
+d_jabal_kufs={
+	4.1.1={ liege=0 }
+}
+c_bampur={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=40 }
+}
+c_jabal_kufs={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=38 }
+}
+c_riqan={
+	2.7.28={ liege=0 holder="imperator107713" }
+	4.1.1={ change_development_level=40 }
+}

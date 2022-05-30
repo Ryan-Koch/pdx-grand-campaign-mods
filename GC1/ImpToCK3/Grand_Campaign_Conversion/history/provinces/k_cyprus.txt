@@ -1,0 +1,30 @@
+756={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=none
+}
+757={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5679={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=none
+}
+5680={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=none
+}
+5681={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=castle_holding
+}
+5682={
+	culture=anatolian
+	religion=hellenic_pagan
+	holding=church_holding
+}

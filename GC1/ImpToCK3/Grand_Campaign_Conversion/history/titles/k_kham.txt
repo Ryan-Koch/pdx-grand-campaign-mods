@@ -1,0 +1,102 @@
+k_kham={
+	4.1.1={ liege=0 }
+}
+d_qamdo={
+	4.1.1={ liege=0 }
+}
+c_qamdo={
+	4.1.1={ change_development_level=0 }
+}
+c_dengqen={
+	4.1.1={ change_development_level=0 }
+}
+c_baqen={
+	4.1.1={ change_development_level=0 }
+}
+c_sog={
+	4.1.1={ change_development_level=0 }
+}
+c_banbar={
+	4.1.1={ change_development_level=0 }
+}
+d_boyul={
+	4.1.1={ liege=0 }
+}
+c_bome={
+	4.1.1={ change_development_level=5 }
+}
+c_baxoi={
+	4.1.1={ change_development_level=0 }
+}
+c_zogang={
+	4.1.1={ change_development_level=0 }
+}
+d_nangqen={
+	4.1.1={ liege=0 }
+}
+c_nangqen={
+	4.1.1={ change_development_level=0 }
+}
+c_gyegumdo={
+	4.1.1={ change_development_level=0 }
+}
+d_lhatok={
+	4.1.1={ liege=0 }
+}
+c_lhatok={
+	4.1.1={ change_development_level=0 }
+}
+c_zhagyab={
+	4.1.1={ change_development_level=0 }
+}
+c_gonjo={
+	4.1.1={ change_development_level=0 }
+}
+d_lingtsang={
+	4.1.1={ liege=0 }
+}
+c_lingtsang={
+	4.1.1={ change_development_level=0 }
+}
+c_ariksar={
+	4.1.1={ change_development_level=0 }
+}
+d_dege={
+	4.1.1={ liege=0 }
+}
+c_dege={
+	4.1.1={ change_development_level=0 }
+}
+c_pelyul={
+	4.1.1={ change_development_level=0 }
+}
+c_garze={
+	4.1.1={ change_development_level=0 }
+}
+d_batang={
+	4.1.1={ liege=0 }
+}
+c_batang={
+	4.1.1={ change_development_level=0 }
+}
+c_markam={
+	4.1.1={ change_development_level=0 }
+}
+c_deqen={
+	4.1.1={ change_development_level=0 }
+}
+c_gyaitang={
+	4.1.1={ change_development_level=0 }
+}
+d_litang={
+	4.1.1={ liege=0 }
+}
+c_litang={
+	4.1.1={ change_development_level=0 }
+}
+c_lenggu={
+	4.1.1={ change_development_level=0 }
+}
+c_nyagrong={
+	4.1.1={ change_development_level=0 }
+}

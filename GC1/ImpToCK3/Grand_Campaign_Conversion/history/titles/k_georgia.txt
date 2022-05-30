@@ -1,0 +1,59 @@
+k_georgia={
+	-20.7.28={ government="feudal_government" holder="imperator107399" liege="e_roman_empire" succession_laws={ "high_partition_succession_law" } }
+}
+d_tao-klarjeti={
+	4.1.1={ liege=0 }
+}
+c_tao={
+	-20.7.28={ liege=0 holder="imperator107399" }
+	4.1.1={ change_development_level=39 }
+}
+c_klarjeti={
+	-20.7.28={ liege=0 holder="imperator107399" }
+	4.1.1={ change_development_level=41 }
+}
+c_kartli={
+	-20.7.28={ liege=0 holder="imperator107399" }
+	4.1.1={ change_development_level=40 }
+}
+c_acampse={
+	-3.5.28={ liege=0 holder="imperator106686" }
+	4.1.1={ change_development_level=39 }
+}
+d_abkhazia={
+	4.1.1={ liege=0 }
+}
+c_abkhazia={
+	-20.7.28={ liege=0 holder="imperator107399" }
+	4.1.1={ change_development_level=43 }
+}
+c_odishi={
+	-20.7.28={ liege=0 holder="imperator107399" }
+	4.1.1={ change_development_level=34 }
+}
+c_svaneti={
+	4.1.1={ holder="0" liege=0 change_development_level=34 }
+}
+c_guria={
+	-20.7.28={ liege=0 holder="imperator107399" }
+	4.1.1={ change_development_level=43 }
+}
+d_georgia={
+	4.1.1={ liege=0 }
+}
+c_tbilisi={
+	-20.7.28={ liege=0 holder="imperator107399" }
+	4.1.1={ change_development_level=35 }
+}
+c_lori={
+	-8.3.21={ liege=0 holder="imperator107035" }
+	4.1.1={ change_development_level=28 }
+}
+c_kakheti={
+	-8.3.21={ liege=0 holder="imperator107035" }
+	4.1.1={ change_development_level=24 }
+}
+c_hereti={
+	-9.3.21={ liege=0 holder="imperator104471" }
+	4.1.1={ change_development_level=23 }
+}

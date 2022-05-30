@@ -1,0 +1,150 @@
+7006={
+	culture=khanty
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7008={
+	holding=none
+}
+7010={
+	holding=none
+}
+898={
+	culture=khanty
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7002={
+	holding=none
+}
+7003={
+	holding=none
+}
+7004={
+	holding=none
+}
+7000={
+	culture=khanty
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7005={
+	holding=none
+}
+7001={
+	culture=khanty
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7007={
+	holding=none
+}
+7009={
+	holding=none
+}
+1223={
+	culture=khanty
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7016={
+	holding=none
+}
+7027={
+	holding=none
+}
+7029={
+	holding=none
+}
+7015={
+	culture=khanty
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7014={
+	holding=none
+}
+7017={
+	holding=none
+}
+7057={
+	holding=none
+}
+1306={
+	culture=khanty
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7028={
+	holding=none
+}
+7011={
+	holding=none
+}
+7012={
+	holding=none
+}
+7030={
+	culture=khanty
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7031={
+	holding=none
+}
+7032={
+	holding=none
+}
+7013={
+	culture=khanty
+	religion=siberian_pagan
+	holding=tribal_holding
+}
+7033={
+	holding=none
+}
+7034={
+	holding=none
+}
+7044={
+	culture=laktan
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7048={
+	holding=none
+}
+7045={
+	holding=none
+}
+7046={
+	holding=none
+}
+7047={
+	culture=laktan
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7050={
+	holding=none
+}
+7049={
+	holding=none
+}
+7052={
+	holding=none
+}
+7053={
+	culture=laktan
+	religion=tengri_pagan
+	holding=tribal_holding
+}
+7051={
+	holding=none
+}
+7054={
+	holding=none
+}
+7043={
+	holding=none
+}
