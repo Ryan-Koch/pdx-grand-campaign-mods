@@ -49849,1587 +49849,7 @@ k_sahara={
 	definite_form=no
 	ruler_uses_title_name=no
 }
-e_arabia={
-	capital="c_damascus"
-	color={ 32 150 85 }
-	color2={ 255 255 255 }
-	k_israel={
-		capital="c_jerusalem"
-		color={ 20 138 255 }
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	landless=no
-	definite_form=yes
-	ruler_uses_title_name=no
-	ai_primary_priority={
-		if = {
-			limit = {
-				culture = { has_cultural_pillar = heritage_arabic }
-			}
-			add = @correct_culture_primary_score
-		}
-	}
-}
-k_arabia={
-	capital="c_medina"
-	color={ 124 199 50 }
-	color2={ 255 255 255 }
-	d_jawf={
-		capital="c_al_jawf"
-		color={ 150 250 50 }
-		color2={ 255 255 255 }
-		c_al_jawf={
-			color={ 154 253 47 }
-			color2={ 255 255 255 }
-			b_al_jawf={
-				color={ 154 253 47 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6178
-			}
-			b_sakaka={
-				color={ 154 253 47 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6176
-			}
-			b_al-qara-jawf={
-				color={ 154 253 47 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6177
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_thalabiya={
-			color={ 148 248 49 }
-			color2={ 255 255 255 }
-			b_ath-thalabiya={
-				color={ 148 248 49 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6168
-			}
-			b_zubala={
-				color={ 148 248 49 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6169
-			}
-			b_lina={
-				color={ 148 248 49 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6170
-			}
-			b_bitan={
-				color={ 148 248 49 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6175
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_sirhan={
-			color={ 152 246 52 }
-			color2={ 255 255 255 }
-			b_quraqir={
-				color={ 125 255 18 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5989
-			}
-			b_sirhan={
-				color={ 152 246 52 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6180
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	d_amman={
-		capital="c_balqa"
-		color={ 130 255 10 }
-		color2={ 255 255 255 }
-		c_balqa={
-			color={ 131 255 12 }
-			color2={ 255 255 255 }
-			b_amman={
-				color={ 131 255 12 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5984
-			}
-			b_az-zarqa={
-				color={ 131 255 12 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5986
-			}
-			b_al-azraq={
-				color={ 131 255 12 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5987
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_maab={
-			color={ 135 250 15 }
-			color2={ 255 255 255 }
-			b_maab={
-				color={ 135 250 15 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5981
-			}
-			b_zaiza={
-				color={ 135 250 15 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5982
-			}
-			b_mujib={
-				color={ 135 250 15 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5983
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_jilat={
-			color={ 125 255 18 }
-			color2={ 255 255 255 }
-			b_al-jilat={
-				color={ 125 255 18 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5988
-			}
-			b_qasr_at-tuba={
-				color={ 125 255 18 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6179
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	d_shammar={
-		capital="c_tabuk"
-		color={ 121 196 2 }
-		color2={ 255 255 255 }
-		c_tabuk={
-			color={ 130 205 11 }
-			color2={ 255 255 255 }
-			b_tabuk={
-				color={ 130 205 11 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6188
-			}
-			b_sarj={
-				color={ 130 205 11 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6186
-			}
-			b_fajr={
-				color={ 130 205 11 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6189
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_al_aqabah={
-			color={ 124 199 5 }
-			color2={ 255 255 255 }
-			b_aqaba={
-				color={ 124 199 5 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5974
-			}
-			b_maqna={
-				color={ 124 199 5 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6183
-			}
-			b_ainun={
-				color={ 124 199 5 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6184
-			}
-			b_sharaf_al-bal={
-				color={ 124 199 5 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6185
-			}
-			b_madyan={
-				color={ 124 199 5 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6187
-			}
-			b_ziba={
-				color={ 124 199 5 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6193
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_maan={
-			color={ 127 202 8 }
-			color2={ 255 255 255 }
-			b_maan={
-				color={ 127 202 8 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5976
-			}
-			b_al-humayma={
-				color={ 127 202 8 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5975
-			}
-			b_adruh={
-				color={ 127 202 8 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5977
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_tayma={
-			color={ 97 208 137 }
-			color2={ 255 255 255 }
-			b_tayma={
-				color={ 97 208 137 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6192
-			}
-			b_al-aqra={
-				color={ 97 208 137 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6190
-			}
-			b_al-muhdatha={
-				color={ 97 208 137 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6191
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	d_medina={
-		capital="c_medina"
-		color={ 160 250 50 }
-		color2={ 255 255 255 }
-		c_medina={
-			color={ 162 253 55 }
-			color2={ 255 255 255 }
-			b_al-madina={
-				color={ 162 253 55 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6212
-			}
-			b_as-sayaa={
-				color={ 162 253 55 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6211
-			}
-			b_batn_nakhl={
-				color={ 162 253 55 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6213
-			}
-			b_as-safra={
-				color={ 162 253 55 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6219
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_wajh={
-			color={ 158 253 51 }
-			color2={ 255 255 255 }
-			b_al-wajh={
-				color={ 158 253 51 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6197
-			}
-			b_an-nabak={
-				color={ 158 253 51 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6194
-			}
-			b_al-awnid={
-				color={ 158 253 51 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6195
-			}
-			b_bada={
-				color={ 158 253 51 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6196
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_khaybar={
-			color={ 164 248 57 }
-			color2={ 255 255 255 }
-			b_khaybar={
-				color={ 164 248 57 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6207
-			}
-			b_as-suqya={
-				color={ 164 248 57 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6199
-			}
-			b_al-ula={
-				color={ 164 248 57 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6200
-			}
-			b_al-hijr={
-				color={ 164 248 57 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6201
-			}
-			b_dhul-marwa={
-				color={ 164 248 57 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6208
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_yanbu={
-			color={ 156 248 48 }
-			color2={ 255 255 255 }
-			b_yanbu={
-				color={ 156 248 48 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6209
-			}
-			b_al-jar={
-				color={ 156 248 48 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6210
-			}
-			b_al-hawra={
-				color={ 156 248 48 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6198
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_harrat_rahat={
-			color={ 162 246 46 }
-			color2={ 255 255 255 }
-			b_as-sawariqiya={
-				color={ 162 246 46 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6218
-			}
-			b_as-salila={
-				color={ 162 246 46 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6216
-			}
-			b_madinat_sulaym={
-				color={ 162 246 46 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6217
-			}
-			b_sufaina={
-				color={ 162 246 46 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6227
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	d_mecca={
-		capital="c_mecca"
-		color={ 120 200 5 }
-		color2={ 255 255 255 }
-		c_mecca={
-			color={ 122 198 5 }
-			color2={ 255 255 255 }
-			b_makka={
-				color={ 122 198 5 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6223
-			}
-			b_rabigh={
-				color={ 122 198 5 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6220
-			}
-			b_khulays={
-				color={ 122 198 5 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6221
-			}
-			b_jidda={
-				color={ 122 198 5 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6222
-			}
-			b_usfain={
-				color={ 122 198 5 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6226
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_taif={
-			color={ 121 196 2 }
-			color2={ 255 255 255 }
-			b_at-taif={
-				color={ 121 196 2 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6225
-			}
-			b_turaba={
-				color={ 121 196 2 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6233
-			}
-			b_tabala-hijaz={
-				color={ 121 196 2 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6234
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_tihama={
-			color={ 124 202 7 }
-			color2={ 255 255 255 }
-			b_as-sirayn={
-				color={ 124 202 7 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6224
-			}
-			b_hali={
-				color={ 124 202 7 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6238
-			}
-			b_ash-shuqayq={
-				color={ 124 202 7 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6239
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_bisha={
-			color={ 116 204 9 }
-			color2={ 255 255 255 }
-			b_bisha={
-				color={ 116 204 9 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6235
-			}
-			b_jurash={
-				color={ 116 204 9 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6236
-			}
-			b_kuthba={
-				color={ 116 204 9 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6237
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	d_asir={
-		capital="c_aqiq"
-		color={ 150 210 20 }
-		color2={ 255 255 255 }
-		c_aqiq={
-			color={ 147 207 17 }
-			color2={ 255 255 255 }
-			b_aqiq_tamra={
-				color={ 147 207 17 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6246
-			}
-			b_dam={
-				color={ 147 207 17 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6245
-			}
-			b_sarba={
-				color={ 147 207 17 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6247
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_asir={
-			color={ 152 212 22 }
-			color2={ 255 255 255 }
-			b_wadi_tathlith={
-				color={ 152 212 22 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6244
-			}
-			b_wadi_ghamid={
-				color={ 152 212 22 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6232
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	d_najd={
-		capital="c_sharaf"
-		color={ 160 200 10 }
-		color2={ 255 255 255 }
-		c_sharaf={
-			color={ 157 197 7 }
-			color2={ 255 255 255 }
-			b_dariya={
-				color={ 157 197 7 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6265
-			}
-			b_hajir={
-				color={ 157 197 7 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6206
-			}
-			b_rabadha={
-				color={ 157 197 7 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6214
-			}
-			b_madin-an-naqira={
-				color={ 157 197 7 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6215
-			}
-			b_jadila={
-				color={ 157 197 7 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6266
-			}
-			b_fajla={
-				color={ 157 197 7 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6267
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_subay={
-			color={ 163 203 13 }
-			color2={ 255 255 255 }
-			b_ad-dathina={
-				color={ 163 203 13 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6229
-			}
-			b_marran={
-				color={ 163 203 13 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6228
-			}
-			b_subay={
-				color={ 163 203 13 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6230
-			}
-			b_ranya={
-				color={ 163 203 13 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6231
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_hail={
-			color={ 154 194 13 }
-			color2={ 255 255 255 }
-			b_hail={
-				color={ 154 194 13 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6172
-			}
-			b_jubba-hail={
-				color={ 154 194 13 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6181
-			}
-			b_mawqaq={
-				color={ 154 194 13 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6182
-			}
-			b_fadak={
-				color={ 154 194 13 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6203
-			}
-			b_fayd={
-				color={ 154 194 13 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6204
-			}
-			b_tuz={
-				color={ 154 194 13 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6205
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_shaqiq={
-			color={ 163 194 4 }
-			color2={ 255 255 255 }
-			b_an-nibaj={
-				color={ 163 194 4 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6260
-			}
-			b_al-khuzaimiya={
-				color={ 163 194 4 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6171
-			}
-			b_as-sumaina={
-				color={ 163 194 4 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6174
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_qasim={
-			color={ 166 206 16 }
-			color2={ 255 255 255 }
-			b_unayza={
-				color={ 166 206 16 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6262
-			}
-			b_al-qaryatan-qasim={
-				color={ 166 206 16 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6261
-			}
-			b_rama={
-				color={ 166 206 16 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6263
-			}
-			b_tikhfa={
-				color={ 166 206 16 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6264
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_surrah={
-			color={ 166 194 18 }
-			color2={ 255 255 255 }
-			b_nufud-as-surrah={
-				color={ 166 194 18 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6257
-			}
-			b_jibal-al-urd={
-				color={ 166 194 18 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6258
-			}
-			b_jibala={
-				color={ 166 194 18 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6259
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	d_yamama={
-		capital="c_yamama"
-		color={ 150 180 0 }
-		color2={ 255 255 255 }
-		c_yamama={
-			color={ 153 183 2 }
-			color2={ 255 255 255 }
-			b_yamama={
-				color={ 153 183 2 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6253
-			}
-			b_al-khadarim={
-				color={ 153 183 2 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6251
-			}
-			b_al-kharj={
-				color={ 153 183 2 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6252
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_al-arid={
-			color={ 147 177 3 }
-			color2={ 255 255 255 }
-			b_al-arid={
-				color={ 147 177 3 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6254
-			}
-			b_ubad={
-				color={ 147 177 3 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6255
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_falaj={
-			color={ 156 186 0 }
-			color2={ 255 255 255 }
-			b_falaj={
-				color={ 156 186 0 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6250
-			}
-			b_al-haddar={
-				color={ 156 186 0 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6248
-			}
-			b_qasr-al-adi={
-				color={ 156 186 0 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6249
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	d_al-hasa={
-		capital="c_al-hasa"
-		color={ 32 127 30 }
-		color2={ 255 255 255 }
-		c_al-hasa={
-			color={ 30 112 20 }
-			color2={ 255 255 255 }
-			b_al-hasa={
-				color={ 30 112 20 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6154
-			}
-			b_al-hajar={
-				color={ 30 112 20 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6152
-			}
-			b_al-mushaqqar={
-				color={ 30 112 20 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6153
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_dhafra={
-			color={ 33 115 22 }
-			color2={ 255 255 255 }
-			b_az-dhafra={
-				color={ 33 115 22 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6148
-			}
-			b_al-jiwa={
-				color={ 33 115 22 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6149
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_uqayr={
-			color={ 30 125 30 }
-			color2={ 255 255 255 }
-			b_al-uqayr={
-				color={ 30 132 37 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6155
-			}
-			b_murwab={
-				color={ 30 132 37 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6150
-			}
-			b_mashqar={
-				color={ 30 132 37 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6151
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_yabrin={
-			color={ 30 120 25 }
-			color2={ 255 255 255 }
-			b_yabrin={
-				color={ 30 120 25 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6163
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	d_bahrain={
-		capital="c_qatif"
-		color={ 20 100 30 }
-		color2={ 255 255 255 }
-		c_qatif={
-			color={ 18 104 28 }
-			color2={ 255 255 255 }
-			b_al-qatif={
-				color={ 18 104 28 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6158
-			}
-			b_al-khatt={
-				color={ 18 104 28 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6157
-			}
-			b_al-jubayl={
-				color={ 18 104 28 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6159
-			}
-			b_thaj={
-				color={ 18 104 28 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6160
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_uwal={
-			color={ 22 102 33 }
-			color2={ 255 255 255 }
-			b_uwal={
-				color={ 22 102 33 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6156
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_samman={
-			color={ 20 99 30 }
-			color2={ 255 255 255 }
-			b_kazima={
-				color={ 20 99 30 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6161
-			}
-			b_ar-ruqaii={
-				color={ 20 99 30 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6162
-			}
-			b_hafar={
-				color={ 20 99 30 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6164
-			}
-			b_al-mawiya={
-				color={ 20 99 30 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6165
-			}
-			b_as-samman={
-				color={ 20 99 30 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6166
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	d_oman={
-		capital="c_nizwa"
-		color={ 235 160 30 }
-		color2={ 255 255 255 }
-		c_nizwa={
-			color={ 232 163 27 }
-			color2={ 255 255 255 }
-			b_nizwa={
-				color={ 232 163 27 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6140
-			}
-			b_bahla={
-				color={ 232 163 27 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6139
-			}
-			b_samad={
-				color={ 232 163 27 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6141
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_julfar={
-			color={ 233 162 33 }
-			color2={ 255 255 255 }
-			b_julfar={
-				color={ 233 162 33 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6131
-			}
-			b_tawwam={
-				color={ 233 162 33 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6129
-			}
-			b_tawwam_west={
-				color={ 233 162 33 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6130
-			}
-			b_musandam={
-				color={ 233 162 33 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6132
-			}
-			b_dabba={
-				color={ 233 162 33 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6133
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_batina={
-			color={ 233 157 27 }
-			color2={ 255 255 255 }
-			b_sohar={
-				color={ 233 157 27 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6134
-			}
-			b_batina-east={
-				color={ 233 157 27 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6135
-			}
-			b_rustaq-oman={
-				color={ 233 157 27 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6136
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_az-dhahira={
-			color={ 238 157 36 }
-			color2={ 255 255 255 }
-			b_hafit={
-				color={ 238 157 36 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6137
-			}
-			b_dhank={
-				color={ 238 157 36 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6138
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_muscat={
-			color={ 230 154 24 }
-			color2={ 255 255 255 }
-			b_muscat={
-				color={ 230 154 24 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6144
-			}
-			b_matrah={
-				color={ 230 154 24 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6143
-			}
-			b_qalhat={
-				color={ 230 154 24 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6145
-			}
-			b_sur={
-				color={ 230 154 24 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6146
-			}
-			b_jaalan={
-				color={ 230 154 24 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6147
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_duqm={
-			color={ 240 166 36 }
-			color2={ 255 255 255 }
-			b_duqm={
-				color={ 240 166 36 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6269
-			}
-			b_wahiba={
-				color={ 240 166 36 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6268
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	landless=no
-	definite_form=no
-	ruler_uses_title_name=no
-	ai_primary_priority={
-			if = {
-				limit = {
-					NOT = { culture = culture:egyptian }
-					culture = { has_cultural_pillar = heritage_arabic }
-				}
-				add = @correct_culture_primary_score
-			}
-		}
-}
+
 k_yemen={
 	capital="c_sanaa"
 	color={ 218 234 33 }
@@ -52030,1628 +50450,8 @@ k_yemen={
 			}
 		}
 }
-k_egypt={
-	capital="c_cairo"
-	color={ 10 255 80 }
-	color2={ 255 255 255 }
-	d_cyrenaica={
-		capital="c_barqa"
-		color={ 32 150 63 }
-		color2={ 255 255 255 }
-		c_barqa={
-			color={ 34 152 65 }
-			color2={ 255 255 255 }
-			b_barqa-al-marj={
-				color={ 34 152 65 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6104
-			}
-			b_wadi_masus={
-				color={ 34 152 65 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6102
-			}
-			b_jabal_al-gharbi={
-				color={ 34 152 65 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6103
-			}
-			b_benghazi={
-				color={ 34 152 65 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6105
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_awjila={
-			color={ 36 154 67 }
-			color2={ 255 255 255 }
-			b_awjila={
-				color={ 36 154 67 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6106
-			}
-			b_jalu={
-				color={ 36 154 67 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6107
-			}
-			b_jakharrad={
-				color={ 36 154 67 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6108
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_derna={
-			color={ 38 156 69 }
-			color2={ 255 255 255 }
-			b_derna={
-				color={ 38 156 69 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6099
-			}
-			b_wadi_makhil={
-				color={ 38 156 69 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6100
-			}
-			b_marawa={
-				color={ 38 156 69 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6101
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_tobruk={
-			color={ 40 158 71 }
-			color2={ 255 255 255 }
-			b_tobruk={
-				color={ 40 158 71 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6098
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	d_alexandria={
-		capital="c_alexandria"
-		color={ 100 219 134 }
-		color2={ 255 255 255 }
-		c_alexandria={
-			color={ 102 221 136 }
-			color2={ 255 255 255 }
-			b_alexandria={
-				color={ 102 221 136 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6053
-			}
-			b_al-hamam={
-				color={ 102 221 136 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6094
-			}
-			b_wadi_natrun={
-				color={ 102 221 136 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6116
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_sullum={
-			color={ 104 223 138 }
-			color2={ 255 255 255 }
-			b_sullum={
-				color={ 104 223 138 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6097
-			}
-			b_qasr_ash-shams={
-				color={ 104 223 138 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6095
-			}
-			b_kanais_al-hadid={
-				color={ 104 223 138 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6096
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_siwa={
-			color={ 106 225 140 }
-			color2={ 255 255 255 }
-			b_siwa={
-				color={ 106 225 140 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6093
-			}
-			b_ain_al-gharbi={
-				color={ 106 225 140 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6092
-			}
-			b_qara={
-				color={ 106 225 140 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6117
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	d_delta={
-		capital="c_damietta"
-		color={ 3 255 74 }
-		color2={ 255 255 255 }
-		c_damietta={
-			color={ 12 255 83 }
-			color2={ 255 255 255 }
-			b_dumiyat={
-				color={ 12 255 83 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6046
-			}
-			b_daqahla={
-				color={ 12 255 83 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6043
-			}
-			b_tinnis={
-				color={ 12 255 83 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6045
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_al-buhaira={
-			color={ 61 245 114 }
-			color2={ 255 255 255 }
-			b_rashid={
-				color={ 61 245 114 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6052
-			}
-			b_damanhur={
-				color={ 61 245 114 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6054
-			}
-			b_ramsis={
-				color={ 61 245 114 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6055
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_al-gharbiya={
-			color={ 9 255 80 }
-			color2={ 255 255 255 }
-			b_minuf={
-				color={ 9 255 80 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6051
-			}
-			b_samannud={
-				color={ 9 255 80 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6047
-			}
-			b_burullus={
-				color={ 9 255 80 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6048
-			}
-			b_nastarawa={
-				color={ 9 255 80 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6049
-			}
-			b_ibyar={
-				color={ 9 255 80 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6050
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_sharkiya={
-			color={ 41 214 91 }
-			color2={ 255 255 255 }
-			b_bilbays={
-				color={ 41 214 91 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6040
-			}
-			b_qalyub={
-				color={ 41 214 91 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6041
-			}
-			b_faqus={
-				color={ 41 214 91 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6044
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	d_cairo={
-		capital="c_cairo"
-		color={ 32 245 138 }
-		color2={ 255 255 255 }
-		c_cairo={
-			color={ 26 214 120 }
-			color2={ 255 255 255 }
-			b_cairo={
-				color={ 26 214 120 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6042
-			}
-			b_quzlum={
-				color={ 26 214 120 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6039
-			}
-			b_atfih={
-				color={ 26 214 120 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6065
-			}
-			b_hulwan-cairo={
-				color={ 26 214 120 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6066
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_giza={
-			color={ 2 181 91 }
-			color2={ 255 255 255 }
-			b_gizeh={
-				color={ 2 181 91 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6057
-			}
-			b_abu_ghalib={
-				color={ 2 181 91 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6056
-			}
-			b_busir={
-				color={ 2 181 91 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6058
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_fayyum={
-			color={ 36 156 95 }
-			color2={ 255 255 255 }
-			b_al-fayyum={
-				color={ 36 156 95 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6060
-			}
-			b_tirsa={
-				color={ 36 156 95 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6059
-			}
-			b_iqna={
-				color={ 36 156 95 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6061
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	d_al-wahat={
-		capital="c_bahriya"
-		color={ 40 160 140 }
-		color2={ 255 255 255 }
-		c_bahriya={
-			color={ 45 165 145 }
-			color2={ 255 255 255 }
-			b_al-bahriya={
-				color={ 45 165 145 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6089
-			}
-			b_bawiti={
-				color={ 45 165 145 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6090
-			}
-			b_al-harra={
-				color={ 45 165 145 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6091
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_farafra={
-			color={ 34 148 129 }
-			color2={ 255 255 255 }
-			b_al-farafra={
-				color={ 34 148 129 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6088
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_dakhla={
-			color={ 108 217 168 }
-			color2={ 255 255 255 }
-			b_mut={
-				color={ 108 217 168 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6085
-			}
-			b_tunayda={
-				color={ 108 217 168 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6086
-			}
-			b_al-qasr-dakhla={
-				color={ 108 217 168 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6087
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_kharga={
-			color={ 39 219 126 }
-			color2={ 255 255 255 }
-			b_kharga={
-				color={ 39 219 126 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6083
-			}
-			b_baris={
-				color={ 39 219 126 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6084
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	d_al-said={
-		capital="c_qus"
-		color={ 85 217 87 }
-		color2={ 255 255 255 }
-		c_qus={
-			color={ 76 194 77 }
-			color2={ 255 255 255 }
-			b_qus={
-				color={ 76 194 77 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6077
-			}
-			b_huw={
-				color={ 76 194 77 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6074
-			}
-			b_faw={
-				color={ 76 194 77 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6075
-			}
-			b_qina={
-				color={ 76 194 77 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6076
-			}
-			b_armant={
-				color={ 76 194 77 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6078
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_bahnasa={
-			color={ 50 173 51 }
-			color2={ 255 255 255 }
-			b_al-bahnasa={
-				color={ 50 173 51 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6063
-			}
-			b_ahnas={
-				color={ 50 173 51 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6062
-			}
-			b_ihrit={
-				color={ 50 173 51 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6064
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_ushmun={
-			color={ 72 176 73 }
-			color2={ 255 255 255 }
-			b_al-ushmunain={
-				color={ 72 176 73 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6067
-			}
-			b_ansina={
-				color={ 72 176 73 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6068
-			}
-			b_manfalut={
-				color={ 72 176 73 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6069
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_asyut={
-			color={ 39 194 40 }
-			color2={ 255 255 255 }
-			b_asyut={
-				color={ 39 194 40 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6070
-			}
-			b_bawit={
-				color={ 39 194 40 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6071
-			}
-			b_ikhmin={
-				color={ 39 194 40 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6072
-			}
-			b_ibshaya={
-				color={ 39 194 40 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6073
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_aswan={
-			color={ 16 163 17 }
-			color2={ 255 255 255 }
-			b_aswan={
-				color={ 16 163 17 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6081
-			}
-			b_udfu={
-				color={ 16 163 17 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6079
-			}
-			b_zarnikh={
-				color={ 16 163 17 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6080
-			}
-			b_aswan-west={
-				color={ 16 163 17 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6082
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	d_eastern_desert={
-		capital="c_qusayr"
-		color={ 40 200 140 }
-		color2={ 255 255 255 }
-		c_qusayr={
-			color={ 45 205 135 }
-			color2={ 255 255 255 }
-			b_qusayr={
-				color={ 45 205 135 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6109
-			}
-			b_safaga={
-				color={ 45 205 135 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6122
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_jabal_quzlum={
-			color={ 45 195 130 }
-			color2={ 255 255 255 }
-			b_north_jbl_quzlum={
-				color={ 45 195 130 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6118
-			}
-			b_central_jbl_quzlum={
-				color={ 45 195 130 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6119
-			}
-			b_south_jbl_quzlum={
-				color={ 45 195 130 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6120
-			}
-			b_um_shashoba={
-				color={ 45 195 130 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6121
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	d_sinai={
-		capital="c_farama"
-		color={ 88 99 2 }
-		color2={ 255 255 255 }
-		c_farama={
-			color={ 141 198 5 }
-			color2={ 255 255 255 }
-			b_farama={
-				color={ 141 198 5 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6038
-			}
-			b_warrada={
-				color={ 141 198 5 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6036
-			}
-			b_al-arish={
-				color={ 141 198 5 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5970
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_sinai={
-			color={ 143 201 8 }
-			color2={ 255 255 255 }
-			b_at-tur={
-				color={ 143 201 8 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6033
-			}
-			b_stcatherine={
-				color={ 143 201 8 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6032
-			}
-			b_faran={
-				color={ 143 201 8 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6034
-			}
-			b_qalat_jundi={
-				color={ 143 201 8 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6035
-			}
-			b_tih={
-				color={ 143 201 8 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6037
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_firaun={
-			color={ 145 203 10 }
-			color2={ 255 255 255 }
-			b_firaun={
-				color={ 145 203 10 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6030
-			}
-			b_dahab={
-				color={ 145 203 10 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6031
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	landless=no
-	definite_form=no
-	ruler_uses_title_name=no
-	ai_primary_priority={
-			if = {
-				limit = {
-					culture = culture:egyptian
-				}
-				add = @correct_culture_primary_score
-			}
-		}
-}
-k_syria={
-	capital="c_damascus"
-	color={ 145 130 88 }
-	color2={ 255 255 255 }
-	d_aleppo={
-		capital="c_aleppo"
-		color={ 85 232 20 }
-		color2={ 255 255 255 }
-		c_aleppo={
-			color={ 91 238 26 }
-			color2={ 255 255 255 }
-			b_halab={
-				color={ 91 238 26 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5934
-			}
-			b_tall_afrin={
-				color={ 91 238 26 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5906
-			}
-			b_azaz={
-				color={ 91 238 26 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5907
-			}
-			b_manbij={
-				color={ 91 238 26 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5908
-			}
-			b_buzaa={
-				color={ 91 238 26 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5938
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_suriya={
-			color={ 87 234 22 }
-			color2={ 255 255 255 }
-			b_suriya={
-				color={ 87 234 22 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5942
-			}
-			b_khunasira={
-				color={ 87 234 22 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5941
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_syrrusafa={
-			color={ 84 238 26 }
-			color2={ 255 255 255 }
-			b_ar-rusafa={
-				color={ 84 238 26 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5940
-			}
-			b_siffin={
-				color={ 84 238 26 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5939
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_qinnasrin={
-			color={ 84 220 20 }
-			color2={ 255 255 255 }
-			b_qinnasrin={
-				color={ 84 220 20 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5933
-			}
-			b_artah={
-				color={ 84 220 20 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5935
-			}
-			b_ar-rikha={
-				color={ 84 220 20 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5936
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	d_edessa={
-		capital="c_edessa"
-		color={ 182 110 45 }
-		color2={ 255 255 255 }
-		c_edessa={
-			color={ 105 165 45 }
-			color2={ 255 255 255 }
-			b_edessa={
-				color={ 105 165 45 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=4869
-			}
-			b_al-bira={
-				color={ 105 165 45 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=4872
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_samosata={
-			color={ 175 105 45 }
-			color2={ 255 255 255 }
-			b_samosata={
-				color={ 175 105 45 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=4894
-			}
-			b_bahasna={
-				color={ 175 105 45 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=4892
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_marash={
-			color={ 175 125 35 }
-			color2={ 255 255 255 }
-			b_marash={
-				color={ 175 125 35 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=4893
-			}
-			b_qalat_ar-rum={
-				color={ 175 125 35 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=4890
-			}
-			b_kaisum={
-				color={ 175 125 35 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=4891
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_aintab={
-			color={ 195 125 55 }
-			color2={ 255 255 255 }
-			b_aintab={
-				color={ 195 125 55 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5900
-			}
-			b_tall_bashir={
-				color={ 195 125 55 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5901
-			}
-			b_jarabulus={
-				color={ 195 125 55 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5902
-			}
-			b_duluk-teluch={
-				color={ 195 125 55 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=4899
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	d_homs={
-		capital="c_homs"
-		color={ 90 230 30 }
-		color2={ 255 255 255 }
-		c_homs={
-			color={ 93 240 28 }
-			color2={ 255 255 255 }
-			b_hims={
-				color={ 93 240 28 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5929
-			}
-			b_rafaniya-krak={
-				color={ 93 240 28 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5917
-			}
-			b_jusiya={
-				color={ 93 240 28 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5928
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_shayzar={
-			color={ 93 252 34 }
-			color2={ 255 255 255 }
-			b_shayzar={
-				color={ 93 252 34 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				cultural_names={
-					name_list_greek="cn_sezer"
-				}
-				province=5915
-			}
-			b_masyaf={
-				color={ 93 252 34 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5914
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-			cultural_names={
-				name_list_greek="cn_sezer"
-			}
-		}
-		c_hama={
-			color={ 95 242 30 }
-			color2={ 255 255 255 }
-			b_hama={
-				color={ 95 242 30 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5930
-			}
-			b_salamiya={
-				color={ 95 242 30 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5931
-			}
-			b_kafartab={
-				color={ 95 242 30 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5932
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	d_lebanon={
-		capital="c_beirut"
-		color={ 71 150 32 }
-		color2={ 255 255 255 }
-		c_beirut={
-			color={ 77 156 38 }
-			color2={ 255 255 255 }
-			b_beirut={
-				color={ 77 156 38 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5919
-			}
-			b_saida={
-				color={ 77 156 38 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5920
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_tripoli={
-			color={ 75 154 36 }
-			color2={ 255 255 255 }
-			b_syrtripolis={
-				color={ 75 154 36 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5918
-			}
-			b_antartus={
-				color={ 75 154 36 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5916
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	d_damascus={
-		capital="c_damascus"
-		color={ 122 255 3 }
-		color2={ 255 255 255 }
-		c_damascus={
-			color={ 125 255 6 }
-			color2={ 255 255 255 }
-			b_damascus={
-				color={ 125 255 6 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5924
-			}
-			b_nawa={
-				color={ 125 255 6 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5923
-			}
-			b_darayya={
-				color={ 125 255 6 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5953
-			}
-			b_zurra={
-				color={ 125 255 6 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5954
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_juwair={
-			color={ 128 255 9 }
-			color2={ 255 255 255 }
-			b_juwair={
-				color={ 128 255 9 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5951
-			}
-			b_al-qastal={
-				color={ 128 255 9 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5927
-			}
-			b_marj-rahit={
-				color={ 128 255 9 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5952
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_baalbek={
-			color={ 134 255 15 }
-			color2={ 255 255 255 }
-			b_baalbak={
-				color={ 134 255 15 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5926
-			}
-			b_az-zabadani={
-				color={ 134 255 15 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5925
-			}
-			b_anjar={
-				color={ 134 255 15 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5937
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_hauran={
-			color={ 103 214 143 }
-			color2={ 255 255 255 }
-			b_busra={
-				color={ 103 214 143 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5955
-			}
-			b_sarkhad={
-				color={ 103 214 143 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5956
-			}
-			b_as-suwaida-hauran={
-				color={ 103 214 143 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5957
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	d_palmyra={
-		capital="c_palmyra"
-		color={ 35 232 20 }
-		color2={ 255 255 255 }
-		c_palmyra={
-			color={ 89 236 24 }
-			color2={ 255 255 255 }
-			b_tadmur={
-				color={ 89 236 24 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5948
-			}
-			b_arak={
-				color={ 89 236 24 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5947
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_sukhna={
-			color={ 37 234 22 }
-			color2={ 255 255 255 }
-			b_as-sukhna={
-				color={ 37 234 22 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5945
-			}
-			b_dair_ar-ruman={
-				color={ 37 234 22 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5944
-			}
-			b_urd={
-				color={ 37 234 22 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5946
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_qaryatan={
-			color={ 39 236 24 }
-			color2={ 255 255 255 }
-			b_al-qaryatan={
-				color={ 39 236 24 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5950
-			}
-			b_judr={
-				color={ 39 236 24 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=5949
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	landless=no
-	definite_form=no
-	ruler_uses_title_name=no
-}
+
+
 e_abyssinia={
 	capital="c_lasta"
 	color={ 181 133 68 }
@@ -54416,1274 +51216,8 @@ k_abyssinia={
 			}
 		}
 }
-k_nubia={
-	capital="c_dongola"
-	color={ 180 85 39 }
-	color2={ 255 255 255 }
-	d_nobatia={
-		capital="c_faras"
-		color={ 162 133 85 }
-		color2={ 255 255 255 }
-		c_qasr_ibrim={
-			color={ 165 135 85 }
-			color2={ 255 255 255 }
-			b_qasr_ibrim={
-				color={ 165 135 85 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6334
-			}
-			b_korosko={
-				color={ 165 135 85 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6332
-			}
-			b_sheikh_dawud={
-				color={ 165 135 85 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6333
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_faras={
-			color={ 160 130 85 }
-			color2={ 255 255 255 }
-			b_faras={
-				color={ 160 130 85 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6336
-			}
-			b_serra={
-				color={ 160 130 85 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6335
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_batn_al-hajar={
-			color={ 150 140 65 }
-			color2={ 255 255 255 }
-			b_semna={
-				color={ 150 140 65 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6337
-			}
-			b_akasha={
-				color={ 150 140 65 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6338
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_qurta={
-			color={ 155 130 60 }
-			color2={ 255 255 255 }
-			b_qurta={
-				color={ 155 130 60 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6329
-			}
-			b_ikhmindi={
-				color={ 155 130 60 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6330
-			}
-			b_sayala={
-				color={ 155 130 60 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6331
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_kalabsha={
-			color={ 165 130 80 }
-			color2={ 255 255 255 }
-			b_kalabsha={
-				color={ 165 130 80 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6362
-			}
-			b_sabagura={
-				color={ 165 130 80 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6361
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	d_makuria={
-		capital="c_dongola"
-		color={ 141 162 79 }
-		color2={ 255 255 255 }
-		c_dongola={
-			color={ 145 150 80 }
-			color2={ 255 255 255 }
-			b_old_dongola={
-				color={ 145 150 80 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6344
-			}
-			b_tumbus={
-				color={ 145 150 80 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6341
-			}
-			b_kemna={
-				color={ 145 150 80 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6342
-			}
-			b_dongola={
-				color={ 145 150 80 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6343
-			}
-			b_debba={
-				color={ 145 150 80 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6345
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_sai={
-			color={ 140 155 75 }
-			color2={ 255 255 255 }
-			b_sai={
-				color={ 140 155 75 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6339
-			}
-			b_delgo={
-				color={ 140 155 75 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6340
-			}
-			b_kassi-markol={
-				color={ 140 155 75 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6359
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_meroe={
-			color={ 155 140 67 }
-			color2={ 255 255 255 }
-			b_grnetti={
-				color={ 155 140 67 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6346
-			}
-			b_tankasi={
-				color={ 155 140 67 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6347
-			}
-			b_kareima={
-				color={ 155 140 67 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6348
-			}
-			b_nuri={
-				color={ 155 140 67 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6349
-			}
-			b_diffar={
-				color={ 155 140 67 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6360
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_wadi_el-milk={
-			color={ 140 160 70 }
-			color2={ 255 255 255 }
-			b_wadi_el-milk={
-				color={ 140 160 70 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6415
-			}
-			b_jebel_abu_negila={
-				color={ 140 160 70 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6427
-			}
-			b_bir_el-kai={
-				color={ 140 160 70 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6428
-			}
-			b_upper_milk={
-				color={ 140 160 70 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6896
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_abwab={
-			color={ 145 160 75 }
-			color2={ 255 255 255 }
-			b_al-abwab={
-				color={ 145 160 75 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6363
-			}
-			b_shendi={
-				color={ 145 160 75 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6364
-			}
-			b_keli={
-				color={ 145 160 75 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6365
-			}
-			b_wad_hamid={
-				color={ 145 160 75 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6366
-			}
-			b_al-ghazali={
-				color={ 145 160 75 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6350
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_atbara={
-			color={ 150 160 50 }
-			color2={ 255 255 255 }
-			b_atbara={
-				color={ 150 160 50 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6356
-			}
-			b_berber={
-				color={ 150 160 50 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6355
-			}
-			b_al-bawga={
-				color={ 150 160 50 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6357
-			}
-			b_ed-damer={
-				color={ 150 160 50 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6358
-			}
-			b_shunqayr={
-				color={ 150 160 50 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6389
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	d_shamir={
-		capital="c_shamir"
-		color={ 137 123 44 }
-		color2={ 255 255 255 }
-		c_shamir={
-			color={ 140 125 45 }
-			color2={ 255 255 255 }
-			b_shemkhiya={
-				color={ 140 125 45 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6367
-			}
-			b_redab={
-				color={ 140 125 45 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6368
-			}
-			b_kuweib={
-				color={ 140 125 45 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6369
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_abu_hammad={
-			color={ 135 120 55 }
-			color2={ 255 255 255 }
-			b_abu_hammad={
-				color={ 135 120 55 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6352
-			}
-			b_korosko_road={
-				color={ 135 120 55 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6354
-			}
-			b_al-hajar_nubia={
-				color={ 135 120 55 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6370
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_kurgus={
-			color={ 145 130 40 }
-			color2={ 255 255 255 }
-			b_kurgus={
-				color={ 145 130 40 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6351
-			}
-			b_tarfaya={
-				color={ 145 130 40 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6353
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	d_alwa={
-		capital="c_alodia"
-		color={ 128 60 20 }
-		color2={ 255 255 255 }
-		c_alodia={
-			color={ 135 65 20 }
-			color2={ 255 255 255 }
-			b_soba={
-				color={ 135 65 20 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6394
-			}
-			b_geili={
-				color={ 135 65 20 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6391
-			}
-			b_kadero={
-				color={ 135 65 20 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6392
-			}
-			b_alti={
-				color={ 135 65 20 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6395
-			}
-			b_kamlin={
-				color={ 135 65 20 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6397
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_naga={
-			color={ 130 55 25 }
-			color2={ 255 255 255 }
-			b_naga={
-				color={ 130 55 25 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6407
-			}
-			b_basa={
-				color={ 130 55 25 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6408
-			}
-			b_umm_usuda={
-				color={ 130 55 25 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6409
-			}
-			b_jebel_geili={
-				color={ 130 55 25 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6410
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_gezira={
-			color={ 125 60 30 }
-			color2={ 255 255 255 }
-			b_geteina={
-				color={ 125 60 30 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6396
-			}
-			b_arbaji={
-				color={ 125 60 30 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6398
-			}
-			b_um_sunt={
-				color={ 125 60 30 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6399
-			}
-			b_saqadi={
-				color={ 125 60 30 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6401
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_eleila={
-			color={ 135 70 40 }
-			color2={ 255 255 255 }
-			b_el-eleila={
-				color={ 135 70 40 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6405
-			}
-			b_abu_geili={
-				color={ 135 70 40 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6404
-			}
-			b_basharga={
-				color={ 135 70 40 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6406
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_ushara={
-			color={ 135 50 30 }
-			color2={ 255 255 255 }
-			b_ushara={
-				color={ 135 50 30 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6393
-			}
-			b_shaheinab={
-				color={ 135 50 30 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6390
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	d_sennar={
-		capital="c_sennar"
-		color={ 113 53 23 }
-		color2={ 255 255 255 }
-		c_sennar={
-			color={ 115 60 20 }
-			color2={ 255 255 255 }
-			b_sennar={
-				color={ 115 60 20 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6400
-			}
-			b_jebel_moya={
-				color={ 115 60 20 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6402
-			}
-			b_singa={
-				color={ 115 60 20 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6403
-			}
-			b_renk={
-				color={ 115 60 20 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6432
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_fazughli={
-			color={ 110 55 25 }
-			color2={ 255 255 255 }
-			b_fazughli={
-				color={ 110 55 25 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6433
-			}
-			b_al-rusayrisi={
-				color={ 110 55 25 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6434
-			}
-			b_fazughli_east={
-				color={ 110 55 25 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6435
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_tagali={
-			color={ 120 60 15 }
-			color2={ 255 255 255 }
-			b_kosti={
-				color={ 120 60 15 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6429
-			}
-			b_tagali={
-				color={ 120 60 15 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6430
-			}
-			b_tagali_south={
-				color={ 120 60 15 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6431
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_gumuz={
-			color={ 113 58 28 }
-			color2={ 255 255 255 }
-			b_gumuz_north={
-				color={ 113 58 28 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=8514
-			}
-			b_gumuz_west={
-				color={ 113 58 28 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=8515
-			}
-			b_gumuz_south={
-				color={ 113 58 28 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=8516
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	landless=no
-	definite_form=no
-	ruler_uses_title_name=no
-	ai_primary_priority={
-			if = {
-				limit = {
-					culture = { has_cultural_pillar = heritage_east_african }
-				}
-				add = @correct_culture_primary_score
-			}
-		}
-}
-k_blemmyia={
-	capital="c_aydhab"
-	color={ 224 136 93 }
-	color2={ 255 255 255 }
-	d_naqis={
-		capital="c_aydhab"
-		color={ 225 130 98 }
-		color2={ 255 255 255 }
-		c_aydhab={
-			color={ 220 140 100 }
-			color2={ 255 255 255 }
-			b_aydhab={
-				color={ 220 140 100 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6110
-			}
-			b_lower_odib={
-				color={ 220 140 100 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6388
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_allaqi={
-			color={ 225 135 90 }
-			color2={ 255 255 255 }
-			b_allaqi={
-				color={ 225 135 90 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6113
-			}
-			b_derahib={
-				color={ 225 135 90 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6111
-			}
-			b_haimur={
-				color={ 225 135 90 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6112
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_naqis={
-			color={ 230 135 95 }
-			color2={ 255 255 255 }
-			b_gebeit={
-				color={ 230 135 95 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6373
-			}
-			b_wadi_odib={
-				color={ 230 135 95 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6372
-			}
-			b_naqis-north={
-				color={ 230 135 95 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6374
-			}
-			b_naqis-south={
-				color={ 230 135 95 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6384
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_wadi_amur={
-			color={ 215 120 90 }
-			color2={ 255 255 255 }
-			b_khawr_nubt={
-				color={ 215 120 90 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6375
-			}
-			b_wadi_amur={
-				color={ 215 120 90 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6382
-			}
-			b_upper_amur={
-				color={ 215 120 90 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6383
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	d_bazin={
-		capital="c_bazin"
-		color={ 253 135 87 }
-		color2={ 255 255 255 }
-		c_bazin={
-			color={ 240 145 85 }
-			color2={ 255 255 255 }
-			b_tokar={
-				color={ 240 145 85 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6378
-			}
-			b_akik={
-				color={ 240 145 85 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6379
-			}
-			b_bazin={
-				color={ 240 145 85 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6381
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_suakin={
-			color={ 220 130 90 }
-			color2={ 255 255 255 }
-			b_suakin={
-				color={ 220 130 90 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6377
-			}
-			b_dungunab={
-				color={ 220 130 90 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6371
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_badi={
-			color={ 235 140 75 }
-			color2={ 255 255 255 }
-			b_badi={
-				color={ 235 140 75 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6380
-			}
-			b_ka'abir={
-				color={ 235 140 75 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6441
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	d_baqlin={
-		capital="c_baqlin"
-		color={ 233 155 77 }
-		color2={ 255 255 255 }
-		c_baqlin={
-			color={ 235 155 80 }
-			color2={ 255 255 255 }
-			b_sinkat={
-				color={ 235 155 80 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6376
-			}
-			b_baqlin-north={
-				color={ 235 155 80 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6385
-			}
-			b_baqlin-west={
-				color={ 235 155 80 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6386
-			}
-			b_baqlin-east={
-				color={ 235 155 80 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6387
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_djarin={
-			color={ 245 160 70 }
-			color2={ 255 255 255 }
-			b_dherbe={
-				color={ 245 160 70 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6440
-			}
-			b_djarin={
-				color={ 245 160 70 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6414
-			}
-			b_khawr_baraka={
-				color={ 245 160 70 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6413
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_qataa={
-			color={ 255 150 80 }
-			color2={ 255 255 255 }
-			b_qataa={
-				color={ 255 150 80 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6438
-			}
-			b_marya={
-				color={ 255 150 80 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6439
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_kassala={
-			color={ 230 150 80 }
-			color2={ 255 255 255 }
-			b_kassala={
-				color={ 200 101 34 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6412
-			}
-			b_middle_atbara={
-				color={ 200 101 34 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6411
-			}
-			b_to_lus={
-				color={ 200 101 34 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6442
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_showak={
-			color={ 235 160 65 }
-			color2={ 255 255 255 }
-			b_showak={
-				color={ 235 160 65 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6437
-			}
-			b_gash={
-				color={ 235 160 65 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6443
-			}
-			b_showak_south={
-				color={ 235 160 65 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6444
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_wolqayt={
-			color={ 230 150 60 }
-			color2={ 255 255 255 }
-			b_wolqayt={
-				color={ 230 150 60 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6436
-			}
-			b_wad_abu_nahl={
-				color={ 230 150 60 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=6445
-			}
-			b_wegera={
-				color={ 230 150 60 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=8302
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	landless=no
-	definite_form=no
-	ruler_uses_title_name=no
-	ai_primary_priority={
-			if = {
-				limit = {
-					culture = { has_cultural_pillar = heritage_somalian }
-				}
-				add = @correct_culture_primary_score
-			}
-		}
-}
+
+
 k_damot={
 	capital="c_damot"
 	color={ 166 68 208 }
@@ -83540,6 +79074,988 @@ e_IMPTOCK3_EGY={
 	capital="c_alexandria"
 	color={ 143 141 128 }
 	color2={ 249 162 59 }
+
+k_egypt={
+	capital="c_cairo"
+	color={ 10 255 80 }
+	color2={ 255 255 255 }
+	d_cyrenaica={
+		capital="c_barqa"
+		color={ 32 150 63 }
+		color2={ 255 255 255 }
+		c_barqa={
+			color={ 34 152 65 }
+			color2={ 255 255 255 }
+			b_barqa-al-marj={
+				color={ 34 152 65 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6104
+			}
+			b_wadi_masus={
+				color={ 34 152 65 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6102
+			}
+			b_jabal_al-gharbi={
+				color={ 34 152 65 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6103
+			}
+			b_benghazi={
+				color={ 34 152 65 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6105
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_awjila={
+			color={ 36 154 67 }
+			color2={ 255 255 255 }
+			b_awjila={
+				color={ 36 154 67 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6106
+			}
+			b_jalu={
+				color={ 36 154 67 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6107
+			}
+			b_jakharrad={
+				color={ 36 154 67 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6108
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_derna={
+			color={ 38 156 69 }
+			color2={ 255 255 255 }
+			b_derna={
+				color={ 38 156 69 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6099
+			}
+			b_wadi_makhil={
+				color={ 38 156 69 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6100
+			}
+			b_marawa={
+				color={ 38 156 69 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6101
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_tobruk={
+			color={ 40 158 71 }
+			color2={ 255 255 255 }
+			b_tobruk={
+				color={ 40 158 71 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6098
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	d_alexandria={
+		capital="c_alexandria"
+		color={ 100 219 134 }
+		color2={ 255 255 255 }
+		c_alexandria={
+			color={ 102 221 136 }
+			color2={ 255 255 255 }
+			b_alexandria={
+				color={ 102 221 136 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6053
+			}
+			b_al-hamam={
+				color={ 102 221 136 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6094
+			}
+			b_wadi_natrun={
+				color={ 102 221 136 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6116
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_sullum={
+			color={ 104 223 138 }
+			color2={ 255 255 255 }
+			b_sullum={
+				color={ 104 223 138 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6097
+			}
+			b_qasr_ash-shams={
+				color={ 104 223 138 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6095
+			}
+			b_kanais_al-hadid={
+				color={ 104 223 138 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6096
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_siwa={
+			color={ 106 225 140 }
+			color2={ 255 255 255 }
+			b_siwa={
+				color={ 106 225 140 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6093
+			}
+			b_ain_al-gharbi={
+				color={ 106 225 140 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6092
+			}
+			b_qara={
+				color={ 106 225 140 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6117
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	d_delta={
+		capital="c_damietta"
+		color={ 3 255 74 }
+		color2={ 255 255 255 }
+		c_damietta={
+			color={ 12 255 83 }
+			color2={ 255 255 255 }
+			b_dumiyat={
+				color={ 12 255 83 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6046
+			}
+			b_daqahla={
+				color={ 12 255 83 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6043
+			}
+			b_tinnis={
+				color={ 12 255 83 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6045
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_al-buhaira={
+			color={ 61 245 114 }
+			color2={ 255 255 255 }
+			b_rashid={
+				color={ 61 245 114 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6052
+			}
+			b_damanhur={
+				color={ 61 245 114 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6054
+			}
+			b_ramsis={
+				color={ 61 245 114 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6055
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_al-gharbiya={
+			color={ 9 255 80 }
+			color2={ 255 255 255 }
+			b_minuf={
+				color={ 9 255 80 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6051
+			}
+			b_samannud={
+				color={ 9 255 80 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6047
+			}
+			b_burullus={
+				color={ 9 255 80 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6048
+			}
+			b_nastarawa={
+				color={ 9 255 80 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6049
+			}
+			b_ibyar={
+				color={ 9 255 80 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6050
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_sharkiya={
+			color={ 41 214 91 }
+			color2={ 255 255 255 }
+			b_bilbays={
+				color={ 41 214 91 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6040
+			}
+			b_qalyub={
+				color={ 41 214 91 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6041
+			}
+			b_faqus={
+				color={ 41 214 91 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6044
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	d_cairo={
+		capital="c_cairo"
+		color={ 32 245 138 }
+		color2={ 255 255 255 }
+		c_cairo={
+			color={ 26 214 120 }
+			color2={ 255 255 255 }
+			b_cairo={
+				color={ 26 214 120 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6042
+			}
+			b_quzlum={
+				color={ 26 214 120 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6039
+			}
+			b_atfih={
+				color={ 26 214 120 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6065
+			}
+			b_hulwan-cairo={
+				color={ 26 214 120 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6066
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_giza={
+			color={ 2 181 91 }
+			color2={ 255 255 255 }
+			b_gizeh={
+				color={ 2 181 91 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6057
+			}
+			b_abu_ghalib={
+				color={ 2 181 91 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6056
+			}
+			b_busir={
+				color={ 2 181 91 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6058
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_fayyum={
+			color={ 36 156 95 }
+			color2={ 255 255 255 }
+			b_al-fayyum={
+				color={ 36 156 95 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6060
+			}
+			b_tirsa={
+				color={ 36 156 95 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6059
+			}
+			b_iqna={
+				color={ 36 156 95 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6061
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	d_al-wahat={
+		capital="c_bahriya"
+		color={ 40 160 140 }
+		color2={ 255 255 255 }
+		c_bahriya={
+			color={ 45 165 145 }
+			color2={ 255 255 255 }
+			b_al-bahriya={
+				color={ 45 165 145 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6089
+			}
+			b_bawiti={
+				color={ 45 165 145 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6090
+			}
+			b_al-harra={
+				color={ 45 165 145 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6091
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_farafra={
+			color={ 34 148 129 }
+			color2={ 255 255 255 }
+			b_al-farafra={
+				color={ 34 148 129 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6088
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_dakhla={
+			color={ 108 217 168 }
+			color2={ 255 255 255 }
+			b_mut={
+				color={ 108 217 168 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6085
+			}
+			b_tunayda={
+				color={ 108 217 168 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6086
+			}
+			b_al-qasr-dakhla={
+				color={ 108 217 168 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6087
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_kharga={
+			color={ 39 219 126 }
+			color2={ 255 255 255 }
+			b_kharga={
+				color={ 39 219 126 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6083
+			}
+			b_baris={
+				color={ 39 219 126 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6084
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	d_al-said={
+		capital="c_qus"
+		color={ 85 217 87 }
+		color2={ 255 255 255 }
+		c_qus={
+			color={ 76 194 77 }
+			color2={ 255 255 255 }
+			b_qus={
+				color={ 76 194 77 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6077
+			}
+			b_huw={
+				color={ 76 194 77 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6074
+			}
+			b_faw={
+				color={ 76 194 77 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6075
+			}
+			b_qina={
+				color={ 76 194 77 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6076
+			}
+			b_armant={
+				color={ 76 194 77 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6078
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_bahnasa={
+			color={ 50 173 51 }
+			color2={ 255 255 255 }
+			b_al-bahnasa={
+				color={ 50 173 51 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6063
+			}
+			b_ahnas={
+				color={ 50 173 51 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6062
+			}
+			b_ihrit={
+				color={ 50 173 51 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6064
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_ushmun={
+			color={ 72 176 73 }
+			color2={ 255 255 255 }
+			b_al-ushmunain={
+				color={ 72 176 73 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6067
+			}
+			b_ansina={
+				color={ 72 176 73 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6068
+			}
+			b_manfalut={
+				color={ 72 176 73 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6069
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_asyut={
+			color={ 39 194 40 }
+			color2={ 255 255 255 }
+			b_asyut={
+				color={ 39 194 40 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6070
+			}
+			b_bawit={
+				color={ 39 194 40 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6071
+			}
+			b_ikhmin={
+				color={ 39 194 40 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6072
+			}
+			b_ibshaya={
+				color={ 39 194 40 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6073
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_aswan={
+			color={ 16 163 17 }
+			color2={ 255 255 255 }
+			b_aswan={
+				color={ 16 163 17 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6081
+			}
+			b_udfu={
+				color={ 16 163 17 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6079
+			}
+			b_zarnikh={
+				color={ 16 163 17 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6080
+			}
+			b_aswan-west={
+				color={ 16 163 17 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6082
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	d_eastern_desert={
+		capital="c_qusayr"
+		color={ 40 200 140 }
+		color2={ 255 255 255 }
+		c_qusayr={
+			color={ 45 205 135 }
+			color2={ 255 255 255 }
+			b_qusayr={
+				color={ 45 205 135 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6109
+			}
+			b_safaga={
+				color={ 45 205 135 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6122
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_jabal_quzlum={
+			color={ 45 195 130 }
+			color2={ 255 255 255 }
+			b_north_jbl_quzlum={
+				color={ 45 195 130 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6118
+			}
+			b_central_jbl_quzlum={
+				color={ 45 195 130 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6119
+			}
+			b_south_jbl_quzlum={
+				color={ 45 195 130 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6120
+			}
+			b_um_shashoba={
+				color={ 45 195 130 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6121
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	d_sinai={
+		capital="c_farama"
+		color={ 88 99 2 }
+		color2={ 255 255 255 }
+		c_farama={
+			color={ 141 198 5 }
+			color2={ 255 255 255 }
+			b_farama={
+				color={ 141 198 5 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6038
+			}
+			b_warrada={
+				color={ 141 198 5 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6036
+			}
+			b_al-arish={
+				color={ 141 198 5 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5970
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_sinai={
+			color={ 143 201 8 }
+			color2={ 255 255 255 }
+			b_at-tur={
+				color={ 143 201 8 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6033
+			}
+			b_stcatherine={
+				color={ 143 201 8 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6032
+			}
+			b_faran={
+				color={ 143 201 8 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6034
+			}
+			b_qalat_jundi={
+				color={ 143 201 8 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6035
+			}
+			b_tih={
+				color={ 143 201 8 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6037
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_firaun={
+			color={ 145 203 10 }
+			color2={ 255 255 255 }
+			b_firaun={
+				color={ 145 203 10 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6030
+			}
+			b_dahab={
+				color={ 145 203 10 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6031
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	landless=no
+	definite_form=no
+	ruler_uses_title_name=no
+	ai_primary_priority={
+			if = {
+				limit = {
+					culture = culture:egyptian
+				}
+				add = @correct_culture_primary_score
+			}
+		}
+}
+
 	k_cyprus={
 		capital="c_nicosia"
 		color={ 215 215 20 }
@@ -83942,6 +80458,3739 @@ e_IMPTOCK3_EGY={
 	landless=no
 	definite_form=no
 	ruler_uses_title_name=no
+
+
+k_IMPTOCK3_ROM_cyrenaica_region={
+	color={ 22 2 2 }
+	color2={ 255 223 0 }
+	d_tripolitania={
+		capital="c_tripolitana"
+		color={ 52 136 209 }
+		color2={ 255 255 255 }
+		c_tripolitana={
+			color={ 45 116 179 }
+			color2={ 255 255 255 }
+			b_libtripoli={
+				color={ 45 116 179 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=4557
+			}
+			b_sabratha={
+				color={ 45 116 179 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=4568
+			}
+			b_tamazda={
+				color={ 45 116 179 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=4569
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_djerba={
+			color={ 8 108 196 }
+			color2={ 255 255 255 }
+			b_jerba={
+				color={ 8 108 196 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=4562
+			}
+			b_jarjis={
+				color={ 8 108 196 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=4565
+			}
+			b_bughrara={
+				color={ 8 108 196 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=4566
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_jafara={
+			color={ 71 129 181 }
+			color2={ 255 255 255 }
+			b_zuwara={
+				color={ 71 129 181 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=4561
+			}
+			b_tiri={
+				color={ 71 129 181 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=4558
+			}
+			b_djado_jafara={
+				color={ 71 129 181 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=4559
+			}
+			b_nalut={
+				color={ 71 129 181 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=4560
+			}
+			b_fursata={
+				color={ 71 129 181 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=4567
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	d_syrte={
+		capital="c_syrte"
+		color={ 53 55 189 }
+		color2={ 255 255 255 }
+		c_syrte={
+			color={ 43 45 161 }
+			color2={ 255 255 255 }
+			b_syrte={
+				color={ 43 45 161 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=4552
+			}
+			b_al_aghaila={
+				color={ 43 45 161 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=4550
+			}
+			b_ajadabiya={
+				color={ 43 45 161 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=4551
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_labda={
+			color={ 54 56 133 }
+			color2={ 255 255 255 }
+			b_labda={
+				color={ 54 56 133 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=4556
+			}
+			b_tawurgha={
+				color={ 54 56 133 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=4554
+			}
+			b_misurata={
+				color={ 54 56 133 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=4555
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_waddan={
+			color={ 17 20 150 }
+			color2={ 255 255 255 }
+			b_waddan={
+				color={ 17 20 150 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=4563
+			}
+			b_tajrift={
+				color={ 17 20 150 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=4553
+			}
+			b_tinnai={
+				color={ 17 20 150 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=4564
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	landless=no
+	definite_form=no
+	ruler_uses_title_name=no
+}
+
+k_blemmyia={
+	capital="c_aydhab"
+	color={ 224 136 93 }
+	color2={ 255 255 255 }
+	d_naqis={
+		capital="c_aydhab"
+		color={ 225 130 98 }
+		color2={ 255 255 255 }
+		c_aydhab={
+			color={ 220 140 100 }
+			color2={ 255 255 255 }
+			b_aydhab={
+				color={ 220 140 100 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6110
+			}
+			b_lower_odib={
+				color={ 220 140 100 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6388
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_allaqi={
+			color={ 225 135 90 }
+			color2={ 255 255 255 }
+			b_allaqi={
+				color={ 225 135 90 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6113
+			}
+			b_derahib={
+				color={ 225 135 90 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6111
+			}
+			b_haimur={
+				color={ 225 135 90 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6112
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_naqis={
+			color={ 230 135 95 }
+			color2={ 255 255 255 }
+			b_gebeit={
+				color={ 230 135 95 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6373
+			}
+			b_wadi_odib={
+				color={ 230 135 95 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6372
+			}
+			b_naqis-north={
+				color={ 230 135 95 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6374
+			}
+			b_naqis-south={
+				color={ 230 135 95 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6384
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_wadi_amur={
+			color={ 215 120 90 }
+			color2={ 255 255 255 }
+			b_khawr_nubt={
+				color={ 215 120 90 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6375
+			}
+			b_wadi_amur={
+				color={ 215 120 90 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6382
+			}
+			b_upper_amur={
+				color={ 215 120 90 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6383
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	d_bazin={
+		capital="c_bazin"
+		color={ 253 135 87 }
+		color2={ 255 255 255 }
+		c_bazin={
+			color={ 240 145 85 }
+			color2={ 255 255 255 }
+			b_tokar={
+				color={ 240 145 85 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6378
+			}
+			b_akik={
+				color={ 240 145 85 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6379
+			}
+			b_bazin={
+				color={ 240 145 85 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6381
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_suakin={
+			color={ 220 130 90 }
+			color2={ 255 255 255 }
+			b_suakin={
+				color={ 220 130 90 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6377
+			}
+			b_dungunab={
+				color={ 220 130 90 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6371
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_badi={
+			color={ 235 140 75 }
+			color2={ 255 255 255 }
+			b_badi={
+				color={ 235 140 75 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6380
+			}
+			b_ka'abir={
+				color={ 235 140 75 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6441
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	d_baqlin={
+		capital="c_baqlin"
+		color={ 233 155 77 }
+		color2={ 255 255 255 }
+		c_baqlin={
+			color={ 235 155 80 }
+			color2={ 255 255 255 }
+			b_sinkat={
+				color={ 235 155 80 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6376
+			}
+			b_baqlin-north={
+				color={ 235 155 80 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6385
+			}
+			b_baqlin-west={
+				color={ 235 155 80 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6386
+			}
+			b_baqlin-east={
+				color={ 235 155 80 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6387
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_djarin={
+			color={ 245 160 70 }
+			color2={ 255 255 255 }
+			b_dherbe={
+				color={ 245 160 70 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6440
+			}
+			b_djarin={
+				color={ 245 160 70 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6414
+			}
+			b_khawr_baraka={
+				color={ 245 160 70 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6413
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_qataa={
+			color={ 255 150 80 }
+			color2={ 255 255 255 }
+			b_qataa={
+				color={ 255 150 80 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6438
+			}
+			b_marya={
+				color={ 255 150 80 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6439
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_kassala={
+			color={ 230 150 80 }
+			color2={ 255 255 255 }
+			b_kassala={
+				color={ 200 101 34 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6412
+			}
+			b_middle_atbara={
+				color={ 200 101 34 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6411
+			}
+			b_to_lus={
+				color={ 200 101 34 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6442
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_showak={
+			color={ 235 160 65 }
+			color2={ 255 255 255 }
+			b_showak={
+				color={ 235 160 65 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6437
+			}
+			b_gash={
+				color={ 235 160 65 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6443
+			}
+			b_showak_south={
+				color={ 235 160 65 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6444
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_wolqayt={
+			color={ 230 150 60 }
+			color2={ 255 255 255 }
+			b_wolqayt={
+				color={ 230 150 60 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6436
+			}
+			b_wad_abu_nahl={
+				color={ 230 150 60 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6445
+			}
+			b_wegera={
+				color={ 230 150 60 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=8302
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	landless=no
+	definite_form=no
+	ruler_uses_title_name=no
+	ai_primary_priority={
+			if = {
+				limit = {
+					culture = { has_cultural_pillar = heritage_somalian }
+				}
+				add = @correct_culture_primary_score
+			}
+		}
+}
+
+k_nubia={
+	capital="c_dongola"
+	color={ 180 85 39 }
+	color2={ 255 255 255 }
+	d_nobatia={
+		capital="c_faras"
+		color={ 162 133 85 }
+		color2={ 255 255 255 }
+		c_qasr_ibrim={
+			color={ 165 135 85 }
+			color2={ 255 255 255 }
+			b_qasr_ibrim={
+				color={ 165 135 85 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6334
+			}
+			b_korosko={
+				color={ 165 135 85 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6332
+			}
+			b_sheikh_dawud={
+				color={ 165 135 85 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6333
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_faras={
+			color={ 160 130 85 }
+			color2={ 255 255 255 }
+			b_faras={
+				color={ 160 130 85 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6336
+			}
+			b_serra={
+				color={ 160 130 85 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6335
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_batn_al-hajar={
+			color={ 150 140 65 }
+			color2={ 255 255 255 }
+			b_semna={
+				color={ 150 140 65 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6337
+			}
+			b_akasha={
+				color={ 150 140 65 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6338
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_qurta={
+			color={ 155 130 60 }
+			color2={ 255 255 255 }
+			b_qurta={
+				color={ 155 130 60 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6329
+			}
+			b_ikhmindi={
+				color={ 155 130 60 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6330
+			}
+			b_sayala={
+				color={ 155 130 60 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6331
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_kalabsha={
+			color={ 165 130 80 }
+			color2={ 255 255 255 }
+			b_kalabsha={
+				color={ 165 130 80 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6362
+			}
+			b_sabagura={
+				color={ 165 130 80 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6361
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	d_makuria={
+		capital="c_dongola"
+		color={ 141 162 79 }
+		color2={ 255 255 255 }
+		c_dongola={
+			color={ 145 150 80 }
+			color2={ 255 255 255 }
+			b_old_dongola={
+				color={ 145 150 80 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6344
+			}
+			b_tumbus={
+				color={ 145 150 80 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6341
+			}
+			b_kemna={
+				color={ 145 150 80 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6342
+			}
+			b_dongola={
+				color={ 145 150 80 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6343
+			}
+			b_debba={
+				color={ 145 150 80 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6345
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_sai={
+			color={ 140 155 75 }
+			color2={ 255 255 255 }
+			b_sai={
+				color={ 140 155 75 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6339
+			}
+			b_delgo={
+				color={ 140 155 75 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6340
+			}
+			b_kassi-markol={
+				color={ 140 155 75 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6359
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_meroe={
+			color={ 155 140 67 }
+			color2={ 255 255 255 }
+			b_grnetti={
+				color={ 155 140 67 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6346
+			}
+			b_tankasi={
+				color={ 155 140 67 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6347
+			}
+			b_kareima={
+				color={ 155 140 67 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6348
+			}
+			b_nuri={
+				color={ 155 140 67 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6349
+			}
+			b_diffar={
+				color={ 155 140 67 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6360
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_wadi_el-milk={
+			color={ 140 160 70 }
+			color2={ 255 255 255 }
+			b_wadi_el-milk={
+				color={ 140 160 70 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6415
+			}
+			b_jebel_abu_negila={
+				color={ 140 160 70 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6427
+			}
+			b_bir_el-kai={
+				color={ 140 160 70 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6428
+			}
+			b_upper_milk={
+				color={ 140 160 70 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6896
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_abwab={
+			color={ 145 160 75 }
+			color2={ 255 255 255 }
+			b_al-abwab={
+				color={ 145 160 75 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6363
+			}
+			b_shendi={
+				color={ 145 160 75 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6364
+			}
+			b_keli={
+				color={ 145 160 75 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6365
+			}
+			b_wad_hamid={
+				color={ 145 160 75 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6366
+			}
+			b_al-ghazali={
+				color={ 145 160 75 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6350
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_atbara={
+			color={ 150 160 50 }
+			color2={ 255 255 255 }
+			b_atbara={
+				color={ 150 160 50 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6356
+			}
+			b_berber={
+				color={ 150 160 50 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6355
+			}
+			b_al-bawga={
+				color={ 150 160 50 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6357
+			}
+			b_ed-damer={
+				color={ 150 160 50 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6358
+			}
+			b_shunqayr={
+				color={ 150 160 50 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6389
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	d_shamir={
+		capital="c_shamir"
+		color={ 137 123 44 }
+		color2={ 255 255 255 }
+		c_shamir={
+			color={ 140 125 45 }
+			color2={ 255 255 255 }
+			b_shemkhiya={
+				color={ 140 125 45 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6367
+			}
+			b_redab={
+				color={ 140 125 45 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6368
+			}
+			b_kuweib={
+				color={ 140 125 45 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6369
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_abu_hammad={
+			color={ 135 120 55 }
+			color2={ 255 255 255 }
+			b_abu_hammad={
+				color={ 135 120 55 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6352
+			}
+			b_korosko_road={
+				color={ 135 120 55 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6354
+			}
+			b_al-hajar_nubia={
+				color={ 135 120 55 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6370
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_kurgus={
+			color={ 145 130 40 }
+			color2={ 255 255 255 }
+			b_kurgus={
+				color={ 145 130 40 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6351
+			}
+			b_tarfaya={
+				color={ 145 130 40 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6353
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	d_alwa={
+		capital="c_alodia"
+		color={ 128 60 20 }
+		color2={ 255 255 255 }
+		c_alodia={
+			color={ 135 65 20 }
+			color2={ 255 255 255 }
+			b_soba={
+				color={ 135 65 20 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6394
+			}
+			b_geili={
+				color={ 135 65 20 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6391
+			}
+			b_kadero={
+				color={ 135 65 20 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6392
+			}
+			b_alti={
+				color={ 135 65 20 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6395
+			}
+			b_kamlin={
+				color={ 135 65 20 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6397
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_naga={
+			color={ 130 55 25 }
+			color2={ 255 255 255 }
+			b_naga={
+				color={ 130 55 25 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6407
+			}
+			b_basa={
+				color={ 130 55 25 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6408
+			}
+			b_umm_usuda={
+				color={ 130 55 25 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6409
+			}
+			b_jebel_geili={
+				color={ 130 55 25 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6410
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_gezira={
+			color={ 125 60 30 }
+			color2={ 255 255 255 }
+			b_geteina={
+				color={ 125 60 30 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6396
+			}
+			b_arbaji={
+				color={ 125 60 30 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6398
+			}
+			b_um_sunt={
+				color={ 125 60 30 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6399
+			}
+			b_saqadi={
+				color={ 125 60 30 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6401
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_eleila={
+			color={ 135 70 40 }
+			color2={ 255 255 255 }
+			b_el-eleila={
+				color={ 135 70 40 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6405
+			}
+			b_abu_geili={
+				color={ 135 70 40 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6404
+			}
+			b_basharga={
+				color={ 135 70 40 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6406
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_ushara={
+			color={ 135 50 30 }
+			color2={ 255 255 255 }
+			b_ushara={
+				color={ 135 50 30 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6393
+			}
+			b_shaheinab={
+				color={ 135 50 30 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6390
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	d_sennar={
+		capital="c_sennar"
+		color={ 113 53 23 }
+		color2={ 255 255 255 }
+		c_sennar={
+			color={ 115 60 20 }
+			color2={ 255 255 255 }
+			b_sennar={
+				color={ 115 60 20 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6400
+			}
+			b_jebel_moya={
+				color={ 115 60 20 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6402
+			}
+			b_singa={
+				color={ 115 60 20 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6403
+			}
+			b_renk={
+				color={ 115 60 20 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6432
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_fazughli={
+			color={ 110 55 25 }
+			color2={ 255 255 255 }
+			b_fazughli={
+				color={ 110 55 25 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6433
+			}
+			b_al-rusayrisi={
+				color={ 110 55 25 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6434
+			}
+			b_fazughli_east={
+				color={ 110 55 25 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6435
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_tagali={
+			color={ 120 60 15 }
+			color2={ 255 255 255 }
+			b_kosti={
+				color={ 120 60 15 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6429
+			}
+			b_tagali={
+				color={ 120 60 15 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6430
+			}
+			b_tagali_south={
+				color={ 120 60 15 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6431
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_gumuz={
+			color={ 113 58 28 }
+			color2={ 255 255 255 }
+			b_gumuz_north={
+				color={ 113 58 28 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=8514
+			}
+			b_gumuz_west={
+				color={ 113 58 28 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=8515
+			}
+			b_gumuz_south={
+				color={ 113 58 28 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=8516
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	landless=no
+	definite_form=no
+	ruler_uses_title_name=no
+	ai_primary_priority={
+			if = {
+				limit = {
+					culture = { has_cultural_pillar = heritage_east_african }
+				}
+				add = @correct_culture_primary_score
+			}
+		}
+}	
+	
+k_israel = { # Jerusalem is too Christian
+		color = { 20 138 255 }
+
+		capital = c_jerusalem
+		d_amman = {
+			color = { 130 255 10 }
+			color2 = { 255 255 255 }
+			
+			capital = c_balqa
+			c_hauran = {
+				color = { 103 214 143 }
+				color2 = { 255 255 255 }
+			}
+		}
+		d_oultrejourdain = { 
+			color = { 190 190 180 }
+			color2 = { 255 255 255 }
+			
+			capital = c_kerak
+		}
+		d_palestine = {
+			color = { 160 160 200 }
+			color2 = { 255 255 255 }
+			
+			capital = c_jerusalem
+		}
+		d_urdunn = { #AKA Galilee
+			color = { 225 200 160 }
+			color2 = { 255 255 255 }
+			
+			capital = c_tiberias
+		}
+	}
+k_arabia={
+	capital="c_medina"
+	color={ 124 199 50 }
+	color2={ 255 255 255 }
+	d_jawf={
+		capital="c_al_jawf"
+		color={ 150 250 50 }
+		color2={ 255 255 255 }
+		c_al_jawf={
+			color={ 154 253 47 }
+			color2={ 255 255 255 }
+			b_al_jawf={
+				color={ 154 253 47 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6178
+			}
+			b_sakaka={
+				color={ 154 253 47 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6176
+			}
+			b_al-qara-jawf={
+				color={ 154 253 47 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6177
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_thalabiya={
+			color={ 148 248 49 }
+			color2={ 255 255 255 }
+			b_ath-thalabiya={
+				color={ 148 248 49 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6168
+			}
+			b_zubala={
+				color={ 148 248 49 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6169
+			}
+			b_lina={
+				color={ 148 248 49 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6170
+			}
+			b_bitan={
+				color={ 148 248 49 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6175
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_sirhan={
+			color={ 152 246 52 }
+			color2={ 255 255 255 }
+			b_quraqir={
+				color={ 125 255 18 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5989
+			}
+			b_sirhan={
+				color={ 152 246 52 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6180
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	d_amman={
+		capital="c_balqa"
+		color={ 130 255 10 }
+		color2={ 255 255 255 }
+		c_balqa={
+			color={ 131 255 12 }
+			color2={ 255 255 255 }
+			b_amman={
+				color={ 131 255 12 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5984
+			}
+			b_az-zarqa={
+				color={ 131 255 12 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5986
+			}
+			b_al-azraq={
+				color={ 131 255 12 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5987
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_maab={
+			color={ 135 250 15 }
+			color2={ 255 255 255 }
+			b_maab={
+				color={ 135 250 15 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5981
+			}
+			b_zaiza={
+				color={ 135 250 15 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5982
+			}
+			b_mujib={
+				color={ 135 250 15 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5983
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_jilat={
+			color={ 125 255 18 }
+			color2={ 255 255 255 }
+			b_al-jilat={
+				color={ 125 255 18 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5988
+			}
+			b_qasr_at-tuba={
+				color={ 125 255 18 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6179
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	d_shammar={
+		capital="c_tabuk"
+		color={ 121 196 2 }
+		color2={ 255 255 255 }
+		c_tabuk={
+			color={ 130 205 11 }
+			color2={ 255 255 255 }
+			b_tabuk={
+				color={ 130 205 11 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6188
+			}
+			b_sarj={
+				color={ 130 205 11 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6186
+			}
+			b_fajr={
+				color={ 130 205 11 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6189
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_al_aqabah={
+			color={ 124 199 5 }
+			color2={ 255 255 255 }
+			b_aqaba={
+				color={ 124 199 5 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5974
+			}
+			b_maqna={
+				color={ 124 199 5 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6183
+			}
+			b_ainun={
+				color={ 124 199 5 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6184
+			}
+			b_sharaf_al-bal={
+				color={ 124 199 5 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6185
+			}
+			b_madyan={
+				color={ 124 199 5 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6187
+			}
+			b_ziba={
+				color={ 124 199 5 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6193
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_maan={
+			color={ 127 202 8 }
+			color2={ 255 255 255 }
+			b_maan={
+				color={ 127 202 8 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5976
+			}
+			b_al-humayma={
+				color={ 127 202 8 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5975
+			}
+			b_adruh={
+				color={ 127 202 8 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5977
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_tayma={
+			color={ 97 208 137 }
+			color2={ 255 255 255 }
+			b_tayma={
+				color={ 97 208 137 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6192
+			}
+			b_al-aqra={
+				color={ 97 208 137 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6190
+			}
+			b_al-muhdatha={
+				color={ 97 208 137 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6191
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	d_medina={
+		capital="c_medina"
+		color={ 160 250 50 }
+		color2={ 255 255 255 }
+		c_medina={
+			color={ 162 253 55 }
+			color2={ 255 255 255 }
+			b_al-madina={
+				color={ 162 253 55 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6212
+			}
+			b_as-sayaa={
+				color={ 162 253 55 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6211
+			}
+			b_batn_nakhl={
+				color={ 162 253 55 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6213
+			}
+			b_as-safra={
+				color={ 162 253 55 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6219
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_wajh={
+			color={ 158 253 51 }
+			color2={ 255 255 255 }
+			b_al-wajh={
+				color={ 158 253 51 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6197
+			}
+			b_an-nabak={
+				color={ 158 253 51 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6194
+			}
+			b_al-awnid={
+				color={ 158 253 51 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6195
+			}
+			b_bada={
+				color={ 158 253 51 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6196
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_khaybar={
+			color={ 164 248 57 }
+			color2={ 255 255 255 }
+			b_khaybar={
+				color={ 164 248 57 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6207
+			}
+			b_as-suqya={
+				color={ 164 248 57 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6199
+			}
+			b_al-ula={
+				color={ 164 248 57 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6200
+			}
+			b_al-hijr={
+				color={ 164 248 57 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6201
+			}
+			b_dhul-marwa={
+				color={ 164 248 57 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6208
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_yanbu={
+			color={ 156 248 48 }
+			color2={ 255 255 255 }
+			b_yanbu={
+				color={ 156 248 48 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6209
+			}
+			b_al-jar={
+				color={ 156 248 48 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6210
+			}
+			b_al-hawra={
+				color={ 156 248 48 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6198
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_harrat_rahat={
+			color={ 162 246 46 }
+			color2={ 255 255 255 }
+			b_as-sawariqiya={
+				color={ 162 246 46 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6218
+			}
+			b_as-salila={
+				color={ 162 246 46 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6216
+			}
+			b_madinat_sulaym={
+				color={ 162 246 46 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6217
+			}
+			b_sufaina={
+				color={ 162 246 46 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6227
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	d_mecca={
+		capital="c_mecca"
+		color={ 120 200 5 }
+		color2={ 255 255 255 }
+		c_mecca={
+			color={ 122 198 5 }
+			color2={ 255 255 255 }
+			b_makka={
+				color={ 122 198 5 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6223
+			}
+			b_rabigh={
+				color={ 122 198 5 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6220
+			}
+			b_khulays={
+				color={ 122 198 5 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6221
+			}
+			b_jidda={
+				color={ 122 198 5 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6222
+			}
+			b_usfain={
+				color={ 122 198 5 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6226
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_taif={
+			color={ 121 196 2 }
+			color2={ 255 255 255 }
+			b_at-taif={
+				color={ 121 196 2 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6225
+			}
+			b_turaba={
+				color={ 121 196 2 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6233
+			}
+			b_tabala-hijaz={
+				color={ 121 196 2 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6234
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_tihama={
+			color={ 124 202 7 }
+			color2={ 255 255 255 }
+			b_as-sirayn={
+				color={ 124 202 7 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6224
+			}
+			b_hali={
+				color={ 124 202 7 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6238
+			}
+			b_ash-shuqayq={
+				color={ 124 202 7 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6239
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_bisha={
+			color={ 116 204 9 }
+			color2={ 255 255 255 }
+			b_bisha={
+				color={ 116 204 9 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6235
+			}
+			b_jurash={
+				color={ 116 204 9 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6236
+			}
+			b_kuthba={
+				color={ 116 204 9 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6237
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	d_asir={
+		capital="c_aqiq"
+		color={ 150 210 20 }
+		color2={ 255 255 255 }
+		c_aqiq={
+			color={ 147 207 17 }
+			color2={ 255 255 255 }
+			b_aqiq_tamra={
+				color={ 147 207 17 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6246
+			}
+			b_dam={
+				color={ 147 207 17 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6245
+			}
+			b_sarba={
+				color={ 147 207 17 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6247
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_asir={
+			color={ 152 212 22 }
+			color2={ 255 255 255 }
+			b_wadi_tathlith={
+				color={ 152 212 22 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6244
+			}
+			b_wadi_ghamid={
+				color={ 152 212 22 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6232
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	d_najd={
+		capital="c_sharaf"
+		color={ 160 200 10 }
+		color2={ 255 255 255 }
+		c_sharaf={
+			color={ 157 197 7 }
+			color2={ 255 255 255 }
+			b_dariya={
+				color={ 157 197 7 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6265
+			}
+			b_hajir={
+				color={ 157 197 7 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6206
+			}
+			b_rabadha={
+				color={ 157 197 7 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6214
+			}
+			b_madin-an-naqira={
+				color={ 157 197 7 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6215
+			}
+			b_jadila={
+				color={ 157 197 7 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6266
+			}
+			b_fajla={
+				color={ 157 197 7 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6267
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_subay={
+			color={ 163 203 13 }
+			color2={ 255 255 255 }
+			b_ad-dathina={
+				color={ 163 203 13 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6229
+			}
+			b_marran={
+				color={ 163 203 13 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6228
+			}
+			b_subay={
+				color={ 163 203 13 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6230
+			}
+			b_ranya={
+				color={ 163 203 13 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6231
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_hail={
+			color={ 154 194 13 }
+			color2={ 255 255 255 }
+			b_hail={
+				color={ 154 194 13 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6172
+			}
+			b_jubba-hail={
+				color={ 154 194 13 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6181
+			}
+			b_mawqaq={
+				color={ 154 194 13 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6182
+			}
+			b_fadak={
+				color={ 154 194 13 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6203
+			}
+			b_fayd={
+				color={ 154 194 13 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6204
+			}
+			b_tuz={
+				color={ 154 194 13 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6205
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_shaqiq={
+			color={ 163 194 4 }
+			color2={ 255 255 255 }
+			b_an-nibaj={
+				color={ 163 194 4 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6260
+			}
+			b_al-khuzaimiya={
+				color={ 163 194 4 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6171
+			}
+			b_as-sumaina={
+				color={ 163 194 4 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6174
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_qasim={
+			color={ 166 206 16 }
+			color2={ 255 255 255 }
+			b_unayza={
+				color={ 166 206 16 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6262
+			}
+			b_al-qaryatan-qasim={
+				color={ 166 206 16 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6261
+			}
+			b_rama={
+				color={ 166 206 16 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6263
+			}
+			b_tikhfa={
+				color={ 166 206 16 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6264
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_surrah={
+			color={ 166 194 18 }
+			color2={ 255 255 255 }
+			b_nufud-as-surrah={
+				color={ 166 194 18 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6257
+			}
+			b_jibal-al-urd={
+				color={ 166 194 18 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6258
+			}
+			b_jibala={
+				color={ 166 194 18 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6259
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	d_yamama={
+		capital="c_yamama"
+		color={ 150 180 0 }
+		color2={ 255 255 255 }
+		c_yamama={
+			color={ 153 183 2 }
+			color2={ 255 255 255 }
+			b_yamama={
+				color={ 153 183 2 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6253
+			}
+			b_al-khadarim={
+				color={ 153 183 2 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6251
+			}
+			b_al-kharj={
+				color={ 153 183 2 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6252
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_al-arid={
+			color={ 147 177 3 }
+			color2={ 255 255 255 }
+			b_al-arid={
+				color={ 147 177 3 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6254
+			}
+			b_ubad={
+				color={ 147 177 3 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6255
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_falaj={
+			color={ 156 186 0 }
+			color2={ 255 255 255 }
+			b_falaj={
+				color={ 156 186 0 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6250
+			}
+			b_al-haddar={
+				color={ 156 186 0 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6248
+			}
+			b_qasr-al-adi={
+				color={ 156 186 0 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6249
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	d_al-hasa={
+		capital="c_al-hasa"
+		color={ 32 127 30 }
+		color2={ 255 255 255 }
+		c_al-hasa={
+			color={ 30 112 20 }
+			color2={ 255 255 255 }
+			b_al-hasa={
+				color={ 30 112 20 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6154
+			}
+			b_al-hajar={
+				color={ 30 112 20 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6152
+			}
+			b_al-mushaqqar={
+				color={ 30 112 20 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6153
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_dhafra={
+			color={ 33 115 22 }
+			color2={ 255 255 255 }
+			b_az-dhafra={
+				color={ 33 115 22 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6148
+			}
+			b_al-jiwa={
+				color={ 33 115 22 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6149
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_uqayr={
+			color={ 30 125 30 }
+			color2={ 255 255 255 }
+			b_al-uqayr={
+				color={ 30 132 37 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6155
+			}
+			b_murwab={
+				color={ 30 132 37 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6150
+			}
+			b_mashqar={
+				color={ 30 132 37 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6151
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_yabrin={
+			color={ 30 120 25 }
+			color2={ 255 255 255 }
+			b_yabrin={
+				color={ 30 120 25 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6163
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	d_bahrain={
+		capital="c_qatif"
+		color={ 20 100 30 }
+		color2={ 255 255 255 }
+		c_qatif={
+			color={ 18 104 28 }
+			color2={ 255 255 255 }
+			b_al-qatif={
+				color={ 18 104 28 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6158
+			}
+			b_al-khatt={
+				color={ 18 104 28 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6157
+			}
+			b_al-jubayl={
+				color={ 18 104 28 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6159
+			}
+			b_thaj={
+				color={ 18 104 28 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6160
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_uwal={
+			color={ 22 102 33 }
+			color2={ 255 255 255 }
+			b_uwal={
+				color={ 22 102 33 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6156
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_samman={
+			color={ 20 99 30 }
+			color2={ 255 255 255 }
+			b_kazima={
+				color={ 20 99 30 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6161
+			}
+			b_ar-ruqaii={
+				color={ 20 99 30 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6162
+			}
+			b_hafar={
+				color={ 20 99 30 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6164
+			}
+			b_al-mawiya={
+				color={ 20 99 30 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6165
+			}
+			b_as-samman={
+				color={ 20 99 30 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6166
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	d_oman={
+		capital="c_nizwa"
+		color={ 235 160 30 }
+		color2={ 255 255 255 }
+		c_nizwa={
+			color={ 232 163 27 }
+			color2={ 255 255 255 }
+			b_nizwa={
+				color={ 232 163 27 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6140
+			}
+			b_bahla={
+				color={ 232 163 27 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6139
+			}
+			b_samad={
+				color={ 232 163 27 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6141
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_julfar={
+			color={ 233 162 33 }
+			color2={ 255 255 255 }
+			b_julfar={
+				color={ 233 162 33 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6131
+			}
+			b_tawwam={
+				color={ 233 162 33 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6129
+			}
+			b_tawwam_west={
+				color={ 233 162 33 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6130
+			}
+			b_musandam={
+				color={ 233 162 33 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6132
+			}
+			b_dabba={
+				color={ 233 162 33 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6133
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_batina={
+			color={ 233 157 27 }
+			color2={ 255 255 255 }
+			b_sohar={
+				color={ 233 157 27 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6134
+			}
+			b_batina-east={
+				color={ 233 157 27 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6135
+			}
+			b_rustaq-oman={
+				color={ 233 157 27 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6136
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_az-dhahira={
+			color={ 238 157 36 }
+			color2={ 255 255 255 }
+			b_hafit={
+				color={ 238 157 36 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6137
+			}
+			b_dhank={
+				color={ 238 157 36 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6138
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_muscat={
+			color={ 230 154 24 }
+			color2={ 255 255 255 }
+			b_muscat={
+				color={ 230 154 24 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6144
+			}
+			b_matrah={
+				color={ 230 154 24 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6143
+			}
+			b_qalhat={
+				color={ 230 154 24 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6145
+			}
+			b_sur={
+				color={ 230 154 24 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6146
+			}
+			b_jaalan={
+				color={ 230 154 24 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6147
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_duqm={
+			color={ 240 166 36 }
+			color2={ 255 255 255 }
+			b_duqm={
+				color={ 240 166 36 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6269
+			}
+			b_wahiba={
+				color={ 240 166 36 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=6268
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	landless=no
+	definite_form=no
+	ruler_uses_title_name=no
+	ai_primary_priority={
+			if = {
+				limit = {
+					NOT = { culture = culture:egyptian }
+					culture = { has_cultural_pillar = heritage_arabic }
+				}
+				add = @correct_culture_primary_score
+			}
+		}
+}
+
+
+k_syria={
+	capital="c_damascus"
+	color={ 145 130 88 }
+	color2={ 255 255 255 }
+	d_aleppo={
+		capital="c_aleppo"
+		color={ 85 232 20 }
+		color2={ 255 255 255 }
+		c_aleppo={
+			color={ 91 238 26 }
+			color2={ 255 255 255 }
+			b_halab={
+				color={ 91 238 26 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5934
+			}
+			b_tall_afrin={
+				color={ 91 238 26 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5906
+			}
+			b_azaz={
+				color={ 91 238 26 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5907
+			}
+			b_manbij={
+				color={ 91 238 26 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5908
+			}
+			b_buzaa={
+				color={ 91 238 26 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5938
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_suriya={
+			color={ 87 234 22 }
+			color2={ 255 255 255 }
+			b_suriya={
+				color={ 87 234 22 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5942
+			}
+			b_khunasira={
+				color={ 87 234 22 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5941
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_syrrusafa={
+			color={ 84 238 26 }
+			color2={ 255 255 255 }
+			b_ar-rusafa={
+				color={ 84 238 26 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5940
+			}
+			b_siffin={
+				color={ 84 238 26 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5939
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_qinnasrin={
+			color={ 84 220 20 }
+			color2={ 255 255 255 }
+			b_qinnasrin={
+				color={ 84 220 20 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5933
+			}
+			b_artah={
+				color={ 84 220 20 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5935
+			}
+			b_ar-rikha={
+				color={ 84 220 20 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5936
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	d_edessa={
+		capital="c_edessa"
+		color={ 182 110 45 }
+		color2={ 255 255 255 }
+		c_edessa={
+			color={ 105 165 45 }
+			color2={ 255 255 255 }
+			b_edessa={
+				color={ 105 165 45 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=4869
+			}
+			b_al-bira={
+				color={ 105 165 45 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=4872
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_samosata={
+			color={ 175 105 45 }
+			color2={ 255 255 255 }
+			b_samosata={
+				color={ 175 105 45 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=4894
+			}
+			b_bahasna={
+				color={ 175 105 45 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=4892
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_marash={
+			color={ 175 125 35 }
+			color2={ 255 255 255 }
+			b_marash={
+				color={ 175 125 35 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=4893
+			}
+			b_qalat_ar-rum={
+				color={ 175 125 35 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=4890
+			}
+			b_kaisum={
+				color={ 175 125 35 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=4891
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_aintab={
+			color={ 195 125 55 }
+			color2={ 255 255 255 }
+			b_aintab={
+				color={ 195 125 55 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5900
+			}
+			b_tall_bashir={
+				color={ 195 125 55 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5901
+			}
+			b_jarabulus={
+				color={ 195 125 55 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5902
+			}
+			b_duluk-teluch={
+				color={ 195 125 55 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=4899
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	d_homs={
+		capital="c_homs"
+		color={ 90 230 30 }
+		color2={ 255 255 255 }
+		c_homs={
+			color={ 93 240 28 }
+			color2={ 255 255 255 }
+			b_hims={
+				color={ 93 240 28 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5929
+			}
+			b_rafaniya-krak={
+				color={ 93 240 28 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5917
+			}
+			b_jusiya={
+				color={ 93 240 28 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5928
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_shayzar={
+			color={ 93 252 34 }
+			color2={ 255 255 255 }
+			b_shayzar={
+				color={ 93 252 34 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				cultural_names={
+					name_list_greek="cn_sezer"
+				}
+				province=5915
+			}
+			b_masyaf={
+				color={ 93 252 34 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5914
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+			cultural_names={
+				name_list_greek="cn_sezer"
+			}
+		}
+		c_hama={
+			color={ 95 242 30 }
+			color2={ 255 255 255 }
+			b_hama={
+				color={ 95 242 30 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5930
+			}
+			b_salamiya={
+				color={ 95 242 30 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5931
+			}
+			b_kafartab={
+				color={ 95 242 30 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5932
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	d_lebanon={
+		capital="c_beirut"
+		color={ 71 150 32 }
+		color2={ 255 255 255 }
+		c_beirut={
+			color={ 77 156 38 }
+			color2={ 255 255 255 }
+			b_beirut={
+				color={ 77 156 38 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5919
+			}
+			b_saida={
+				color={ 77 156 38 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5920
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_tripoli={
+			color={ 75 154 36 }
+			color2={ 255 255 255 }
+			b_syrtripolis={
+				color={ 75 154 36 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5918
+			}
+			b_antartus={
+				color={ 75 154 36 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5916
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	d_damascus={
+		capital="c_damascus"
+		color={ 122 255 3 }
+		color2={ 255 255 255 }
+		c_damascus={
+			color={ 125 255 6 }
+			color2={ 255 255 255 }
+			b_damascus={
+				color={ 125 255 6 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5924
+			}
+			b_nawa={
+				color={ 125 255 6 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5923
+			}
+			b_darayya={
+				color={ 125 255 6 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5953
+			}
+			b_zurra={
+				color={ 125 255 6 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5954
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_juwair={
+			color={ 128 255 9 }
+			color2={ 255 255 255 }
+			b_juwair={
+				color={ 128 255 9 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5951
+			}
+			b_al-qastal={
+				color={ 128 255 9 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5927
+			}
+			b_marj-rahit={
+				color={ 128 255 9 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5952
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_baalbek={
+			color={ 134 255 15 }
+			color2={ 255 255 255 }
+			b_baalbak={
+				color={ 134 255 15 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5926
+			}
+			b_az-zabadani={
+				color={ 134 255 15 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5925
+			}
+			b_anjar={
+				color={ 134 255 15 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5937
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_hauran={
+			color={ 103 214 143 }
+			color2={ 255 255 255 }
+			b_busra={
+				color={ 103 214 143 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5955
+			}
+			b_sarkhad={
+				color={ 103 214 143 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5956
+			}
+			b_as-suwaida-hauran={
+				color={ 103 214 143 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5957
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	d_palmyra={
+		capital="c_palmyra"
+		color={ 35 232 20 }
+		color2={ 255 255 255 }
+		c_palmyra={
+			color={ 89 236 24 }
+			color2={ 255 255 255 }
+			b_tadmur={
+				color={ 89 236 24 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5948
+			}
+			b_arak={
+				color={ 89 236 24 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5947
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_sukhna={
+			color={ 37 234 22 }
+			color2={ 255 255 255 }
+			b_as-sukhna={
+				color={ 37 234 22 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5945
+			}
+			b_dair_ar-ruman={
+				color={ 37 234 22 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5944
+			}
+			b_urd={
+				color={ 37 234 22 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5946
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		c_qaryatan={
+			color={ 39 236 24 }
+			color2={ 255 255 255 }
+			b_al-qaryatan={
+				color={ 39 236 24 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5950
+			}
+			b_judr={
+				color={ 39 236 24 }
+				color2={ 255 255 255 }
+				landless=no
+				definite_form=no
+				ruler_uses_title_name=no
+				province=5949
+			}
+			landless=no
+			definite_form=no
+			ruler_uses_title_name=no
+		}
+		landless=no
+		definite_form=no
+		ruler_uses_title_name=no
+	}
+	landless=no
+	definite_form=no
+	ruler_uses_title_name=no
+}
 }
 e_IMPTOCK3_TYO={
 	capital="c_baghdad"
@@ -86881,231 +87130,7 @@ k_IMPTOCK3_MRY_gedrosia_region={
 	definite_form=no
 	ruler_uses_title_name=no
 }
-k_IMPTOCK3_ROM_cyrenaica_region={
-	color={ 22 2 2 }
-	color2={ 255 223 0 }
-	d_tripolitania={
-		capital="c_tripolitana"
-		color={ 52 136 209 }
-		color2={ 255 255 255 }
-		c_tripolitana={
-			color={ 45 116 179 }
-			color2={ 255 255 255 }
-			b_libtripoli={
-				color={ 45 116 179 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=4557
-			}
-			b_sabratha={
-				color={ 45 116 179 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=4568
-			}
-			b_tamazda={
-				color={ 45 116 179 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=4569
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_djerba={
-			color={ 8 108 196 }
-			color2={ 255 255 255 }
-			b_jerba={
-				color={ 8 108 196 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=4562
-			}
-			b_jarjis={
-				color={ 8 108 196 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=4565
-			}
-			b_bughrara={
-				color={ 8 108 196 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=4566
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_jafara={
-			color={ 71 129 181 }
-			color2={ 255 255 255 }
-			b_zuwara={
-				color={ 71 129 181 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=4561
-			}
-			b_tiri={
-				color={ 71 129 181 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=4558
-			}
-			b_djado_jafara={
-				color={ 71 129 181 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=4559
-			}
-			b_nalut={
-				color={ 71 129 181 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=4560
-			}
-			b_fursata={
-				color={ 71 129 181 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=4567
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	d_syrte={
-		capital="c_syrte"
-		color={ 53 55 189 }
-		color2={ 255 255 255 }
-		c_syrte={
-			color={ 43 45 161 }
-			color2={ 255 255 255 }
-			b_syrte={
-				color={ 43 45 161 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=4552
-			}
-			b_al_aghaila={
-				color={ 43 45 161 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=4550
-			}
-			b_ajadabiya={
-				color={ 43 45 161 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=4551
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_labda={
-			color={ 54 56 133 }
-			color2={ 255 255 255 }
-			b_labda={
-				color={ 54 56 133 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=4556
-			}
-			b_tawurgha={
-				color={ 54 56 133 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=4554
-			}
-			b_misurata={
-				color={ 54 56 133 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=4555
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		c_waddan={
-			color={ 17 20 150 }
-			color2={ 255 255 255 }
-			b_waddan={
-				color={ 17 20 150 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=4563
-			}
-			b_tajrift={
-				color={ 17 20 150 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=4553
-			}
-			b_tinnai={
-				color={ 17 20 150 }
-				color2={ 255 255 255 }
-				landless=no
-				definite_form=no
-				ruler_uses_title_name=no
-				province=4564
-			}
-			landless=no
-			definite_form=no
-			ruler_uses_title_name=no
-		}
-		landless=no
-		definite_form=no
-		ruler_uses_title_name=no
-	}
-	landless=no
-	definite_form=no
-	ruler_uses_title_name=no
-}
+
 d_IMPTOCK3_F94_albania_region={
 	color={ 12 12 3 }
 	color2={ 244 237 222 }
