@@ -1,5 +1,6 @@
 k_nubia={
 	4.1.1={ liege=0 }
+	-5.3.29={ holder="imperator107266" government="feudal_government" }
 }
 d_nobatia={
 	4.1.1={ liege=0 }

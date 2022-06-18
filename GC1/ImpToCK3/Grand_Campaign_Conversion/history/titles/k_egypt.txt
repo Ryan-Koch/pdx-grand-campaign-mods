@@ -1,5 +1,7 @@
 k_egypt={
 	4.1.1={ liege=0 }
+	-5.3.29={ holder="imperator107266" government="feudal_government" }
+	4.1.1={ succession_laws={ "equal_law" "single_heir_succession_law" } }
 }
 d_cyrenaica={
 	4.1.1={ liege=0 }
@@ -21,10 +23,12 @@ c_tobruk={
 }
 d_alexandria={
 	4.1.1={ liege=0 }
+	-5.3.29={ liege=0 holder="imperator107266" }
 }
 c_alexandria={
 	-5.3.29={ liege=0 holder="imperator107266" }
 	4.1.1={ change_development_level=59 }
+	4.1.1={ succession_laws={ "equal_law" "single_heir_succession_law" } }
 }
 c_sullum={
 	-5.3.29={ liege=0 holder="imperator107266" }
@@ -55,10 +59,12 @@ c_sharkiya={
 }
 d_cairo={
 	4.1.1={ liege=0 }
+	-5.3.29={ liege=0 holder="imperator107266" }
 }
 c_cairo={
 	-5.3.29={ liege=0 holder="imperator107266" }
 	4.1.1={ change_development_level=62 }
+	4.1.1={ succession_laws={ "equal_law" "single_heir_succession_law" } }
 }
 c_giza={
 	-5.3.29={ liege=0 holder="imperator107266" }

@@ -17,6 +17,8 @@
 		has_title=title:d_IMPTOCK3_C57
 		has_title=title:d_IMPTOCK3_C58
 		has_title=title:k_IMPTOCK3_F58
+		has_title=title:k_egypt
+		has_title=title:c_samarra
 	}
 }
 historical_succession_access_single_heir_dynasty_house_trigger={
