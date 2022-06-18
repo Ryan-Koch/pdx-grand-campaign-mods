@@ -1,8 +1,10 @@
 k_mesopotamia={
 	4.1.1={ liege=0 }
+	2.7.28={ liege=0 holder="imperator107713" }
 }
 d_samarra={
 	4.1.1={ liege=0 }
+	2.7.28={ liege=0 holder="imperator107713" }
 }
 c_samarra={
 	2.7.28={ liege=0 holder="imperator107713" }
@@ -22,6 +24,7 @@ c_takrit={
 }
 d_wasit={
 	4.1.1={ liege=0 }
+	2.7.28={ liege=0 holder="imperator107713" }
 }
 c_wasit={
 	2.7.28={ liege=0 holder="imperator107713" }
@@ -33,6 +36,7 @@ c_tib={
 }
 d_kufa={
 	4.1.1={ liege=0 }
+	2.7.28={ liege=0 holder="imperator107713" }
 }
 c_kufa={
 	2.7.28={ liege=0 holder="imperator107713" }
@@ -57,6 +61,7 @@ c_waqisa={
 }
 d_basra={
 	4.1.1={ liege=0 }
+	2.7.28={ liege=0 holder="imperator107713" }
 }
 c_basra={
 	2.7.28={ liege=0 holder="imperator107713" }
@@ -72,6 +77,7 @@ c_rusafa={
 }
 d_baghdad={
 	4.1.1={ liege=0 }
+	2.7.28={ liege=0 holder="imperator107713" }
 }
 c_baghdad={
 	2.7.28={ liege=0 holder="imperator107713" }
