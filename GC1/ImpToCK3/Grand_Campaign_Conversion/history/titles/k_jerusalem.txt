@@ -1,5 +1,6 @@
 k_jerusalem={
 	4.1.1={ liege=0 }
+	-5.3.29={ liege=0 holder="imperator107266" }
 }
 d_oultrejourdain={
 	4.1.1={ liege=0 }
@@ -14,6 +15,7 @@ c_negev={
 }
 d_palestine={
 	4.1.1={ liege=0 }
+	-5.3.29={ liege=0 holder="imperator107266" }
 }
 c_jerusalem={
 	-5.3.29={ liege=0 holder="imperator107266" }
@@ -29,6 +31,7 @@ c_jaffa={
 }
 d_urdunn={
 	4.1.1={ liege=0 }
+	-5.3.29={ liege=0 holder="imperator107266" }
 }
 c_tiberias={
 	-5.3.29={ liege=0 holder="imperator107266" }
