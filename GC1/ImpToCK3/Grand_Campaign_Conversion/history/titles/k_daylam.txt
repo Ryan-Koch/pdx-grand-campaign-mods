@@ -1,8 +1,10 @@
 k_daylam={
 	4.1.1={ liege=0 }
+	2.7.28={ liege=0 holder="imperator107713" }
 }
 d_daylam={
 	4.1.1={ liege=0 }
+	2.7.28={ liege=0 holder="imperator107713" }
 }
 c_gilan={
 	2.7.28={ liege=0 holder="imperator107713" }
@@ -18,6 +20,7 @@ c_qazwin={
 }
 d_tabaristan={
 	4.1.1={ liege=0 }
+	2.7.28={ liege=0 holder="imperator107713" }
 }
 c_mazandaran={
 	2.7.28={ liege=0 holder="imperator107713" }
@@ -33,6 +36,7 @@ c_baduspan={
 }
 d_gurgan={
 	4.1.1={ liege=0 }
+	2.7.28={ liege=0 holder="imperator107713" }
 }
 c_gurgan={
 	2.7.28={ liege=0 holder="imperator107713" }

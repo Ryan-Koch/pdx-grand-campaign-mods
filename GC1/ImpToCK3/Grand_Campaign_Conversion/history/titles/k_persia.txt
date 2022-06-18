@@ -1,8 +1,10 @@
 k_persia={
 	4.1.1={ liege=0 }
+	2.7.28={ liege=0 holder="imperator107713" }
 }
 d_isfahan={
 	4.1.1={ liege=0 }
+	2.7.28={ liege=0 holder="imperator107713" }
 }
 c_isfahan={
 	2.7.28={ liege=0 holder="imperator107713" }
@@ -45,6 +47,7 @@ c_jiruft={
 }
 d_yazd={
 	4.1.1={ liege=0 }
+	2.7.28={ liege=0 holder="imperator107713" }
 }
 c_yazd={
 	2.7.28={ liege=0 holder="imperator107713" }
@@ -60,6 +63,7 @@ c_shahre-babak={
 }
 d_rayy={
 	4.1.1={ liege=0 }
+	2.7.28={ liege=0 holder="imperator107713" }
 }
 c_rayy={
 	2.7.28={ liege=0 holder="imperator107713" }
@@ -75,6 +79,7 @@ c_qom={
 }
 d_hamadan={
 	4.1.1={ liege=0 }
+	2.7.28={ liege=0 holder="imperator107713" }
 }
 c_hamadan={
 	2.7.28={ liege=0 holder="imperator107713" }
@@ -90,6 +95,7 @@ c_dinawar={
 }
 d_fars={
 	4.1.1={ liege=0 }
+	2.7.28={ liege=0 holder="imperator107713" }
 }
 c_shiraz={
 	2.7.28={ liege=0 holder="imperator107713" }
@@ -121,6 +127,7 @@ c_irahistan={
 }
 d_hormuz={
 	4.1.1={ liege=0 }
+	2.7.28={ liege=0 holder="imperator107713" }
 }
 c_hormuz={
 	2.7.28={ liege=0 holder="imperator107713" }
@@ -132,6 +139,7 @@ c_sif-i-umara={
 }
 d_khuzestan={
 	4.1.1={ liege=0 }
+	2.7.28={ liege=0 holder="imperator107713" }
 }
 c_ahvaz={
 	2.7.28={ liege=0 holder="imperator107713" }
@@ -159,6 +167,7 @@ c_dawraq={
 }
 d_kermanshah={
 	4.1.1={ liege=0 }
+	2.7.28={ liege=0 holder="imperator107713" }
 }
 c_kermanshah={
 	2.7.28={ liege=0 holder="imperator107713" }
