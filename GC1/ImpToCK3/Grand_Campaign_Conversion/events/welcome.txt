@@ -4,7 +4,7 @@ welcome.1 = {
 	hidden = no
 	type = letter_event
 	opening = { desc = welcome_title }
-	desc = welcome_desc
+	desc = "There should be a description here, but Josh had one job. It was writing it."
 	
 	trigger = { }
 	
@@ -12,10 +12,12 @@ welcome.1 = {
 	
 	immediate = {
 		character:converter_team = { death = natural }
+		add_gold = 15000
 	}
 
 	option = { name = welcome_ok }
 }
+
 
 welcome.2 = { ## It'd be best if someone were to convert this into actual locs and translate them
 	hidden = no

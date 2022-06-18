@@ -854,7 +854,7 @@
 	holding=castle_holding
 }
 3157={
-	culture=norse
+	culture=german
 	religion=germanic_pagan
 	holding=none
 }
@@ -869,17 +869,17 @@
 	holding=none
 }
 3168={
-	culture=norse
+	culture=german
 	religion=germanic_pagan
 	holding=castle_holding
 }
 3167={
-	culture=norse
+	culture=german
 	religion=germanic_pagan
 	holding=castle_holding
 }
 3169={
-	culture=suebi
+	culture=german
 	religion=germanic_pagan
 	holding=church_holding
 }
