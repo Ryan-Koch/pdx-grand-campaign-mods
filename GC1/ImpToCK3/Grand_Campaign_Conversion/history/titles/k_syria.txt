@@ -1,5 +1,6 @@
 k_syria={
 	4.1.1={ liege=0 }
+	-5.3.29={ liege=0 holder="imperator107266" }
 }
 d_aleppo={
 	4.1.1={ liege=0 }
@@ -22,6 +23,7 @@ c_qinnasrin={
 }
 d_edessa={
 	4.1.1={ liege=0 }
+	-5.3.29={ liege=0 holder="imperator107266" }
 }
 c_edessa={
 	2.7.28={ liege=0 holder="imperator107713" }
@@ -41,6 +43,7 @@ c_aintab={
 }
 d_homs={
 	4.1.1={ liege=0 }
+	-5.3.29={ liege=0 holder="imperator107266" }
 }
 c_homs={
 	-5.3.29={ liege=0 holder="imperator107266" }
@@ -56,6 +59,7 @@ c_hama={
 }
 d_lebanon={
 	4.1.1={ liege=0 }
+	-5.3.29={ liege=0 holder="imperator107266" }
 }
 c_beirut={
 	-5.3.29={ liege=0 holder="imperator107266" }

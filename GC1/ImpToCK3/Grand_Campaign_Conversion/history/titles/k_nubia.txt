@@ -1,8 +1,10 @@
 k_nubia={
 	4.1.1={ liege=0 }
+	-5.3.29={ holder="imperator107266" government="feudal_government" }
 }
 d_nobatia={
 	4.1.1={ liege=0 }
+	-5.3.29={ liege=0 holder="imperator107266" }
 }
 c_qasr_ibrim={
 	-5.3.29={ liege=0 holder="imperator107266" }
@@ -26,6 +28,7 @@ c_kalabsha={
 }
 d_makuria={
 	4.1.1={ liege=0 }
+	-5.3.29={ liege=0 holder="imperator107266" }
 }
 c_dongola={
 	-5.3.29={ liege=0 holder="imperator107266" }
