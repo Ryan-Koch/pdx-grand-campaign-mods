@@ -951,9 +951,9 @@
 		region_state:TWT = {
 			create_building = {
 				building = "building_barracks"
-				level = 2
+				level = 10
 				reserves = 1
-				activate_production_methods = { "pm_cannon_artillery" "pm_irregular_infantry" }
+				activate_production_methods = { "pm_mobile_artillery" "pm_skirmish_infantry" }
 			}
 			create_building = {
 				building = "building_cotton_plantation"
@@ -1183,7 +1183,7 @@
 		region_state:TWT = {
 			create_building = {
 				building = "building_barracks"
-				level = 1
+				level = 15
 				reserves = 1
 				activate_production_methods = { "pm_cannon_artillery" "pm_irregular_infantry" }
 			}
@@ -2022,6 +2022,18 @@
 	s:STATE_BAHIA = {
 		region_state:TWT = {
 			create_building = {
+				building = "building_naval_base"
+				level = 20
+				reserves = 1
+				activate_production_methods = { "pm_no_naval_theory" }
+			}
+			create_building = {
+				building = "building_barracks"
+				level = 30
+				reserves = 1
+				activate_production_methods = { "pm_mobile_artillery" "pm_skirmish_infantry" }
+			}
+			create_building = {
 				building = "building_lead_mine"
 				level = 2
 				reserves = 1
@@ -2531,7 +2543,7 @@
 		region_state:TWT = {
 			create_building = {
 				building = "building_barracks"
-				level = 21
+				level = 10
 				reserves = 1
 				activate_production_methods = { "pm_cannon_artillery" "pm_irregular_infantry" }
 			}
@@ -6836,6 +6848,12 @@
 	s:STATE_ECUADOR = {
 		region_state:TWT = {
 			create_building = {
+				building = "building_naval_base"
+				level = 25
+				reserves = 1
+				activate_production_methods = { "pm_no_naval_theory" }
+			}
+			create_building = {
 				building = "building_logging_camp"
 				level = 1
 				reserves = 1
@@ -7863,7 +7881,7 @@
 			}
 			create_building = {
 				building = "building_barracks"
-				level = 23
+				level = 10
 				reserves = 1
 				activate_production_methods = { "pm_cannon_artillery" "pm_irregular_infantry" }
 			}
@@ -10386,6 +10404,18 @@
 	s:STATE_ICA = {
 		region_state:TWT = {
 			create_building = {
+				building = "building_naval_base"
+				level = 15
+				reserves = 1
+				activate_production_methods = { "pm_no_naval_theory" }
+			}
+			create_building = {
+				building = "building_barracks"
+				level = 25
+				reserves = 1
+				activate_production_methods = { "pm_mobile_artillery" "pm_skirmish_infantry" }
+			}
+			create_building = {
 				building = "building_iron_mine"
 				level = 1
 				reserves = 1
@@ -10899,7 +10929,7 @@
 			}
 			create_building = {
 				building = "building_barracks"
-				level = 47
+				level = 20
 				reserves = 1
 				activate_production_methods = { "pm_cannon_artillery" "pm_irregular_infantry" }
 			}
@@ -13025,6 +13055,18 @@
 	}
 	s:STATE_LIMA = {
 		region_state:TWT = {
+			create_building = {
+				building = "building_naval_base"
+				level = 30
+				reserves = 1
+				activate_production_methods = { "pm_no_naval_theory" }
+			}
+			create_building = {
+				building = "building_barracks"
+				level = 30
+				reserves = 1
+				activate_production_methods = { "pm_mobile_artillery" "pm_skirmish_infantry" }
+			}
 			create_building = {
 				building = "building_iron_mine"
 				level = 1
@@ -15477,7 +15519,7 @@
 			}
 			create_building = {
 				building = "building_barracks"
-				level = 53
+				level = 10
 				reserves = 1
 				activate_production_methods = { "pm_cannon_artillery" "pm_irregular_infantry" }
 			}
@@ -16231,7 +16273,7 @@
 			}
 			create_building = {
 				building = "building_barracks"
-				level = 32
+				level = 10
 				reserves = 1
 				activate_production_methods = { "pm_cannon_artillery" "pm_irregular_infantry" }
 			}
@@ -17984,6 +18026,18 @@
 	s:STATE_PERNAMBUCO = {
 		region_state:TWT = {
 			create_building = {
+				building = "building_naval_base"
+				level = 25
+				reserves = 1
+				activate_production_methods = { "pm_no_naval_theory" }
+			}
+			create_building = {
+				building = "building_barracks"
+				level = 30
+				reserves = 1
+				activate_production_methods = { "pm_mobile_artillery" "pm_skirmish_infantry" }
+			}
+			create_building = {
 				building = "building_barracks"
 				level = 1
 				reserves = 1
@@ -18870,6 +18924,12 @@
 	s:STATE_RIO_DE_JANEIRO = {
 		region_state:TWT = {
 			create_building = {
+				building = "building_barracks"
+				level = 30
+				reserves = 1
+				activate_production_methods = { "pm_mobile_artillery" "pm_skirmish_infantry" }
+			}
+			create_building = {
 				building = "building_fishing_wharf"
 				level = 1
 				reserves = 1
@@ -18883,7 +18943,7 @@
 			}
 			create_building = {
 				building = "building_naval_base"
-				level = 9
+				level = 25
 				reserves = 1
 				activate_production_methods = { "pm_no_naval_theory" }
 			}
@@ -19215,6 +19275,12 @@
 	}
 	s:STATE_SANTIAGO = {
 		region_state:TWT = {
+			create_building = {
+				building = "building_barracks"
+				level = 30
+				reserves = 1
+				activate_production_methods = { "pm_mobile_artillery" "pm_skirmish_infantry" }
+			}
 			create_building = {
 				building = "building_naval_base"
 				level = 2
@@ -19731,7 +19797,7 @@
 			}
 			create_building = {
 				building = "building_barracks"
-				level = 56
+				level = 10
 				reserves = 1
 				activate_production_methods = { "pm_cannon_artillery" "pm_irregular_infantry" }
 			}
@@ -20909,7 +20975,7 @@
 			}
 			create_building = {
 				building = "building_barracks"
-				level = 37
+				level = 10
 				reserves = 1
 				activate_production_methods = { "pm_cannon_artillery" "pm_irregular_infantry" }
 			}
@@ -21811,7 +21877,7 @@
 			}
 			create_building = {
 				building = "building_barracks"
-				level = 57
+				level = 10
 				reserves = 1
 				activate_production_methods = { "pm_cannon_artillery" "pm_irregular_infantry" }
 			}
