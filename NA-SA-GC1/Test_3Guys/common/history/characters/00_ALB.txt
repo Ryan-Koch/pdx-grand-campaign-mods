@@ -1,0 +1,50 @@
+﻿CHARACTERS = {
+	c:ALB = {
+		create_character = {
+			first_name = "Fatmir_Xhumba"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1804.11.14
+		}
+
+		create_character = {
+			first_name = "Luise"
+			last_name = "zu_Eulenburg"
+			female = yes
+			culture = cu:south_german
+			religion = rel:protestant
+			birth_date = 1789.10.14
+			traits = {
+				basic_political_operator cruel 
+			}
+		}
+
+		create_character = {
+			first_name = "Maximilian_Emanuel"
+			last_name = "von_Gravenreuth"
+			heir = yes
+			culture = cu:south_german
+			religion = rel:protestant
+			birth_date = 1814.6.22
+			traits = {
+				tactful 
+			}
+		}
+
+		create_character = {
+			first_name = "Albrecht_VII"
+			last_name = "von_Gravenreuth"
+			ruler = yes
+			culture = cu:south_german
+			religion = rel:protestant
+			birth_date = 1799.6.22
+			traits = {
+				cautious 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

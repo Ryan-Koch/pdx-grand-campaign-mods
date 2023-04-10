@@ -1,0 +1,41 @@
+﻿CHARACTERS = {
+	c:V18 = {
+		create_character = {
+			first_name = "Elisabeth"
+			last_name = "von_Wittelsbach"
+			female = yes
+			culture = cu:wallonian
+			religion = rel:protestant
+			birth_date = 1806.7.2
+			traits = {
+				basic_diplomat charismatic 
+			}
+		}
+
+		create_character = {
+			first_name = "Ferdinand_II"
+			last_name = "von_Habsburg"
+			ruler = yes
+			culture = cu:south_german
+			religion = rel:catholic
+			birth_date = 1802.1.1
+			traits = {
+				cruel 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Gunther_Luger"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1775.11.14
+			traits = {
+				meticulous stalwart_defender 
+			}
+		}
+
+	}
+}

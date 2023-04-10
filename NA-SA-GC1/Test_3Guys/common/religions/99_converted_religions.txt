@@ -1,0 +1,121 @@
+﻿
+animist = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 153 77 51 }
+}
+catholic = {
+	texture = "gfx/interface/icons/religion_icons/catholic.dds"
+	traits = { christian }
+	color = { 204 153 102 }
+}
+gelugpa = {
+	texture = "gfx/interface/icons/religion_icons/gelugpa.dds"
+	traits = { buddhist eastern }
+	color = { 26 102 230 }
+}
+hindu = {
+	texture = "gfx/interface/icons/religion_icons/hindu.dds"
+	traits = { eastern }
+	color = { 179 102 77 }
+	taboos = { meat }
+}
+hussite = {
+	texture = "gfx/interface/icons/religion_icons/protestant.dds"
+	traits = { christian }
+	color = { 244 55 9 }
+}
+ibadi = {
+	texture = "gfx/interface/icons/religion_icons/sunni.dds"
+	traits = { muslim }
+	color = { 0 102 0 }
+	taboos = { liquor wine }
+}
+inti = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 64 115 115 }
+}
+jewish = {
+	texture = "gfx/interface/icons/religion_icons/jewish.dds"
+	traits = { jewish }
+	color = { 128 128 51 }
+}
+mahayana = {
+	texture = "gfx/interface/icons/religion_icons/mahayana.dds"
+	traits = { buddhist eastern }
+	color = { 179 89 26 }
+}
+mesoamerican_religion = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 127 25 178 }
+}
+nahuatl = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 64 115 64 }
+}
+norse_pagan_reformed = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 191 191 191 }
+}
+oriental_orthodox = {
+	texture = "gfx/interface/icons/religion_icons/coptic.dds"
+	traits = { christian }
+	color = { 26 128 153 }
+}
+orthodox = {
+	texture = "gfx/interface/icons/religion_icons/orthodox.dds"
+	traits = { christian }
+	color = { 158 163 153 }
+}
+protestant = {
+	texture = "gfx/interface/icons/religion_icons/protestant.dds"
+	traits = { christian }
+	color = { 51 77 140 }
+}
+shiite = {
+	texture = "gfx/interface/icons/religion_icons/shiite.dds"
+	traits = { muslim }
+	color = { 102 179 77 }
+	taboos = { liquor wine }
+}
+shinto = {
+	texture = "gfx/interface/icons/religion_icons/shinto.dds"
+	traits = { eastern }
+	color = { 102 26 51 }
+}
+sikh = {
+	texture = "gfx/interface/icons/religion_icons/sikh.dds"
+	traits = { eastern }
+	color = { 255 255 26 }
+}
+sunni = {
+	texture = "gfx/interface/icons/religion_icons/sunni.dds"
+	traits = { muslim }
+	color = { 26 128 77 }
+	taboos = { liquor wine }
+}
+tengri_pagan_reformed = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 25 76 217 }
+}
+theravada = {
+	texture = "gfx/interface/icons/religion_icons/theravada.dds"
+	traits = { buddhist eastern }
+	color = { 179 102 153 }
+}
+totemism = {
+	texture = "gfx/interface/icons/religion_icons/animist.dds"
+	traits = { animist }
+	color = { 127 115 115 }
+}
+zoroastrian = {
+	texture = "gfx/interface/icons/religion_icons/jewish.dds"
+	traits = { jewish }
+	color = { 127 178 51 }
+}
+

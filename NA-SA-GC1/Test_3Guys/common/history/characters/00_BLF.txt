@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:BLF = {
+		create_character = {
+			first_name = "Stamiscotocar_I"
+			last_name = "Nitotsiksistaniks"
+			ruler = yes
+			culture = cu:algonquian
+			religion = rel:totemism
+			birth_date = 1700.8.17
+			traits = {
+				basic_diplomat 
+			}
+		}
+
+	}
+}

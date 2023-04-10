@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:MDK = {
+		create_character = {
+			first_name = "Al-Mukhtar_II"
+			last_name = "Deo"
+			ruler = yes
+			culture = cu:mande
+			religion = rel:animist
+			birth_date = 1660.5.1
+			traits = {
+				innovative 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,50 @@
+﻿CHARACTERS = {
+	c:X75 = {
+		create_character = {
+			first_name = "Barman_Ghumsur"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1812.12.28
+		}
+
+		create_character = {
+			first_name = "Suratarangini_Devi"
+			last_name = "Karan"
+			female = yes
+			culture = cu:oriya
+			religion = rel:catholic
+			birth_date = 1800.6.4
+			traits = {
+				innovative 
+			}
+		}
+
+		create_character = {
+			first_name = "Haria"
+			last_name = "Gangabansi"
+			heir = yes
+			culture = cu:oriya
+			religion = rel:catholic
+			birth_date = 1823.4.20
+			traits = {
+				experienced_diplomat 
+			}
+		}
+
+		create_character = {
+			first_name = "Harirudra_I"
+			last_name = "Gangabansi"
+			ruler = yes
+			culture = cu:oriya
+			religion = rel:catholic
+			birth_date = 1799.7.13
+			traits = {
+				hedonist 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

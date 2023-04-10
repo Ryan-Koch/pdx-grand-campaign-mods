@@ -1,0 +1,25 @@
+﻿CHARACTERS = {
+	c:X09 = {
+		create_character = {
+			first_name = "Qara_Yuluq_Osman"
+			last_name = "Aq_Qoyunlu"
+			heir = yes
+			culture = cu:turkish
+			religion = rel:sunni
+			birth_date = 1833.4.2
+		}
+
+		create_character = {
+			first_name = "Elvend_Mehmed_II"
+			last_name = "Aq_Qoyunlu"
+			ruler = yes
+			culture = cu:turkish
+			religion = rel:sunni
+			birth_date = 1814.6.1
+			traits = {
+				basic_diplomat innovative 
+			}
+		}
+
+	}
+}

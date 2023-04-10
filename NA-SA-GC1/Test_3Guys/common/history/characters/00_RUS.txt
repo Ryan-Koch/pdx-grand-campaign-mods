@@ -1,0 +1,158 @@
+﻿CHARACTERS = {
+	c:RUS = {
+		create_character = {
+			first_name = "Alexei_Mansurov"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1812.8.10
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Andrei_Shuiski"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1808.4.17
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Malyuta_Shuiski"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1792.2.4
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Nikolai_Dubenski"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1807.9.5
+		}
+
+		create_character = {
+			first_name = "Elizaveta"
+			last_name = "Menshikov"
+			female = yes
+			culture = cu:russian
+			religion = rel:orthodox
+			birth_date = 1800.8.7
+			traits = {
+				direct 
+			}
+		}
+
+		create_character = {
+			first_name = "Pyotr"
+			last_name = "von_Hohenzollern"
+			heir = yes
+			culture = cu:russian
+			religion = rel:orthodox
+			birth_date = 1832.9.12
+			traits = {
+				experienced_diplomat 
+			}
+		}
+
+		create_character = {
+			first_name = "Fyodor_II"
+			last_name = "von_Hohenzollern"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:russian
+			religion = rel:orthodox
+			birth_date = 1805.1.17
+			traits = {
+				basic_colonial_administrator direct 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Semen_Adashev"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1806.8.8
+			traits = {
+				grifter 
+			}
+		}
+
+		create_character = {
+			first_name = "Yuriy_Moskvitin"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1795.1.28
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Stanislav_Adashev"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1809.12.30
+			traits = {
+				grifter 
+			}
+		}
+
+		create_character = {
+			first_name = "Alexei_Dezhnev"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1796.9.9
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Ivan_Semenov"
+			is_admiral = yes
+			birth_date = 1789.12.11
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Kirill_Yalichev"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1781.12.12
+			traits = {
+				basic_defensive_strategist 
+			}
+		}
+
+		create_character = {
+			first_name = "Alexei_Petrov"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1776.5.29
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Lazar_Chuiski"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1771.7.11
+		}
+
+	}
+}

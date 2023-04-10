@@ -1,0 +1,53 @@
+﻿CHARACTERS = {
+	c:W81 = {
+		create_character = {
+			first_name = "Adelheid"
+			last_name = "von_der_Tann"
+			female = yes
+			culture = cu:south_german
+			religion = rel:catholic
+			birth_date = 1813.1.24
+			traits = {
+				arrogant 
+			}
+		}
+
+		create_character = {
+			first_name = "Frederick"
+			last_name = "von_Hohenzollern"
+			heir = yes
+			culture = cu:south_german
+			religion = rel:catholic
+			birth_date = 1835.10.31
+			traits = {
+				experienced_colonial_administrator 
+			}
+		}
+
+		create_character = {
+			first_name = "Frederick_VIII"
+			last_name = "von_Hohenzollern"
+			ruler = yes
+			culture = cu:south_german
+			religion = rel:catholic
+			birth_date = 1797.3.5
+			traits = {
+				charismatic 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Engelbert_Happach"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1788.5.14
+			traits = {
+				meticulous 
+			}
+		}
+
+	}
+}

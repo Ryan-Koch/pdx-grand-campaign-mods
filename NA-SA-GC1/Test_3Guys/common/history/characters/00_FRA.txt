@@ -1,0 +1,204 @@
+﻿CHARACTERS = {
+	c:FRA = {
+		create_character = {
+			first_name = "Anne"
+			last_name = "de_Bourbon"
+			female = yes
+			culture = cu:french
+			religion = rel:catholic
+			birth_date = 1804.8.9
+			traits = {
+				ambitious basic_diplomat 
+			}
+		}
+
+		create_character = {
+			first_name = "Louis"
+			last_name = "de_Valois"
+			heir = yes
+			culture = cu:french
+			religion = rel:catholic
+			birth_date = 1835.9.4
+			traits = {
+				basic_colonial_administrator 
+			}
+		}
+
+		create_character = {
+			first_name = "Georges_de_La_Ferrandie"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1817.2.23
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Sebastien_de_Villeneuve"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1812.12.1
+			traits = {
+				basic_defensive_strategist 
+			}
+		}
+
+		create_character = {
+			first_name = "Sebastien_de_La_Galissoniere"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1796.5.21
+			traits = {
+				stalwart_defender 
+			}
+		}
+
+		create_character = {
+			first_name = "Guillaume_de_Treville"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1799.5.17
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Maurice_de_Luynes"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1801.5.15
+			traits = {
+				stalwart_defender 
+			}
+		}
+
+		create_character = {
+			first_name = "Francois_III"
+			last_name = "de_Valois"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_3
+			culture = cu:french
+			religion = rel:catholic
+			birth_date = 1819.2.3
+			traits = {
+				bigoted experienced_defensive_strategist experienced_diplomat 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Guillaume_de_Saint-Chamond"
+			is_admiral = yes
+			commander_rank = commander_rank_3
+			birth_date = 1796.9.25
+			traits = {
+				basic_naval_commander 
+			}
+		}
+
+		create_character = {
+			first_name = "Gaston_de_Boissieu"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1791.11.14
+			traits = {
+				explorer 
+			}
+		}
+
+		create_character = {
+			first_name = "Pascal_de_Vergennes"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1801.5.22
+			traits = {
+				surveyor 
+			}
+		}
+
+		create_character = {
+			first_name = "Marc_de_Saint-Germain"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1792.6.5
+			traits = {
+				direct 
+			}
+		}
+
+		create_character = {
+			first_name = "Georges_de_La_Motte_d_Airan"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1788.8.26
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Louis_de_Broglie"
+			is_admiral = yes
+			commander_rank = commander_rank_3
+			birth_date = 1802.6.19
+			traits = {
+				traditionalist_commander 
+			}
+		}
+
+		create_character = {
+			first_name = "Georges_de_La_Ferrandie"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1790.9.14
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Benoit_de_Bercy"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1797.10.4
+			traits = {
+				resupply_commander 
+			}
+		}
+
+		create_character = {
+			first_name = "Denis_du_Bosquet"
+			is_admiral = yes
+			birth_date = 1780.1.2
+			traits = {
+				opium_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Jean-Jacques_de_Dampierre"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1765.10.30
+			traits = {
+				psychological_affliction 
+			}
+		}
+
+		create_character = {
+			first_name = "Pascal_des_Coulons"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1787.4.13
+			traits = {
+				opium_addiction 
+			}
+		}
+
+	}
+}

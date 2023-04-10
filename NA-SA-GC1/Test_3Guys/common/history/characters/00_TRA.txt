@@ -1,0 +1,53 @@
+﻿CHARACTERS = {
+	c:TRA = {
+		create_character = {
+			first_name = "Ummayama_Rani"
+			last_name = "Perumpadappu"
+			female = yes
+			culture = cu:malayalam
+			religion = rel:hindu
+			birth_date = 1791.3.30
+			traits = {
+				meticulous 
+			}
+		}
+
+		create_character = {
+			first_name = "Chera_Udaya_Varma"
+			last_name = "Perumal"
+			heir = yes
+			culture = cu:malayalam
+			religion = rel:hindu
+			birth_date = 1814.6.19
+			traits = {
+				reserved 
+			}
+		}
+
+		create_character = {
+			first_name = "Gouri_Parvati_Bai_Unnithan"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1779.1.14
+			traits = {
+				cruel 
+			}
+		}
+
+		create_character = {
+			first_name = "Chera_Udaya_Varma_I"
+			last_name = "Perumal"
+			ruler = yes
+			culture = cu:malayalam
+			religion = rel:hindu
+			birth_date = 1765.2.10
+			traits = {
+				basic_diplomat pious 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

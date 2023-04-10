@@ -1,0 +1,53 @@
+﻿CHARACTERS = {
+	c:SIC = {
+		create_character = {
+			first_name = "Valerio_Tanucci"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1810.6.22
+			traits = {
+				psychological_affliction 
+			}
+		}
+
+		create_character = {
+			first_name = "Ferdinando"
+			last_name = "Pico_di_Mirandola"
+			heir = yes
+			culture = cu:south_italian
+			religion = rel:catholic
+			birth_date = 1834.12.24
+			traits = {
+				basic_diplomat 
+			}
+		}
+
+		create_character = {
+			first_name = "Costanza"
+			last_name = "Ruspoli"
+			female = yes
+			culture = cu:south_italian
+			religion = rel:catholic
+			birth_date = 1813.10.31
+			traits = {
+				basic_diplomat direct 
+			}
+		}
+
+		create_character = {
+			first_name = "Ferdinando_III"
+			last_name = "Pico_di_Mirandola"
+			ruler = yes
+			culture = cu:south_italian
+			religion = rel:catholic
+			birth_date = 1812.12.8
+			traits = {
+				basic_political_operator direct 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

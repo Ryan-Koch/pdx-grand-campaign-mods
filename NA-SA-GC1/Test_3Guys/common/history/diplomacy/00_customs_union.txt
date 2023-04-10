@@ -1,0 +1,20 @@
+﻿DIPLOMACY = {
+	c:SWI = {
+		create_diplomatic_pact = {
+			country = c:V28
+			type = customs_union
+		}
+	}
+	c:X34 = {
+		create_diplomatic_pact = {
+			country = c:NET
+			type = customs_union
+		}
+	}
+	c:SWI = {
+		create_diplomatic_pact = {
+			country = c:W00
+			type = customs_union
+		}
+	}
+}

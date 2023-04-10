@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:CHK = {
+		create_character = {
+			first_name = "Sosola_II"
+			last_name = "Mwale"
+			ruler = yes
+			culture = cu:kavango_bantu
+			religion = rel:animist
+			birth_date = 1514.3.26
+			traits = {
+				imperious 
+			}
+		}
+
+	}
+}

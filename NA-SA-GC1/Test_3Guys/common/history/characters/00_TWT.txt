@@ -1,0 +1,45 @@
+﻿CHARACTERS = {
+	c:TWT = {
+		create_character = {
+			first_name = "Huascar_Huachuri"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1811.1.25
+			traits = {
+				basic_defensive_strategist 
+			}
+		}
+
+		create_character = {
+			first_name = "Coyllas_Quintiraura"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1797.5.1
+			traits = {
+				basic_defensive_strategist 
+			}
+		}
+
+		create_character = {
+			first_name = "Tucuycuyche_Puyu-Vilca"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1772.4.3
+			traits = {
+				opium_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Surandaman_Puma"
+			ruler = yes
+			culture = cu:quechua
+			religion = rel:inti
+			birth_date = 1761.9.26
+			traits = {
+				expert_colonial_administrator innovative 
+			}
+		}
+
+	}
+}

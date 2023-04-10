@@ -1,0 +1,53 @@
+﻿CHARACTERS = {
+	c:LIT = {
+		create_character = {
+			first_name = "Mindaugas_Skorina"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1808.9.30
+			traits = {
+				basic_defensive_strategist 
+			}
+		}
+
+		create_character = {
+			first_name = "Agne"
+			last_name = "Chartoryski"
+			female = yes
+			culture = cu:lithuanian
+			religion = rel:orthodox
+			birth_date = 1775.9.6
+			traits = {
+				innovative 
+			}
+		}
+
+		create_character = {
+			first_name = "Vytautas"
+			last_name = "de_Valois"
+			heir = yes
+			culture = cu:lithuanian
+			religion = rel:orthodox
+			birth_date = 1808.9.20
+			traits = {
+				basic_colonial_administrator wrathful 
+			}
+		}
+
+		create_character = {
+			first_name = "Zygimantas_IV_Augustas"
+			last_name = "de_Valois"
+			ruler = yes
+			culture = cu:lithuanian
+			religion = rel:orthodox
+			birth_date = 1775.7.2
+			traits = {
+				basic_political_operator hedonist 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

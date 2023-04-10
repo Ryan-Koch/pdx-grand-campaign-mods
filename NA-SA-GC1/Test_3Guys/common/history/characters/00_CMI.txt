@@ -1,0 +1,72 @@
+﻿CHARACTERS = {
+	c:CMI = {
+		create_character = {
+			first_name = "Nawrahta_Minsaw"
+			last_name = "Lampang"
+			heir = yes
+			culture = cu:thai
+			religion = rel:theravada
+			birth_date = 1833.9.26
+			traits = {
+				basic_political_operator 
+			}
+		}
+
+		create_character = {
+			first_name = "Taw_Oo"
+			last_name = "Wareru"
+			female = yes
+			culture = cu:mon
+			religion = rel:theravada
+			birth_date = 1797.2.17
+			traits = {
+				basic_political_operator reserved 
+			}
+		}
+
+		create_character = {
+			first_name = "Ingsemang_II"
+			last_name = "Lampang"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_3
+			culture = cu:thai
+			religion = rel:theravada
+			birth_date = 1800.8.8
+			traits = {
+				experienced_political_operator imperious innovative surveyor 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Po_Mayunguan_Pua"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1780.11.21
+			traits = {
+				syphilis 
+			}
+		}
+
+		create_character = {
+			first_name = "Khihut_Santi_Suk"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1775.4.19
+			traits = {
+				basic_defensive_strategist bigoted 
+			}
+		}
+
+		create_character = {
+			first_name = "Kawila_Pua"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1764.10.15
+		}
+
+	}
+}

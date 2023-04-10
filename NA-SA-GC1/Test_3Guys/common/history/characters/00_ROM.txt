@@ -1,0 +1,35 @@
+﻿CHARACTERS = {
+	c:ROM = {
+		create_character = {
+			first_name = "Mircea_Lupu"
+			ruler = yes
+			culture = cu:romanian
+			religion = rel:catholic
+			birth_date = 1799.2.16
+			traits = {
+				direct 
+			}
+		}
+
+		create_character = {
+			first_name = "Radu_Leon_Voda"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1787.6.27
+			traits = {
+				stalwart_defender 
+			}
+		}
+
+		create_character = {
+			first_name = "Moise_Cantacuzino"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1800.4.1
+			traits = {
+				resupply_commander 
+			}
+		}
+
+	}
+}

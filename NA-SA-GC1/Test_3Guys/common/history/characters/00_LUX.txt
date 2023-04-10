@@ -1,0 +1,53 @@
+﻿CHARACTERS = {
+	c:LUX = {
+		create_character = {
+			first_name = "Cosimo"
+			last_name = "Datti"
+			heir = yes
+			culture = cu:north_italian
+			religion = rel:protestant
+			birth_date = 1785.12.3
+			traits = {
+				ambitious basic_diplomat 
+			}
+		}
+
+		create_character = {
+			first_name = "Angelica"
+			last_name = "Datti"
+			female = yes
+			culture = cu:north_italian
+			religion = rel:protestant
+			birth_date = 1794.11.30
+			traits = {
+				basic_political_operator cautious 
+			}
+		}
+
+		create_character = {
+			first_name = "Sigmund_II"
+			last_name = "Datti"
+			ruler = yes
+			culture = cu:north_italian
+			religion = rel:protestant
+			birth_date = 1787.1.28
+			traits = {
+				basic_colonial_administrator charismatic 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Odo_Croye"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1784.1.26
+			traits = {
+				cautious stalwart_defender 
+			}
+		}
+
+	}
+}

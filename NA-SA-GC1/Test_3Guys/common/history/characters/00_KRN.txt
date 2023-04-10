@@ -1,0 +1,53 @@
+﻿CHARACTERS = {
+	c:KRN = {
+		create_character = {
+			first_name = "Maung_Nyo_Kyaingtong"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1801.3.15
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Pyan"
+			last_name = "Bamaw"
+			female = yes
+			culture = cu:mon
+			religion = rel:theravada
+			birth_date = 1786.11.11
+			traits = {
+				charismatic 
+			}
+		}
+
+		create_character = {
+			first_name = "Narapati"
+			last_name = "Wareru"
+			heir = yes
+			culture = cu:mon
+			religion = rel:theravada
+			birth_date = 1813.1.14
+			traits = {
+				basic_political_operator meticulous 
+			}
+		}
+
+		create_character = {
+			first_name = "Thadominbya_II"
+			last_name = "Wareru"
+			ruler = yes
+			culture = cu:mon
+			religion = rel:theravada
+			birth_date = 1795.9.6
+			traits = {
+				innovative 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

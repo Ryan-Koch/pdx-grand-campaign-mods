@@ -1,0 +1,47 @@
+﻿CHARACTERS = {
+	c:MNP = {
+		create_character = {
+			first_name = "Khunjaoba"
+			last_name = "Shubol"
+			heir = yes
+			culture = cu:manipuri
+			religion = rel:theravada
+			birth_date = 1831.10.8
+		}
+
+		create_character = {
+			first_name = "Gyi"
+			last_name = "Taungu"
+			female = yes
+			culture = cu:burmese
+			religion = rel:theravada
+			birth_date = 1810.3.10
+			traits = {
+				cruel 
+			}
+		}
+
+		create_character = {
+			first_name = "Pengshiba_III"
+			last_name = "Shubol"
+			ruler = yes
+			culture = cu:manipuri
+			religion = rel:theravada
+			birth_date = 1793.6.16
+			traits = {
+				basic_political_operator tactful 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Taangjaamba_Pitambara"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1790.3.24
+		}
+
+	}
+}

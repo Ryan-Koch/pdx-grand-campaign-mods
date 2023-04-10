@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:TUS = {
+		create_character = {
+			first_name = "Francesco_I"
+			last_name = "de__Medici"
+			ruler = yes
+			culture = cu:north_italian
+			religion = rel:catholic
+			birth_date = 1813.12.8
+			traits = {
+				experienced_political_operator innovative 
+			}
+		}
+
+	}
+}

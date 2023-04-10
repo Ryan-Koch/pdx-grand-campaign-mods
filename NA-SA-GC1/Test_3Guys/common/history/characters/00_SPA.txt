@@ -1,0 +1,201 @@
+﻿CHARACTERS = {
+	c:SPA = {
+		create_character = {
+			first_name = "Anne"
+			last_name = "de_Bourbon"
+			female = yes
+			culture = cu:french
+			religion = rel:catholic
+			birth_date = 1804.8.9
+			traits = {
+				ambitious basic_diplomat 
+			}
+		}
+
+		create_character = {
+			first_name = "Louis"
+			last_name = "de_Valois"
+			heir = yes
+			culture = cu:french
+			religion = rel:catholic
+			birth_date = 1835.9.4
+			traits = {
+				basic_colonial_administrator 
+			}
+		}
+
+		create_character = {
+			first_name = "Pedro_de_Alarcon"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1812.5.31
+			traits = {
+				syphilis 
+			}
+		}
+
+		create_character = {
+			first_name = "Pelayo_de_Egmont"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1806.10.18
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Fadrique_Cabeza_de_Vaca"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1802.6.14
+			traits = {
+				stalwart_defender 
+			}
+		}
+
+		create_character = {
+			first_name = "Luis_Alvarez_de_Toledo"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1794.5.5
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Alonso_de_Benavides"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1811.11.11
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Antonio_Fernandez_de_Cordoba"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1814.4.13
+			traits = {
+				stalwart_defender 
+			}
+		}
+
+		create_character = {
+			first_name = "Francisco_de_Austria"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1806.7.26
+		}
+
+		create_character = {
+			first_name = "Baltasar_de_Ripperda"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1800.6.24
+		}
+
+		create_character = {
+			first_name = "Antonio_de_Zuniga"
+			is_admiral = yes
+			birth_date = 1796.10.5
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Luis_Cagigal_de_la_Vega"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1805.11.4
+			traits = {
+				opium_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Ramiro_de_Beaumont"
+			is_admiral = yes
+			birth_date = 1808.3.18
+			traits = {
+				cocaine_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Francois_III"
+			last_name = "de_Valois"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_3
+			culture = cu:french
+			religion = rel:catholic
+			birth_date = 1819.2.3
+			traits = {
+				bigoted experienced_defensive_strategist experienced_diplomat 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Guillermo_Alvarez_de_Toledo"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1796.5.6
+			traits = {
+				grifter 
+			}
+		}
+
+		create_character = {
+			first_name = "Tomas_Fernandez_de_Cordoba"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1803.4.13
+			traits = {
+				surveyor 
+			}
+		}
+
+		create_character = {
+			first_name = "Cristobal_de_Leiva"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1791.8.16
+		}
+
+		create_character = {
+			first_name = "Carlos_Fadrique_de_Toledo"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1797.8.6
+		}
+
+		create_character = {
+			first_name = "Hermenegildo_de_Zuniga"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1777.8.31
+			traits = {
+				opium_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Jorge_Gravina"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1791.6.14
+			traits = {
+				explorer 
+			}
+		}
+
+	}
+}

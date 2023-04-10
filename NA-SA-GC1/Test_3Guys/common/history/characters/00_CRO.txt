@@ -1,0 +1,135 @@
+﻿CHARACTERS = {
+	c:CRO = {
+		create_character = {
+			first_name = "Juraj_Kruzic"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1808.9.10
+			traits = {
+				psychological_affliction 
+			}
+		}
+
+		create_character = {
+			first_name = "Grgur_Krbavski"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1793.10.28
+			traits = {
+				basic_defensive_strategist 
+			}
+		}
+
+		create_character = {
+			first_name = "Matija_Kruzic"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1795.8.29
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Aleksandar_Rukavina"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1812.9.22
+			traits = {
+				charismatic 
+			}
+		}
+
+		create_character = {
+			first_name = "Ludovik_Drashkovic"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1805.1.18
+			traits = {
+				basic_defensive_strategist 
+			}
+		}
+
+		create_character = {
+			first_name = "Nikola_Kacic"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1810.3.7
+			traits = {
+				stalwart_defender 
+			}
+		}
+
+		create_character = {
+			first_name = "Mihajlo_Knezevic"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1796.3.20
+			traits = {
+				direct stalwart_defender 
+			}
+		}
+
+		create_character = {
+			first_name = "Goislav_Ilocki"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1790.4.8
+			traits = {
+				wrathful 
+			}
+		}
+
+		create_character = {
+			first_name = "Jelena"
+			last_name = "Subic"
+			female = yes
+			culture = cu:croat
+			religion = rel:catholic
+			birth_date = 1797.6.6
+			traits = {
+				experienced_colonial_administrator persistent 
+			}
+		}
+
+		create_character = {
+			first_name = "Kreshimir"
+			last_name = "Buzhansky"
+			heir = yes
+			culture = cu:croat
+			religion = rel:catholic
+			birth_date = 1826.5.1
+			traits = {
+				experienced_political_operator 
+			}
+		}
+
+		create_character = {
+			first_name = "Almosh_III"
+			last_name = "Buzhansky"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:croat
+			religion = rel:catholic
+			birth_date = 1805.3.29
+			traits = {
+				masterful_diplomat persistent reckless stalwart_defender 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Miroslav_Frankapan"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1805.11.15
+			traits = {
+				basic_offensive_planner bigoted 
+			}
+		}
+
+	}
+}

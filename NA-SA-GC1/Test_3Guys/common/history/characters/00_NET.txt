@@ -1,0 +1,52 @@
+﻿CHARACTERS = {
+	c:NET = {
+		create_character = {
+			first_name = "Dirk_Schenk"
+			ruler = yes
+			culture = cu:dutch
+			religion = rel:catholic
+			birth_date = 1787.5.26
+			traits = {
+				ambitious 
+			}
+		}
+
+		create_character = {
+			first_name = "Pieter_De_Moor"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1792.3.3
+			traits = {
+				surveyor wrathful 
+			}
+		}
+
+		create_character = {
+			first_name = "Jeroen_Vliechop"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1798.6.9
+			traits = {
+				psychological_affliction 
+			}
+		}
+
+		create_character = {
+			first_name = "Laurens_Vliechop"
+			is_admiral = yes
+			commander_rank = commander_rank_3
+			birth_date = 1798.9.25
+			traits = {
+				traditionalist_commander 
+			}
+		}
+
+		create_character = {
+			first_name = "Frederik_Van_Wijngaarden"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1779.9.22
+		}
+
+	}
+}

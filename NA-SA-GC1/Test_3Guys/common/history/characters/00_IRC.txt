@@ -1,0 +1,18 @@
+﻿CHARACTERS = {
+	c:IRC = {
+		create_character = {
+			first_name = "Payipwat_I"
+			last_name = "Kapawe_no"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:cree
+			religion = rel:totemism
+			birth_date = 1709.10.6
+			traits = {
+				stalwart_defender 
+			}
+		}
+
+	}
+}

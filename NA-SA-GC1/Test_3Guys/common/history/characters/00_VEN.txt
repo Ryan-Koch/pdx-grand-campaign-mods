@@ -1,0 +1,35 @@
+﻿CHARACTERS = {
+	c:VEN = {
+		create_character = {
+			first_name = "Agostino_Bardolino"
+			ruler = yes
+			culture = cu:north_italian
+			religion = rel:catholic
+			birth_date = 1765.10.24
+			traits = {
+				hedonist 
+			}
+		}
+
+		create_character = {
+			first_name = "Domenico_Bassano"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1773.2.18
+			traits = {
+				resupply_commander 
+			}
+		}
+
+		create_character = {
+			first_name = "Domenico_Pesaro"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1783.9.17
+			traits = {
+				arrogant 
+			}
+		}
+
+	}
+}

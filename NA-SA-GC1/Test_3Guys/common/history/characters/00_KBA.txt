@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:KBA = {
+		create_character = {
+			first_name = "Mikope_Mbula_I"
+			last_name = "Kuba"
+			ruler = yes
+			culture = cu:mongo
+			religion = rel:animist
+			birth_date = 1474.11.28
+			traits = {
+				direct 
+			}
+		}
+
+	}
+}
