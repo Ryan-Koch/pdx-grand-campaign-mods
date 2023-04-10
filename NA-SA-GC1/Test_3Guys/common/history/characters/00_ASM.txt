@@ -1,0 +1,53 @@
+﻿CHARACTERS = {
+	c:ASM = {
+		create_character = {
+			first_name = "Kuranganayani"
+			last_name = "Sutiya"
+			female = yes
+			culture = cu:assamese
+			religion = rel:hindu
+			birth_date = 1809.7.26
+			traits = {
+				cruel 
+			}
+		}
+
+		create_character = {
+			first_name = "Sudangpha"
+			last_name = "Das"
+			heir = yes
+			culture = cu:assamese
+			religion = rel:hindu
+			birth_date = 1834.12.7
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Sudangpha_IV"
+			last_name = "Das"
+			ruler = yes
+			culture = cu:assamese
+			religion = rel:hindu
+			birth_date = 1806.10.10
+			traits = {
+				ambitious 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Sutamla_Prithu"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1781.2.24
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+	}
+}

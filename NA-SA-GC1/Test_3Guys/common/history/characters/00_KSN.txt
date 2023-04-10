@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:KSN = {
+		create_character = {
+			first_name = "Kalunga_I"
+			last_name = "Imbangala"
+			ruler = yes
+			culture = cu:lunda
+			religion = rel:animist
+			birth_date = 1466.8.2
+			traits = {
+				direct 
+			}
+		}
+
+	}
+}

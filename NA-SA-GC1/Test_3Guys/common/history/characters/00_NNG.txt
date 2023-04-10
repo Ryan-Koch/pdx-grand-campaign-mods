@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:NNG = {
+		create_character = {
+			first_name = "Adoni_I"
+			last_name = "Gurruwiwi"
+			ruler = yes
+			culture = cu:aborigine
+			religion = rel:animist
+			birth_date = 1635.4.5
+			traits = {
+				innovative 
+			}
+		}
+
+	}
+}

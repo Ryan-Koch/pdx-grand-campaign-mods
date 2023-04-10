@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:BRU = {
+		create_character = {
+			first_name = "Muhammad_I"
+			last_name = "Bolkiah"
+			ruler = yes
+			culture = cu:bornean
+			religion = rel:sunni
+			birth_date = 1737.1.17
+			traits = {
+				cautious 
+			}
+		}
+
+	}
+}

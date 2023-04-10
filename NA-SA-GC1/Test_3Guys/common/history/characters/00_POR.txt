@@ -1,0 +1,136 @@
+﻿CHARACTERS = {
+	c:POR = {
+		create_character = {
+			first_name = "Marco_de_Ataide"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1818.7.6
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Bartolomeu_de_Pimentel"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1811.10.3
+			traits = {
+				cocaine_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Luis_Pereira"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1802.10.3
+		}
+
+		create_character = {
+			first_name = "Joao"
+			last_name = "de_Valois"
+			heir = yes
+			culture = cu:portuguese
+			religion = rel:catholic
+			birth_date = 1832.10.19
+			traits = {
+				basic_diplomat 
+			}
+		}
+
+		create_character = {
+			first_name = "Margaret"
+			last_name = "Raleigh"
+			female = yes
+			culture = cu:british
+			religion = rel:protestant
+			birth_date = 1813.10.1
+			traits = {
+				persistent 
+			}
+		}
+
+		create_character = {
+			first_name = "Henrique_II"
+			last_name = "de_Valois"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:portuguese
+			religion = rel:catholic
+			birth_date = 1810.12.21
+			traits = {
+				basic_colonial_administrator bigoted 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Rogerio_de_Castro"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1808.7.10
+			traits = {
+				surveyor 
+			}
+		}
+
+		create_character = {
+			first_name = "Duarte_de_Meneses"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1787.11.13
+			traits = {
+				explorer 
+			}
+		}
+
+		create_character = {
+			first_name = "Simao_de_Vasconcelos"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1803.8.20
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Paulo_de_Vasconcelos"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1794.1.5
+			traits = {
+				charismatic 
+			}
+		}
+
+		create_character = {
+			first_name = "Gaspar_Teixeira"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1795.8.17
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Luis_de_Sampaio"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1788.12.7
+		}
+
+		create_character = {
+			first_name = "Teodosio_de_Albuquerque"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1778.1.22
+		}
+
+	}
+}

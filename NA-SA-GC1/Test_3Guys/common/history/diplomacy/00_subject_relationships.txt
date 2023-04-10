@@ -1,0 +1,128 @@
+﻿DIPLOMACY = {
+	c:PRU = {
+		create_diplomatic_pact = {
+			country = c:W60
+			type = puppet
+		}
+	}
+	c:FRA = {
+		create_diplomatic_pact = {
+			country = c:SPA
+			type = personal_union
+		}
+	}
+	c:BAV = {
+		create_diplomatic_pact = {
+			country = c:ALB
+			type = personal_union
+		}
+	}
+	c:RUS = {
+		create_diplomatic_pact = {
+			country = c:X95
+			type = vassal
+		}
+	}
+	c:RUS = {
+		create_diplomatic_pact = {
+			country = c:X86
+			type = vassal
+		}
+	}
+	c:JAP = {
+		create_diplomatic_pact = {
+			country = c:W37
+			type = protectorate
+		}
+	}
+	c:JAP = {
+		create_diplomatic_pact = {
+			country = c:V36
+			type = protectorate
+		}
+	}
+	c:JAP = {
+		create_diplomatic_pact = {
+			country = c:X55
+			type = protectorate
+		}
+	}
+	c:MGL = {
+		create_diplomatic_pact = {
+			country = c:W21
+			type = tributary
+		}
+	}
+	c:MGL = {
+		create_diplomatic_pact = {
+			country = c:W86
+			type = tributary
+		}
+	}
+	c:MGL = {
+		create_diplomatic_pact = {
+			country = c:W16
+			type = tributary
+		}
+	}
+	c:CAM = {
+		create_diplomatic_pact = {
+			country = c:X83
+			type = tributary
+		}
+	}
+	c:CAM = {
+		create_diplomatic_pact = {
+			country = c:YUE
+			type = tributary
+		}
+	}
+	c:CMI = {
+		create_diplomatic_pact = {
+			country = c:KRN
+			type = tributary
+		}
+	}
+	c:CMI = {
+		create_diplomatic_pact = {
+			country = c:QIA
+			type = tributary
+		}
+	}
+	c:CMI = {
+		create_diplomatic_pact = {
+			country = c:DAI
+			type = tributary
+		}
+	}
+	c:CMI = {
+		create_diplomatic_pact = {
+			country = c:X14
+			type = tributary
+		}
+	}
+	c:CMI = {
+		create_diplomatic_pact = {
+			country = c:W95
+			type = tributary
+		}
+	}
+	c:CMI = {
+		create_diplomatic_pact = {
+			country = c:X54
+			type = tributary
+		}
+	}
+	c:V30 = {
+		create_diplomatic_pact = {
+			country = c:W75
+			type = tributary
+		}
+	}
+	c:W73 = {
+		create_diplomatic_pact = {
+			country = c:W80
+			type = tributary
+		}
+	}
+}

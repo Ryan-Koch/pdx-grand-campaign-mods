@@ -1,0 +1,29 @@
+{
+	"name" : "Converted - Test_3Guys",
+	"id" : "",
+	"version" : "",
+	"picture" : "thumbnail.png",
+	"supported_game_version" : "",
+	"short_description" : "Conversion from EU4: Test_3Guys",
+	"tags" : ["Alternative History", "Conversion"],
+	"relationships" : [],
+	"game_custom_data" : {
+		"multiplayer_synchronized" : true,
+		"replace_paths" : [
+			"common/cultures",
+			"common/country_definitions",
+			"common/history/buildings",
+			"common/history/characters",
+			"common/history/countries",
+			"common/history/diplomacy",
+			"common/history/diplomatic_plays",
+			"common/history/interests",
+			"common/history/pops",
+			"common/history/population",
+			"common/history/production_methods",
+			"common/history/states",
+			"common/history/trade_routes",
+			"common/religions"
+		]
+	}
+}

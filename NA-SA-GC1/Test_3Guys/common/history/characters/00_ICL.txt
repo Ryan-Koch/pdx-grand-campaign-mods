@@ -1,0 +1,55 @@
+﻿CHARACTERS = {
+	c:ICL = {
+		create_character = {
+			first_name = "Soren_Norheim"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1800.11.17
+			traits = {
+				surveyor 
+			}
+		}
+
+		create_character = {
+			first_name = "Olav_Nikulasson"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1793.3.22
+		}
+
+		create_character = {
+			first_name = "Mats_Arnesson"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1805.5.23
+			traits = {
+				explorer 
+			}
+		}
+
+		create_character = {
+			first_name = "Erik"
+			last_name = "Vanso"
+			heir = yes
+			culture = cu:icelandic
+			religion = rel:protestant
+			birth_date = 1790.4.23
+			traits = {
+				cruel experienced_diplomat 
+			}
+		}
+
+		create_character = {
+			first_name = "Jon_III"
+			last_name = "Kaas"
+			ruler = yes
+			culture = cu:icelandic
+			religion = rel:protestant
+			birth_date = 1786.12.10
+			traits = {
+				hedonist 
+			}
+		}
+
+	}
+}

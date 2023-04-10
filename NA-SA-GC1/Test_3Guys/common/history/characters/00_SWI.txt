@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:SWI = {
+		create_character = {
+			first_name = "Ruprecht_Frei"
+			ruler = yes
+			culture = cu:swiss
+			religion = rel:protestant
+			birth_date = 1788.5.24
+			traits = {
+				basic_political_operator reserved 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:KON = {
+		create_character = {
+			first_name = "Garcia_V"
+			last_name = "Loanga"
+			ruler = yes
+			culture = cu:bakongo
+			religion = rel:catholic
+			birth_date = 1802.6.6
+			traits = {
+				experienced_colonial_administrator meticulous 
+			}
+		}
+
+	}
+}

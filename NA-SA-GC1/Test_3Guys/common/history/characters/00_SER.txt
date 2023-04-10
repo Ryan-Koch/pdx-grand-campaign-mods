@@ -1,0 +1,43 @@
+﻿CHARACTERS = {
+	c:SER = {
+		create_character = {
+			first_name = "Stefan"
+			last_name = "Petrovic"
+			heir = yes
+			culture = cu:serb
+			religion = rel:catholic
+			birth_date = 1831.2.11
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Svetlana"
+			last_name = "Buzhansky"
+			female = yes
+			culture = cu:polish
+			religion = rel:orthodox
+			birth_date = 1797.1.24
+			traits = {
+				reserved 
+			}
+		}
+
+		create_character = {
+			first_name = "Djuradj_I"
+			last_name = "Petrovic"
+			ruler = yes
+			culture = cu:serb
+			religion = rel:catholic
+			birth_date = 1803.7.22
+			traits = {
+				cruel 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

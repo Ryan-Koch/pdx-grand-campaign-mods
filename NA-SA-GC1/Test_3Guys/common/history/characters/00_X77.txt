@@ -1,0 +1,47 @@
+﻿CHARACTERS = {
+	c:X77 = {
+		create_character = {
+			first_name = "Fatima"
+			last_name = "Calukya"
+			female = yes
+			culture = cu:gujarati
+			religion = rel:sunni
+			birth_date = 1780.12.27
+			traits = {
+				arrogant 
+			}
+		}
+
+		create_character = {
+			first_name = "Dawud"
+			last_name = "Muzaffarid"
+			heir = yes
+			is_general = yes
+			commander_rank = commander_rank_3
+			culture = cu:gujarati
+			religion = rel:sunni
+			birth_date = 1812.2.10
+			traits = {
+				ambitious basic_defensive_strategist basic_political_operator charismatic 
+			}
+		}
+
+		create_character = {
+			first_name = "Zafar_I"
+			last_name = "Muzaffarid"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:gujarati
+			religion = rel:sunni
+			birth_date = 1797.2.10
+			traits = {
+				basic_offensive_planner cautious 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

@@ -1,0 +1,28 @@
+﻿CHARACTERS = {
+	c:BOR = {
+		create_character = {
+			first_name = "Dunama"
+			last_name = "Djammous"
+			heir = yes
+			culture = cu:kanuri
+			religion = rel:sunni
+			birth_date = 1817.12.30
+			traits = {
+				basic_political_operator direct 
+			}
+		}
+
+		create_character = {
+			first_name = "_Ali_II"
+			last_name = "Djammous"
+			ruler = yes
+			culture = cu:kanuri
+			religion = rel:sunni
+			birth_date = 1801.12.25
+			traits = {
+				cautious 
+			}
+		}
+
+	}
+}

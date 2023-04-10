@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:TUR = {
+		create_character = {
+			first_name = "Hayreddin_Bali"
+			ruler = yes
+			culture = cu:turkish
+			religion = rel:sunni
+			birth_date = 1763.11.13
+			traits = {
+				basic_diplomat cautious 
+			}
+		}
+
+	}
+}

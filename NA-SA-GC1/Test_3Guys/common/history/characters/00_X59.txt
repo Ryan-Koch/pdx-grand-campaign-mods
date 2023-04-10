@@ -1,0 +1,171 @@
+﻿CHARACTERS = {
+	c:X59 = {
+		create_character = {
+			first_name = "Narendra_Musharif"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1812.3.19
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Mohammed_Shah_Jahan"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1796.10.28
+			traits = {
+				resupply_commander 
+			}
+		}
+
+		create_character = {
+			first_name = "Daulat_Khan_Khan"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1795.12.12
+			traits = {
+				syphilis 
+			}
+		}
+
+		create_character = {
+			first_name = "Malik_Ali"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1801.6.14
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Iqbal_Jahan"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1801.9.16
+			traits = {
+				resupply_commander 
+			}
+		}
+
+		create_character = {
+			first_name = "Ghazi_Ali"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1790.4.29
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Narendra_Singh"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1777.6.27
+		}
+
+		create_character = {
+			first_name = "Hemu_Singh"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1791.4.6
+		}
+
+		create_character = {
+			first_name = "Ghazi_Nagar"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1782.6.6
+			traits = {
+				basic_defensive_strategist charismatic 
+			}
+		}
+
+		create_character = {
+			first_name = "Saadat_Nazimuddin"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1790.9.21
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Saikander_Sharma"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1798.3.27
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Safdarjung_Khan"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1797.1.16
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Obaid_Sinan"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1776.5.31
+			traits = {
+				tactful 
+			}
+		}
+
+		create_character = {
+			first_name = "Fakhr-un-Nisa"
+			last_name = "Tughluq"
+			female = yes
+			culture = cu:pashtun
+			religion = rel:sunni
+			birth_date = 1778.2.26
+			traits = {
+				basic_political_operator direct 
+			}
+		}
+
+		create_character = {
+			first_name = "Nusrat"
+			last_name = "Lodi"
+			heir = yes
+			is_general = yes
+			commander_rank = commander_rank_1
+			culture = cu:pashtun
+			religion = rel:sunni
+			birth_date = 1801.3.11
+			traits = {
+				arrogant 
+			}
+		}
+
+		create_character = {
+			first_name = "Nusrat_II"
+			last_name = "Lodi"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:pashtun
+			religion = rel:sunni
+			birth_date = 1785.9.25
+			traits = {
+				cautious experienced_diplomat 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

@@ -1,0 +1,187 @@
+﻿CHARACTERS = {
+	c:PRU = {
+		create_character = {
+			first_name = "Helmut_von_Ruts"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1802.11.2
+			traits = {
+				opium_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Erwin_Arnim"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1790.5.5
+			traits = {
+				experienced_artillery_commander 
+			}
+		}
+
+		create_character = {
+			first_name = "Friedrich_Albrecht_von_Derfflinger"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1801.3.18
+			traits = {
+				convoy_raider_commander 
+			}
+		}
+
+		create_character = {
+			first_name = "Franz_von_Seel"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1800.2.11
+			traits = {
+				expert_defensive_strategist 
+			}
+		}
+
+		create_character = {
+			first_name = "Gottfried_von_Bimback"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1793.12.20
+			traits = {
+				stalwart_defender 
+			}
+		}
+
+		create_character = {
+			first_name = "Ludwig_Karl_Finck"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1798.2.13
+			traits = {
+				surveyor 
+			}
+		}
+
+		create_character = {
+			first_name = "Albrecht_von_Quernheimberg"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1794.6.13
+			traits = {
+				resupply_commander 
+			}
+		}
+
+		create_character = {
+			first_name = "Ludwig_von_Hohenlohe"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1794.12.22
+			traits = {
+				explorer meticulous 
+			}
+		}
+
+		create_character = {
+			first_name = "Urs_von_Rauch"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1794.7.31
+			traits = {
+				surveyor wrathful 
+			}
+		}
+
+		create_character = {
+			first_name = "Hedwig"
+			last_name = "von_Knorring"
+			female = yes
+			culture = cu:north_german
+			religion = rel:protestant
+			birth_date = 1784.7.10
+			traits = {
+				charismatic experienced_political_operator 
+			}
+		}
+
+		create_character = {
+			first_name = "Friedrich_Wilhelm"
+			last_name = "von_Hohenzollern"
+			heir = yes
+			is_general = yes
+			commander_rank = commander_rank_4
+			culture = cu:north_german
+			religion = rel:protestant
+			birth_date = 1812.12.18
+			traits = {
+				basic_political_operator defense_in_depth_specialist innovative reckless 
+			}
+		}
+
+		create_character = {
+			first_name = "Friedrich_Wilhelm_VI"
+			last_name = "von_Hohenzollern"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_3
+			culture = cu:north_german
+			religion = rel:protestant
+			birth_date = 1797.12.18
+			traits = {
+				basic_colonial_administrator experienced_defensive_strategist meticulous 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Friedrich_von_Wermsdorff"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1783.6.5
+			traits = {
+				basic_artillery_commander 
+			}
+		}
+
+		create_character = {
+			first_name = "Albrecht_von_Buhler"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1793.4.16
+			traits = {
+				convoy_raider_commander 
+			}
+		}
+
+		create_character = {
+			first_name = "Rupprecht_von_Rottenburg"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1773.4.27
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Adolf_von_Rottenburg"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1770.3.21
+			traits = {
+				explorer persistent 
+			}
+		}
+
+		create_character = {
+			first_name = "Karl_von_Schwerin"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1779.6.21
+			traits = {
+				trench_rat 
+			}
+		}
+
+	}
+}

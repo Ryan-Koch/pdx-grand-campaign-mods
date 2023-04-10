@@ -1,0 +1,25 @@
+﻿CHARACTERS = {
+	c:X70 = {
+		create_character = {
+			first_name = "Ruprecht_Hertzler"
+			ruler = yes
+			culture = cu:swiss
+			religion = rel:protestant
+			birth_date = 1790.10.27
+			traits = {
+				direct 
+			}
+		}
+
+		create_character = {
+			first_name = "Leonhard_Bischofberger"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1783.8.25
+			traits = {
+				meticulous 
+			}
+		}
+
+	}
+}

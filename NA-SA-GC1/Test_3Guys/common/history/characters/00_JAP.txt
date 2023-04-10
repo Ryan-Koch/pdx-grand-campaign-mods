@@ -1,0 +1,129 @@
+﻿CHARACTERS = {
+	c:JAP = {
+		create_character = {
+			first_name = "Yasuhito_Ashikaga"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1793.12.6
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Hideyoshi_Ogasawara"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1808.9.13
+			traits = {
+				explorer 
+			}
+		}
+
+		create_character = {
+			first_name = "Mihito_Matsunaga"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1796.8.21
+			traits = {
+				stalwart_defender 
+			}
+		}
+
+		create_character = {
+			first_name = "Yoshimune_Amago"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1788.10.9
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Ayahito_Tokugawa"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1786.10.17
+			traits = {
+				surveyor 
+			}
+		}
+
+		create_character = {
+			first_name = "Tsunayoshi_Asakura"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1788.2.11
+		}
+
+		create_character = {
+			first_name = "Fusahito_Shibata"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1787.1.31
+		}
+
+		create_character = {
+			first_name = "Yoshizumi_Date"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1791.6.7
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Motohito"
+			last_name = "Ashikaga"
+			heir = yes
+			culture = cu:japanese
+			religion = rel:shinto
+			birth_date = 1817.11.20
+			traits = {
+				innovative 
+			}
+		}
+
+		create_character = {
+			first_name = "Yuantong"
+			last_name = "Feng"
+			female = yes
+			culture = cu:min
+			religion = rel:theravada
+			birth_date = 1789.8.28
+			traits = {
+				direct 
+			}
+		}
+
+		create_character = {
+			first_name = "Motohito_II"
+			last_name = "Ashikaga"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_1
+			culture = cu:japanese
+			religion = rel:shinto
+			birth_date = 1802.5.13
+			traits = {
+				reserved 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Nobutada_Nagao"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1783.4.18
+			traits = {
+				bigoted stalwart_defender 
+			}
+		}
+
+	}
+}

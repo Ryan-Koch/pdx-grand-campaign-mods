@@ -1,0 +1,85 @@
+﻿CHARACTERS = {
+	c:GAL = {
+		create_character = {
+			first_name = "Rostislav_von_Buxhoevden"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1803.5.17
+			traits = {
+				experienced_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Afanasiy_Sjeremetjev"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1807.5.28
+			traits = {
+				trench_rat 
+			}
+		}
+
+		create_character = {
+			first_name = "Yuliya"
+			last_name = "Koroviev"
+			female = yes
+			culture = cu:polish
+			religion = rel:orthodox
+			birth_date = 1799.5.4
+			traits = {
+				charismatic 
+			}
+		}
+
+		create_character = {
+			first_name = "Vasiliy"
+			last_name = "Buzhansky"
+			heir = yes
+			culture = cu:polish
+			religion = rel:orthodox
+			birth_date = 1821.6.9
+			traits = {
+				basic_diplomat 
+			}
+		}
+
+		create_character = {
+			first_name = "Vladimir_V"
+			last_name = "Buzhansky"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:polish
+			religion = rel:orthodox
+			birth_date = 1806.6.9
+			traits = {
+				arrogant basic_diplomat basic_offensive_planner 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Matveiy_Vasiljevitj"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1799.1.29
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Oleg_Sjeremetjev"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1801.2.22
+			traits = {
+				cruel trench_rat 
+			}
+		}
+
+	}
+}

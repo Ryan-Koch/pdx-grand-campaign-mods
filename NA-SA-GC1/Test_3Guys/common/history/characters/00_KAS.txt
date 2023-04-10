@@ -1,0 +1,38 @@
+﻿CHARACTERS = {
+	c:KAS = {
+		create_character = {
+			first_name = "Ghazi_Shah_Dev"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1797.2.1
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Sikandar"
+			last_name = "Shah_Miri"
+			heir = yes
+			culture = cu:kashmiri
+			religion = rel:shiite
+			birth_date = 1799.10.20
+			traits = {
+				cautious 
+			}
+		}
+
+		create_character = {
+			first_name = "Nazuk_Shah_I"
+			last_name = "Shah_Miri"
+			ruler = yes
+			culture = cu:kashmiri
+			religion = rel:shiite
+			birth_date = 1779.6.14
+			traits = {
+				basic_political_operator romantic 
+			}
+		}
+
+	}
+}

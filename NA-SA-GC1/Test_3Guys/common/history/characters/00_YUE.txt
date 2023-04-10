@@ -1,0 +1,43 @@
+﻿CHARACTERS = {
+	c:YUE = {
+		create_character = {
+			first_name = "Zhanji"
+			last_name = "Ouyang"
+			heir = yes
+			culture = cu:yue
+			religion = rel:mahayana
+			birth_date = 1812.10.12
+			traits = {
+				basic_diplomat tactful 
+			}
+		}
+
+		create_character = {
+			first_name = "Yuying"
+			last_name = "Si"
+			female = yes
+			culture = cu:yue
+			religion = rel:mahayana
+			birth_date = 1766.5.31
+			traits = {
+				basic_political_operator tactful 
+			}
+		}
+
+		create_character = {
+			first_name = "Biao_I"
+			last_name = "Ouyang"
+			ruler = yes
+			culture = cu:yue
+			religion = rel:mahayana
+			birth_date = 1770.3.10
+			traits = {
+				basic_diplomat hedonist 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}
