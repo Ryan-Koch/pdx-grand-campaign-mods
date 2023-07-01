@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudal_theocracy
+government_rank = 2
+technology_group = muslim
+religion = zoroastrian
+primary_culture = dynamic-persian-culture-num1
+capital = 2042
+add_accepted_culture = dynamic-bengali-culture-num2
+1444.11.11= {
+	monarch = {
+		name = "Pashang"
+		dynasty = "Sughnan"
+		adm = 5
+		dip = 3
+		mil = 5
+		birth_date = 1383.1.11
+		religion = zoroastrian
+		culture = dynamic-persian-culture-num1
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = righteous_personality
+	queen = {
+		name = "Arunavati"
+		dynasty = "Qoshagylid"
+		adm = 4
+		dip = 4
+		mil = 5
+		country_of_origin = ASS
+		birth_date = 1380.12.11
+		death_date = 1440.12.11
+		female = yes
+		religion = zoroastrian
+		culture = scythian
+	}
+	add_queen_personality = righteous_personality
+	add_queen_personality = tolerant_personality
+	heir = {
+		name = "Yazdegerd"
+		monarch_name = "Yazdegerd"
+		dynasty = "Sughnan"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 1407.4.22
+		death_date = 1472.4.22
+		claim = 89
+		religion = zoroastrian
+		culture = dynamic-persian-culture-num1
+	}
+	add_heir_personality = craven_personality
+	add_heir_personality = embezzler_personality
+}
+1444.11.11= {
+	add_prestige = 84
+	add_treasury = 61
+}

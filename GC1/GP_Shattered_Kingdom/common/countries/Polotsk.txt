@@ -1,0 +1,110 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 16 113 155 }
+revolutionary_colors = { 5 5 10 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	religious_ideas
+	economic_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	bardiche_infantry
+	eastern_carabinier
+	eastern_knights
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	muscovite_caracolle
+	muscovite_cossack
+	muscovite_musketeer
+	muscovite_soldaty
+	russian_cuirassier
+	russian_green_coat
+	russian_lancer
+	russian_mass
+	russian_petrine
+	slavic_stradioti
+}
+monarch_names = {
+	"Alfríðr #0" = -1
+	"Anna #1" = -1
+	"Baldomar #0" = 0
+	"Cunolava #0" = -1
+	"Dalla #1" = -1
+	"Dan #1" = 10
+	"Durilia #0" = -1
+	"Dýri #0" = 0
+	"Emich #0" = 0
+	"Gerhild #0" = -1
+	"Gríma #0" = -1
+	"Hákon #0" = 0
+	"Hólmfríðr #0" = -1
+	"Ingfríðr #0" = -1
+	"Jutta #0" = -1
+	"Kolbeinn #0" = 0
+	"Leopold #0" = 0
+	"Louhelic #0" = -1
+	"Manegold #0" = 0
+	"Markward #0" = 0
+	"Mikhail #0" = 0
+	"Proculus #0" = 0
+	"Quintus #0" = 0
+	"Siegmund #0" = 0
+	"Tahir #0" = 0
+	"Trude #0" = -1
+	"Valþjófr #0" = 0
+	"Vigdís #1" = -1
+	"Walram #1" = 10
+	"Watt'as #0" = 0
+	"Welf #0" = 0
+	"Wilhelmina #0" = -1
+	"Ása #0" = -1
+	"Ögmundr #0" = 0
+	"Þjóstólfr #1" = 10
+}
+leader_names = {
+	"Aladyin"
+	"Beznosov"
+	"Bokeev"
+	"Borovsky"
+	"Burukhin"
+	"Dalmatov"
+	"Dursky"
+	"Galisky"
+	"Galitsky"
+	"Izyaslavsky"
+	"Kisleevsky"
+	"Korobyin"
+	"Mozhaisky"
+	"Satin"
+	"Shemyakin"
+	"Shukalovsky"
+	"Travin"
+	"Tsyplyatev"
+	"Uglisky"
+	"Vereisky"
+	"Vitebsky"
+	"Vnukov"
+	"Volotsky"
+	"Zabolotsky"
+}
+ship_names = {
+	"Bolotovo"
+	"Chudskoye"
+	"Izborsk"
+	"Kulikovo"
+	"Ostrov"
+	"Pechory"
+	"Polotsk"
+	"Porhov"
+	"Pskovskoye"
+	"Rakovor"
+	"Sebezh"
+	"Velikaya"
+	"Velikiye Luki"
+}

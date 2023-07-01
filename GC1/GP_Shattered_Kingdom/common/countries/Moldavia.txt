@@ -1,0 +1,105 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 136 157 23 }
+revolutionary_colors = { 15 8 5 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	administrative_ideas
+	quality_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	ottoman_lancer
+	ottoman_new_model
+	ottoman_nizami_cedid
+	ottoman_reformed_janissary
+	ottoman_reformed_spahi
+	ottoman_sekban
+	ottoman_toprakli_dragoon
+	ottoman_toprakli_hit_and_run
+	slavic_stradioti
+}
+monarch_names = {
+	"Adalbero #0" = 0
+	"Baldomar #0" = 0
+	"Cothilda #0" = -1
+	"Elisabeth #0" = -1
+	"Engelbert #0" = 0
+	"Freyja #0" = -1
+	"Gerhard #0" = 0
+	"Gertrude #0" = -1
+	"Gerðr #0" = -1
+	"Glóð #0" = -1
+	"Gnúpa #1" = 10
+	"Gríma #0" = -1
+	"Grímr #0" = 0
+	"Gunnarr #0" = 0
+	"Hedwig #0" = -1
+	"Hermann #1" = 10
+	"Ida #0" = -1
+	"Irmgard #0" = -1
+	"Jutta #0" = -1
+	"Leopold #0" = 0
+	"Markward #0" = 0
+	"Njáll #0" = 0
+	"Otto #0" = 0
+	"Radbot #0" = 0
+	"Raisa #0" = -1
+	"Rosula #0" = -1
+	"Serhilda #0" = -1
+	"Sigiburg #0" = -1
+	"Sturla #0" = 0
+	"Svanhildr #0" = -1
+	"Síg #1" = -1
+	"Sörkvir #0" = 0
+	"Thomas #0" = 0
+	"Wenzel #0" = 0
+	"Wolfgang #0" = 0
+}
+leader_names = {
+	"Callimachi"
+	"Campineanu"
+	"Cantacuzino"
+	"Cantemir"
+	"Caragea"
+	"Craiovescu"
+	"Duca"
+	"Ghica"
+	"Ilias"
+	"Lupu"
+	"Mavrocordat"
+	"Moruzi"
+	"Movila"
+	"Musatin"
+	"Norocea"
+	"Racovita"
+	"Ruset"
+	"Sturdza"
+	"Sutu"
+	"Voda"
+}
+ship_names = {
+	"Athleta Christi"
+	"Baia"
+	"Bogdan I"
+	"Iuga"
+	"Moldova"
+	"Râul Prut"
+	"Stefan cel Mare"
+	"Suceava"
+	"Târgul Moldovei"
+	"Vaslui"
+}
+army_names = {
+	"Oastea de $PROVINCE$"
+}

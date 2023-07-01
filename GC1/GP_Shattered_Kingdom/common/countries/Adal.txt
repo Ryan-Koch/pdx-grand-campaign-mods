@@ -1,0 +1,94 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 145 70 130 }
+revolutionary_colors = { 0 5 0 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	religious_ideas
+	spy_ideas
+	economic_ideas
+	quantity_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	adal_guerilla_warfare
+	adal_gunpowder_warfare
+	african_abyssinian_cavalry
+	african_abyssinian_light_cavalry
+	african_dragoon
+	african_hill_warfare
+	african_hussar
+	african_somali_cavalry
+	african_spearmen
+	bantu_tribal_warfare
+	westernized_adal
+}
+monarch_names = {
+	"Alketas #0" = 0
+	"Asandros #0" = 0
+	"Bintou #0" = -1
+	"Christophoros #2" = 10
+	"Damoteles #1" = 10
+	"Diodotos #1" = 10
+	"Erasistratos #0" = 0
+	"Eusebia #0" = -1
+	"Genseoua #1" = -1
+	"Hagesandros #1" = 10
+	"Hemene #0" = -1
+	"Kallippe #0" = -1
+	"Kallis #0" = -1
+	"Lazaros #1" = 10
+	"Leaina #0" = -1
+	"Lydiadas #0" = 0
+	"Lysandra #0" = -1
+	"Mnesidemos #0" = 0
+	"Narkissa #0" = -1
+	"Nikanor #0" = 0
+	"Niketes #1" = 10
+	"Patrokles #0" = 0
+	"Petronia #0" = -1
+	"Phanagora #0" = -1
+	"Polydamas #0" = 0
+	"Prepelaos #1" = 10
+	"Rahimah #0" = -1
+	"Salimata #0" = -1
+	"Stephanou #0" = 0
+	"Thais #0" = -1
+	"Theognosta #0" = -1
+	"Theoxene #1" = -1
+	"Timotheos #0" = 0
+	"Tryphon #0" = 0
+	"Xanthippos #0" = 0
+}
+leader_names = {
+	"Abdelrashid"
+	"Barré"
+	"Bol"
+	"Deng"
+	"Lemn"
+	"Leta"
+	"Semer"
+	"Teka"
+	"Tsige"
+	"Yagoub"
+}
+ship_names = {
+	"Asayita"
+	"Aura"
+	"Awash"
+	"Berahle"
+	"Chifra"
+	"Dallol"
+	"Dubti"
+	"Dulecha"
+	"Elidar"
+	"Ewa"
+	"Gewane"
+	"Koneba"
+	"Mille"
+	"Semera"
+	"Simurobi"
+	"Yalo"
+}

@@ -1,0 +1,105 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 18 97 128 }
+revolutionary_colors = { 9 0 5 }
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	administrative_ideas
+}
+historical_units = {
+	adal_guerilla_warfare
+	adal_gunpowder_warfare
+	african_abyssinian_cavalry
+	african_abyssinian_light_cavalry
+	african_dragoon
+	african_hill_warfare
+	african_hussar
+	african_somali_cavalry
+	african_spearmen
+	bantu_tribal_warfare
+	westernized_adal
+}
+monarch_names = {
+	"Aberikos #0" = 0
+	"Antiochis #0" = -1
+	"Archimedes #0" = 0
+	"Ariste #1" = -1
+	"Chaelsoñoja #0" = -1
+	"Derdas #0" = 0
+	"Echekrates #1" = 10
+	"Enôch #1" = 10
+	"Fatima #0" = -1
+	"Gennatios #1" = 10
+	"Iannia #0" = -1
+	"Iêsousyko #0" = -1
+	"Kellanthis #1" = -1
+	"Krisanthos #0" = 0
+	"Menankouda #0" = 0
+	"Metrodora #1" = -1
+	"Michaêliko #1" = -1
+	"Pantauchos #3" = 10
+	"Phthia #0" = -1
+	"Prisisilla #0" = -1
+	"Raphaelkouda #0" = 0
+	"Sif #0" = -1
+	"Stephanos #0" = 0
+	"Theodosia #0" = -1
+	"Theodosios #1" = 10
+	"Theozia #0" = -1
+	"Ñssitkitol #1" = -1
+}
+leader_names = {
+	"Abdallah"
+	"Abdikarim"
+	"Abubakar"
+	"Ahmad"
+	"Ayub"
+	"Dalmar"
+	"Ghedi"
+	"Hassan"
+	"Khalid"
+	"Liban"
+	"Mahad"
+	"Mosa"
+	"Muhammad"
+	"Omar"
+	"Rahim"
+	"Saad"
+	"Sadiq"
+	"Sharif"
+}
+ship_names = {
+	"Afgooye"
+	"Awash"
+	"Baraawe"
+	"Berahle"
+	"Boocame"
+	"Dallol"
+	"Dooloow"
+	"Dubti"
+	"Dulecha"
+	"Elidar"
+	"Ewa"
+	"Geedo"
+	"Gewane"
+	"Gobolka"
+	"Hawo"
+	"Jubbada"
+	"Kalabaydh"
+	"Marka"
+	"Semera"
+	"Simurobi"
+	"Yalo"
+}
+army_names = {
+	"Army of $PROVINCE$"
+}
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}

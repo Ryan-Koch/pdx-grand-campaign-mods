@@ -1,0 +1,21 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 240 167 91 }
+monarch_names = {
+	"Ciar #0" = -1
+	"Coílboth #1" = 10
+	"Dorothea #0" = -1
+	"Effros #0" = -1
+	"Euginia #0" = -1
+	"Flannchad #0" = 0
+	"Galam #2" = 10
+	"Gnathnad #0" = -1
+	"Gwrgi #0" = 0
+	"Lóchíne #0" = 0
+	"Máel-Pátraic #0" = 0
+	"Natfraich #1" = 10
+	"Postumus #0" = 0
+	"Rogneda #0" = -1
+	"Uuena #0" = -1
+	"Åsbjørn #0" = 0
+}

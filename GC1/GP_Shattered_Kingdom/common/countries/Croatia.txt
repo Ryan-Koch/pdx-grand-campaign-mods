@@ -1,0 +1,120 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 104 94 247 }
+revolutionary_colors = { 5 0 13 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	religious_ideas
+	quality_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	ottoman_lancer
+	ottoman_new_model
+	ottoman_nizami_cedid
+	ottoman_reformed_janissary
+	ottoman_reformed_spahi
+	ottoman_sekban
+	ottoman_toprakli_dragoon
+	ottoman_toprakli_hit_and_run
+	slavic_stradioti
+}
+monarch_names = {
+	"Amulia #0" = -1
+	"Amulius #3" = 10
+	"Badeea #0" = -1
+	"Camilla #0" = -1
+	"Camillus #1" = 10
+	"Decia #0" = -1
+	"Decius #0" = 0
+	"Détsen #0" = 0
+	"Gaia #0" = -1
+	"Gaius #1" = 10
+	"Gnaea #0" = -1
+	"Gnaeus #0" = 0
+	"Gormenh #0" = -1
+	"Hawa #0" = -1
+	"Hosta #0" = -1
+	"Hostus #0" = 0
+	"Iher #0" = 0
+	"Lucia #0" = -1
+	"Lucius #0" = 0
+	"Mania #0" = -1
+	"Manius #0" = 0
+	"Marca #0" = -1
+	"Numeria #0" = -1
+	"Numerius #1" = 10
+	"Octavia #0" = -1
+	"Opiter #0" = 0
+	"Opitera #0" = -1
+	"Postuma #0" = -1
+	"Publia #0" = -1
+	"Quinta #2" = -1
+	"Quintus #0" = 0
+	"Servia #0" = -1
+	"Sextus #3" = 10
+	"Spuria #0" = -1
+	"Tertia #0" = -1
+	"Tiberia #0" = -1
+	"Tiberius #0" = 0
+	"Titus #0" = 0
+	"Vibia #0" = -1
+	"Vibius #0" = 0
+}
+leader_names = {
+	"Alapic"
+	"Babonic"
+	"Blagaj"
+	"Cesnegic"
+	"Crnkovic"
+	"Drashkovic"
+	"Frankapan"
+	"Gorjanski"
+	"Horvat"
+	"Hrvatinic"
+	"Ilocki"
+	"Jelacic"
+	"Kacic"
+	"Kaniski"
+	"Keglevic"
+	"Knezevic"
+	"Krbavski"
+	"Kruzic"
+	"Kurjakovic"
+	"Lackovic"
+	"Mihalovic"
+	"Nelipcic"
+	"Ozegovic"
+	"Pejacevic"
+	"Radic"
+	"Rukavina"
+	"Subic"
+	"Talovac"
+	"Vrancic"
+	"Zrinski"
+}
+ship_names = {
+	"Cres"
+	"Dugi Otok"
+	"Goli"
+	"Krl"
+	"Pag"
+	"Plavnik"
+	"Susak"
+	"Sveti Grgur"
+	"Tijat"
+	"Unije"
+	"Vele Srankane"
+	"Zlarin"
+	"Zmajan"
+}

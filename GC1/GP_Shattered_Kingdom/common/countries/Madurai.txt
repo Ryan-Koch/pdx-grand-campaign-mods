@@ -1,0 +1,111 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 233 88 88 }
+revolutionary_colors = { 1 0 1 }
+historical_idea_groups = {
+	quantity_ideas
+	defensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	aristocracy_ideas
+}
+historical_units = {
+	bhonsle_infantry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	rajput_hill_fighters
+	reformed_mughal_musketeer
+	sikh_rifle
+	south_indian_musketeer
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Akkâranankayâr #0" = -1
+	"Annamma #0" = -1
+	"Arikêcari #0" = 0
+	"Arulmolivarman #0" = 0
+	"Atirâcêntira #3" = 10
+	"Bachavarudhini #1" = 10
+	"Bhuvanekabahu #2" = 10
+	"Bohodevi #0" = -1
+	"Chaunda #0" = 0
+	"Chukshek #0" = 0
+	"Dharmasoka #2" = 10
+	"Ekoji #0" = 0
+	"Galla #0" = -1
+	"Gallus #0" = 0
+	"Ghoncheh #0" = -1
+	"Hajo #1" = 10
+	"Hemavati #0" = -1
+	"Irâcâtirâca #0" = 0
+	"Kanchani #0" = -1
+	"Katunkon #0" = 0
+	"Kilân #0" = 0
+	"Koravya #1" = 10
+	"Kuntavaiyalvar #0" = -1
+	"Kurian #0" = 0
+	"Maharshi #1" = 10
+	"Mahasiva #0" = 0
+	"Markose #0" = 0
+	"Maurayadhwaj #1" = 10
+	"Mâmpâkkamutaiyân #0" = 0
+	"Narasingha #1" = 10
+	"Nârani #0" = -1
+	"Nârpattennâyirapattan #0" = 0
+	"Ovsanna #0" = -1
+	"Parakramabahu #0" = 0
+	"Rajadinaj #1" = 10
+	"Rakasala #1" = 10
+	"Ravi #0" = 0
+	"Sagala #1" = 10
+	"Samidata #0" = -1
+	"Sharva #0" = 0
+	"Soraya #0" = -1
+	"Thresiamma #0" = -1
+	"Tisye #0" = -1
+	"Upatissa #0" = 0
+}
+leader_names = {
+	"Chetty"
+	"Dalawa"
+	"Mudaliar"
+	"Nayak"
+	"Rajapopalachari"
+	"Saluva"
+	"Saraf"
+	"Sastri"
+	"Senji"
+	"Thondaiman"
+}
+ship_names = {
+	"Amirtha"
+	"Amman"
+	"Arul"
+	"Chellam"
+	"Devi"
+	"Durga"
+	"Gayatri"
+	"Iniya"
+	"Kaveri"
+	"Lakshmi"
+	"Madhu"
+	"Meenakshi"
+	"Nalini"
+	"Palar"
+	"Parvati"
+	"Pennar"
+	"Ponnaiyar"
+	"Ponni"
+	"Radha"
+	"Ratri"
+	"Sarasvati"
+	"Sita"
+	"Tamarai"
+	"Vaigai"
+}

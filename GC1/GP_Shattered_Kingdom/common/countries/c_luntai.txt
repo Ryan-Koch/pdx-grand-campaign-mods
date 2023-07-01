@@ -1,0 +1,25 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 45 180 180 }
+monarch_names = {
+	"Artaxerxes #0" = 0
+	"Barghujin #1" = 10
+	"Bharxuman #2" = 10
+	"Elbeg #1" = 10
+	"Gurbesu #1" = -1
+	"Huld #0" = -1
+	"Jochi #1" = 10
+	"Kanhad #0" = 0
+	"Katch #0" = 0
+	"Mayara #1" = -1
+	"Ogodei #0" = 0
+	"Praksa #0" = 0
+	"Ramtish #1" = 10
+	"Samtish #1" = 10
+	"Sari #0" = -1
+	"Temujin #2" = 10
+	"Umor #0" = 0
+	"Wius #1" = 10
+	"Zhimba #1" = -1
+	"al-Alta #0" = -1
+}

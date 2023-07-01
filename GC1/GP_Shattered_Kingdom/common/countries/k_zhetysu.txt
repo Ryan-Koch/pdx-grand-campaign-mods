@@ -1,0 +1,25 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 120 20 20 }
+monarch_names = {
+	"Achigh #1" = 10
+	"Atrak #0" = 0
+	"Ayasun #0" = -1
+	"Bachman #1" = 10
+	"Bhimaratha #0" = 0
+	"Borç #1" = 10
+	"Chagatai #1" = 10
+	"Damayanti #0" = -1
+	"Desaladevi #0" = -1
+	"Gunes #1" = -1
+	"Gzi #1" = 10
+	"Jochi #1" = 10
+	"Karnpal #1" = 10
+	"Kokochu #1" = 10
+	"Kozel #1" = 10
+	"Kuntuvdi #0" = 0
+	"Pavak #0" = 0
+	"Togli #1" = 10
+	"Tugor #0" = 0
+	"Çilbu #0" = 0
+}

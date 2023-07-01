@@ -1,0 +1,117 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 230 240 255 }
+revolutionary_colors = { 5 0 8 }
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	administrative_ideas
+}
+historical_units = {
+	adal_guerilla_warfare
+	adal_gunpowder_warfare
+	african_abyssinian_cavalry
+	african_abyssinian_light_cavalry
+	african_dragoon
+	african_hill_warfare
+	african_hussar
+	african_somali_cavalry
+	african_spearmen
+	bantu_tribal_warfare
+	westernized_adal
+}
+monarch_names = {
+	"Alethia #0" = -1
+	"Arishat #0" = -1
+	"Aristobulos #0" = 0
+	"Ariston #0" = 0
+	"Chrysippos #0" = 0
+	"Demaratos #0" = 0
+	"Diokleia #0" = -1
+	"Eirena #1" = -1
+	"Eliezer #0" = 0
+	"Eukoline #0" = -1
+	"Eustephanou #0" = -1
+	"Euthalia #1" = -1
+	"Fatima #0" = -1
+	"Gabrielophorou #0" = 0
+	"Hedeia #1" = -1
+	"Hemene #1" = -1
+	"Hippostratos #1" = 10
+	"Iêsousinkouda #0" = 0
+	"Kallisthenes #0" = 0
+	"Kandake #0" = -1
+	"Kel #0" = -1
+	"Kephisodoros #1" = 10
+	"Kephisophon #1" = 10
+	"Kineas #0" = 0
+	"Leon #2" = 10
+	"Leostratos #0" = 0
+	"Matangi #0" = 0
+	"Mašanñal #0" = 0
+	"Mouses #0" = 0
+	"Nikarete #0" = -1
+	"Petronia #1" = -1
+	"Philotheos #0" = 0
+	"Selene #0" = -1
+	"Sergios #2" = 10
+	"Sexta #0" = -1
+	"Tauriskos #0" = 0
+	"Temiloluwa #0" = -1
+	"Theodorake #0" = -1
+	"Ñssitkitol #1" = -1
+}
+leader_names = {
+	"Abdallah"
+	"Abdikarim"
+	"Abubakar"
+	"Ahmad"
+	"Ayub"
+	"Dalmar"
+	"Ghedi"
+	"Hassan"
+	"Khalid"
+	"Liban"
+	"Mahad"
+	"Mosa"
+	"Muhammad"
+	"Omar"
+	"Rahim"
+	"Saad"
+	"Sadiq"
+	"Sharif"
+}
+ship_names = {
+	"Afgooye"
+	"Awash"
+	"Baraawe"
+	"Berahle"
+	"Boocame"
+	"Dallol"
+	"Dooloow"
+	"Dubti"
+	"Dulecha"
+	"Elidar"
+	"Ewa"
+	"Geedo"
+	"Gewane"
+	"Gobolka"
+	"Hawo"
+	"Jubbada"
+	"Kalabaydh"
+	"Marka"
+	"Semera"
+	"Simurobi"
+	"Yalo"
+}
+army_names = {
+	"Army of $PROVINCE$"
+}
+fleet_names = {
+	"Fleet of $PROVINCE$"
+}

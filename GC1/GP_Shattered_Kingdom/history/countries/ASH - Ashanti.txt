@@ -1,0 +1,58 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = eastern
+religion = converted_dynamic_faith_130
+primary_culture = dynamic-greek-nubian-culture-num1
+capital = 1138
+add_accepted_culture = aka
+add_accepted_culture = nubian
+1444.11.11= {
+	monarch = {
+		name = "Eôneille"
+		dynasty = "Cebalinid"
+		adm = 3
+		dip = 4
+		mil = 5
+		birth_date = 1397.8.2
+		female = yes
+		religion = converted_dynamic_faith_130
+		culture = dynamic-greek-nubian-culture-num1
+	}
+	add_ruler_personality = fertile_personality
+	add_ruler_personality = scholar_personality
+	queen = {
+		name = "Amulius"
+		dynasty = "Orsini"
+		adm = 3
+		dip = 3
+		mil = 3
+		country_of_origin = ASH
+		birth_date = 1407.6.27
+		death_date = 1467.6.27
+		religion = hellenic_pagan
+		culture = roman
+	}
+	add_queen_personality = loose_lips_personality
+	add_queen_personality = righteous_personality
+	heir = {
+		name = "Eôneille"
+		monarch_name = "Eôneille"
+		dynasty = "Cebalinid"
+		adm = 5
+		dip = 5
+		mil = 6
+		birth_date = 1414.8.12
+		death_date = 1479.8.12
+		female = yes
+		claim = 89
+		religion = converted_dynamic_faith_130
+		culture = dynamic-greek-nubian-culture-num1
+	}
+	add_heir_personality = fertile_personality
+	add_heir_personality = tolerant_personality
+}
+1444.11.11= {
+	add_prestige = 79
+	add_treasury = 68
+}

@@ -1,0 +1,41 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = western
+religion = converted_dynamic_faith_127
+primary_culture = euxinian
+capital = 327
+1444.11.11= {
+	monarch = {
+		name = "Camilla II"
+		dynasty = "Angelid"
+		adm = 5
+		dip = 5
+		mil = 4
+		birth_date = 1375.6.23
+		female = yes
+		religion = converted_dynamic_faith_127
+		culture = euxinian
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = righteous_personality
+	heir = {
+		name = "Appius"
+		monarch_name = "Appius"
+		dynasty = "Angelid"
+		adm = 6
+		dip = 6
+		mil = 5
+		birth_date = 1394.3.4
+		death_date = 1459.3.4
+		claim = 89
+		religion = converted_dynamic_faith_127
+		culture = roman
+	}
+	add_heir_personality = strict_personality
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11= {
+	add_prestige = 88
+	add_treasury = 74
+}

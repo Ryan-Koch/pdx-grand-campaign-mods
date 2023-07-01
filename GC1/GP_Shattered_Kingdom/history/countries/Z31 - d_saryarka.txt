@@ -1,0 +1,56 @@
+government = republic
+add_government_reform = peasants_republic
+government_rank = 1
+technology_group = nomad_group
+religion = orthodox
+primary_culture = dynamic-cuman-culture-num1
+capital = 2361
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Buri"
+		dynasty = "Orbei"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1415.1.17
+		religion = orthodox
+		culture = dynamic-cuman-culture-num1
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = tactical_genius_personality
+	queen = {
+		name = "Khogaghchin"
+		dynasty = "Yesugei"
+		adm = 4
+		dip = 4
+		mil = 4
+		country_of_origin = Z31
+		birth_date = 1407.12.17
+		death_date = 1467.12.17
+		female = yes
+		religion = orthodox
+		culture = uyghur
+	}
+	add_queen_personality = pious_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Semsochule"
+		monarch_name = "Semsochule"
+		dynasty = "Orbei"
+		adm = 1
+		dip = 0
+		mil = 2
+		birth_date = 1440.12.5
+		death_date = 1505.12.5
+		claim = 89
+		religion = orthodox
+		culture = dynamic-cuman-culture-num1
+	}
+	add_heir_personality = malevolent_personality
+	add_heir_personality = obsessive_perfectionist_personality
+}
+1444.11.11= {
+	add_prestige = 81
+	add_treasury = 60
+}

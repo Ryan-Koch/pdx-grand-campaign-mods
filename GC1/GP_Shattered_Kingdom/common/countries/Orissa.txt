@@ -1,0 +1,164 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 210 106 47 }
+revolutionary_colors = { 5 8 0 }
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	quantity_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+historical_units = {
+	indian_archers
+	indian_arquebusier
+	indian_footsoldier
+	indian_rifle
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Afshar #0" = 0
+	"Aiyyârratikal #0" = -1
+	"Allada #0" = 0
+	"Anavota #0" = 0
+	"Ancus #0" = 0
+	"Anitalli #0" = -1
+	"Arghavan #0" = -1
+	"Aruvanki #1" = -1
+	"Aurang #0" = 0
+	"Ayeshah #0" = 0
+	"Bahram #0" = 0
+	"Bakhtiar #0" = 0
+	"Baladitya #0" = 0
+	"Ballaladeva #0" = 0
+	"Bauladevi #0" = -1
+	"Bhogavati #0" = -1
+	"Danamava #0" = 0
+	"Datevig #0" = -1
+	"Decimus #0" = 0
+	"Dehanagadevi #0" = -1
+	"Delbar #0" = -1
+	"Dharma #0" = -1
+	"Durjayabhanja #1" = 10
+	"Fareedeh #0" = -1
+	"Farrin #0" = -1
+	"Farroukh #0" = 0
+	"Fath #0" = 0
+	"Ferdows #0" = 0
+	"Gangadhara #0" = 0
+	"Ghoncheh #0" = -1
+	"Gilgamesh #1" = 10
+	"Golbahar #0" = -1
+	"Gunamaharnava #1" = 10
+	"Harekrushna #0" = 0
+	"Heria #0" = -1
+	"Hormazd #0" = 0
+	"Hormoz #0" = 0
+	"Jahanshah #0" = 0
+	"Kambiz #1" = 10
+	"Kanchani #0" = -1
+	"Khadaga #0" = 0
+	"Khudayar #0" = 0
+	"Kidin-Ninurta #0" = 0
+	"Kosthile #0" = -1
+	"Lusthammar-Ninurta #0" = 0
+	"Mahadevi #1" = -1
+	"Manushihr #0" = 0
+	"Marduk-êtir #0" = 0
+	"Morteza #0" = 0
+	"Nagipoti #0" = -1
+	"Nazilla #0" = -1
+	"Nergal-uballit #0" = 0
+	"Noor #0" = -1
+	"Nrpakama #0" = 0
+	"Padmini #0" = -1
+	"Pammava #0" = -1
+	"Periyapillai #1" = 10
+	"Pertevniyal #0" = -1
+	"Pourandokht #0" = -1
+	"Prasannamatra #0" = 0
+	"Prthiviyaraja #0" = 0
+	"Rajaraja #0" = 0
+	"Rajasundari #0" = -1
+	"Ranadurjaya #1" = 10
+	"Ranga #0" = 0
+	"Rangabhanja #0" = 0
+	"Reza #0" = 0
+	"Rudramba #0" = -1
+	"Shahrzad #0" = -1
+	"Shipqat-Nergal #0" = 0
+	"Sivakaradeva #1" = 10
+	"Somalladevi #0" = -1
+	"Suvrata #1" = -1
+	"Tita #0" = -1
+	"Touran #0" = -1
+	"Tukultî-Sîn #0" = 0
+	"Tûnkânai #1" = -1
+	"Uposathe #0" = 0
+	"Vahid #0" = 0
+	"Vandad #0" = 0
+	"Varcembiyan #1" = 10
+	"Vikkirama #1" = 10
+	"Vimaladitya #0" = 0
+	"Vishakavarman #1" = 10
+	"Vishnuvardhana #0" = 0
+	"Wardat-Ashshur #0" = -1
+	"Wardat-Bêl #0" = -1
+	"Yasaman #0" = -1
+	"Yekta #0" = -1
+	"Zakaria #0" = 0
+	"Zeynab #0" = -1
+}
+leader_names = {
+	"Bhowarbar"
+	"Bidyadhar"
+	"Dassa"
+	"Deo"
+	"Deva"
+	"Gajapati"
+	"Kalinga"
+	"Nayudu"
+	"Patra"
+	"Poosapati"
+	"Rai"
+	"Ratha"
+	"Reddy"
+	"Roy"
+	"Santra"
+	"Singhar"
+	"Sinha"
+	"Uria"
+	"Vansa"
+	"Vasireddy"
+	"Velama"
+}
+ship_names = {
+	"Baitarani"
+	"Balasore"
+	"Balugaon"
+	"Behrampur"
+	"Bhubeneswar"
+	"Brahmani"
+	"Chandipur"
+	"Chilka"
+	"Cuttack"
+	"Durga"
+	"Gopalpur"
+	"Jagannath"
+	"Juggernaut"
+	"Kalijai"
+	"Konark"
+	"Lakshmi"
+	"Mahanadi"
+	"Nalabana"
+	"Paradeep"
+	"Parvati"
+	"Puri"
+	"Radha"
+	"Sarasvati"
+	"Satapada"
+}

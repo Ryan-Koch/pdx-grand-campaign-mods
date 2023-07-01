@@ -1,0 +1,92 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 44 160 70 }
+revolutionary_colors = { 5 16 1 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	quantity_ideas
+	offensive_ideas
+	spy_ideas
+	economic_ideas
+	quality_ideas
+}
+historical_units = {
+	adal_guerilla_warfare
+	adal_gunpowder_warfare
+	african_abyssinian_cavalry
+	african_abyssinian_light_cavalry
+	african_dragoon
+	african_hill_warfare
+	african_hussar
+	african_somali_cavalry
+	african_spearmen
+	bantu_tribal_warfare
+	westernized_adal
+}
+monarch_names = {
+	"Anaxippos #0" = 0
+	"Aphrodisia #1" = -1
+	"Archippe #0" = -1
+	"Aristomachos #0" = 0
+	"Aristonikos #0" = 0
+	"Arseas #2" = 10
+	"Artemisia #0" = -1
+	"Athanasios #2" = 10
+	"Barri #0" = 0
+	"Chairestratos #0" = 0
+	"Chrissa #0" = -1
+	"Christophoros #0" = 0
+	"Damophon #0" = 0
+	"Deidamia #0" = -1
+	"Demostrate #0" = -1
+	"Doris #0" = -1
+	"Eirena #1" = -1
+	"Eliezer #1" = 10
+	"Eya #0" = -1
+	"Fatima #0" = -1
+	"Kalliarchos #0" = 0
+	"Kallistion #0" = -1
+	"Kel #0" = -1
+	"Kollouthos #0" = 0
+	"Maththias #0" = 0
+	"Menankouda #1" = 10
+	"Mnesarete #0" = -1
+	"Mouses #0" = 0
+	"Mêlênkouda #0" = 0
+	"Niketes #0" = 0
+	"Oki #0" = 0
+	"Papasinkouda #0" = 0
+	"Paulos #0" = 0
+	"Phile #1" = -1
+	"Philoumene #0" = -1
+	"Shamsi #0" = -1
+	"Staurophania #0" = -1
+	"Ñoltou #0" = -1
+}
+leader_names = {
+	"Abboud"
+	"Fung"
+	"Garang"
+	"Kayra"
+	"Keira"
+	"Kelueljang"
+	"Lugor"
+	"Nuer"
+	"Shol"
+	"Taha"
+}
+ship_names = {
+	"Amenirdis"
+	"Amon"
+	"Apedemak"
+	"Arensnuphis"
+	"Bes"
+	"Dedwen"
+	"Khnum"
+	"Mandulis"
+	"Mut"
+	"Taweret"
+	"Tefnut"
+}

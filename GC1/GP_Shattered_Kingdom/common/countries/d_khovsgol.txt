@@ -1,0 +1,21 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 31 77 35 }
+monarch_names = {
+	"Aguchu #1" = 10
+	"Alchidai #1" = 10
+	"Bairma #0" = -1
+	"Bayan #0" = 0
+	"Borjigidai #0" = 0
+	"Dokez #1" = -1
+	"Donduk #1" = 10
+	"Eshi #0" = 0
+	"Lihua #0" = -1
+	"Menggei #0" = 0
+	"Namgar #1" = -1
+	"Okhotur #1" = 10
+	"Sokhatai #1" = -1
+	"Temuge #2" = 10
+	"Yegu #0" = 0
+	"Ögyen #0" = -1
+}

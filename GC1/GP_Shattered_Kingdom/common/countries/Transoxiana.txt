@@ -1,0 +1,173 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 49 185 191 }
+revolutionary_colors = { 1 5 1 }
+historical_idea_groups = {
+	administrative_ideas
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	offensive_ideas
+	maritime_ideas
+	quantity_ideas
+}
+historical_units = {
+	reformed_steppe_rifles
+	steppe_cavalry
+	steppe_footmen
+	steppe_infantry
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_musketeers
+	steppe_raiders
+	steppe_riders
+	steppe_rifles
+	steppe_uhlans
+}
+monarch_names = {
+	"Abbas #0" = 0
+	"Abolhassan #0" = 0
+	"Afsaneh #0" = -1
+	"Afshar #0" = 0
+	"Ali #0" = 0
+	"Allahyar #0" = 0
+	"Ammakkanâr #1" = -1
+	"Ardavan #0" = 0
+	"Ardeshir #0" = 0
+	"Arghavan #0" = -1
+	"Ayeshah #0" = 0
+	"Azadeh #0" = -1
+	"Bahar #0" = -1
+	"Bahman #0" = 0
+	"Banafsheh #0" = -1
+	"Burandokht #0" = -1
+	"Cambyses #0" = 0
+	"Cyrus #1" = 10
+	"Darya #0" = -1
+	"Davud #0" = 0
+	"Delaram #0" = -1
+	"Donya #0" = -1
+	"Ebrahim #0" = 0
+	"Ehsan #0" = 0
+	"Eskander #0" = 0
+	"Faramarz #1" = 10
+	"Faraz #0" = 0
+	"Fareed #0" = 0
+	"Fariborz #0" = 0
+	"Farnaz #0" = -1
+	"Farrin #0" = -1
+	"Farroukh #0" = 0
+	"Farva #0" = -1
+	"Freydís #0" = -1
+	"Furuzan #0" = -1
+	"Gaius #0" = 0
+	"Gerhard #0" = 0
+	"Ghobad #0" = 0
+	"Ghoncheh #0" = -1
+	"Gilgamesh #3" = 10
+	"Gnaea #0" = -1
+	"Godarz #0" = 0
+	"Golbahar #0" = -1
+	"Golpari #0" = -1
+	"Golshan #0" = -1
+	"Hamdam #0" = -1
+	"Hazarasp #0" = 0
+	"Hedayat #0" = 0
+	"Hodette #0" = -1
+	"Hodor #0" = 0
+	"Hormazd #0" = 0
+	"Humayun #0" = 0
+	"Hurmat #0" = -1
+	"Impânâyarpattan #1" = 10
+	"Ingjerðr #0" = -1
+	"Jahangir #0" = 0
+	"Javeed #0" = 0
+	"Kavoos #0" = 0
+	"Kharmandar #0" = 0
+	"Khodadad #0" = 0
+	"Khudayar #0" = 0
+	"Kurush #0" = 0
+	"Leila #0" = -1
+	"Lilavati #0" = -1
+	"Mahdokht #0" = -1
+	"Mahtab #0" = -1
+	"Mariam #0" = -1
+	"Metrodora #0" = -1
+	"Nard #0" = 0
+	"Navvaba #0" = -1
+	"Nawid #0" = 0
+	"Nezam #0" = 0
+	"Noor #0" = -1
+	"Parvaneh #0" = -1
+	"Parvin #0" = -1
+	"Parviz #0" = 0
+	"Pourandokht #0" = -1
+	"Pujman #0" = 0
+	"Rahimah #0" = -1
+	"Rajasundari #0" = -1
+	"Roxana #0" = -1
+	"Ruhollah #0" = 0
+	"Salomeh #0" = -1
+	"Scheherazade #0" = -1
+	"Shahrzad #0" = -1
+	"Shahzadeh #0" = -1
+	"Shapur #0" = 0
+	"Shayan #0" = 0
+	"Sina #0" = 0
+	"Soraya #0" = -1
+	"Terentiy #0" = 0
+	"Touran #0" = -1
+	"Tourandokht #0" = -1
+	"Tyrion #0" = 0
+	"Ulrike #0" = -1
+	"Vahhab #0" = 0
+	"Vali #0" = 0
+	"Vandad #0" = 0
+	"Yazdegerd #0" = 0
+	"Yekta #0" = -1
+	"Yngvar #0" = 0
+	"Yousef #0" = 0
+	"Zahak #0" = 0
+	"Zakaria #0" = 0
+	"Zand #0" = 0
+	"Zartosht #0" = 0
+	"Zopyris #0" = -1
+}
+leader_names = {
+	"Abbâs"
+	"Abû"
+	"Akbar"
+	"Bakr"
+	"Jahagir"
+	"Jalâl"
+	"Jâmî"
+	"Khalil"
+	"Mohsin"
+	"Zaman"
+	"ud-Dîn"
+}
+ship_names = {
+	"Ardabil"
+	"Bakhura"
+	"Balkh"
+	"Baluches"
+	"Herat"
+	"Ispahan"
+	"Kandahar"
+	"Kharesm"
+	"Kirman"
+	"Kish"
+	"Lahore"
+	"Merv"
+	"Nishupur"
+	"Ormuz"
+	"Rustam"
+	"Samarqand"
+	"Sebzewar"
+	"Shah Rukh"
+	"Sikandar"
+	"Slurax"
+	"Tahriz"
+	"Tamerlane"
+}

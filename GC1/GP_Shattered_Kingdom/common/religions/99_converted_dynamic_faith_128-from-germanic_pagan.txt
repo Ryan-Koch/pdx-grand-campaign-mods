@@ -1,0 +1,45 @@
+pagan = {
+	converted_dynamic_faith_128 = {
+		color = { 175 0 0 }
+		icon =  174
+		country = {
+ 
+		build_cost = 0.1
+		war_exhaustion = -0.1
+	
+
+		infantry_power = 0.05
+	
+
+		heir_chance = 0.5
+	
+
+		tolerance_heathen = 1
+		tolerance_heretic = 1
+	
+}
+		country_as_secondary = {
+ 
+		raze_power_gain = 0.15
+	
+
+		war_exhaustion = -0.1
+	
+}
+		province = {
+ 
+		local_manpower_modifier = 0.1
+	
+
+		local_missionary_strength = 0.01
+	
+}
+		
+		personal_deity = yes
+	
+		
+	heretic = { GOAT_SKULL }
+
+	}
+}
+

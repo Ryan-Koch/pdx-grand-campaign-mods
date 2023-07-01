@@ -1,0 +1,58 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = eastern
+religion = converted_dynamic_faith_130
+primary_culture = dynamic-greek-nubian-culture-num1
+capital = 1126
+add_accepted_culture = dyola
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Pesanthia"
+		dynasty = "Marehan"
+		adm = 3
+		dip = 2
+		mil = 3
+		birth_date = 1394.12.5
+		female = yes
+		religion = converted_dynamic_faith_130
+		culture = dynamic-greek-nubian-culture-num1
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = just_personality
+	queen = {
+		name = "Athenodoros"
+		dynasty = "Isaaq"
+		adm = 3
+		dip = 3
+		mil = 3
+		country_of_origin = Z1P
+		birth_date = 1386.4.17
+		death_date = 1446.4.17
+		religion = converted_dynamic_faith_130
+		culture = greek
+	}
+	add_queen_personality = fertile_personality
+	add_queen_personality = sinner_personality
+	heir = {
+		name = "Entaeiri"
+		monarch_name = "Entaeiri"
+		dynasty = "Marehan"
+		adm = 5
+		dip = 4
+		mil = 5
+		birth_date = 1424.6.7
+		death_date = 1489.6.7
+		female = yes
+		claim = 89
+		religion = converted_dynamic_faith_130
+		culture = dynamic-greek-nubian-culture-num1
+	}
+	add_heir_personality = fertile_personality
+	add_heir_personality = free_thinker_personality
+}
+1444.11.11= {
+	add_prestige = 81
+	add_treasury = 61
+}

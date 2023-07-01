@@ -1,0 +1,126 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 215 12 64 }
+revolutionary_colors = { 13 16 0 }
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	defensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+}
+historical_units = {
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	indian_shock_cavalry
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	reformed_mughal_mansabdar
+	reformed_mughal_musketeer
+}
+monarch_names = {
+	"Asa #0" = -1
+	"Bhairabendranarayan #2" = 10
+	"Bhavashankari #0" = -1
+	"Bhikhari #1" = 10
+	"Dar #2" = 10
+	"Devanakata #0" = -1
+	"Dinah #0" = -1
+	"Fareedeh #0" = -1
+	"Farva #0" = -1
+	"Govishanaka #1" = 10
+	"Gyelpo #0" = 0
+	"Gyelwa #0" = -1
+	"Gyichangmo #0" = -1
+	"Irandokht #0" = -1
+	"Jamgön #0" = 0
+	"Jamyang #0" = 0
+	"Kelsang #0" = 0
+	"Kelyenmel #0" = 0
+	"Kyimsheng #0" = -1
+	"Ladahachandra #1" = 10
+	"Leila #0" = -1
+	"Lhagyel #0" = -1
+	"Lhakyi #0" = 0
+	"Longtsen #0" = 0
+	"Ludrub #0" = 0
+	"Malavyadevi #1" = -1
+	"Naro #0" = 0
+	"Ngodup #0" = -1
+	"Octavia #0" = -1
+	"Octavius #0" = 0
+	"Parikshitnayaran #3" = 10
+	"Postumus #0" = 0
+	"Pungse #0" = 0
+	"Pungtsen #0" = 0
+	"Ratnadevi #1" = -1
+	"Rudaladevi #0" = -1
+	"Salomeh #0" = -1
+	"Samlo #0" = 0
+	"Sanghamitta #1" = -1
+	"Sanyukta #0" = -1
+	"Shelgyung #0" = 0
+	"Shivanarayan #1" = 10
+	"Shonnu #0" = -1
+	"Skamar #0" = 0
+	"Songtsen #0" = 0
+	"Syamadevi #1" = -1
+	"Sönamtsé #0" = 0
+	"Sönné #0" = 0
+	"Tobchen #0" = 0
+	"Zohreh #0" = -1
+}
+leader_names = {
+	"Bahadur"
+	"Bikram"
+	"Chand"
+	"Chhettri"
+	"Dev"
+	"Gurung"
+	"Koirala"
+	"Limbu"
+	"Madhesi"
+	"Magar"
+	"Malla"
+	"Rai"
+	"Rana"
+	"Thapa"
+	"Yadav"
+}
+ship_names = {
+	"Arun"
+	"Behri"
+	"Bhote Kosi"
+	"Devi"
+	"Dudh Kosi"
+	"Durga"
+	"Gayatri"
+	"Jalsena"
+	"Kala Jahazi"
+	"Kali Gandaki"
+	"Karnali"
+	"Lakshmi"
+	"Lal Jahazi"
+	"Narayani"
+	"Nausena"
+	"Nav ka Yudh"
+	"Nila Jahazi"
+	"Parvati"
+	"Radha"
+	"Rapti"
+	"Ratri"
+	"Sagar"
+	"Sapt Kosi"
+	"Sarasvati"
+	"Seti"
+	"Sita"
+	"Sun Kosi"
+	"Trishuli"
+}

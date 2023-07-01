@@ -1,0 +1,22 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 190 50 10 }
+monarch_names = {
+	"Bidia #1" = 10
+	"Bodonchar Munkhag #1" = 10
+	"Boru #2" = 10
+	"Chabi #1" = -1
+	"Glóð #0" = -1
+	"Gunes #0" = -1
+	"Guðrún #0" = -1
+	"Putere #1" = -1
+	"Richenza #0" = -1
+	"Sirma #1" = -1
+	"Skúli #1" = 10
+	"Teber #1" = 10
+	"Tryggvi #0" = 0
+	"Walpurga #0" = -1
+	"Yarpalaske #0" = 0
+	"Önundr #0" = 0
+	"Þorfinnr #0" = 0
+}

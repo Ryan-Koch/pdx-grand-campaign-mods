@@ -1,0 +1,26 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 200 50 149 }
+monarch_names = {
+	"Aphrodisios #0" = 0
+	"Biantes #0" = 0
+	"Caeso #1" = 10
+	"Castantin #0" = 0
+	"Decima #0" = -1
+	"Elpis #0" = -1
+	"Hosta #1" = -1
+	"Kleo #0" = -1
+	"Octavius #0" = 0
+	"Opitera #1" = -1
+	"Pese #0" = 0
+	"Phrynichos #0" = 0
+	"Quinta #1" = -1
+	"Secundus #0" = 0
+	"Tertius #1" = 10
+	"Theophania #0" = -1
+	"Tiberius #4" = 10
+	"Tita #1" = -1
+	"Vibia #1" = -1
+	"Wamah #0" = 0
+	"Wokie #1" = -1
+}

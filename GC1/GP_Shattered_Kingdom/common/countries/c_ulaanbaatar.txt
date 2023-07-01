@@ -1,0 +1,25 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 10 90 50 }
+monarch_names = {
+	"Bukha #1" = 10
+	"Bulgan #0" = 0
+	"Bulughan #0" = -1
+	"Buyan #0" = 0
+	"Chagur #1" = -1
+	"Chaujin Ortagai #1" = 10
+	"Dashinima #0" = 0
+	"Duua #0" = 0
+	"Innokentii #0" = 0
+	"Jochi #1" = 10
+	"Khermen #0" = 0
+	"Khorijin #0" = -1
+	"Lärkka #1" = -1
+	"Matiya #0" = 0
+	"Narin #1" = 10
+	"Ogodei #1" = 10
+	"Rayner #0" = 0
+	"Tekine #0" = -1
+	"Temulun #1" = -1
+	"Yokhunan #1" = 10
+}

@@ -1,0 +1,19 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 150 218 21 }
+monarch_names = {
+	"Allauna #0" = -1
+	"Anca #1" = -1
+	"Ancus #6" = 10
+	"Aula #0" = -1
+	"Gnaea #0" = -1
+	"Heria #0" = -1
+	"Hosta #0" = -1
+	"Lucia #0" = -1
+	"Publius #1" = 10
+	"Servia #1" = -1
+	"T'awes #0" = -1
+	"Tiberia #1" = -1
+	"Vibius #1" = 10
+	"Ytab #0" = -1
+}

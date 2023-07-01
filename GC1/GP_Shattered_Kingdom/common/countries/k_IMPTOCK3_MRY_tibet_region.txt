@@ -1,0 +1,23 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 48 36 12 }
+monarch_names = {
+	"Cha #1" = -1
+	"Dangla #0" = 0
+	"Decius #0" = 0
+	"Emund #0" = 0
+	"Gandharavati #0" = -1
+	"Kanak #1" = 10
+	"Lalaka #1" = 10
+	"Liknyikya #2" = 10
+	"Lîlyan #0" = -1
+	"Narendraprabha #0" = -1
+	"Nuba #1" = 10
+	"Ovlur #0" = 0
+	"Shang #0" = 0
+	"Songtsen #1" = 10
+	"Srilekha #1" = -1
+	"Teeyum #1" = 10
+	"Temba #1" = -1
+	"Wangpo #0" = 0
+}
