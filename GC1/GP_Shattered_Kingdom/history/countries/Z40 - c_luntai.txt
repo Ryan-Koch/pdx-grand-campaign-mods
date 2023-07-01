@@ -1,0 +1,14 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = nomad_group
+religion = orthodox
+primary_culture = bashkir
+capital = 2192
+fixed_capital = 2192
+add_accepted_culture = bactrian
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	add_prestige = 56
+	add_treasury = 38
+}

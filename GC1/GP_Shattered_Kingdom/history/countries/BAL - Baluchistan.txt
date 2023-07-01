@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = feudal_theocracy
+government_rank = 2
+technology_group = muslim
+religion = zoroastrian
+primary_culture = dynamic-persian-culture-num1
+capital = 2311
+1444.11.11= {
+	monarch = {
+		name = "Kurush II"
+		dynasty = "Najafid"
+		adm = 2
+		dip = 2
+		mil = 2
+		birth_date = 1389.8.31
+		religion = zoroastrian
+		culture = dynamic-persian-culture-num1
+	}
+	add_ruler_personality = martial_educator_personality
+	add_ruler_personality = scholar_personality
+	queen = {
+		name = "Vasumati"
+		dynasty = "Nandaprabhanjanavarman"
+		adm = 5
+		dip = 5
+		mil = 5
+		country_of_origin = BAL
+		birth_date = 1391.1.21
+		death_date = 1451.1.21
+		female = yes
+		religion = zoroastrian
+		culture = oriya
+	}
+	add_queen_personality = entrepreneur_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Kurush"
+		monarch_name = "Kurush III"
+		dynasty = "Najafid"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 1408.3.29
+		death_date = 1473.3.29
+		claim = 89
+		religion = zoroastrian
+		culture = dynamic-persian-culture-num1
+	}
+	add_heir_personality = scholar_personality
+	add_heir_personality = strict_personality
+}
+1444.11.11= {
+	add_prestige = 97
+	add_treasury = 72
+}

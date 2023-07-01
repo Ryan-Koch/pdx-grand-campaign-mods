@@ -1,0 +1,86 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 30 131 162 }
+revolutionary_colors = { 13 8 16 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	adal_guerilla_warfare
+	adal_gunpowder_warfare
+	african_dragoon
+	african_hussar
+	african_mandelaku
+	african_mossi_horsemen
+	african_spearmen
+	african_tuareg_cavalry
+	bantu_plains_warfare
+	niger_kongolese_tribal_warfare
+	westernized_adal
+}
+monarch_names = {
+	"Aberikos #1" = 10
+	"Douriko #0" = -1
+	"Eionmnne #1" = -1
+	"Eumenes #0" = 0
+	"Euphemia #0" = -1
+	"Eurylochos #1" = 10
+	"Gabriel #0" = 0
+	"Hediste #0" = -1
+	"Hemene #0" = -1
+	"Hierax #1" = 10
+	"Ikadion #1" = 10
+	"Isidora #0" = -1
+	"Kephalon #0" = 0
+	"Lysis #1" = -1
+	"Pyrrhos #0" = 0
+	"Stratokles #0" = 0
+	"Theodoros #0" = 0
+	"Titi Aka #0" = 0
+	"Xene #0" = -1
+	"Zopyra #1" = -1
+	"Ñilesa #0" = -1
+	"Ñonne #0" = -1
+}
+leader_names = {
+	"Ahmat"
+	"Ardoum"
+	"Deby"
+	"Djammous"
+	"Kabadi"
+	"Malloum"
+	"Nahor"
+	"Oueddai"
+	"Terap"
+	"Yorassem"
+}
+ship_names = {
+	"Abd al-Djel Selma"
+	"Aritso"
+	"Arki"
+	"Ayoma"
+	"Bad al-Djel"
+	"Biri"
+	"Birkoru"
+	"Bulu"
+	"Dari"
+	"Djil"
+	"Dugu"
+	"Dunama"
+	"Dunama Dibbalem"
+	"Fune"
+	"Hume"
+	"Kachim Biri"
+	"Kade"
+	"Kature"
+	"Kure Gana"
+	"Kure Kura"
+	"Shu"
+}

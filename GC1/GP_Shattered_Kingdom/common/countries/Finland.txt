@@ -1,0 +1,135 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 182 134 100 }
+revolutionary_colors = { 0 13 0 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+	spy_ideas
+	religious_ideas
+}
+historical_units = {
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	prussian_frederickian
+	prussian_uhlan
+	swedish_arme_blanche
+	swedish_caroline
+	swedish_gallop
+	swedish_gustavian
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Alarich #0" = 0
+	"Alberich #1" = 10
+	"Berengar #0" = 0
+	"Björg #0" = -1
+	"Bodil #0" = -1
+	"Bárðr #0" = 0
+	"Bóthildr #0" = -1
+	"Cecilía #0" = -1
+	"Engelbert #0" = 0
+	"Eðla #0" = -1
+	"Glóð #0" = -1
+	"Gríma #0" = -1
+	"Guðrún #0" = -1
+	"Hesso #0" = 0
+	"Hildeburg #0" = -1
+	"Hrafn #0" = 0
+	"Hugo #0" = 0
+	"Hupold #0" = 0
+	"Ingjerðr #0" = -1
+	"Kot #0" = 0
+	"Kári #1" = 10
+	"Manegold #1" = 10
+	"Rögnfríðr #0" = -1
+	"Steinn #0" = 0
+	"Sybille #0" = -1
+	"Unnr #0" = -1
+	"Vladimir #0" = 0
+	"Wulfhilde #0" = -1
+	"Þorfinnr #0" = 0
+	"Þuriðr #0" = -1
+	"Þyri #0" = -1
+}
+leader_names = {
+	"Adlercreutz"
+	"Ahlqvist"
+	"Berg"
+	"Björn"
+	"Blom"
+	"Cronstedt"
+	"Dufva"
+	"Ehrensvärd"
+	"Glad"
+	"Haataja"
+	"Helander"
+	"Helin"
+	"Hiltunen"
+	"Horn"
+	"Ilkka"
+	"Isotalo"
+	"Järnberg"
+	"Järvelä"
+	"Kesäläinen"
+	"Klingspor"
+	"Kortelainen"
+	"Krouvari"
+	"Kyrö"
+	"Liljencrantz"
+	"Länkinen"
+	"Pentti"
+	"Pietilä"
+	"Rehnskiöld"
+	"Renner"
+	"Rokka"
+	"Rutanen"
+	"Sakari"
+	"Sjögren"
+	"Stoor"
+	"Stålhandske"
+	"Tapani"
+	"Termonen"
+	"Turunen"
+	"Wilander"
+	"von Essen"
+}
+ship_names = {
+	"Agricola"
+	"Aura"
+	"Birger Jarl"
+	"Borgå"
+	"Hakkapeliitta"
+	"Helsingfors"
+	"Ilmarinen"
+	"Karelen"
+	"Kullervo"
+	"Kymi"
+	"Lapland"
+	"Lemminkäinen"
+	"Nyland"
+	"Oulu"
+	"Per Brahe"
+	"Sampo"
+	"Savolax"
+	"St. Henrik"
+	"Tavastehus"
+	"Tavastland"
+	"Vanda"
+	"Vasa"
+	"Viborg"
+	"Vuoksi"
+	"Väinämöinen"
+	"Åbo"
+	"Österbotten"
+}

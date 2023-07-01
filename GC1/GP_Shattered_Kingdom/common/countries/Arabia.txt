@@ -1,0 +1,191 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 76 141 58 }
+revolutionary_colors = { 10 0 1 }
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	quantity_ideas
+	economic_ideas
+}
+historical_units = {
+	ali_bey_reformed_infantry
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_dragoon
+	muslim_mass_infantry
+}
+monarch_names = {
+	"Akrotatos #0" = 0
+	"Alketas #0" = 0
+	"Amin #0" = 0
+	"Antisthenes #0" = 0
+	"Apame #0" = -1
+	"Archippe #0" = -1
+	"Bartholomaios #0" = 0
+	"Christophoros #0" = 0
+	"Chrysis #0" = -1
+	"Deriades #1" = 10
+	"Eionñoka #0" = -1
+	"Eirotatouññlki #0" = -1
+	"Ephannê #0" = 0
+	"Euphrosyne #0" = -1
+	"Eusebia #0" = -1
+	"Gabriel #0" = 0
+	"Gabrielkouda #1" = 10
+	"Gholam #0" = 0
+	"Hellene #0" = -1
+	"Hermaios #0" = 0
+	"Homolois #0" = -1
+	"Hostus #0" = 0
+	"Hêlias #0" = 0
+	"Iannia #0" = -1
+	"Ieremias #0" = 0
+	"Iollas #0" = 0
+	"Ioseph #0" = 0
+	"Kalinikos #0" = 0
+	"Kallis #0" = -1
+	"Kallistrate #0" = -1
+	"Kersiami #0" = -1
+	"Kleito #0" = -1
+	"Kleombrotos #0" = 0
+	"Krateia #0" = -1
+	"Kurillos #0" = 0
+	"Leon #0" = 0
+	"Libys #0" = -1
+	"Lysimache #0" = -1
+	"Machatas #0" = 0
+	"Mania #0" = -1
+	"Mariana #0" = 0
+	"Marianou #0" = -1
+	"Massnsen #0" = 0
+	"Michaêliko #0" = -1
+	"Mnesidemos #0" = 0
+	"Mohammed #0" = 0
+	"Mouses #0" = 0
+	"Narkissa #0" = -1
+	"Nazilla #0" = -1
+	"Nikokrates #2" = 10
+	"Perdikkas #0" = 0
+	"Petros #0" = 0
+	"Philemon #0" = 0
+	"Plathane #0" = -1
+	"Polydoros #0" = 0
+	"Publia #0" = -1
+	"Senouthios #1" = 10
+	"Sergios #1" = 10
+	"Simeoni #0" = 0
+	"Solomôn #0" = 0
+	"Sotinkouda #0" = 0
+	"Spurius #0" = 0
+	"Stephanou #0" = 0
+	"Thearidas #0" = 0
+	"Theobronia #0" = -1
+	"Theognosta #0" = -1
+	"Timarchos #0" = 0
+	"Timarete #0" = -1
+	"Timokleia #0" = -1
+	"Tophêna #2" = 10
+	"Xanthippos #0" = 0
+	"Xenokrates #3" = 10
+	"Zerebekka #0" = -1
+	"Zopyris #0" = -1
+	"Ñoltou #0" = -1
+	"Þórdís #0" = -1
+}
+leader_names = {
+	"Abbas"
+	"Ali"
+	"Aybak"
+	"Baibars"
+	"Bay"
+	"Bey"
+	"Bugha"
+	"Chammas"
+	"Farhat"
+	"Hammoud"
+	"Ibrahim"
+	"Inâl"
+	"Kansur"
+	"Khalil"
+	"Mansour"
+	"Saleh"
+	"Sayfuddin"
+	"Taleb"
+	"Youssef"
+	"Zangi"
+}
+ship_names = {
+	"Ad-Däkhilah"
+	"Adl"
+	"Ahmen Muyaid"
+	"Al-Ali"
+	"Al-Bahriyah"
+	"Al-Farafirah"
+	"Al-Kharijah"
+	"Alim"
+	"Ashraf Barsbay"
+	"Aziz"
+	"Aziz Gamal"
+	"Bari"
+	"Basir"
+	"Basit"
+	"Ben Barqooq"
+	"Farag Ben Barqooq"
+	"Fattah"
+	"Ghaffar"
+	"Hakam"
+	"Harrat Al-Buqum"
+	"Harrat Al-Kishb"
+	"Harrat Hadan"
+	"Harrat Khaybar"
+	"Harrat Kurama"
+	"Harrat Nawasif"
+	"Harrat Rahat"
+	"Harrat al-Unayyir"
+	"Hijaz"
+	"Jabal Abu Hasan"
+	"Jabal Baydan"
+	"Jabal Sawda"
+	"Jabal al-Jurayrah"
+	"Jabbar"
+	"Jeddah"
+	"Khafid"
+	"Khaliq"
+	"Malik"
+	"Mecca"
+	"Medina"
+	"Mu'izz"
+	"Mu'min"
+	"Mudhill"
+	"Muhaymin"
+	"Musawwir"
+	"Mutakabbir"
+	"Muyaid Sheikh"
+	"Nahr an-Nil"
+	"Nasser Muhamed"
+	"Qabid"
+	"Qahhar"
+	"Quddus"
+	"Rafi"
+	"Rahim"
+	"Rahman"
+	"Razzaq"
+	"Salam"
+	"Sami"
+	"Wahhab"
+	"Zaher Barqooq"
+	"Zaher Tatar"
+}
+army_names = {
+	"Jaish-al $PROVINCE$"
+}
+fleet_names = {
+	"Istawal-al $PROVINCE$"
+}

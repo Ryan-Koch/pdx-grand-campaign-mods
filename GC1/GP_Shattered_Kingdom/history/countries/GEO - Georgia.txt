@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = feudal_theocracy
+government_rank = 2
+technology_group = muslim
+religion = zoroastrian
+primary_culture = dynamic-persian-culture-num1
+capital = 423
+1444.11.11= {
+	monarch = {
+		name = "Octavius"
+		dynasty = "Mirifle"
+		adm = 5
+		dip = 3
+		mil = 6
+		birth_date = 1389.2.9
+		religion = zoroastrian
+		culture = dynamic-persian-culture-num1
+	}
+	add_ruler_personality = fertile_personality
+	add_ruler_personality = scholar_personality
+	queen = {
+		name = "Dzabuli"
+		dynasty = "ildu Kiz"
+		adm = 4
+		dip = 4
+		mil = 3
+		country_of_origin = GEO
+		birth_date = 1389.6.27
+		death_date = 1449.6.27
+		female = yes
+		religion = zoroastrian
+		culture = dynamic-persian-culture-num1
+	}
+	add_queen_personality = entrepreneur_personality
+	add_queen_personality = righteous_personality
+	heir = {
+		name = "Mahmud"
+		monarch_name = "Mahmud"
+		dynasty = "Mirifle"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 1421.6.16
+		death_date = 1486.6.16
+		claim = 89
+		religion = zoroastrian
+		culture = dynamic-persian-culture-num1
+	}
+	add_heir_personality = fertile_personality
+	add_heir_personality = silver_tongue_personality
+}
+1444.11.11= {
+	add_prestige = 108
+	add_treasury = 61
+}

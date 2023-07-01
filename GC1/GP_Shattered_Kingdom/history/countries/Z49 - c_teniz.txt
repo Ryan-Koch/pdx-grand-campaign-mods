@@ -1,0 +1,13 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = nomad_group
+religion = orthodox
+primary_culture = dynamic-bashkir-culture-num1
+capital = 1076
+fixed_capital = 1076
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	add_prestige = 87
+	add_treasury = 55
+}

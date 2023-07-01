@@ -1,0 +1,97 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 191 110 62 }
+revolutionary_colors = { 8 0 5 }
+historical_idea_groups = {
+	maritime_ideas
+	defensive_ideas
+	religious_ideas
+	expansion_ideas
+	administrative_ideas
+	offensive_ideas
+	trade_ideas
+	economic_ideas
+}
+historical_units = {
+	ali_bey_reformed_infantry
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_dragoon
+	muslim_mass_infantry
+}
+monarch_names = {
+	"Anca #0" = -1
+	"Ariste #0" = -1
+	"Armah #0" = 0
+	"Aula #0" = -1
+	"Awgustin #0" = 0
+	"Gallus #0" = 0
+	"Gnaea #0" = -1
+	"Hasdrubal #1" = 10
+	"Iphikrates #1" = 10
+	"Karidenna #0" = 0
+	"Kenan #0" = 0
+	"Kersiami #0" = -1
+	"Kisa #1" = -1
+	"Lucius #1" = 10
+	"Maima #0" = -1
+	"Massiva #0" = 0
+	"Medjan #0" = 0
+	"Milkherem #4" = 10
+	"Numeria #1" = -1
+	"Octavia #0" = -1
+	"Opiter #0" = 0
+	"Philon #0" = 0
+	"Postumus #1" = 10
+	"Primus #1" = 10
+	"Proculus #0" = 0
+	"Secunda #0" = -1
+	"Shayna #0" = -1
+	"Sophonisba #1" = -1
+	"Spurius #0" = 0
+	"Tanefzawit #0" = -1
+	"Tertia #1" = -1
+	"Thadeosi #0" = 0
+	"Theodamas #0" = 0
+	"Tiberia #0" = -1
+	"Tiberius #0" = 0
+	"Tophêna #0" = 0
+	"Vibius #0" = 0
+}
+leader_names = {
+	"Alami"
+	"Arazi"
+	"Barek"
+	"Behar"
+	"Berui"
+	"Haida"
+	"Lahsini"
+	"Sahiri"
+	"Sellami"
+	"Skah"
+}
+ship_names = {
+	"Afuww"
+	"Badi"
+	"Baqi"
+	"Darr"
+	"Fa'uf"
+	"Fazl Azim"
+	"Ghani"
+	"Hadi"
+	"Jalal Ikram"
+	"Jami"
+	"Malik Mulk"
+	"Mani"
+	"Mughni"
+	"Muntaqim"
+	"Muqsit"
+	"Nafi"
+	"Nur"
+	"Rashid"
+	"Sabur"
+	"Tawwab"
+	"Warith"
+}

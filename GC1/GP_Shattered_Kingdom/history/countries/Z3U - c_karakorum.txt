@@ -1,0 +1,14 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = nomad_group
+religion = orthodox
+primary_culture = buryat
+capital = 4678
+fixed_capital = 4678
+add_accepted_culture = khalkha
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	add_prestige = 94
+	add_treasury = 0
+}

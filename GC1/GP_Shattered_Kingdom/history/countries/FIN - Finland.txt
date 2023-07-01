@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = western
+religion = converted_dynamic_faith_131
+primary_culture = dynamic-german-norse-culture-num1
+capital = 27
+add_accepted_culture = finnish
+1444.11.11= {
+	monarch = {
+		name = "Kári"
+		dynasty = "af Turku"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1391.2.9
+		religion = converted_dynamic_faith_131
+		culture = dynamic-german-norse-culture-num1
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = scholar_personality
+	queen = {
+		name = "Glóð"
+		dynasty = "Byrrnesson"
+		adm = 4
+		dip = 4
+		mil = 3
+		country_of_origin = FIN
+		birth_date = 1390.8.8
+		death_date = 1450.8.8
+		female = yes
+		religion = converted_dynamic_faith_131
+		culture = dynamic-german-norse-culture-num1
+	}
+	add_queen_personality = free_thinker_personality
+	add_queen_personality = pious_personality
+	heir = {
+		name = "Engelbert"
+		monarch_name = "Engelbert"
+		dynasty = "af Turku"
+		adm = 4
+		dip = 6
+		mil = 6
+		birth_date = 1412.12.27
+		death_date = 1477.12.27
+		claim = 89
+		religion = converted_dynamic_faith_131
+		culture = dynamic-german-norse-culture-num1
+	}
+	add_heir_personality = silver_tongue_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 88
+	add_treasury = 59
+}

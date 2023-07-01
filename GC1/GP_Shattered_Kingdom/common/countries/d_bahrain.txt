@@ -1,0 +1,16 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 20 100 30 }
+monarch_names = {
+	"Ardahan #0" = 0
+	"Avyaman #0" = 0
+	"Behnaz #0" = -1
+	"Dariush #2" = 10
+	"Farah #0" = -1
+	"Jamileh #0" = -1
+	"Kavoos #1" = 10
+	"Mahdokht #0" = -1
+	"Nezam #0" = 0
+	"Peroz #0" = 0
+	"Shahram #0" = 0
+}

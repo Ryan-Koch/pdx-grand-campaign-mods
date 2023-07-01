@@ -1,0 +1,135 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 243 106 0 }
+revolutionary_colors = { 5 8 5 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+}
+historical_units = {
+	african_abyssinian_cavalry
+	african_abyssinian_light_cavalry
+	african_dragoon
+	african_hussar
+	african_mossi_horsemen
+	african_somali_cavalry
+	african_spearmen
+	bantu_tribal_warfare
+	ethiopian_guerilla_warfare
+	ethiopian_gunpowder_warfare
+	ethiopian_mountain_warfare
+	westernized_ethiopian
+}
+monarch_names = {
+	"Agis #1" = 10
+	"Aissata #0" = -1
+	"Anca #0" = -1
+	"Andreas #0" = 0
+	"Antiochis #0" = -1
+	"Antiphilos #0" = 0
+	"Apollodotos #0" = 0
+	"Archimedes #0" = 0
+	"Artemis #0" = -1
+	"Athanasios #0" = 0
+	"Athenais #0" = -1
+	"Chaelsoñoja #1" = -1
+	"Christophoros #0" = 0
+	"Chrysis #0" = -1
+	"Damoteles #1" = 10
+	"Deinippos #0" = 0
+	"Doris #0" = -1
+	"Egaloskoura #0" = -1
+	"Eionmnne #0" = -1
+	"Elpis #0" = -1
+	"Emmanouel #0" = 0
+	"Ephannê #0" = -1
+	"Epimachos #0" = 0
+	"Eukrates #0" = 0
+	"Eukratides #0" = 0
+	"Eusebia #1" = -1
+	"Faustus #0" = 0
+	"Gabriel #0" = 0
+	"Gennatios #0" = 0
+	"Heromenes #1" = 10
+	"Hêlias #0" = 0
+	"Iêsous #0" = 0
+	"Jamal #0" = 0
+	"Kallippe #0" = -1
+	"Kallis #0" = -1
+	"Kel #0" = -1
+	"Keudonia #0" = -1
+	"Krisanthos #0" = 0
+	"Lysistrate #0" = -1
+	"Mania #0" = -1
+	"Marianou #0" = -1
+	"Marturophoros #1" = 10
+	"Michaêlkouda #0" = 0
+	"Monime #1" = -1
+	"Naleye #0" = 0
+	"Nikareta #0" = -1
+	"Numeria #0" = -1
+	"Papasinkouda #0" = 0
+	"Patrikios #0" = 0
+	"Pelagia #0" = -1
+	"Peroidas #1" = 10
+	"Phano #1" = -1
+	"Polemon #0" = 0
+	"Postumus #0" = 0
+	"Quintus #0" = 0
+	"Skanatatte #0" = 0
+	"Sophe #0" = -1
+	"Stratokles #1" = 10
+	"Theodora #0" = -1
+	"Theodosia #0" = -1
+	"Theophania #0" = -1
+	"Theozia #0" = -1
+	"Thoinon #0" = 0
+	"Tijani #0" = 0
+	"Timagora #0" = -1
+	"Xenokrateia #0" = -1
+	"Xenokrates #1" = 10
+	"Zacharias #0" = 0
+	"Ñašša #1" = -1
+	"Ñonnen #0" = -1
+}
+leader_names = {
+	"Benesho"
+	"Bosho"
+	"Chara"
+	"CharaGera"
+	"Eneara"
+	"Gofa"
+	"Gomma"
+	"Gonga"
+	"Hinaro"
+	"Hio"
+	"Konta"
+	"Kullo"
+	"Maji"
+	"Masongo"
+	"Mato"
+	"Minje"
+	"Nao"
+	"She"
+	"Shewo"
+	"Uba"
+}
+ship_names = {
+	"Kedus Harbe"
+	"Lalibela"
+	"Mara Takla"
+	"Na'akueto La'ab"
+	"Seyum"
+	"Shewa"
+	"Tatadum"
+	"Tigray"
+	"Yekuno Amlak"
+	"Yetbarak"
+	"Yodit"
+}

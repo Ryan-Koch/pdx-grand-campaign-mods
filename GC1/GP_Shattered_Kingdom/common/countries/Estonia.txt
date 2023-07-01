@@ -1,0 +1,102 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 248 125 125 }
+revolutionary_colors = { 15 1 0 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+	spy_ideas
+	religious_ideas
+}
+historical_units = {
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	prussian_frederickian
+	prussian_uhlan
+	swedish_arme_blanche
+	swedish_caroline
+	swedish_gallop
+	swedish_gustavian
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adalbero #0" = 0
+	"Adela #0" = -1
+	"Alfríðr #0" = -1
+	"Andreas #0" = 0
+	"Aryakose #0" = -1
+	"Bergþór #1" = 10
+	"Danamava #0" = 0
+	"Dietmar #0" = 0
+	"Dietrich #1" = 10
+	"Dinah #0" = -1
+	"Eginolf #1" = 10
+	"Elnaz #0" = -1
+	"Emmerich #0" = 0
+	"Eudosia #0" = -1
+	"Gaius #0" = 0
+	"Glaukias #0" = 0
+	"Gnúpa #1" = 10
+	"Hans #0" = 0
+	"Heribert #1" = 10
+	"Hesso #0" = 0
+	"Karlotte #0" = -1
+	"Kunigunde #0" = -1
+	"Ludwig #0" = 0
+	"Luitgard #0" = -1
+	"Margarete #0" = -1
+	"Maria #0" = -1
+	"Meinhard #0" = 0
+	"Morad #0" = 0
+	"Osterhild #0" = -1
+	"Philipp #0" = 0
+	"Tyke #0" = 0
+	"Ulrich #0" = 0
+	"Valþjófr #0" = 0
+	"Wenzel #0" = 0
+	"Wolfgang #1" = 10
+	"Álfr #0" = 0
+	"Ása #0" = -1
+	"Örvar #0" = 0
+	"Úlfhildr #0" = -1
+	"Þórólfr #0" = 0
+}
+leader_names = {
+	"Aminoff"
+	"Armfelt"
+	"Bielke"
+	"Bonde"
+	"Carpelan"
+	"Fleming"
+	"Furuhjelm"
+	"Horn"
+	"Mannerheim"
+	"Paijkull"
+	"Rehbinder"
+	"Schulman"
+	"Soop"
+	"Tott"
+	"Wrede"
+}
+ship_names = {
+	"Arensburg"
+	"Hapsal"
+	"Maria"
+	"Narva"
+	"Pernau"
+	"Reval"
+	"Toompea"
+	"Weissenstein"
+	"Wesenberg"
+	"Ösel"
+}

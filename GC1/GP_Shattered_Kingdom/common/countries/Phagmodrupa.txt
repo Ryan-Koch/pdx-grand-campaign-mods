@@ -1,0 +1,108 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 93 102 151 }
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	spy_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"Dhargey #0" = -1
+	"Drimé #0" = 0
+	"Girgen #0" = 0
+	"Gyelwé #2" = 10
+	"Harsa #0" = 0
+	"Hemavati #0" = -1
+	"Jotsé #0" = 0
+	"Kalarasa #1" = 10
+	"Khadroma #1" = -1
+	"Khorré #0" = 0
+	"Khyabpa #1" = 10
+	"Kona #0" = -1
+	"Lakring #1" = 10
+	"Lhogyal #0" = -1
+	"Paramardideva #0" = 0
+	"Pelchen #0" = 0
+	"Pelgönsé #1" = 10
+	"Ritvija #0" = -1
+	"Rögnvaldr #0" = 0
+	"Sashi #0" = 0
+	"Semarkar #0" = -1
+	"Zanam #0" = 0
+	"Zenji #1" = 10
+}
+leader_names = {
+	"Bal"
+	"Bri"
+	"Bro"
+	"Chespong"
+	"Cogro"
+	"Dbas"
+	"Dbra"
+	"Dru"
+	"Gnon"
+	"Gnyags"
+	"Khjungpo"
+	"Khu"
+	"Khun"
+	"Lang"
+	"Ldong"
+	"Lig"
+	"Mchims"
+	"Mgar"
+	"Mgus"
+	"Mjang"
+	"Mkar"
+	"Mnyammed"
+	"Mong"
+	"Nganlam"
+	"Nyang"
+	"Phjongsrgjas"
+	"Rinspungs"
+	"Rlangs"
+	"Rma"
+	"Rmu"
+	"Sba"
+	"Sbas"
+	"Se"
+	"Sgro"
+	"Shudpu"
+	"Snang"
+	"Snyiba"
+	"Stong"
+	"Thonmi"
+	"Zhang"
+	"Zhingshag"
+}
+ship_names = {
+	"Barkam"
+	"Dartsendo"
+	"Gartse"
+	"Gyantse"
+	"Lhasa"
+	"Lhotse"
+	"Makalu"
+	"Nagqu"
+	"Nedong"
+	"Nyingchi"
+	"Pelbar"
+	"Qamdo"
+	"Sakya"
+	"Shigatse"
+	"Tinggri"
+}

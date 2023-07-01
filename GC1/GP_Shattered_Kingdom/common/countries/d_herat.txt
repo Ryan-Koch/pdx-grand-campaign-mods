@@ -1,0 +1,23 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 25 225 200 }
+monarch_names = {
+	"Argishti #1" = 10
+	"Baryaxes #1" = 10
+	"Belesys #1" = 10
+	"Faramarz #0" = 0
+	"Katakarni #0" = 0
+	"Khudayar #1" = 10
+	"Mithradates #1" = 10
+	"Parmys #0" = -1
+	"Sames #1" = 10
+	"Tanittu-Marduk #0" = 0
+	"Tukultî-Marduk #1" = 10
+	"Vairsingh #1" = 10
+	"Vashti #0" = -1
+	"Vologases #1" = 10
+	"Wardat-Enlil #0" = -1
+	"Wardat-Marduk #1" = -1
+	"Wardat-Ninurta #1" = -1
+	"Wardat-Sîn #0" = -1
+}

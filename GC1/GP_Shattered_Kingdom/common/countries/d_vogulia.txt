@@ -1,0 +1,15 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 100 120 92 }
+monarch_names = {
+	"Arti #0" = 0
+	"Avya #0" = -1
+	"Nuyanza #1" = 10
+	"Ozhmeg #0" = 0
+	"Pakstyan #1" = 10
+	"Parush #0" = 0
+	"Pekshayka #1" = -1
+	"Poshayka #0" = -1
+	"Velibia #0" = -1
+	"Vokan #2" = 10
+}

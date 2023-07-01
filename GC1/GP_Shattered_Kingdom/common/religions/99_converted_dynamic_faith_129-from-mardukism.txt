@@ -1,0 +1,36 @@
+pagan = {
+	converted_dynamic_faith_129 = {
+		color = { 80 166 164 }
+		icon =  175
+		country = {
+ 
+		heir_chance = 1
+	
+
+		legitimacy = 1
+		horde_unity = 1
+		devotion = 0.5
+		meritocracy = 0.5
+		republican_tradition = 0.5
+	
+
+		heir_chance = 1
+	
+
+		tolerance_heathen = -1
+	
+}
+		country_as_secondary = {
+ 
+		heir_chance = 1
+	
+
+		raze_power_gain = 0.15
+	
+}
+		
+	heretic = { DANIEL SUMER }
+
+	}
+}
+

@@ -1,0 +1,112 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 62 175 151 }
+revolutionary_colors = { 0 1 0 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	quality_ideas
+	economic_ideas
+}
+historical_units = {
+	african_dragoon
+	african_hill_warfare
+	african_hussar
+	african_mandelaku
+	african_mossi_horsemen
+	african_spearmen
+	african_tuareg_cavalry
+	african_western_franchise_warfare
+	niger_kongolese_gunpowder_warfare
+	songhai_tribal_warfare
+	westernized_niger_kongolese
+}
+monarch_names = {
+	"Abad #0" = 0
+	"Abba #0" = 0
+	"Adama #0" = -1
+	"Aissata #1" = -1
+	"Amburo #0" = -1
+	"Amita #0" = -1
+	"Antimachos #0" = 0
+	"Archippe #0" = -1
+	"Bannu #0" = 0
+	"Biranin #1" = 10
+	"Biyu #1" = 10
+	"Bomou #0" = 0
+	"Bunama #0" = 0
+	"Canab #0" = -1
+	"Chabrias #0" = 0
+	"Christophoros #0" = 0
+	"Dhidhin #0" = 0
+	"Dinka #0" = 0
+	"Djire #0" = -1
+	"Fakoli #1" = 10
+	"Fatoumata #1" = -1
+	"Fädazu #0" = 0
+	"Genseoua #1" = -1
+	"Goukouni #0" = 0
+	"Hawa #1" = -1
+	"Hermias #0" = 0
+	"Hêlias #0" = 0
+	"Kadi #0" = -1
+	"Kallistrate #0" = -1
+	"Kasu #0" = 0
+	"Kilia #0" = -1
+	"Kollouthos #0" = 0
+	"Kolonkan #1" = -1
+	"Kumayo #0" = 0
+	"Longesai #0" = 0
+	"Lucius #0" = 0
+	"Mariam #0" = -1
+	"Musa #0" = 0
+	"Nafissa #0" = -1
+	"Niaware #1" = 10
+	"Ning #0" = -1
+	"Ouarenô #0" = -1
+	"Salimata #0" = -1
+	"Sané #0" = -1
+	"Shadia #0" = -1
+	"Siddick #0" = 0
+	"Sidibé #0" = -1
+	"Sogolon #0" = -1
+	"Sophia #0" = -1
+	"Soumaré #0" = 0
+	"Soundiata #0" = 0
+	"Sy #0" = 0
+	"Tandi #0" = 0
+	"Yasiboy #0" = 0
+	"Yuma #0" = 0
+	"Ñonne #0" = -1
+}
+leader_names = {
+	"Amadou"
+	"Compaore"
+	"Diallo"
+	"Diarra"
+	"Keita"
+	"Lamizana"
+	"Modibo"
+	"Ouedraogo"
+	"Toure"
+	"Zerbo"
+}
+ship_names = {
+	"Akoi"
+	"Alayaman"
+	"Ali-Fay"
+	"Biyo-Kumoy"
+	"Biyu"
+	"Kinkin"
+	"Ku"
+	"Kukuray"
+	"Nintasanay"
+	"Takoi"
+	"Yama-Karaway"
+	"Za Kuroy"
+	"Zakoi"
+}

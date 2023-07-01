@@ -1,0 +1,26 @@
+owner = Z1C
+controller = Z1C
+capital = "Dagon"
+is_city = yes
+culture = mon
+religion = zoroastrian
+trade_goods = grain
+base_tax = 5
+base_production = 4
+base_manpower = 2
+extra_cost = 5
+add_core = PEG
+add_core = Z1C
+discovered_by = chinese
+discovered_by = east_african
+discovered_by = eastern
+discovered_by = indian
+discovered_by = muslim
+discovered_by = nomad_group
+discovered_by = ottoman
+discovered_by = sub_saharan
+discovered_by = western
+add_permanent_province_modifier = {
+	name = irrawaddy_estuary_modifier
+	duration = -1
+}

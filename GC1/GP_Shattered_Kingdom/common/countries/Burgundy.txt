@@ -1,0 +1,175 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 148 30 70 }
+revolutionary_colors = { 1 8 5 }
+historical_idea_groups = {
+	administrative_ideas
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	offensive_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	expansion_ideas
+}
+historical_units = {
+	anglofrench_line
+	dutch_maurician
+	french_bluecoat
+	french_caracolle
+	french_cuirassier
+	french_dragoon
+	french_impulse
+	halberd_infantry
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Aplo #1" = -1
+	"Appia #0" = -1
+	"Charidemos #0" = 0
+	"Decima #0" = -1
+	"Diazenis #1" = 10
+	"Flavia #0" = -1
+	"Gabrielkouda #0" = 0
+	"Galla #1" = -1
+	"Hermaios #0" = 0
+	"Irandokht #0" = -1
+	"Kaakyire #0" = -1
+	"Kodjo #0" = 0
+	"Lysimache #1" = -1
+	"Marca #0" = -1
+	"Numerius #0" = 0
+	"Octavius #0" = 0
+	"Pinsos #1" = 10
+	"Prima #0" = -1
+	"Raphaelkouda #0" = 0
+	"Servia #0" = -1
+	"Sexta #0" = -1
+	"Sirman #0" = 0
+	"Sofia #2" = -1
+	"Sousanna #0" = -1
+	"Spuria #2" = -1
+	"Spurius #0" = 0
+	"Theodora #0" = -1
+	"Tokpa #0" = 0
+	"Ñoltou #0" = -1
+}
+leader_names = {
+	"Arbelot"
+	"Bourgogne-Montaigu"
+	"Le Corgne"
+	"Nagu de Varennes"
+	"Pot de la Roche"
+	"d'Aban"
+	"d'Abonde"
+	"d'Auxy"
+	"d'Egmont"
+	"de Balay"
+	"de Bauffremont"
+	"de Beaumont"
+	"de Beugre"
+	"de Boulay"
+	"de Bourgeois"
+	"de Brachet"
+	"de Brimeu"
+	"de Castaing"
+	"de Chabot"
+	"de Chandieu"
+	"de Chastellux"
+	"de Chin"
+	"de Châlon"
+	"de Châlon-Arlay"
+	"de Cicon"
+	"de Coligny"
+	"de Créquy"
+	"de Cuiseaux"
+	"de Damas"
+	"de Dammartin"
+	"de Donzy"
+	"de Dyo"
+	"de Ferrette"
+	"de Lalaing"
+	"de Lannoy"
+	"de Lugny"
+	"de Marle"
+	"de Melun"
+	"de Montfaucon"
+	"de Nanton"
+	"de Neufchâtel"
+	"de Noyelles"
+	"de Pontailler"
+	"de Rochebaron"
+	"de Rochechouart"
+	"de Roye"
+	"de Scorailles"
+	"de Sémur"
+	"de Ternant"
+	"de Tonnerre"
+	"de Toucy"
+	"de Toulonjon"
+	"de Vaubresson"
+	"de Vaudrey"
+	"de Vellexon"
+	"de Vergy"
+	"de Vienne"
+	"de Villaines"
+	"de Villiers"
+	"de la Porte"
+}
+ship_names = {
+	"l'Armançon"
+	"l'Arroux"
+	"la Comtesse"
+	"la Duchesse"
+	"la Marie-de-Bourgogne"
+	"la Saône"
+	"le Bourgogne"
+	"le Bruges"
+	"le Cambrai"
+	"le Castrum Divionense"
+	"le Childebert"
+	"le Childebert II"
+	"le Chilpéric"
+	"le Clotaire"
+	"le Cluny"
+	"le Cîteaux"
+	"le Côte-d'Or"
+	"le Dijon"
+	"le Duc-de-Bourgogne"
+	"le Gibica"
+	"le Giselher"
+	"le Godégisel"
+	"le Gondebaud"
+	"le Gondemar"
+	"le Gondemar II"
+	"le Gondéric"
+	"le Gontran"
+	"le Gunther"
+	"le Jean-sans-Peur"
+	"le Philippe-le-Bon"
+	"le Philippe-le-Hardi"
+	"le Richard-de-Bourgogne"
+	"le Sigismond"
+	"le Theudéric II"
+	"le Théodebert"
+	"le Vézelay"
+}
+army_names = {
+	"Armée de $PROVINCE$"
+	"Armée de Chalon"
+	"Armée de Tonnerre"
+	"Armée de l'Autunois"
+	"Armée de l'Auxerrois"
+	"Armée de l'Auxonnois"
+	"Armée de l'Avallonnais"
+	"Armée de la Saône"
+	"Armée du Charolais"
+	"Armée du Comté"
+	"Armée du Mâconnais"
+}

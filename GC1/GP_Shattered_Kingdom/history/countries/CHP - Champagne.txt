@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = converted_dynamic_faith_131
+primary_culture = lutetian
+capital = 186
+1444.11.11= {
+	monarch = {
+		name = "Tectomaros"
+		dynasty = "Västraaros-Reims"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 1407.10.21
+		religion = converted_dynamic_faith_131
+		culture = lutetian
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = free_thinker_personality
+	queen = {
+		name = "Maria"
+		dynasty = "Amaling"
+		adm = 4
+		dip = 3
+		mil = 3
+		country_of_origin = CHP
+		birth_date = 1397.5.16
+		death_date = 1457.5.16
+		female = yes
+		religion = converted_dynamic_faith_131
+		culture = dynamic-german-norse-culture-num1
+	}
+	add_queen_personality = fertile_personality
+	add_queen_personality = scholar_personality
+	heir = {
+		name = "Bitorix"
+		monarch_name = "Bitorix"
+		dynasty = "Västraaros-Reims"
+		adm = 6
+		dip = 4
+		mil = 5
+		birth_date = 1426.12.6
+		death_date = 1491.12.6
+		claim = 89
+		religion = converted_dynamic_faith_131
+		culture = belgian
+	}
+	add_heir_personality = martial_educator_personality
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11= {
+	add_prestige = 67
+	add_treasury = 70
+}

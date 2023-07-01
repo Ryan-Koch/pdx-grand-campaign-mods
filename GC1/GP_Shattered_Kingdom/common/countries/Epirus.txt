@@ -1,0 +1,145 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 230 228 214 }
+revolutionary_colors = { 15 0 15 }
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	maritime_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	ottoman_lancer
+	ottoman_new_model
+	ottoman_nizami_cedid
+	ottoman_reformed_janissary
+	ottoman_reformed_spahi
+	ottoman_sekban
+	ottoman_spahi
+	ottoman_toprakli_dragoon
+	ottoman_toprakli_hit_and_run
+	slavic_stradioti
+}
+monarch_names = {
+	"Abbas #0" = 0
+	"Ahmed #0" = 0
+	"Alfríðr #0" = -1
+	"Amulia #0" = -1
+	"Appia #0" = -1
+	"Ardavan #0" = 0
+	"Aulus #0" = 0
+	"Camilla #0" = -1
+	"Cata #0" = -1
+	"Cecilía #0" = -1
+	"Daphne #0" = -1
+	"Decia #1" = -1
+	"Decima #0" = -1
+	"Decius #0" = 0
+	"Demba #0" = -1
+	"Drusus #0" = 0
+	"Fausta #1" = -1
+	"Faustus Andrapus #0" = 0
+	"Faustus Appius #0" = 0
+	"Faustus Aurelianus #0" = 0
+	"Faustus Flavius Maiorianus #0" = 0
+	"Faustus Gallus #0" = 0
+	"Faustus Gnaeus #0" = 0
+	"Faustus Hammurabius #0" = 0
+	"Faustus Lucius #0" = 0
+	"Faustus Numerius #0" = 0
+	"Faustus Perseus #0" = 0
+	"Faustus Servius #0" = 0
+	"Flavia #0" = -1
+	"Flavius #0" = 0
+	"Gaia #2" = -1
+	"Galla #0" = -1
+	"Gallus #0" = 0
+	"Gnaea #0" = -1
+	"Gnaeus #0" = 0
+	"Hammurabius Gnaeus #0" = 0
+	"Henda #0" = -1
+	"Heria #0" = -1
+	"Herius #0" = 0
+	"Hosta #0" = -1
+	"Hostus #0" = 0
+	"Ibrahim #0" = 0
+	"Korto #0" = -1
+	"Libys #0" = -1
+	"Lucia #0" = -1
+	"Lucius #0" = 0
+	"Mahtar #0" = 0
+	"Manius #0" = 0
+	"Merkourios #0" = 0
+	"Numeria #0" = -1
+	"Octavia #1" = -1
+	"Oinanthe #0" = -1
+	"Opiter #0" = 0
+	"Opitera #0" = -1
+	"Ovtay #0" = 0
+	"Perseus Spurius #0" = 0
+	"Philias #0" = -1
+	"Postumus #0" = 0
+	"Prima #0" = -1
+	"Procula #0" = -1
+	"Proculus #0" = 0
+	"Publia #0" = -1
+	"Rahimah #0" = -1
+	"Roxana #0" = -1
+	"Servia #0" = -1
+	"Shapur #0" = 0
+	"Spuria #0" = -1
+	"Spurius #0" = 0
+	"Syamadevi #0" = -1
+	"Tertia #1" = -1
+	"Tertius #0" = 0
+	"Theobronia #0" = -1
+	"Theodosia #0" = -1
+	"Tiberia #0" = -1
+	"Tiberius #1" = 10
+	"Tiberius Nicator #2" = 10
+	"Tiberius Opiter #2" = 10
+	"Tita #0" = -1
+	"Titus #1" = 10
+	"Tomo #0" = 0
+	"Vibius Aurelianus #0" = 0
+	"Áki #0" = 0
+}
+leader_names = {
+	"Angelus"
+	"Asan"
+	"Branas"
+	"Cantacuzene"
+	"Comnenus"
+	"Ducas"
+	"Mavros"
+	"Notaras"
+	"Palaeologus"
+	"Phocas"
+	"Raoul"
+	"Spagnoli"
+	"Sphrantzes"
+	"Tocco"
+	"Zaccaria"
+}
+ship_names = {
+	"Agios Kyprianos"
+	"Areopoli"
+	"Elika"
+	"Geronlimenas"
+	"Gytheio"
+	"Kardamyli"
+	"Kokkala"
+	"Kotronas"
+	"Skoutari"
+	"Vathia"
+}

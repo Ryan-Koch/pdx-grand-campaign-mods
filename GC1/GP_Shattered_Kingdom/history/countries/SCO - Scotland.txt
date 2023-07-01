@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = western
+religion = converted_dynamic_faith_131
+primary_culture = pictish
+capital = 252
+1444.11.11= {
+	monarch = {
+		name = "Canu"
+		dynasty = "Austfirðir-Stirling"
+		adm = 4
+		dip = 4
+		mil = 3
+		birth_date = 1403.1.7
+		religion = converted_dynamic_faith_131
+		culture = pictish
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = free_thinker_personality
+	queen = {
+		name = "Barbara"
+		dynasty = "Gerhaucres-Trums"
+		adm = 4
+		dip = 4
+		mil = 4
+		country_of_origin = SCO
+		birth_date = 1411.6.18
+		death_date = 1471.6.18
+		female = yes
+		religion = converted_dynamic_faith_131
+		culture = dynamic-german-norse-culture-num1
+	}
+	add_queen_personality = pious_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Irb"
+		monarch_name = "Irb"
+		dynasty = "Austfirðir-Stirling"
+		adm = 2
+		dip = 1
+		mil = 2
+		birth_date = 1437.2.20
+		death_date = 1502.2.20
+		claim = 89
+		religion = converted_dynamic_faith_131
+		culture = pictish
+	}
+	add_heir_personality = malevolent_personality
+	add_heir_personality = obsessive_perfectionist_personality
+}
+1444.11.11= {
+	add_prestige = 71
+	add_treasury = 0
+}

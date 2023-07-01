@@ -1,0 +1,20 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 235 84 84 }
+monarch_names = {
+	"Aryamarg #0" = 0
+	"Gyða #0" = -1
+	"Indriske #0" = 0
+	"Ipek #1" = -1
+	"Jñanakupte #0" = 0
+	"Kasyap #1" = 10
+	"Malamir #1" = 10
+	"Maya #0" = -1
+	"Moksawarme #1" = 10
+	"Okhotur #1" = 10
+	"Sartäç #1" = 10
+	"Silasoma #0" = 0
+	"Telec #1" = 10
+	"Uttare #0" = 0
+	"Waryasene #0" = 0
+}

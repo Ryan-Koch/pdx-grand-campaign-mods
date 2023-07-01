@@ -1,0 +1,24 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 87 144 50 }
+monarch_names = {
+	"Amulius #0" = 0
+	"Anava #0" = -1
+	"Ayeshah #0" = 0
+	"Chechama #0" = -1
+	"Genomund #0" = 0
+	"Gerrhild #0" = -1
+	"Guðrún #0" = -1
+	"Hólmfríðr #0" = -1
+	"Ingiburg #0" = -1
+	"Malorand #0" = 0
+	"Maria #0" = -1
+	"Meltsayka #1" = 10
+	"Merogais #0" = 0
+	"Paksyay #0" = 0
+	"Skjaldvör #0" = -1
+	"Spurius #0" = 0
+	"Totia #0" = -1
+	"Áskell #0" = 0
+	"Åsbjørn #0" = 0
+}

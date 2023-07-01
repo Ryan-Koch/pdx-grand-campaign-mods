@@ -1,0 +1,110 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 163 5 77 }
+revolutionary_colors = { 5 8 9 }
+historical_idea_groups = {
+	defensive_ideas
+	quantity_ideas
+	trade_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+	spy_ideas
+	economic_ideas
+	offensive_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"Allahyar #0" = 0
+	"Arunavati #0" = -1
+	"Athanasia #0" = -1
+	"Babak #0" = 0
+	"Bahar #0" = -1
+	"Bhogavati #0" = -1
+	"Darya #0" = -1
+	"Dzongpon #1" = 10
+	"Faraz #0" = 0
+	"Ferdows #0" = 0
+	"Galay #1" = 10
+	"Himadrija #0" = -1
+	"Khandu #1" = 10
+	"Lhakpa #0" = -1
+	"Manushihr #0" = 0
+	"Mashad #0" = 0
+	"Morad #0" = 0
+	"Narasingha #1" = 10
+	"Navvaba #0" = -1
+	"Noor #0" = -1
+	"Parikshitnayaran #1" = 10
+	"Parvin #0" = -1
+	"Pashang #1" = 10
+	"Peroz #0" = 0
+	"Rani #0" = -1
+	"Rostam #0" = 0
+	"Serchen #0" = -1
+	"Shahrokh #0" = 0
+	"Shahryar #0" = 0
+	"Shapur #1" = 10
+	"Tökarma #0" = -1
+	"Varshasb #0" = 0
+	"Yazdegerd #0" = 0
+	"Yousef #0" = 0
+	"Zahak #0" = 0
+	"Zartosht #0" = 0
+	"Zosime #0" = -1
+}
+leader_names = {
+	"Baruah"
+	"Borphukan"
+	"Chandra"
+	"Das"
+	"Deka"
+	"Kalita"
+	"Mahanta"
+	"Narayan"
+	"Prithu"
+	"Roy"
+}
+ship_names = {
+	"Brahmaputra"
+	"Chingri Mach"
+	"Darrang"
+	"Devi"
+	"Dibang"
+	"Durga Ma"
+	"Ganga"
+	"Hilsa Mach"
+	"Ilish Mach"
+	"Kali Ma"
+	"Kali Meghana"
+	"Kali Nauk"
+	"Kamrup"
+	"Lakimpur"
+	"Lal Nauk"
+	"Loki Devi"
+	"Luhit"
+	"Machli"
+	"Manasa Devi"
+	"Manjuli"
+	"Meghna"
+	"Nil Nauk"
+	"Nil Sagor"
+	"Parvati Devi"
+	"Rui Mach"
+	"Sagorer Bahini"
+	"Saraswoti"
+	"Shakti"
+	"Shaktir Nauk"
+	"Shasti Ma"
+	"Sibsagar"
+	"Trishool"
+	"Uma Devi"
+}

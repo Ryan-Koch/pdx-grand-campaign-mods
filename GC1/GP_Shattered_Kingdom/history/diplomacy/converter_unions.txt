@@ -1,0 +1,24 @@
+union=
+{
+	first="Z3X"
+	second="Z3I"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="Z3V"
+	second="Z40"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="Z4C"
+	second="Z3U"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+

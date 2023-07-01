@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = converted_dynamic_faith_131
+primary_culture = dynamic-german-norse-culture-num1
+capital = 4143
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Álfgeir II"
+		dynasty = "Amstetten-Rýgjarbit"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1377.6.29
+		religion = converted_dynamic_faith_131
+		culture = dynamic-german-norse-culture-num1
+	}
+	add_ruler_personality = free_thinker_personality
+	add_ruler_personality = tactical_genius_personality
+	queen = {
+		name = "Siunod"
+		dynasty = "af Austfirðir"
+		adm = 3
+		dip = 4
+		mil = 4
+		country_of_origin = Z3B
+		birth_date = 1377.2.1
+		death_date = 1437.2.1
+		female = yes
+		religion = converted_dynamic_faith_131
+		culture = pictish
+	}
+	add_queen_personality = pious_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Helferich"
+		monarch_name = "Helferich"
+		dynasty = "Amstetten-Rýgjarbit"
+		adm = 4
+		dip = 6
+		mil = 5
+		birth_date = 1397.1.30
+		death_date = 1462.1.30
+		claim = 89
+		religion = converted_dynamic_faith_131
+		culture = dynamic-german-norse-culture-num1
+	}
+	add_heir_personality = greedy_personality
+	add_heir_personality = inspiring_leader_personality
+}
+1444.11.11= {
+	add_prestige = 78
+	add_treasury = 47
+}

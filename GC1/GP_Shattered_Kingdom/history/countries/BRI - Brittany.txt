@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = western
+religion = converted_dynamic_faith_131
+primary_culture = normand
+capital = 167
+1444.11.11= {
+	monarch = {
+		name = "Hýsingr II"
+		dynasty = "Dubrovytsia-Argentan"
+		adm = 1
+		dip = 4
+		mil = 2
+		birth_date = 1392.8.2
+		religion = converted_dynamic_faith_131
+		culture = normand
+	}
+	add_ruler_personality = pious_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Helga"
+		dynasty = "Amaling"
+		adm = 3
+		dip = 3
+		mil = 2
+		country_of_origin = BRI
+		birth_date = 1406.2.13
+		death_date = 1466.2.13
+		female = yes
+		religion = converted_dynamic_faith_131
+		culture = dynamic-german-norse-culture-num1
+	}
+	add_queen_personality = charismatic_negotiator_personality
+	add_queen_personality = cruel_personality
+	heir = {
+		name = "Errand"
+		monarch_name = "Errand"
+		dynasty = "Dubrovytsia-Argentan"
+		adm = 2
+		dip = 1
+		mil = 2
+		birth_date = 1438.7.15
+		death_date = 1503.7.15
+		claim = 89
+		religion = converted_dynamic_faith_131
+		culture = normand
+	}
+	add_heir_personality = malevolent_personality
+	add_heir_personality = obsessive_perfectionist_personality
+}
+1444.11.11= {
+	add_prestige = 82
+	add_treasury = 67
+}

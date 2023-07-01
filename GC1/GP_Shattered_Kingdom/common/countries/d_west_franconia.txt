@@ -1,0 +1,26 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 170 170 170 }
+monarch_names = {
+	"Adiatorix #0" = 0
+	"Aessicunia #0" = -1
+	"Brogimaros #1" = 10
+	"Cantisena #1" = -1
+	"Cingetessa #1" = -1
+	"Camma #2" = 10
+	"Deiana #0" = -1
+	"Domneiu #1" = 10
+	"Eponi #1" = 10
+	"Gunnhildr #0" = -1
+	"Irmele #0" = -1
+	"Oconea #1" = -1
+	"Olorix #1" = 10
+	"Ormr #0" = 0
+	"Rudolf #1" = 10
+	"Seniciana #0" = -1
+	"Smertomara #1" = 10
+	"Tectomaros #1" = 10
+	"Urca #0" = -1
+	"Vinoma #0" = -1
+	"Þióðmundr #1" = 10
+}

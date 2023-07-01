@@ -1,0 +1,19 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 78 108 114 }
+monarch_names = {
+	"Araslan #0" = 0
+	"Arvo #1" = 10
+	"Dalla #0" = -1
+	"Hafríðr #0" = -1
+	"Naça #0" = -1
+	"Pagan #0" = 0
+	"Patiyer #1" = -1
+	"Rassate #1" = 10
+	"Sevar #1" = 10
+	"Shurkka #0" = -1
+	"Telec #1" = 10
+	"Toktu #0" = 0
+	"Tähtani #1" = -1
+	"Þuriðr #0" = -1
+}
