@@ -1,5 +1,5 @@
-owner = Z0F
-controller = Z0F
+owner = FRA
+controller = FRA
 capital = "Moulins"
 is_city = yes
 culture = cosmopolitan_french
@@ -9,7 +9,6 @@ base_tax = 3
 base_production = 5
 base_manpower = 3
 add_core = FRA
-add_core = Z0F
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

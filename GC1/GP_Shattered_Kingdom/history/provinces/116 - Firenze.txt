@@ -1,5 +1,5 @@
-owner = Z0F
-controller = Z0F
+owner = ITA
+controller = ITA
 capital = "Firenze"
 is_city = yes
 culture = roman
@@ -11,7 +11,7 @@ base_manpower = 5
 extra_cost = 16
 center_of_trade = 2
 add_core = ROM
-add_core = Z0F
+add_core = ITA
 add_core = Z1E
 discovered_by = east_african
 discovered_by = eastern

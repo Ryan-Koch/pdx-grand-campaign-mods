@@ -1,5 +1,5 @@
-owner = CBA
-controller = CBA
+owner = ODA
+controller = ODA
 capital = "Sakura"
 is_city = yes
 culture = togoku
@@ -8,7 +8,7 @@ trade_goods = fish
 base_tax = 2
 base_production = 1
 base_manpower = 2
-add_core = CBA
+add_core = ODA
 discovered_by = ANU
 discovered_by = KHA
 discovered_by = MCH

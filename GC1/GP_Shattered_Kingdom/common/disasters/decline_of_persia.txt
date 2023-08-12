@@ -1,0 +1,49 @@
+persian_political_violence = {
+    ended_by_country_breaking_to_rebels = no
+    
+    potential = {
+        NOT = { stability = 3 }
+        NOT = { has_country_flag = had_persian_political_violence }
+        tag = PER
+    }
+
+    can_start = {
+        AND = {
+            has_any_disaster = no
+            is_year = 1444
+        }
+    }
+
+    progress = {
+		modifier = {
+			factor = 100
+            stability = 0
+	    }
+    }
+
+	can_end = {
+		NOT = { num_of_rebel_controlled_provinces = 1 }
+		stability = 3
+	}
+
+    can_stop = {
+		OR = {
+			has_any_disaster = yes
+		}
+	}
+
+    modifier = {
+        global_unrest = 300
+        stability_cost_modifier = 2.0
+    }
+
+    spriteTypes = {
+        spriteType = {
+        name = "GFX_disaster_persian_political_violence"
+        texturefile = "gfx//interface//disasters//persian_political_violence.dds"
+        noOfFrames = 3
+        loadType = "INGAME"
+        }
+    }
+
+}

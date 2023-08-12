@@ -1,5 +1,5 @@
-owner = YMN
-controller = YMN
+owner = ODA
+controller = ODA
 capital = "Tottori"
 is_city = yes
 culture = japanese

@@ -1,5 +1,5 @@
-owner = Z0F
-controller = Z0F
+owner = FRA
+controller = FRA
 capital = "Bourges"
 is_city = yes
 culture = cosmopolitan_french
@@ -10,7 +10,6 @@ base_tax = 5
 base_production = 6
 base_manpower = 4
 add_core = FRA
-add_core = Z0F
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

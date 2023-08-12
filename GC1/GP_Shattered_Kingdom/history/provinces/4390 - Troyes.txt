@@ -1,5 +1,5 @@
-owner = Z3A
-controller = Z3A
+owner = FRA
+controller = FRA
 capital = "Troyes"
 is_city = yes
 culture = dynamic-gaulish-culture-num8
