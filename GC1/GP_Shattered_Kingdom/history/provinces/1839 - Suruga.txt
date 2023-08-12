@@ -1,5 +1,5 @@
-owner = IMG
-controller = IMG
+owner = ODA
+controller = ODA
 capital = "Sunpu"
 is_city = yes
 culture = togoku
@@ -8,7 +8,7 @@ trade_goods = tea
 base_tax = 4
 base_production = 4
 base_manpower = 3
-add_core = IMG
+add_core = ODA
 discovered_by = KHA
 discovered_by = MCH
 discovered_by = OIR

@@ -1,5 +1,5 @@
-owner = HTK
-controller = HTK
+owner = ODA
+controller = ODA
 capital = "Kanazawa"
 is_city = yes
 culture = togoku

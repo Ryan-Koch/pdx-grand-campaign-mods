@@ -1,6 +1,6 @@
-owner = Z0F
-controller = Z0F
-capital = "Orléans"
+owner = FRA
+controller = FRA
+capital = "Orlï¿½ans"
 is_city = yes
 culture = cosmopolitan_french
 religion = converted_dynamic_faith_127
@@ -10,7 +10,6 @@ base_production = 6
 base_manpower = 5
 center_of_trade = 1
 add_core = FRA
-add_core = Z0F
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

@@ -1,5 +1,5 @@
-owner = Z0F
-controller = Z0F
+owner = ITA
+controller = ITA
 capital = "Sofia"
 is_city = yes
 culture = dynamic-roman-culture-num4
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 5
 base_manpower = 3
 add_core = EPI
-add_core = Z0F
+add_core = ITA
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

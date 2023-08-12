@@ -1,6 +1,6 @@
-owner = Z3A
-controller = Z3A
-capital = "Jülich"
+owner = FRA
+controller = FRA
+capital = "Jï¿½lich"
 is_city = yes
 culture = dynamic-gaulish-culture-num9
 religion = converted_dynamic_faith_131

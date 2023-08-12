@@ -1,5 +1,5 @@
-owner = Z0I
-controller = Z0I
+owner = GER
+controller = GER
 capital = "Slesvig"
 is_city = yes
 culture = dynamic-german-norse-culture-num1
@@ -8,7 +8,7 @@ trade_goods = livestock
 base_tax = 4
 base_production = 2
 base_manpower = 4
-add_core = Z0I
+add_core = GER
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

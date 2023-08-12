@@ -1,5 +1,5 @@
-owner = SRV
-controller = SRV
+owner = IRQ
+controller = IRQ
 capital = "Baku"
 is_city = yes
 culture = dynamic-persian-culture-num1

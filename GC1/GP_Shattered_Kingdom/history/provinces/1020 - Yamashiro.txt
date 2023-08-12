@@ -1,5 +1,5 @@
-owner = ASK
-controller = ASK
+owner = ODA
+controller = ODA
 capital = "Kyoto"
 is_city = yes
 culture = japanese
@@ -8,7 +8,7 @@ trade_goods = silk
 base_tax = 6
 base_production = 5
 base_manpower = 2
-add_core = ASK
+add_core = ODA
 discovered_by = ANU
 discovered_by = KHA
 discovered_by = MCH

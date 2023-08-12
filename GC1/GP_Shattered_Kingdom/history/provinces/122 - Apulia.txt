@@ -1,5 +1,5 @@
-owner = Z1S
-controller = Z1S
+owner = ITA
+controller = ITA
 capital = "Taranto"
 is_city = yes
 culture = roman
@@ -9,7 +9,7 @@ base_tax = 7
 base_production = 5
 base_manpower = 4
 add_core = ROM
-add_core = Z1S
+add_core = ITA
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

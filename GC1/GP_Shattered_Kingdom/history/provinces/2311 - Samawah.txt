@@ -1,5 +1,5 @@
-owner = BAL
-controller = BAL
+owner = IRQ
+controller = IRQ
 capital = "Najaf"
 is_city = yes
 culture = dynamic-persian-culture-num1

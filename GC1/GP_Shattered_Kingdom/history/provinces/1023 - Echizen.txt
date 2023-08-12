@@ -1,5 +1,5 @@
-owner = SBA
-controller = SBA
+owner = ODA
+controller = ODA
 capital = "Takefu"
 is_city = yes
 culture = japanese
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 4
 base_manpower = 2
 add_core = ASA
-add_core = SBA
+add_core = ODA
 discovered_by = ANU
 discovered_by = KHA
 discovered_by = MCH
