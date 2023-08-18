@@ -1,5 +1,5 @@
-owner = ODA
-controller = ODA
+owner = ITA
+controller = ITA
 capital = "L'Aquila"
 is_city = yes
 culture = roman
@@ -8,7 +8,7 @@ trade_goods = wine
 base_tax = 3
 base_production = 5
 base_manpower = 4
-add_core = ODA
+add_core = ITA
 add_core = ROM
 discovered_by = east_african
 discovered_by = eastern
