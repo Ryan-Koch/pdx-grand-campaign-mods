@@ -1,5 +1,5 @@
-owner = SND
-controller = SND
+owner = IRQ
+controller = IRQ
 capital = "Sanandaj"
 is_city = yes
 culture = dynamic-persian-culture-num1
@@ -8,7 +8,7 @@ trade_goods = cloth
 base_tax = 9
 base_production = 5
 base_manpower = 6
-add_core = SND
+add_core = IRQ
 add_permanent_claim = PER
 discovered_by = east_african
 discovered_by = eastern

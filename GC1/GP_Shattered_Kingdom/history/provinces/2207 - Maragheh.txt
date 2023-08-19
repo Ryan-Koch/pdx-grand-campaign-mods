@@ -1,5 +1,5 @@
-owner = Z01
-controller = Z01
+owner = IRQ
+controller = IRQ
 capital = "Marageh"
 is_city = yes
 culture = dynamic-persian-culture-num1
@@ -8,7 +8,7 @@ trade_goods = wool
 base_tax = 10
 base_production = 13
 base_manpower = 8
-add_core = Z01
+add_core = IRQ
 add_permanent_claim = ARM
 discovered_by = east_african
 discovered_by = eastern

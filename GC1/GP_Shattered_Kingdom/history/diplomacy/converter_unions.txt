@@ -22,3 +22,19 @@ union=
 	end_date="1836.1.1"
 }
 
+vassal=
+{
+	first="IRQ"
+	second="Z0Z"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="IRQ"
+	second="KRY"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
