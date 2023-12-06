@@ -25,16 +25,79 @@ union=
 vassal=
 {
 	first="IRQ"
-	second="Z0Z"
+	second="KRY"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
 
 vassal=
 {
-	first="IRQ"
-	second="KRY"
+	first="MOS"
+	second="KIE"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
 
+vassal=
+{
+	first="MOS"
+	second="PLT"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="MOS"
+	second="Z2L"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="MOS"
+	second="BJA"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="MOS"
+	second="MDV"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="MJZ"
+	second="KHA"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="FRA"
+	second="Z1C"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="FRA"
+	second="GUY"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="FRA"
+	second="Z1C"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
