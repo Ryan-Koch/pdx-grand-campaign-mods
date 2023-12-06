@@ -1,7 +1,7 @@
-name = "Converted - GP_Shattered_Kingdom"
-path = "mod/GP_Shattered_Kingdom"
+name = "Converted - Shattered_World_136"
+path = "mod/Shattered_World_136"
 normal_or_historical_nations = yes
-supported_version = "1.35.*"
+supported_version = "1.36.*"
 replace_path = "history/countries/"
 replace_path = "history/provinces/"
 replace_path = "history/diplomacy/"
