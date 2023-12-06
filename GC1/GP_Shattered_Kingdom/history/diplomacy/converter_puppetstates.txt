@@ -134,22 +134,6 @@ vassal=
 vassal=
 {
 	first="EGY"
-	second="Z1V"
-	start_date="1444.11.11"
-	end_date="1836.1.1"
-}
-
-vassal=
-{
-	first="EGY"
-	second="Z21"
-	start_date="1444.11.11"
-	end_date="1836.1.1"
-}
-
-vassal=
-{
-	first="EGY"
 	second="NAJ"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
@@ -165,48 +149,8 @@ vassal=
 
 vassal=
 {
-	first="EGY"
-	second="Z3E"
-	start_date="1444.11.11"
-	end_date="1836.1.1"
-}
-
-vassal=
-{
-	first="ENG"
-	second="Z2B"
-	start_date="1444.11.11"
-	end_date="1836.1.1"
-}
-
-vassal=
-{
 	first="FIN"
 	second="KRL"
-	start_date="1444.11.11"
-	end_date="1836.1.1"
-}
-
-vassal=
-{
-	first="GER"
-	second="Z34"
-	start_date="1444.11.11"
-	end_date="1836.1.1"
-}
-
-vassal=
-{
-	first="GER"
-	second="Z3B"
-	start_date="1444.11.11"
-	end_date="1836.1.1"
-}
-
-vassal=
-{
-	first="IRE"
-	second="Z23"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
@@ -223,38 +167,6 @@ vassal=
 {
 	first="KSH"
 	second="Z2L"
-	start_date="1444.11.11"
-	end_date="1836.1.1"
-}
-
-vassal=
-{
-	first="PER"
-	second="FRS"
-	start_date="1444.11.11"
-	end_date="1836.1.1"
-}
-
-vassal=
-{
-	first="PLT"
-	second="Z2Y"
-	start_date="1444.11.11"
-	end_date="1836.1.1"
-}
-
-# vassal=
-# {
-# 	first="POL"
-# 	second="Z3A"
-# 	start_date="1444.11.11"
-# 	end_date="1836.1.1"
-# }
-
-vassal=
-{
-	first="SMI"
-	second="Z25"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
@@ -317,6 +229,13 @@ vassal=
 
 vassal=
 {
+	first="NOR"
+	second="SWE"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+
+vassal=
+{
 	first="Z15"
 	second="CHP"
 	start_date="1444.11.11"
@@ -331,3 +250,42 @@ vassal=
 	end_date="1836.1.1"
 }
 
+vassal=
+{
+	first="MOS"
+	second="KIE"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="MOS"
+	second="PLT"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="MOS"
+	second="Z2L"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="MOS"
+	second="BJA"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="MOS"
+	second="MDV"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
