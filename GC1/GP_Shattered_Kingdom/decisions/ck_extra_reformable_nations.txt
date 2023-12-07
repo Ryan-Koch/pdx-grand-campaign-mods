@@ -613,9 +613,7 @@ country_decisions = {
 		}
 		ai_importance = 200
 	}
-	
-	################################
-
+	###########################################
 	hungary_nation = {
 		major = yes
 		
