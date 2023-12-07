@@ -471,7 +471,7 @@ dynamic-bengali-culture-num1_ideas = {
 		diplomatic_upkeep = 1
 	}
 	tradition_formation_fighting = {
-		reserves_organisation = -0.10
+		reserves_organisation = 0.10
 	}
 	increase_discipline = {
 		discipline = 0.025
@@ -822,7 +822,7 @@ dynamic-roman-culture-num1_ideas = {
 		discipline = 0.05
 	}
 	tradition_formation_fighting = {
-		reserves_organisation = -0.10
+		reserves_organisation = 0.10
 	}
 	tradition_legalistic = {
 		governing_capacity_modifier = 0.1
@@ -969,7 +969,7 @@ dynamic-greek-roman-culture-num1_ideas = {
 		possible_condottieri = 1
 	}
 	tradition_formation_fighting = {
-		reserves_organisation = -0.10
+		reserves_organisation = 0.10
 	}
 	tradition_legalistic = {
 		governing_capacity_modifier = 0.1
@@ -1168,7 +1168,7 @@ dynamic-gaulish-culture-num4_ideas = {
 		possible_condottieri = 1
 	}
 	tradition_formation_fighting = {
-		reserves_organisation = -0.10
+		reserves_organisation = 0.10
 	}
 	tradition_legalistic = {
 		governing_capacity_modifier = 0.1
@@ -1439,7 +1439,7 @@ dynamic-greek-roman-culture-num2_ideas = {
 		possible_condottieri = 1
 	}
 	tradition_formation_fighting = {
-		reserves_organisation = -0.10
+		reserves_organisation = 0.10
 	}
 	tradition_legalistic = {
 		governing_capacity_modifier = 0.1
@@ -1672,7 +1672,7 @@ dynamic-dacian-roman-culture-num1_ideas = {
 		discipline = 0.05
 	}
 	tradition_formation_fighting = {
-		reserves_organisation = -0.10
+		reserves_organisation = 0.10
 	}
 	tradition_legalistic = {
 		governing_capacity_modifier = 0.1
@@ -1744,7 +1744,7 @@ dynamic-berber-roman-culture-num1_ideas = {
 		manpower_recovery_speed = -0.05
 	}
 	tradition_formation_fighting = {
-		reserves_organisation = -0.10
+		reserves_organisation = 0.10
 	}
 	tradition_legalistic = {
 		governing_capacity_modifier = 0.1
@@ -1983,7 +1983,7 @@ dynamic-berber-roman-culture-num2_ideas = {
 		manpower_in_true_faith_provinces = 0.10
 	}
 	tradition_formation_fighting = {
-		reserves_organisation = -0.10
+		reserves_organisation = 0.10
 	}
 	tradition_mountain_herding = {
 		special_unit_forcelimit = 0.05
@@ -2411,7 +2411,7 @@ dynamic-roman-culture-num2_ideas = {
 		manpower_recovery_speed = -0.05
 	}
 	tradition_formation_fighting = {
-		reserves_organisation = -0.10
+		reserves_organisation = 0.10
 	}
 	tradition_bush_hunting = {
 		special_unit_forcelimit = 0.05
@@ -2756,7 +2756,7 @@ dynamic-roman-culture-num3_ideas = {
 	free = yes
 
 	tradition_formation_fighting = {
-		reserves_organisation = -0.10
+		reserves_organisation = 0.10
 	}
 	tradition_roman_legacy = {
 		land_maintenance_modifier = -0.1
@@ -2878,7 +2878,7 @@ dynamic-roman-zaghawa-culture-num1_ideas = {
 		army_tradition_decay = -0.01
 	}
 	tradition_formation_fighting = {
-		reserves_organisation = -0.10
+		reserves_organisation = 0.10
 	}
 	tradition_desert_ribat = {
 		special_unit_forcelimit = 0.05
@@ -3742,7 +3742,7 @@ dynamic-roman-culture-num6_ideas = {
 		discipline = 0.05
 	}
 	tradition_formation_fighting = {
-		reserves_organisation = -0.10
+		reserves_organisation = 0.10
 	}
 	tradition_hereditary_hierarchy = {
 		free_adm_policy = 1
@@ -3854,7 +3854,7 @@ dynamic-aka-roman-culture-num1_ideas = {
 		manpower_recovery_speed = -0.05
 	}
 	tradition_formation_fighting = {
-		reserves_organisation = -0.10
+		reserves_organisation = 0.10
 	}
 	tradition_bush_hunting = {
 		special_unit_forcelimit = 0.05
@@ -3970,7 +3970,7 @@ dynamic-greek-roman-culture-num3_ideas = {
 	free = yes
 
 	tradition_formation_fighting = {
-		reserves_organisation = -0.10
+		reserves_organisation = 0.10
 	}
 	tradition_hereditary_hierarchy = {
 		free_adm_policy = 1
