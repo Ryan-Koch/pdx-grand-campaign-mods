@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = sub_saharan
+religion = converted_dynamic_faith_127
+primary_culture = kanuri
+capital = 1158
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Yugurthen III"
+		dynasty = "Manan"
+		adm = 4
+		dip = 3
+		mil = 5
+		birth_date = 1409.9.17
+		religion = converted_dynamic_faith_127
+		culture = kanuri
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = fierce_negotiator_personality
+	queen = {
+		name = "Lucia"
+		dynasty = "a Fehértemplom"
+		adm = 2
+		dip = 4
+		mil = 3
+		country_of_origin = Z1Z
+		birth_date = 1421.11.15
+		death_date = 1481.11.15
+		female = yes
+		religion = converted_dynamic_faith_127
+		culture = roman
+	}
+	add_queen_personality = obsessive_perfectionist_personality
+	add_queen_personality = strict_personality
+	heir = {
+		name = "Gaji"
+		monarch_name = "Gaji"
+		dynasty = "Manan"
+		adm = 4
+		dip = 5
+		mil = 4
+		birth_date = 1434.1.10
+		death_date = 1499.1.10
+		claim = 89
+		religion = converted_dynamic_faith_127
+		culture = kanuri
+	}
+	add_heir_personality = just_personality
+	add_heir_personality = strict_personality
+}
+1444.11.11= {
+	add_prestige = 78
+	add_treasury = 51
+}
