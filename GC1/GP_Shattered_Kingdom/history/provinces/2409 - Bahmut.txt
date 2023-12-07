@@ -1,5 +1,5 @@
-owner = GUY
-controller = GUY
+owner = GOL
+controller = GOL
 capital = "Bahmut"
 is_city = yes
 culture = dynamic-greek-roman-culture-num2
@@ -9,7 +9,7 @@ fort_15th = yes
 base_tax = 1
 base_production = 1
 base_manpower = 2
-add_core = GUY
+add_core = GOL
 add_permanent_claim = GOL
 discovered_by = east_african
 discovered_by = eastern
