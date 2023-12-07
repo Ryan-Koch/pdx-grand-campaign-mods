@@ -1,7 +1,7 @@
 pagan = {
 	converted_dynamic_faith_130 = {
 		color = { 204 37 33 }
-		icon =  176
+		icon =  177
 		country = {
  
 		legitimacy = 1

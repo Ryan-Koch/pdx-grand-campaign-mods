@@ -1,7 +1,7 @@
 pagan = {
 	converted_dynamic_faith_128 = {
 		color = { 175 0 0 }
-		icon =  174
+		icon =  175
 		country = {
  
 		build_cost = 0.1

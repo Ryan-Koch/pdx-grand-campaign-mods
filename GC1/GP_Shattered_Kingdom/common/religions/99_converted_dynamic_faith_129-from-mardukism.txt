@@ -1,7 +1,7 @@
 pagan = {
 	converted_dynamic_faith_129 = {
 		color = { 80 166 164 }
-		icon =  175
+		icon =  176
 		country = {
  
 		heir_chance = 1
