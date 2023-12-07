@@ -1,9 +1,15 @@
-tiwaz_1{
+tiwaz_1 = {
 
 	discipline = 0.05
 	infantry_power = 0.10
 
-	allow = { religion = converted_dynamic_faith_128 }
+	potential = { religion = converted_dynamic_faith_128 }
+
+	trigger = {}
+
+	effect = {}
+
+	removed_effect = {}
 	sprite = 49
 
 	ai_will_do = {
@@ -19,12 +25,18 @@ tiwaz_1{
 	}
 }
 
-wodan_1{
+wodan_1 = {
 
 	land_morale = 0.1
 	core_creation = -0.10
 
-	allow = { religion = converted_dynamic_faith_128 }
+	potential = { religion = converted_dynamic_faith_128 }
+
+	trigger = {}
+
+	effect = {}
+
+	removed_effect = {}
 	sprite = 50
 
 	ai_will_do = {
@@ -40,12 +52,18 @@ wodan_1{
 	}
 }
 
-dunar_1{
+dunar_1 = {
 
 	defensiveness = 0.2
 	leader_land_shock = 1
 
-	allow = { religion = converted_dynamic_faith_128 }
+	potential = { religion = converted_dynamic_faith_128 }
+
+	trigger = {}
+
+	effect = {}
+
+	removed_effect = {}
 	sprite = 51
 
 	ai_will_do = {
@@ -61,12 +79,18 @@ dunar_1{
 	}
 }
 
-frijjo_1{
+frijjo_1 = {
 
 	diplomatic_upkeep = 1
 	improve_relation_modifier = 0.10
 
-	allow = { religion = converted_dynamic_faith_128 }
+	potential = { religion = converted_dynamic_faith_128 }
+
+	trigger = {}
+
+	effect = {}
+
+	removed_effect = {}
 	sprite = 52
 
 	ai_will_do = {
@@ -78,12 +102,18 @@ frijjo_1{
 	}
 }
 
-austro_1{
+austro_1 = {
 
 	production_efficiency = 0.1
 	manpower_recovery_speed = 0.20
 
-	allow = { religion = converted_dynamic_faith_128 }
+	potential = { religion = converted_dynamic_faith_128 }
+
+	trigger = {}
+
+	effect = {}
+
+	removed_effect = {}
 	sprite = 53
 
 	ai_will_do = {
@@ -99,12 +129,18 @@ austro_1{
 	}
 }
 
-fraujaz_1{
+fraujaz_1 = {
 
 	global_trade_goods_size_modifier = 0.1
 	land_attrition = -0.10
 
-	allow = { religion = converted_dynamic_faith_128 }
+	potential = { religion = converted_dynamic_faith_128 }
+
+	trigger = {}
+
+	effect = {}
+
+	removed_effect = {}
 	sprite = 54
 
 	ai_will_do = {
