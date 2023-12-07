@@ -32,23 +32,23 @@ historical_units = {
 monarch_names = {
 	"Albert #0" = 5
 	"Alexandre #0" = 0
-	"André #0" = 0
-	"Barthélémy #0" = 0
-	"Benoît #0" = 0
+	"Andr0 #0" = 0
+	"Barth0l0my #0" = 0
+	"Beno0t #0" = 0
 	"Bertrand #0" = 0
 	"Charles #0" = 10
 	"Christophe #0" = 0
-	"Clément #0" = 0
+	"Cl0ment #0" = 0
 	"Daniel #0" = 0
 	"Denis #0" = 0
 	"Didier #0" = 0
-	"Eugène #0" = 0
-	"François #0" = 0
-	"Félicienne #0" = -1
-	"Félix #0" = 0
+	"Eug0ne #0" = 0
+	"Fran0ois #0" = 0
+	"F0licienne #0" = -1
+	"F0lix #0" = 0
 	"Gaspard #0" = 0
 	"Henri #0" = 20
-	"Héloïse #0" = -1
+	"H0lo0se #0" = -1
 	"Isidore #0" = 0
 	"Jean #0" = 0
 	"Jean Baptiste #0" = 0
@@ -56,7 +56,7 @@ monarch_names = {
 	"Laurent #0" = 0
 	"Louis #0" = 20
 	"Lucille #0" = -1
-	"Léonard #0" = 0
+	"L0onard #0" = 0
 	"Marc #0" = 0
 	"Narcisse #0" = 0
 	"Olivier #0" = 0
@@ -64,14 +64,14 @@ monarch_names = {
 	"Pierre #0" = 10
 	"Raymond #0" = 0
 	"Simon #0" = 5
-	"Sébastien #0" = 0
+	"S0bastien #0" = 0
 	"Thibault #0" = 0
 	"Thierry #0" = 0
 	"Victor #0" = 0
 	"Xavier #0" = 0
 	"Yves #0" = 0
-	"Zéphirin #0" = 0
-	"Émile #0" = 0
+	"Z0phirin #0" = 0
+	"0mile #0" = 0
 }
 leader_names = {
 	"Abat"
@@ -84,11 +84,11 @@ leader_names = {
 	"Beauregard"
 	"Beauvais"
 	"Bellevue"
-	"BertoniÃ¨re"
+	"Bertonière"
 	"Blanchard"
 	"Bouligny"
 	"Broussian"
-	"BÃ©nard"
+	"Bénard"
 	"Chauvin"
 	"Courcelli"
 	"D'Abbadie"
@@ -102,7 +102,7 @@ leader_names = {
 	"Dufour"
 	"Duvergier"
 	"Fabre"
-	"FerriÃ¨re"
+	"Ferrière"
 	"Florance"
 	"Fortier"
 	"Foucher"
@@ -134,7 +134,7 @@ leader_names = {
 	"Laville"
 	"Le Moyne"
 	"Leblanc"
-	"LeprÃªtre"
+	"Leprêtre"
 	"Lesparre"
 	"Levasseur"
 	"Livaudais"
@@ -152,10 +152,10 @@ leader_names = {
 	"Perrault"
 	"Pilie"
 	"Plicque"
-	"PÃ©rier"
+	"Périer"
 	"Renault"
 	"Rillieux"
-	"RiviÃ¨re"
+	"Rivière"
 	"Rochelle"
 	"Roussel"
 	"Saint-Blancard"
@@ -190,7 +190,7 @@ ship_names = {
 	"Beau Pays"
 	"Bienville"
 	"Biloxi"
-	"BÃ¢ton Rouge"
+	"Bâton Rouge"
 	"Caddo"
 	"Calcasieu"
 	"Catahoula"
@@ -200,7 +200,7 @@ ship_names = {
 	"Detroit"
 	"Feliciana"
 	"Florida"
-	"Fort CondÃ©"
+	"Fort Condé"
 	"Fort Maurepas"
 	"Fort de Chartres"
 	"Fort de La Boulaye"
@@ -229,9 +229,9 @@ ship_names = {
 	"Peoria"
 	"Plaquemines"
 	"Pointe Coupee"
-	"Pointe Ã  la Hache"
+	"Pointe à la Hache"
 	"Prompt Succor"
-	"PÃ©lican"
+	"Pélican"
 	"Queue de Tortue"
 	"Rapides"
 	"Sabine"
@@ -249,6 +249,6 @@ ship_names = {
 	"Thibodaux"
 	"Tickfaw"
 	"Ville Platte"
-	"Ã‰crevisse"
+	"Écrevisse"
 }
 colonial_parent = FRA

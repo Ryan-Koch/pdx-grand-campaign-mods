@@ -30,23 +30,22 @@ historical_units = {
 	western_men_at_arms
 }
 monarch_names = {
-	"Irter #0" = 5
-	"Karuvald #0" = 5
-	"Mohkku #0" = 20
-	"Mokci #0" = 20
-	"Nyayka #0" = -1
-	"Náhkol #0" = 20
-	"Náinnas #0" = 0
-	"Piho #0" = 0
-	"Pivtsay #0" = 10
-	"Pokshayka #0" = 5
-	"Poshayka #0" = -1
-	"Päevalemb #0" = 10
-	"Satu #0" = -1
-	"Shypicha #0" = 5
-	"Sulev #0" = 10
-	"Varaka #0" = 0
-	"Vidyava #0" = -1
+	"Adalbero #0" = 0
+	"Amalberga #0" = -1
+	"Andrés #0" = 0
+	"Atner #0" = 0
+	"Gboto #1" = 10
+	"Ingibjörg #1" = -1
+	"Málmfríðr #1" = -1
+	"Norbert #0" = 0
+	"Pinyas #0" = 0
+	"Serzhay #1" = -1
+	"Tul #1" = 10
+	"Tyushtya #1" = 10
+	"Ulrike #0" = -1
+	"Vaniher #0" = -1
+	"Wolfgang #0" = 0
+	"Ástríðr #0" = -1
 }
 leader_names = {
 	"Azegid"

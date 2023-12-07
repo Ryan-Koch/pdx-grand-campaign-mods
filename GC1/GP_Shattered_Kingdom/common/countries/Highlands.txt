@@ -234,7 +234,7 @@ ship_names = {
 	"Alba"
 	"Amo Probos"
 	"Andreas de Atholia"
-	"Aonaibh Ri ChÃ©ile"
+	"Aonaibh Ri Chéile"
 	"Asainte"
 	"Audaciter"
 	"Avance"

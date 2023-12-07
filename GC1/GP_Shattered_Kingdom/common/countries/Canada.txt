@@ -45,7 +45,7 @@ monarch_names = {
 	"David William #0" = 0
 	"Edward #0" = 0
 	"Ephraim #0" = 0
-	"François #0" = 0
+	"Fran0ois #0" = 0
 	"Frederick #0" = 20
 	"Gabriel #0" = 0
 	"George #0" = 20
@@ -82,7 +82,7 @@ monarch_names = {
 	"Philippe #0" = 5
 	"Pierre #0" = 5
 	"Pierre-Louis #0" = 0
-	"René #0" = 0
+	"Ren0 #0" = 0
 	"Richard #0" = 0
 	"Robert #0" = 20
 	"Roland #0" = 5
@@ -116,8 +116,8 @@ leader_names = {
 	"Bronson"
 	"Browne"
 	"By"
-	"BÃ©dard"
-	"BÃ©gin"
+	"Bédard"
+	"Bégin"
 	"Caldwell"
 	"Campbell"
 	"Carleton"
@@ -131,9 +131,9 @@ leader_names = {
 	"Cuthbert"
 	"D'Arcy"
 	"Dalhousie"
-	"DambourgÃ©s"
+	"Dambourgés"
 	"Dartigny"
-	"DigÃ©"
+	"Digé"
 	"Dorion"
 	"Dorland"
 	"Ducharme"
@@ -141,10 +141,10 @@ leader_names = {
 	"Dufour"
 	"Dumas"
 	"Dumont"
-	"DuniÃ¨re"
+	"Dunière"
 	"Dunn"
 	"Duplessis"
-	"DuprÃ©"
+	"Dupré"
 	"Durocher"
 	"Duvernay"
 	"Fairfield"
@@ -165,7 +165,7 @@ leader_names = {
 	"Henry"
 	"Hertel"
 	"Huot"
-	"HÃ©bert"
+	"Hébert"
 	"Ingersoll"
 	"Irvine"
 	"Jessup"
@@ -207,10 +207,10 @@ leader_names = {
 	"Perrault"
 	"Pettit"
 	"Pierreville"
-	"PlantÃ©"
+	"Planté"
 	"Prescott"
-	"PrÃ©vost"
-	"PÃ©rinault"
+	"Prévost"
+	"Périnault"
 	"Raby"
 	"Richardson"
 	"Richmond"
@@ -231,7 +231,7 @@ leader_names = {
 	"Street"
 	"Stuart"
 	"Swayze"
-	"TachÃ©"
+	"Taché"
 	"Taschereau"
 	"Terry"
 	"Thompson"
@@ -246,13 +246,13 @@ leader_names = {
 	"de Bonne"
 	"de Lavaltrie"
 	"de Lorimier"
-	"de LotbiniÃ¨re"
+	"de Lotbinière"
 	"de Rocheblave"
 	"de Rouville"
 	"de Salaberry"
 	"de Tonnancour"
 	"le Comte"
-	"Ã‰thier"
+	"Éthier"
 }
 ship_names = {
 	"Acadia"
@@ -273,7 +273,7 @@ ship_names = {
 	"Cayuga"
 	"Chaleur"
 	"Champlain"
-	"ChaudiÃ¨re"
+	"Chaudière"
 	"Chignecto"
 	"Cormorant"
 	"Elk"
@@ -294,7 +294,7 @@ ship_names = {
 	"Mallard"
 	"Manitoulin"
 	"Margaree"
-	"MemphrÃ©magog"
+	"Memphrémagog"
 	"Micmac"
 	"Miramichi"
 	"Miscou"
@@ -311,7 +311,7 @@ ship_names = {
 	"Protecteur"
 	"Qu'Appelle"
 	"Quinte"
-	"QuÃ©bec"
+	"Québec"
 	"Raccoon"
 	"Reindeer"
 	"Renard"

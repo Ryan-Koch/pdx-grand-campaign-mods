@@ -1,5 +1,5 @@
 ck2_converter_generated = yes
-graphical_culture = muslimgfx
+graphical_culture = easterngfx
 color = { 67 96 179 }
 revolutionary_colors = { 12 14 0 }
 historical_idea_groups = {
@@ -22,16 +22,35 @@ historical_units = {
 	muslim_mass_infantry
 }
 monarch_names = {
-	"Bomilcar #1" = 10
-	"Dido #1" = -1
-	"Gisco #1" = 10
-	"Hamilcar #2" = 20
-	"Hannibal #1" = 50
-	"Hanno #4" = 40
-	"Hasdrubal #1" = 10
-	"Himilco #2" = 20
-	"Mago #3" = 30
-	"Malchus #1" = 10
+	"Ancus #0" = 0
+	"Aula #0" = -1
+	"Camillus #0" = 0
+	"Dasin #0" = -1
+	"Decima #0" = -1
+	"Decius #0" = 0
+	"Fausta #0" = -1
+	"Flavia #1" = -1
+	"Gaia #1" = -1
+	"Kallistomache #0" = -1
+	"Manius #1" = 10
+	"Marca #0" = -1
+	"Marcus #2" = 10
+	"Numeria #0" = -1
+	"Octavius #1" = 10
+	"Pelagia #0" = -1
+	"Postumus #0" = 0
+	"Publia #2" = -1
+	"Secunda #1" = -1
+	"Servia #1" = -1
+	"Servius #0" = 0
+	"Spuria #0" = -1
+	"Suhaima #0" = -1
+	"Tertius #1" = 10
+	"Tiberia #1" = -1
+	"Tita #0" = -1
+	"Umar #0" = 0
+	"Vibius #0" = 0
+	"Zina #1" = -1
 }
 leader_names = {
 	"Barqa"
