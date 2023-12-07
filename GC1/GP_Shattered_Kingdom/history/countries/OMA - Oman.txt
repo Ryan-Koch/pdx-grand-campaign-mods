@@ -16,8 +16,8 @@ capital = 403
 		religion = zoroastrian
 		culture = dynamic-persian-culture-num1
 	}
-	add_ruler_personality = architectural_visionary_personality
-	add_ruler_personality = craven_personality
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = intricate_web_weaver_personality
 	queen = {
 		name = "Rudramba"
 		dynasty = "Nandaprabhanjanavarman"
@@ -31,8 +31,8 @@ capital = 403
 		religion = zoroastrian
 		culture = dynamic-telegu-culture-num1
 	}
-	add_queen_personality = bold_fighter_personality
-	add_queen_personality = fierce_negotiator_personality
+	add_queen_personality = calm_personality
+	add_queen_personality = careful_personality
 	heir = {
 		name = "Bakhtiar"
 		monarch_name = "Bakhtiar"
@@ -46,8 +46,8 @@ capital = 403
 		religion = zoroastrian
 		culture = dynamic-persian-culture-num1
 	}
-	add_heir_personality = midas_touched_personality
-	add_heir_personality = tolerant_personality
+	add_heir_personality = malevolent_personality
+	add_heir_personality = pious_personality
 }
 1444.11.11= {
 	add_prestige = 71

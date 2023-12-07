@@ -16,8 +16,8 @@ capital = 2195
 		religion = converted_dynamic_faith_131
 		culture = dynamic-greek-roman-culture-num2
 	}
-	add_ruler_personality = bold_fighter_personality
-	add_ruler_personality = industrious_personality
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = tactical_genius_personality
 	heir = {
 		name = "Sveinn"
 		monarch_name = "Sveinn"
@@ -31,8 +31,8 @@ capital = 2195
 		religion = converted_dynamic_faith_131
 		culture = dynamic-greek-roman-culture-num2
 	}
-	add_heir_personality = free_thinker_personality
-	add_heir_personality = lawgiver_personality
+	add_heir_personality = bold_fighter_personality
+	add_heir_personality = fierce_negotiator_personality
 }
 1444.11.11= {
 	add_prestige = 97

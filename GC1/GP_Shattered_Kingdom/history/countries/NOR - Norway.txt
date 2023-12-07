@@ -16,8 +16,8 @@ capital = 20
 		religion = converted_dynamic_faith_131
 		culture = dynamic-german-norse-culture-num1
 	}
-	add_ruler_personality = fertile_personality
-	add_ruler_personality = silver_tongue_personality
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = tactical_genius_personality
 	queen = {
 		name = "Toarie"
 		dynasty = "Quzlum"
@@ -31,8 +31,8 @@ capital = 20
 		religion = converted_dynamic_faith_131
 		culture = vepsian
 	}
-	add_queen_personality = fertile_personality
-	add_queen_personality = scholar_personality
+	add_queen_personality = just_personality
+	add_queen_personality = strict_personality
 	heir = {
 		name = "Hans"
 		monarch_name = "Hans II"
@@ -46,8 +46,8 @@ capital = 20
 		religion = converted_dynamic_faith_131
 		culture = dynamic-german-norse-culture-num1
 	}
-	add_heir_personality = bold_fighter_personality
-	add_heir_personality = entrepreneur_personality
+	add_heir_personality = fertile_personality
+	add_heir_personality = navigator_personality
 }
 1444.11.11= {
 	add_prestige = 102

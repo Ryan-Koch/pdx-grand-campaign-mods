@@ -17,8 +17,8 @@ capital = 327
 		religion = converted_dynamic_faith_127
 		culture = euxinian
 	}
-	add_ruler_personality = entrepreneur_personality
-	add_ruler_personality = righteous_personality
+	add_ruler_personality = fertile_personality
+	add_ruler_personality = strict_personality
 	heir = {
 		name = "Appius"
 		monarch_name = "Appius"

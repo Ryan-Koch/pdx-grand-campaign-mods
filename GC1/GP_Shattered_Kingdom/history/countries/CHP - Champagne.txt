@@ -16,8 +16,8 @@ capital = 186
 		religion = converted_dynamic_faith_131
 		culture = lutetian
 	}
-	add_ruler_personality = entrepreneur_personality
-	add_ruler_personality = free_thinker_personality
+	add_ruler_personality = fertile_personality
+	add_ruler_personality = tolerant_personality
 	queen = {
 		name = "Maria"
 		dynasty = "Amaling"
@@ -31,8 +31,8 @@ capital = 186
 		religion = converted_dynamic_faith_131
 		culture = dynamic-german-norse-culture-num1
 	}
-	add_queen_personality = fertile_personality
-	add_queen_personality = scholar_personality
+	add_queen_personality = lawgiver_personality
+	add_queen_personality = tactical_genius_personality
 	heir = {
 		name = "Bitorix"
 		monarch_name = "Bitorix"
@@ -46,8 +46,8 @@ capital = 186
 		religion = converted_dynamic_faith_131
 		culture = belgian
 	}
-	add_heir_personality = martial_educator_personality
-	add_heir_personality = tactical_genius_personality
+	add_heir_personality = conqueror_personality
+	add_heir_personality = fierce_negotiator_personality
 }
 1444.11.11= {
 	add_prestige = 67

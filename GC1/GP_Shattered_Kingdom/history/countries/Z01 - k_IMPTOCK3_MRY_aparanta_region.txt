@@ -17,8 +17,8 @@ set_country_flag = ZZZ_generated_converter_nation
 		religion = zoroastrian
 		culture = dynamic-persian-culture-num1
 	}
-	add_ruler_personality = architectural_visionary_personality
-	add_ruler_personality = scholar_personality
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = entrepreneur_personality
 	queen = {
 		name = "Baia"
 		dynasty = "Mirifle"
@@ -32,8 +32,8 @@ set_country_flag = ZZZ_generated_converter_nation
 		religion = zoroastrian
 		culture = dynamic-georgian-roman-culture-num1
 	}
-	add_queen_personality = charismatic_negotiator_personality
-	add_queen_personality = fierce_negotiator_personality
+	add_queen_personality = drunkard_personality
+	add_queen_personality = strict_personality
 	heir = {
 		name = "Davud"
 		monarch_name = "Davud"
@@ -47,8 +47,8 @@ set_country_flag = ZZZ_generated_converter_nation
 		religion = zoroastrian
 		culture = dynamic-persian-culture-num1
 	}
-	add_heir_personality = infertile_personality
-	add_heir_personality = tolerant_personality
+	add_heir_personality = drunkard_personality
+	add_heir_personality = pious_personality
 }
 1444.11.11= {
 	add_prestige = 92

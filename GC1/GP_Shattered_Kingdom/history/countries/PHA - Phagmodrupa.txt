@@ -17,8 +17,8 @@ add_accepted_culture = dynamic-kashmiri-sumpa-culture-num1
 		religion = orthodox
 		culture = zhangzhung
 	}
-	add_ruler_personality = lawgiver_personality
-	add_ruler_personality = scholar_personality
+	add_ruler_personality = fierce_negotiator_personality
+	add_ruler_personality = strict_personality
 	queen = {
 		name = "Kona"
 		dynasty = "Nyima-Xibdê"
@@ -32,8 +32,8 @@ add_accepted_culture = dynamic-kashmiri-sumpa-culture-num1
 		religion = orthodox
 		culture = zhangzhung
 	}
-	add_queen_personality = scholar_personality
-	add_queen_personality = tolerant_personality
+	add_queen_personality = lawgiver_personality
+	add_queen_personality = strict_personality
 	heir = {
 		name = "Khorré"
 		monarch_name = "Khorré"
@@ -47,7 +47,7 @@ add_accepted_culture = dynamic-kashmiri-sumpa-culture-num1
 		religion = orthodox
 		culture = zhangzhung
 	}
-	add_heir_personality = pious_personality
+	add_heir_personality = strict_personality
 	add_heir_personality = tactical_genius_personality
 }
 1444.11.11= {

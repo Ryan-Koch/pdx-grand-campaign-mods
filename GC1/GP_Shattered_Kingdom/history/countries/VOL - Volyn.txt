@@ -16,8 +16,8 @@ capital = 268
 		religion = converted_dynamic_faith_127
 		culture = dynamic-roman-culture-num3
 	}
-	add_ruler_personality = fertile_personality
-	add_ruler_personality = free_thinker_personality
+	add_ruler_personality = expansionist_personality
+	add_ruler_personality = tolerant_personality
 	queen = {
 		name = "Heria"
 		dynasty = "Marii-Sopron"
@@ -31,8 +31,8 @@ capital = 268
 		religion = converted_dynamic_faith_127
 		culture = roman
 	}
-	add_queen_personality = industrious_personality
-	add_queen_personality = pious_personality
+	add_queen_personality = drunkard_personality
+	add_queen_personality = scholar_personality
 	heir = {
 		name = "Sarh"
 		monarch_name = "Sarh"
@@ -46,8 +46,8 @@ capital = 268
 		religion = converted_dynamic_faith_127
 		culture = senegambian
 	}
-	add_heir_personality = craven_personality
-	add_heir_personality = free_thinker_personality
+	add_heir_personality = greedy_personality
+	add_heir_personality = kind_hearted_personality
 }
 1444.11.11= {
 	add_prestige = 78

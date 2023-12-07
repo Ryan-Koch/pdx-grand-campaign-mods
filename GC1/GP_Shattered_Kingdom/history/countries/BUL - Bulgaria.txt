@@ -17,8 +17,8 @@ add_accepted_culture = dynamic-roman-culture-num3
 		religion = converted_dynamic_faith_127
 		culture = pannonian
 	}
-	add_ruler_personality = industrious_personality
-	add_ruler_personality = silver_tongue_personality
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = scholar_personality
 	queen = {
 		name = "Sidibé"
 		dynasty = "Julii-Amatlus"
@@ -32,8 +32,8 @@ add_accepted_culture = dynamic-roman-culture-num3
 		religion = converted_dynamic_faith_127
 		culture = soninke
 	}
-	add_queen_personality = righteous_personality
-	add_queen_personality = tolerant_personality
+	add_queen_personality = strict_personality
+	add_queen_personality = zealot_personality
 	heir = {
 		name = "Gnaea"
 		monarch_name = "Gnaea"
@@ -48,8 +48,8 @@ add_accepted_culture = dynamic-roman-culture-num3
 		religion = converted_dynamic_faith_127
 		culture = roman
 	}
-	add_heir_personality = expansionist_personality
-	add_heir_personality = free_thinker_personality
+	add_heir_personality = silver_tongue_personality
+	add_heir_personality = tactical_genius_personality
 }
 1444.11.11= {
 	add_prestige = 93

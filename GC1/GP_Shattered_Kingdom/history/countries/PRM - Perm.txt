@@ -17,8 +17,8 @@ add_accepted_culture = dynamic-bashkir-culture-num1
 		religion = converted_dynamic_faith_131
 		culture = uralic
 	}
-	add_ruler_personality = architectural_visionary_personality
-	add_ruler_personality = scholar_personality
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = tactical_genius_personality
 	queen = {
 		name = "Ngeva"
 		dynasty = "Pusko"
@@ -32,8 +32,8 @@ add_accepted_culture = dynamic-bashkir-culture-num1
 		religion = converted_dynamic_faith_131
 		culture = dynamic-samoyed-culture-num1
 	}
-	add_queen_personality = entrepreneur_personality
-	add_queen_personality = greedy_personality
+	add_queen_personality = silver_tongue_personality
+	add_queen_personality = tactical_genius_personality
 	heir = {
 		name = "Oshypel"
 		monarch_name = "Oshypel"
@@ -47,8 +47,8 @@ add_accepted_culture = dynamic-bashkir-culture-num1
 		religion = converted_dynamic_faith_131
 		culture = uralic
 	}
-	add_heir_personality = greedy_personality
-	add_heir_personality = scholar_personality
+	add_heir_personality = drunkard_personality
+	add_heir_personality = silver_tongue_personality
 }
 1444.11.11= {
 	add_prestige = 72

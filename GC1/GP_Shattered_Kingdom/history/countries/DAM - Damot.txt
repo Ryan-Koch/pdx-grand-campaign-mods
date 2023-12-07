@@ -17,8 +17,8 @@ add_accepted_culture = sidamo
 		religion = converted_dynamic_faith_130
 		culture = dynamic-greek-nubian-culture-num1
 	}
-	add_ruler_personality = fertile_personality
-	add_ruler_personality = free_thinker_personality
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = tolerant_personality
 	queen = {
 		name = "Kallippe"
 		dynasty = "Kerak"
@@ -32,8 +32,8 @@ add_accepted_culture = sidamo
 		religion = converted_dynamic_faith_130
 		culture = dynamic-greek-nubian-culture-num1
 	}
-	add_queen_personality = conqueror_personality
 	add_queen_personality = cruel_personality
+	add_queen_personality = drunkard_personality
 	heir = {
 		name = "Polemon"
 		monarch_name = "Polemon"
@@ -48,7 +48,7 @@ add_accepted_culture = sidamo
 		culture = dynamic-greek-nubian-culture-num1
 	}
 	add_heir_personality = charismatic_negotiator_personality
-	add_heir_personality = fertile_personality
+	add_heir_personality = intricate_web_weaver_personality
 }
 1444.11.11= {
 	add_prestige = 69

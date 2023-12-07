@@ -16,8 +16,8 @@ capital = 4486
 		religion = zoroastrian
 		culture = nepali
 	}
-	add_ruler_personality = free_thinker_personality
-	add_ruler_personality = scholar_personality
+	add_ruler_personality = infertile_personality
+	add_ruler_personality = tolerant_personality
 	queen = {
 		name = "Sarang"
 		dynasty = "Maiwa"
@@ -31,8 +31,8 @@ capital = 4486
 		religion = zoroastrian
 		culture = nepali
 	}
-	add_queen_personality = righteous_personality
-	add_queen_personality = scholar_personality
+	add_queen_personality = infertile_personality
+	add_queen_personality = zealot_personality
 	heir = {
 		name = "Thaing"
 		monarch_name = "Thaing IV"

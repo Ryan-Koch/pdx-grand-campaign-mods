@@ -17,8 +17,8 @@ add_accepted_culture = dynamic-bengali-culture-num2
 		religion = zoroastrian
 		culture = dynamic-persian-culture-num1
 	}
-	add_ruler_personality = intricate_web_weaver_personality
-	add_ruler_personality = righteous_personality
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = zealot_personality
 	queen = {
 		name = "Arunavati"
 		dynasty = "Qoshagylid"
@@ -32,8 +32,8 @@ add_accepted_culture = dynamic-bengali-culture-num2
 		religion = zoroastrian
 		culture = scythian
 	}
-	add_queen_personality = righteous_personality
-	add_queen_personality = tolerant_personality
+	add_queen_personality = pious_personality
+	add_queen_personality = zealot_personality
 	heir = {
 		name = "Yazdegerd"
 		monarch_name = "Yazdegerd"
@@ -48,7 +48,7 @@ add_accepted_culture = dynamic-bengali-culture-num2
 		culture = dynamic-persian-culture-num1
 	}
 	add_heir_personality = craven_personality
-	add_heir_personality = embezzler_personality
+	add_heir_personality = intricate_web_weaver_personality
 }
 1444.11.11= {
 	add_prestige = 84

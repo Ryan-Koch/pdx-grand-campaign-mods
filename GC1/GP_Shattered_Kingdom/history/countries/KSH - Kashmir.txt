@@ -16,8 +16,8 @@ capital = 508
 		religion = zoroastrian
 		culture = dynamic-persian-culture-num1
 	}
-	add_ruler_personality = scholar_personality
-	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = lawgiver_personality
 	queen = {
 		name = "Wardat-Nergal"
 		dynasty = "Mervid"
@@ -31,8 +31,8 @@ capital = 508
 		religion = zoroastrian
 		culture = dynamic-babylonian-culture-num2
 	}
-	add_queen_personality = fertile_personality
-	add_queen_personality = free_thinker_personality
+	add_queen_personality = tactical_genius_personality
+	add_queen_personality = tolerant_personality
 	heir = {
 		name = "Danush"
 		monarch_name = "Danush"
@@ -46,8 +46,8 @@ capital = 508
 		religion = zoroastrian
 		culture = dynamic-persian-culture-num1
 	}
-	add_heir_personality = benevolent_personality
-	add_heir_personality = kind_hearted_personality
+	add_heir_personality = just_personality
+	add_heir_personality = naive_personality
 }
 1444.11.11= {
 	add_prestige = 80

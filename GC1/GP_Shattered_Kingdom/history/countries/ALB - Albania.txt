@@ -17,8 +17,8 @@ add_accepted_culture = roman
 		religion = converted_dynamic_faith_127
 		culture = xliponian
 	}
-	add_ruler_personality = scholar_personality
-	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = martial_educator_personality
 	queen = {
 		name = "Tertia"
 		dynasty = "Gabou-Tyeng"
@@ -32,8 +32,8 @@ add_accepted_culture = roman
 		religion = converted_dynamic_faith_127
 		culture = roman
 	}
-	add_queen_personality = fertile_personality
-	add_queen_personality = free_thinker_personality
+	add_queen_personality = embezzler_personality
+	add_queen_personality = strict_personality
 	heir = {
 		name = "Decima"
 		monarch_name = "Decima"
@@ -48,8 +48,8 @@ add_accepted_culture = roman
 		religion = converted_dynamic_faith_127
 		culture = roman
 	}
-	add_heir_personality = drunkard_personality
-	add_heir_personality = pious_personality
+	add_heir_personality = just_personality
+	add_heir_personality = strict_personality
 }
 1444.11.11= {
 	add_prestige = 77

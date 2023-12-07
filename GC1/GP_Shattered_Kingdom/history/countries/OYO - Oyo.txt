@@ -18,8 +18,8 @@ add_accepted_culture = yorumba
 		religion = converted_dynamic_faith_130
 		culture = dynamic-greek-nubian-culture-num1
 	}
-	add_ruler_personality = bold_fighter_personality
-	add_ruler_personality = cruel_personality
+	add_ruler_personality = loose_lips_personality
+	add_ruler_personality = righteous_personality
 	queen = {
 		name = "Nikagoras"
 		dynasty = "Amarta-Harar"
@@ -32,8 +32,8 @@ add_accepted_culture = yorumba
 		religion = converted_dynamic_faith_130
 		culture = greek
 	}
-	add_queen_personality = inspiring_leader_personality
-	add_queen_personality = silver_tongue_personality
+	add_queen_personality = free_thinker_personality
+	add_queen_personality = sinner_personality
 	heir = {
 		name = "Michaêliko"
 		monarch_name = "Michaêliko"
@@ -48,8 +48,8 @@ add_accepted_culture = yorumba
 		religion = converted_dynamic_faith_130
 		culture = dynamic-greek-nubian-culture-num1
 	}
-	add_heir_personality = entrepreneur_personality
-	add_heir_personality = tolerant_personality
+	add_heir_personality = pious_personality
+	add_heir_personality = tactical_genius_personality
 }
 1444.11.11= {
 	add_prestige = 78

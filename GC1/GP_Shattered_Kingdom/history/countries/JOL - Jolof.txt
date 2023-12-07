@@ -18,7 +18,7 @@ add_accepted_culture = senegambian
 		religion = converted_dynamic_faith_127
 		culture = fulani
 	}
-	add_ruler_personality = inspiring_leader_personality
+	add_ruler_personality = industrious_personality
 	add_ruler_personality = midas_touched_personality
 	heir = {
 		name = "Djillakh"
@@ -33,8 +33,8 @@ add_accepted_culture = senegambian
 		religion = converted_dynamic_faith_127
 		culture = fulani
 	}
-	add_heir_personality = fertile_personality
-	add_heir_personality = fierce_negotiator_personality
+	add_heir_personality = obsessive_perfectionist_personality
+	add_heir_personality = tactical_genius_personality
 }
 1444.11.11= {
 	add_prestige = 86

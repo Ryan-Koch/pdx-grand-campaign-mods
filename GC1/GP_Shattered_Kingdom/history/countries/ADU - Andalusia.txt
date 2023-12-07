@@ -16,8 +16,8 @@ capital = 225
 		religion = converted_dynamic_faith_127
 		culture = hispanic
 	}
-	add_ruler_personality = free_thinker_personality
-	add_ruler_personality = scholar_personality
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = tolerant_personality
 	queen = {
 		name = "Vorvena"
 		dynasty = "Julii-Besançon"
@@ -31,8 +31,8 @@ capital = 225
 		religion = converted_dynamic_faith_127
 		culture = gaulish
 	}
-	add_queen_personality = fertile_personality
-	add_queen_personality = pious_personality
+	add_queen_personality = righteous_personality
+	add_queen_personality = tactical_genius_personality
 	heir = {
 		name = "Gaia"
 		monarch_name = "Gaia"
@@ -48,7 +48,7 @@ capital = 225
 		culture = roman
 	}
 	add_heir_personality = secretive_personality
-	add_heir_personality = silver_tongue_personality
+	add_heir_personality = strict_personality
 }
 1444.11.11= {
 	add_prestige = 111

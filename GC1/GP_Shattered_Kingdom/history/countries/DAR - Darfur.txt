@@ -16,8 +16,8 @@ capital = 774
 		religion = converted_dynamic_faith_130
 		culture = dynamic-greek-nubian-culture-num1
 	}
-	add_ruler_personality = free_thinker_personality
-	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = righteous_personality
+	add_ruler_personality = tolerant_personality
 	queen = {
 		name = "Ñoltou"
 		dynasty = "Ar-Rusafa"
@@ -31,8 +31,8 @@ capital = 774
 		religion = converted_dynamic_faith_130
 		culture = dynamic-greek-nubian-culture-num1
 	}
-	add_queen_personality = scholar_personality
-	add_queen_personality = tactical_genius_personality
+	add_queen_personality = fertile_personality
+	add_queen_personality = lawgiver_personality
 	heir = {
 		name = "Deidamia"
 		monarch_name = "Deidamia"
@@ -47,8 +47,8 @@ capital = 774
 		religion = converted_dynamic_faith_130
 		culture = dynamic-greek-nubian-culture-num1
 	}
-	add_heir_personality = benevolent_personality
-	add_heir_personality = kind_hearted_personality
+	add_heir_personality = free_thinker_personality
+	add_heir_personality = tactical_genius_personality
 }
 1444.11.11= {
 	add_prestige = 80

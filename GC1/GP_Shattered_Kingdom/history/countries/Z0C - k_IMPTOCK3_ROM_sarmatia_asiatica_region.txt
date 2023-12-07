@@ -17,8 +17,8 @@ set_country_flag = ZZZ_generated_converter_nation
 		religion = converted_dynamic_faith_127
 		culture = dynamic-scythian-culture-num1
 	}
-	add_ruler_personality = scholar_personality
-	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = fertile_personality
+	add_ruler_personality = intricate_web_weaver_personality
 	queen = {
 		name = "Publia"
 		dynasty = "Julii-Comana"
@@ -32,8 +32,8 @@ set_country_flag = ZZZ_generated_converter_nation
 		religion = converted_dynamic_faith_127
 		culture = roman
 	}
-	add_queen_personality = fierce_negotiator_personality
-	add_queen_personality = pious_personality
+	add_queen_personality = obsessive_perfectionist_personality
+	add_queen_personality = strict_personality
 	heir = {
 		name = "Punyasene"
 		monarch_name = "Punyasene"
@@ -48,8 +48,8 @@ set_country_flag = ZZZ_generated_converter_nation
 		religion = converted_dynamic_faith_127
 		culture = dynamic-scythian-culture-num1
 	}
-	add_heir_personality = entrepreneur_personality
-	add_heir_personality = free_thinker_personality
+	add_heir_personality = fertile_personality
+	add_heir_personality = tolerant_personality
 }
 1444.11.11= {
 	add_prestige = 80

@@ -20,8 +20,8 @@ set_country_flag = ZZZ_generated_converter_nation
 		religion = orthodox
 		culture = nepali
 	}
-	add_ruler_personality = drunkard_personality
-	add_ruler_personality = silver_tongue_personality
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = just_personality
 	queen = {
 		name = "Gandharavati"
 		dynasty = "Vata"
@@ -35,8 +35,8 @@ set_country_flag = ZZZ_generated_converter_nation
 		religion = orthodox
 		culture = dynamic-bengali-culture-num2
 	}
-	add_queen_personality = pious_personality
-	add_queen_personality = zealot_personality
+	add_queen_personality = charismatic_negotiator_personality
+	add_queen_personality = strict_personality
 	heir = {
 		name = "Wangpo"
 		monarch_name = "Wangpo"
@@ -50,8 +50,8 @@ set_country_flag = ZZZ_generated_converter_nation
 		religion = orthodox
 		culture = nepali
 	}
-	add_heir_personality = embezzler_personality
-	add_heir_personality = scholar_personality
+	add_heir_personality = secretive_personality
+	add_heir_personality = silver_tongue_personality
 }
 1444.11.11= {
 	add_prestige = 84

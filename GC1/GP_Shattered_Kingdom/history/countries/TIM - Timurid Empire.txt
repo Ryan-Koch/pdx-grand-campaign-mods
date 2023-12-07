@@ -10,6 +10,7 @@ add_accepted_culture = khorasani
 add_accepted_culture = persian
 historical_rival = DLH
 historical_rival = MUL
+historical_rival = TUR
 1370.1.1= {
 	monarch = {
 		name = "Timur"

@@ -17,8 +17,8 @@ capital = 1155
 		religion = converted_dynamic_faith_130
 		culture = hausa
 	}
+	add_ruler_personality = entrepreneur_personality
 	add_ruler_personality = scholar_personality
-	add_ruler_personality = tactical_genius_personality
 	queen = {
 		name = "Aretas"
 		dynasty = "Agenid"
@@ -31,8 +31,8 @@ capital = 1155
 		religion = converted_dynamic_faith_130
 		culture = hausa
 	}
-	add_queen_personality = drunkard_personality
-	add_queen_personality = greedy_personality
+	add_queen_personality = intricate_web_weaver_personality
+	add_queen_personality = tactical_genius_personality
 	heir = {
 		name = "Kallines"
 		monarch_name = "Kallines"
@@ -46,8 +46,8 @@ capital = 1155
 		religion = converted_dynamic_faith_130
 		culture = greek
 	}
-	add_heir_personality = entrepreneur_personality
-	add_heir_personality = fertile_personality
+	add_heir_personality = drunkard_personality
+	add_heir_personality = fierce_negotiator_personality
 }
 1444.11.11= {
 	add_prestige = 97

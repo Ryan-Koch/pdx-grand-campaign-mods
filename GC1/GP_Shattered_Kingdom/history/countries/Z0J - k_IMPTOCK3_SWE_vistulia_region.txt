@@ -19,8 +19,8 @@ set_country_flag = ZZZ_generated_converter_nation
 		religion = converted_dynamic_faith_131
 		culture = dynamic-german-norse-culture-num1
 	}
-	add_ruler_personality = inspiring_leader_personality
-	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = embezzler_personality
+	add_ruler_personality = intricate_web_weaver_personality
 	heir = {
 		name = "Walther"
 		monarch_name = "Walther"
@@ -34,8 +34,8 @@ set_country_flag = ZZZ_generated_converter_nation
 		religion = converted_dynamic_faith_131
 		culture = dynamic-german-norse-culture-num1
 	}
-	add_heir_personality = just_personality
-	add_heir_personality = strict_personality
+	add_heir_personality = obsessive_perfectionist_personality
+	add_heir_personality = righteous_personality
 }
 1444.11.11= {
 	add_prestige = 89

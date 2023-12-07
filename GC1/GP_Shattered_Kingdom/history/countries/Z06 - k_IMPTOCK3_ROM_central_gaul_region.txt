@@ -18,8 +18,8 @@ set_country_flag = ZZZ_generated_converter_nation
 		religion = converted_dynamic_faith_127
 		culture = lugdunian
 	}
-	add_ruler_personality = pious_personality
-	add_ruler_personality = zealot_personality
+	add_ruler_personality = sinner_personality
+	add_ruler_personality = strict_personality
 	queen = {
 		name = "Herophilos"
 		dynasty = "Julii-Philippopolis"
@@ -32,8 +32,8 @@ set_country_flag = ZZZ_generated_converter_nation
 		religion = converted_dynamic_faith_127
 		culture = greek
 	}
-	add_queen_personality = pious_personality
-	add_queen_personality = zealot_personality
+	add_queen_personality = drunkard_personality
+	add_queen_personality = expansionist_personality
 	heir = {
 		name = "Exuperata"
 		monarch_name = "Exuperata"
@@ -48,8 +48,8 @@ set_country_flag = ZZZ_generated_converter_nation
 		religion = converted_dynamic_faith_127
 		culture = gaulish
 	}
-	add_heir_personality = strict_personality
-	add_heir_personality = zealot_personality
+	add_heir_personality = free_thinker_personality
+	add_heir_personality = tactical_genius_personality
 }
 1444.11.11= {
 	add_prestige = 86

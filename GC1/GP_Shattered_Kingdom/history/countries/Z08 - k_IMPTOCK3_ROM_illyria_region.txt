@@ -17,8 +17,8 @@ set_country_flag = ZZZ_generated_converter_nation
 		religion = converted_dynamic_faith_127
 		culture = xliponian
 	}
-	add_ruler_personality = pious_personality
-	add_ruler_personality = tolerant_personality
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = strict_personality
 	queen = {
 		name = "Postuma"
 		dynasty = "Aquilinus"
@@ -33,7 +33,7 @@ set_country_flag = ZZZ_generated_converter_nation
 		culture = roman
 	}
 	add_queen_personality = charismatic_negotiator_personality
-	add_queen_personality = scholar_personality
+	add_queen_personality = lawgiver_personality
 	heir = {
 		name = "Gaius"
 		monarch_name = "Gaius"
@@ -47,8 +47,8 @@ set_country_flag = ZZZ_generated_converter_nation
 		religion = converted_dynamic_faith_127
 		culture = roman
 	}
-	add_heir_personality = secretive_personality
-	add_heir_personality = silver_tongue_personality
+	add_heir_personality = infertile_personality
+	add_heir_personality = strict_personality
 }
 1444.11.11= {
 	add_prestige = 86

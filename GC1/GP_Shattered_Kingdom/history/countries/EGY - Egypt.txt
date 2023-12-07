@@ -16,8 +16,8 @@ capital = 361
 		religion = converted_dynamic_faith_130
 		culture = dynamic-greek-nubian-culture-num1
 	}
-	add_ruler_personality = fertile_personality
-	add_ruler_personality = naive_personality
+	add_ruler_personality = free_thinker_personality
+	add_ruler_personality = tactical_genius_personality
 	queen = {
 		name = "Lysimache"
 		dynasty = "Lagid"
@@ -31,8 +31,8 @@ capital = 361
 		religion = converted_dynamic_faith_127
 		culture = dynamic-aka-roman-culture-num1
 	}
+	add_queen_personality = entrepreneur_personality
 	add_queen_personality = scholar_personality
-	add_queen_personality = silver_tongue_personality
 	heir = {
 		name = "Egaloskoura"
 		monarch_name = "Egaloskoura"
@@ -47,8 +47,8 @@ capital = 361
 		religion = converted_dynamic_faith_130
 		culture = dynamic-greek-nubian-culture-num1
 	}
-	add_heir_personality = fertile_personality
-	add_heir_personality = secretive_personality
+	add_heir_personality = intricate_web_weaver_personality
+	add_heir_personality = tactical_genius_personality
 }
 1444.11.11= {
 	add_prestige = 102

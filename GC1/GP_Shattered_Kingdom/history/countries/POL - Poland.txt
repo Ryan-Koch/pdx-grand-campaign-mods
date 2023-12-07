@@ -17,7 +17,7 @@ capital = 770
 		culture = dynamic-german-norse-culture-num1
 	}
 	add_ruler_personality = charismatic_negotiator_personality
-	add_ruler_personality = fertile_personality
+	add_ruler_personality = zealot_personality
 	queen = {
 		name = "Mathilde"
 		dynasty = "Vodenosian"
@@ -31,8 +31,8 @@ capital = 770
 		religion = converted_dynamic_faith_131
 		culture = dutch
 	}
-	add_queen_personality = careful_personality
-	add_queen_personality = entrepreneur_personality
+	add_queen_personality = benevolent_personality
+	add_queen_personality = kind_hearted_personality
 	heir = {
 		name = "Birgir"
 		monarch_name = "Birgir"
@@ -46,8 +46,8 @@ capital = 770
 		religion = converted_dynamic_faith_131
 		culture = dynamic-german-norse-culture-num1
 	}
-	add_heir_personality = free_thinker_personality
-	add_heir_personality = silver_tongue_personality
+	add_heir_personality = conqueror_personality
+	add_heir_personality = expansionist_personality
 }
 1444.11.11= {
 	add_prestige = 71

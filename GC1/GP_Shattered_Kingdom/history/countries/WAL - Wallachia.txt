@@ -16,8 +16,8 @@ capital = 4128
 		religion = converted_dynamic_faith_127
 		culture = dynamic-dacian-roman-culture-num1
 	}
-	add_ruler_personality = craven_personality
-	add_ruler_personality = righteous_personality
+	add_ruler_personality = strict_personality
+	add_ruler_personality = tactical_genius_personality
 	queen = {
 		name = "Opitera"
 		dynasty = "Julii-Corunnã"
@@ -31,8 +31,8 @@ capital = 4128
 		religion = converted_dynamic_faith_127
 		culture = dynamic-cosmopolitan_french-roman-culture-num1
 	}
-	add_queen_personality = fertile_personality
-	add_queen_personality = scholar_personality
+	add_queen_personality = strict_personality
+	add_queen_personality = tactical_genius_personality
 	heir = {
 		name = "Blaikisa"
 		monarch_name = "Blaikisa"
@@ -46,8 +46,8 @@ capital = 4128
 		religion = converted_dynamic_faith_127
 		culture = dynamic-dacian-roman-culture-num1
 	}
-	add_heir_personality = pious_personality
-	add_heir_personality = scholar_personality
+	add_heir_personality = charismatic_negotiator_personality
+	add_heir_personality = lawgiver_personality
 }
 1444.11.11= {
 	add_prestige = 93

@@ -16,8 +16,8 @@ capital = 4369
 		religion = converted_dynamic_faith_131
 		culture = dynamic-irish-welsh-culture-num1
 	}
-	add_ruler_personality = scholar_personality
-	add_ruler_personality = silver_tongue_personality
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = industrious_personality
 	queen = {
 		name = "Madru"
 		dynasty = "af Austfirðir"
@@ -31,8 +31,8 @@ capital = 4369
 		religion = converted_dynamic_faith_131
 		culture = pictish
 	}
-	add_queen_personality = fertile_personality
-	add_queen_personality = sinner_personality
+	add_queen_personality = drunkard_personality
+	add_queen_personality = tactical_genius_personality
 	heir = {
 		name = "Máel-Cein"
 		monarch_name = "Máel-Cein"
@@ -46,8 +46,8 @@ capital = 4369
 		religion = converted_dynamic_faith_131
 		culture = dynamic-irish-welsh-culture-num1
 	}
-	add_heir_personality = benevolent_personality
-	add_heir_personality = kind_hearted_personality
+	add_heir_personality = just_personality
+	add_heir_personality = naive_personality
 }
 1444.11.11= {
 	add_prestige = 83

@@ -16,8 +16,8 @@ capital = 352
 		religion = converted_dynamic_faith_127
 		culture = berber
 	}
-	add_ruler_personality = bold_fighter_personality
-	add_ruler_personality = scholar_personality
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = lawgiver_personality
 	queen = {
 		name = "Servia"
 		dynasty = "Julii-Tamiso"
@@ -31,8 +31,8 @@ capital = 352
 		religion = converted_dynamic_faith_127
 		culture = dynamic-senegambian-roman-culture-num1
 	}
-	add_queen_personality = entrepreneur_personality
-	add_queen_personality = free_thinker_personality
+	add_queen_personality = secretive_personality
+	add_queen_personality = silver_tongue_personality
 	heir = {
 		name = "Herius"
 		monarch_name = "Herius II"
@@ -46,8 +46,8 @@ capital = 352
 		religion = converted_dynamic_faith_127
 		culture = berber
 	}
-	add_heir_personality = expansionist_personality
-	add_heir_personality = free_thinker_personality
+	add_heir_personality = cruel_personality
+	add_heir_personality = greedy_personality
 }
 1444.11.11= {
 	add_prestige = 84
