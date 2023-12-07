@@ -1,5 +1,5 @@
-owner = Z2Y
-controller = Z2Y
+owner = PLT
+controller = PLT
 capital = "Ula"
 is_city = yes
 culture = byelorussian
@@ -8,7 +8,7 @@ trade_goods = iron
 base_tax = 1
 base_production = 4
 base_manpower = 2
-add_core = Z2Y
+add_core = PLT
 add_permanent_claim = PLT
 discovered_by = east_african
 discovered_by = eastern

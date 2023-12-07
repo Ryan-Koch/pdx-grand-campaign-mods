@@ -1,5 +1,5 @@
-owner = Z3Z
-controller = Z3Z
+owner = Z3E
+controller = Z3E
 is_city = yes
 culture = dynamic-bengali-zhangzhung-culture-num1
 religion = orthodox
@@ -7,7 +7,7 @@ trade_goods = gold
 base_tax = 5
 base_production = 1
 base_manpower = 2
-add_core = Z3Z
+add_core = Z3E
 add_permanent_claim = NPL
 discovered_by = chinese
 discovered_by = east_african

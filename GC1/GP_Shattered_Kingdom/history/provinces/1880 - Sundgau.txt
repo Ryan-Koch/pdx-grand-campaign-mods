@@ -1,5 +1,5 @@
-owner = Z06
-controller = Z06
+owner = FRA
+controller = FRA
 capital = "Altkirch"
 is_city = yes
 culture = treverian
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 1
 base_manpower = 4
 add_core = LUX
-add_core = Z06
+add_core = FRA
 add_permanent_claim = SWI
 discovered_by = east_african
 discovered_by = eastern

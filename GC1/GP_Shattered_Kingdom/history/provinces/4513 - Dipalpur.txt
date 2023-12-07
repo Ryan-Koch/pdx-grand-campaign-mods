@@ -1,5 +1,5 @@
-owner = Z2L
-controller = Z2L
+owner = Z24
+controller = Z24
 capital = "Dipalpur"
 is_city = yes
 culture = parsi
@@ -9,7 +9,7 @@ base_tax = 9
 base_production = 5
 base_manpower = 10
 add_core = BMY
-add_core = Z2L
+add_core = Z24
 add_permanent_claim = KSH
 discovered_by = chinese
 discovered_by = east_african

@@ -1,5 +1,5 @@
-owner = Z1M
-controller = Z1M
+owner = Z18
+controller = Z18
 capital = "Anding"
 is_city = yes
 culture = chihan
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 1
 base_manpower = 1
 add_core = YAN
-add_core = Z1M
+add_core = Z18
 discovered_by = chinese
 discovered_by = east_african
 discovered_by = eastern

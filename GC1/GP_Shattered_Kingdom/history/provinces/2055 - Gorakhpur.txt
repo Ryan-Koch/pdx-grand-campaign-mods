@@ -1,5 +1,5 @@
-owner = Z14
-controller = Z14
+owner = ODH
+controller = ODH
 capital = "Gorakhpur"
 is_city = yes
 culture = avadhi
@@ -10,7 +10,6 @@ base_tax = 2
 base_production = 5
 base_manpower = 3
 add_core = ODH
-add_core = Z14
 discovered_by = chinese
 discovered_by = east_african
 discovered_by = eastern

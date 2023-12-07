@@ -1,5 +1,5 @@
-owner = Z2A
-controller = Z2A
+owner = Z1V
+controller = Z1V
 capital = "Herat"
 is_city = yes
 culture = dynamic-persian-culture-num1
@@ -10,7 +10,7 @@ base_production = 4
 base_manpower = 4
 extra_cost = 16
 center_of_trade = 2
-add_core = Z2A
+add_core = Z1V
 add_permanent_claim = Z02
 discovered_by = east_african
 discovered_by = eastern

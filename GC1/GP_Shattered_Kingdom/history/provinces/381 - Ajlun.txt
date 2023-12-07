@@ -10,7 +10,6 @@ base_production = 3
 base_manpower = 3
 add_core = EGY
 add_core = ISR
-add_core = Z0Y
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

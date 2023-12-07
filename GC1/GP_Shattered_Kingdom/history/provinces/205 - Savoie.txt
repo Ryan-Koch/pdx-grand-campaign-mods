@@ -11,6 +11,7 @@ base_manpower = 2
 add_core = BAV
 add_core = ROM
 add_permanent_claim = ITA
+add_permanent_claim = FRA
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

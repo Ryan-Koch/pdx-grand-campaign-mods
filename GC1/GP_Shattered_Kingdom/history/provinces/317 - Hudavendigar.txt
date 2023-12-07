@@ -1,5 +1,5 @@
-owner = Z1D
-controller = Z1D
+owner = Z11
+controller = Z11
 capital = "Bursa"
 is_city = yes
 culture = dynamic-greek-roman-culture-num3
@@ -10,7 +10,7 @@ base_production = 7
 base_manpower = 7
 extra_cost = 16
 center_of_trade = 2
-add_core = Z1D
+add_core = Z11
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

@@ -1,5 +1,5 @@
-owner = Z16
-controller = Z16
+owner = Z0Y
+controller = Z0Y
 capital = "Mytilene"
 is_city = yes
 culture = dynamic-greek-roman-culture-num3
@@ -8,7 +8,7 @@ trade_goods = fish
 base_tax = 8
 base_production = 6
 base_manpower = 4
-add_core = Z16
+add_core = Z0Y
 add_permanent_claim = GRE
 discovered_by = east_african
 discovered_by = eastern

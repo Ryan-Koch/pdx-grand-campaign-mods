@@ -1,5 +1,5 @@
-owner = Z1Z
-controller = Z1Z
+owner = Z1K
+controller = Z1K
 capital = "Khunzah"
 is_city = yes
 culture = sarmatian
@@ -9,7 +9,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 add_core = SCY
-add_core = Z1Z
+add_core = Z1K
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

@@ -1,5 +1,5 @@
-owner = Z0N
-controller = Z0N
+owner = Z0M
+controller = Z0M
 capital = "Konya"
 is_city = yes
 culture = euxinian
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 1
 base_manpower = 4
 add_core = ROM
-add_core = Z0N
+add_core = Z0M
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

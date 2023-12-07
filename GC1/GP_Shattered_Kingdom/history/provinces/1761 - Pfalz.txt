@@ -1,5 +1,5 @@
-owner = Z3F
-controller = Z3F
+owner = FKN
+controller = FKN
 capital = "Worms"
 is_city = yes
 culture = dynamic-norse-culture-num3
@@ -8,7 +8,7 @@ trade_goods = wine
 base_tax = 3
 base_production = 2
 base_manpower = 2
-add_core = Z3F
+add_core = FKN
 add_permanent_claim = BAV
 discovered_by = east_african
 discovered_by = eastern

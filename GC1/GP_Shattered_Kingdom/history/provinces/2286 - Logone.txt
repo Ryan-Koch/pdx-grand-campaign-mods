@@ -1,5 +1,5 @@
-owner = Z21
-controller = Z21
+owner = Z2U
+controller = Z2U
 capital = "Logone"
 is_city = yes
 culture = kanuri
@@ -8,7 +8,7 @@ trade_goods = ivory
 base_tax = 4
 base_production = 3
 base_manpower = 2
-add_core = Z21
+add_core = Z2U
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

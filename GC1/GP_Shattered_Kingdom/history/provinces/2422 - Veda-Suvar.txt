@@ -1,5 +1,5 @@
-owner = Z2S
-controller = Z2S
+owner = MDV
+controller = MDV
 capital = "Veda-Suvar"
 is_city = yes
 culture = mordvin
@@ -9,7 +9,6 @@ base_tax = 4
 base_production = 2
 base_manpower = 1
 add_core = MDV
-add_core = Z2S
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

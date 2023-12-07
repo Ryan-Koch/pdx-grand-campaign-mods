@@ -1,5 +1,5 @@
-owner = Z37
-controller = Z37
+owner = Z2N
+controller = Z2N
 capital = "Bechbaliq"
 is_city = yes
 culture = dynamic-uyghur-culture-num1
@@ -8,7 +8,7 @@ trade_goods = salt
 base_tax = 1
 base_production = 2
 base_manpower = 2
-add_core = Z37
+add_core = Z2N
 add_permanent_claim = ZUN
 discovered_by = chinese
 discovered_by = east_african

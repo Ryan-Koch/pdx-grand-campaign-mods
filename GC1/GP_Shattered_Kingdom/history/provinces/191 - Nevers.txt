@@ -1,5 +1,5 @@
-owner = Z06
-controller = Z06
+owner = FRA
+controller = FRA
 capital = "Nevers"
 is_city = yes
 culture = lugdunian
@@ -8,8 +8,7 @@ trade_goods = livestock
 base_tax = 2
 base_production = 1
 base_manpower = 3
-add_core = BUR
-add_core = Z06
+add_core = FRA
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

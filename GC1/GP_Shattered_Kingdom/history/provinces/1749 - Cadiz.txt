@@ -1,5 +1,5 @@
-owner = Z33
-controller = Z33
+owner = Z2K
+controller = Z2K
 capital = "Cadiz"
 is_city = yes
 culture = hispanic
@@ -11,7 +11,7 @@ base_manpower = 3
 extra_cost = 8
 center_of_trade = 1
 add_core = ROM
-add_core = Z33
+add_core = Z2K
 add_permanent_claim = ADU
 discovered_by = east_african
 discovered_by = eastern

@@ -1,5 +1,5 @@
-owner = Z1J
-controller = Z1J
+owner = Z16
+controller = Z16
 capital = "Silistra"
 is_city = yes
 culture = dynamic-greek-roman-culture-num1
@@ -8,7 +8,7 @@ trade_goods = fish
 base_tax = 3
 base_production = 11
 base_manpower = 5
-add_core = Z1J
+add_core = Z16
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

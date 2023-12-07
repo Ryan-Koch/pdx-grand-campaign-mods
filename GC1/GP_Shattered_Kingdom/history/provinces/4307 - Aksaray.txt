@@ -1,5 +1,5 @@
-owner = Z19
-controller = Z19
+owner = Z10
+controller = Z10
 capital = "Aksaray"
 is_city = yes
 culture = euxinian
@@ -10,7 +10,7 @@ base_tax = 5
 base_production = 10
 base_manpower = 5
 add_core = ROM
-add_core = Z19
+add_core = Z10
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

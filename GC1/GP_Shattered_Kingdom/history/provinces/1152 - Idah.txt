@@ -1,5 +1,5 @@
-owner = Z0X
-controller = Z0X
+owner = Z0T
+controller = Z0T
 capital = "Idah"
 is_city = yes
 culture = nupe
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 2
 base_manpower = 2
 add_core = NUP
-add_core = Z0X
+add_core = Z0T
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

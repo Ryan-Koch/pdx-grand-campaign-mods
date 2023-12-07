@@ -1,5 +1,5 @@
-owner = Z3B
-controller = Z3B
+owner = Z2R
+controller = Z2R
 capital = "Hamar"
 is_city = yes
 culture = dynamic-german-norse-culture-num1
@@ -8,7 +8,7 @@ trade_goods = naval_supplies
 base_tax = 5
 base_production = 3
 base_manpower = 4
-add_core = Z3B
+add_core = Z2R
 add_permanent_claim = NOR
 discovered_by = east_african
 discovered_by = eastern

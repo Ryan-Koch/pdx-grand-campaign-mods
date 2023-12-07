@@ -1,5 +1,5 @@
-owner = VOL
-controller = VOL
+owner = SON
+controller = SON
 capital = "Isaq"
 is_city = yes
 culture = bozo
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 1
 base_manpower = 3
 add_core = JNN
-add_core = VOL
+add_core = SON
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

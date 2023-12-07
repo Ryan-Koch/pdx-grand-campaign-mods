@@ -1,5 +1,5 @@
-owner = Z40
-controller = Z40
+owner = Z3F
+controller = Z3F
 capital = "Korla"
 is_city = yes
 culture = bactrian
@@ -9,7 +9,7 @@ base_tax = 9
 base_production = 1
 base_manpower = 4
 add_core = TRS
-add_core = Z40
+add_core = Z3F
 add_permanent_claim = Z0G
 discovered_by = east_african
 discovered_by = eastern

@@ -1,5 +1,5 @@
-owner = Z06
-controller = Z06
+owner = FRA
+controller = FRA
 capital = "Montbrison"
 is_city = yes
 culture = dynamic-cosmopolitan_french-roman-culture-num1
@@ -8,7 +8,7 @@ trade_goods = livestock
 base_tax = 2
 base_production = 5
 base_manpower = 4
-add_core = Z06
+add_core = FRA
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

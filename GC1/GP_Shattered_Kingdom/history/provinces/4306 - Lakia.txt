@@ -1,5 +1,5 @@
-owner = Z1Z
-controller = Z1Z
+owner = Z1K
+controller = Z1K
 capital = "Kumukh"
 is_city = yes
 culture = bengali
@@ -8,7 +8,7 @@ trade_goods = iron
 base_tax = 7
 base_production = 6
 base_manpower = 6
-add_core = Z1Z
+add_core = Z1K
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

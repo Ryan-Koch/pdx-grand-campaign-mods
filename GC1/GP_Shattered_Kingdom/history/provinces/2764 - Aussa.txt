@@ -1,5 +1,5 @@
-owner = Z2R
-controller = Z2R
+owner = Z29
+controller = Z29
 capital = "Aussa"
 is_city = yes
 culture = greek
@@ -8,7 +8,7 @@ trade_goods = livestock
 base_tax = 1
 base_production = 1
 base_manpower = 1
-add_core = Z2R
+add_core = Z29
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

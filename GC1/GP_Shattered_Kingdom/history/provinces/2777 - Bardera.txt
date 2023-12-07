@@ -1,5 +1,5 @@
-owner = Z1B
-controller = Z1B
+owner = OGD
+controller = OGD
 capital = "Baardheere"
 is_city = yes
 culture = sidamo
@@ -9,7 +9,7 @@ base_tax = 1
 base_production = 3
 base_manpower = 2
 add_core = KAF
-add_core = Z1B
+add_core = OGD
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

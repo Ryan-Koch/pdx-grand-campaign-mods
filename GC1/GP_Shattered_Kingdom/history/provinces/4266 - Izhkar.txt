@@ -1,5 +1,5 @@
-owner = Z1L
-controller = Z1L
+owner = Z17
+controller = Z17
 capital = "Izhkar"
 is_city = yes
 culture = dynamic-bashkir-culture-num1
@@ -9,7 +9,7 @@ fort_15th = yes
 base_tax = 3
 base_production = 2
 base_manpower = 2
-add_core = Z1L
+add_core = Z17
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

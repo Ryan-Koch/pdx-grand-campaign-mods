@@ -1,5 +1,5 @@
-owner = Z0N
-controller = Z0N
+owner = SWI
+controller = SWI
 capital = "Villach"
 is_city = yes
 culture = theodisc
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 2
 base_manpower = 3
 add_core = ROM
-add_core = Z0N
+add_core = SWI
 add_permanent_claim = SWI
 discovered_by = east_african
 discovered_by = eastern

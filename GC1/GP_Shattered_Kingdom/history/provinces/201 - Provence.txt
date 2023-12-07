@@ -1,5 +1,5 @@
-owner = Z0L
-controller = Z0L
+owner = Z0K
+controller = Z0K
 capital = "Aix-en-Provence"
 is_city = yes
 culture = arpitan
@@ -12,7 +12,8 @@ extra_cost = 10
 center_of_trade = 1
 add_core = BUR
 add_core = DAU
-add_core = Z0L
+add_core = Z0K
+add_permanent_claim = FRA
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

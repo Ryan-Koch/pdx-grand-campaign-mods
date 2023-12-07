@@ -1,5 +1,5 @@
-owner = Z0R
-controller = Z0R
+owner = Z0P
+controller = Z0P
 capital = "Bajibo"
 is_city = yes
 culture = bozo
@@ -9,7 +9,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 add_core = JNN
-add_core = Z0R
+add_core = Z0P
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

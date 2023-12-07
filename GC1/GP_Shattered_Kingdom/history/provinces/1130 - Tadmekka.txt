@@ -1,5 +1,5 @@
-owner = Z0N
-controller = Z0N
+owner = SON
+controller = SON
 capital = "Tadmekka al-Suq"
 is_city = yes
 culture = berber
@@ -9,7 +9,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 add_core = TLC
-add_core = Z0N
+add_core = SON
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

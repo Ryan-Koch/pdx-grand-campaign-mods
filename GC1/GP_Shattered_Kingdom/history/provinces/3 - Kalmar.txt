@@ -1,5 +1,5 @@
-owner = Z34
-controller = Z34
+owner = NOR
+controller = NOR
 capital = "Kalmar"
 is_city = yes
 culture = dynamic-german-norse-culture-num1
@@ -9,7 +9,7 @@ fort_15th = yes
 base_tax = 1
 base_production = 1
 base_manpower = 3
-add_core = Z34
+add_core = NOR
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

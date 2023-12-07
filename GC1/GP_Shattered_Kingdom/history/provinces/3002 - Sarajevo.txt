@@ -1,5 +1,5 @@
-owner = GAL
-controller = GAL
+owner = Z08
+controller = Z08
 capital = "Visoki"
 is_city = yes
 culture = xliponian
@@ -8,7 +8,7 @@ trade_goods = grain
 base_tax = 5
 base_production = 1
 base_manpower = 2
-add_core = GAL
+add_core = Z08
 add_core = ROM
 add_permanent_claim = Z08
 discovered_by = east_african

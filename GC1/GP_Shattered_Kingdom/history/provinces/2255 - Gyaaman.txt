@@ -1,5 +1,5 @@
-owner = Z0L
-controller = Z0L
+owner = ASH
+controller = ASH
 capital = "Amanvi"
 is_city = yes
 culture = aka
@@ -8,7 +8,7 @@ trade_goods = coffee
 base_tax = 1
 base_production = 1
 base_manpower = 1
-add_core = Z0L
+add_core = ASH
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

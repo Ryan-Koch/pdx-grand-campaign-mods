@@ -1,5 +1,5 @@
-owner = Z10
-controller = Z10
+owner = KRK
+controller = KRK
 capital = "Sira"
 is_city = yes
 culture = dynamic-bengali-kannada-culture-num1
@@ -9,7 +9,7 @@ fort_15th = yes
 base_tax = 6
 base_production = 4
 base_manpower = 3
-add_core = Z10
+add_core = KRK
 discovered_by = chinese
 discovered_by = east_african
 discovered_by = eastern

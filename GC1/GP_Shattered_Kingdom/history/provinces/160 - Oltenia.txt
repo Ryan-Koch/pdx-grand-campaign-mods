@@ -1,5 +1,5 @@
-owner = VAL
-controller = VAL
+owner = BUL
+controller = BUL
 capital = "Craiova"
 is_city = yes
 culture = thracian
@@ -9,7 +9,7 @@ base_tax = 7
 base_production = 1
 base_manpower = 2
 add_core = THR
-add_core = VAL
+add_core = BUL
 add_permanent_claim = BUL
 discovered_by = east_african
 discovered_by = eastern

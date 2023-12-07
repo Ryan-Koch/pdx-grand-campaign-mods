@@ -1,5 +1,5 @@
-owner = VOL
-controller = VOL
+owner = KBO
+controller = KBO
 capital = "Aghram"
 is_city = yes
 culture = dynamic-roman-zaghawa-culture-num1
@@ -8,7 +8,7 @@ trade_goods = livestock
 base_tax = 1
 base_production = 1
 base_manpower = 2
-add_core = VOL
+add_core = KBO
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

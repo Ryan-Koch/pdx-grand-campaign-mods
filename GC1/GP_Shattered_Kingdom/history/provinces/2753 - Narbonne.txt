@@ -1,5 +1,5 @@
-owner = Z2M
-controller = Z2M
+owner = Z25
+controller = Z25
 capital = "Narbonne"
 is_city = yes
 culture = arpitan
@@ -9,7 +9,8 @@ base_tax = 3
 base_production = 5
 base_manpower = 5
 add_core = DAU
-add_core = Z2M
+add_core = Z25
+add_permanent_claim = FRA
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

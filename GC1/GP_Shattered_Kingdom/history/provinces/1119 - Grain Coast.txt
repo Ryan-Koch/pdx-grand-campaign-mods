@@ -1,5 +1,5 @@
-owner = Z0V
-controller = Z0V
+owner = Z0S
+controller = Z0S
 capital = "Mesurado"
 is_city = yes
 culture = dynamic-roman-culture-num2
@@ -8,7 +8,7 @@ trade_goods = unknown
 base_tax = 2
 base_production = 2
 base_manpower = 4
-add_core = Z0V
+add_core = Z0S
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

@@ -1,5 +1,5 @@
-owner = Z11
-controller = Z11
+owner = Z0V
+controller = Z0V
 capital = "Sayan"
 is_city = yes
 culture = siberian
@@ -8,8 +8,7 @@ trade_goods = unknown
 base_tax = 3
 base_production = 2
 base_manpower = 1
-add_core = SIB
-add_core = Z11
+add_core = Z0V
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

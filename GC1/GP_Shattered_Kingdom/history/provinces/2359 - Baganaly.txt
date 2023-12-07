@@ -1,5 +1,5 @@
-owner = Z12
-controller = Z12
+owner = Z0W
+controller = Z0W
 capital = "Baganaly"
 is_city = yes
 culture = nogaybak
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 2
 base_manpower = 1
 add_core = NOG
-add_core = Z12
+add_core = Z0W
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

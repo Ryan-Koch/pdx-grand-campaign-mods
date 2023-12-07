@@ -1,5 +1,5 @@
-owner = Z1W
-controller = Z1W
+owner = Z1H
+controller = Z1H
 capital = "Saint-Malo"
 is_city = yes
 culture = breton
@@ -8,7 +8,7 @@ trade_goods = cloth
 base_tax = 5
 base_production = 4
 base_manpower = 3
-add_core = Z1W
+add_core = Z1H
 add_permanent_claim = SCO
 discovered_by = east_african
 discovered_by = eastern

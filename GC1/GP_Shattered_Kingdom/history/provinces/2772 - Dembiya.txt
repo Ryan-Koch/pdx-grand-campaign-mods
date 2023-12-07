@@ -1,5 +1,5 @@
-owner = Z1V
-controller = Z1V
+owner = ETH
+controller = ETH
 capital = "Gorgora"
 is_city = yes
 culture = amhara
@@ -8,7 +8,7 @@ trade_goods = cotton
 base_tax = 5
 base_production = 2
 base_manpower = 3
-add_core = Z1V
+add_core = ETH
 add_permanent_claim = ETH
 discovered_by = east_african
 discovered_by = eastern

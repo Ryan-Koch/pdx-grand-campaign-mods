@@ -1,5 +1,5 @@
-owner = Z3T
-controller = Z3T
+owner = Z38
+controller = Z38
 capital = "Neromkar"
 is_city = yes
 culture = uralic
@@ -8,7 +8,7 @@ trade_goods = unknown
 base_tax = 1
 base_production = 2
 base_manpower = 1
-add_core = Z3T
+add_core = Z38
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

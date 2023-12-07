@@ -1,5 +1,5 @@
-owner = Z1C
-controller = Z1C
+owner = AVA
+controller = AVA
 capital = "Dagon"
 is_city = yes
 culture = mon
@@ -9,8 +9,8 @@ base_tax = 5
 base_production = 4
 base_manpower = 2
 extra_cost = 5
+add_core = AVA
 add_core = PEG
-add_core = Z1C
 discovered_by = chinese
 discovered_by = east_african
 discovered_by = eastern

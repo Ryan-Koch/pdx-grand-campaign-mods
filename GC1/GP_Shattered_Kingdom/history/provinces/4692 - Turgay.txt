@@ -1,5 +1,5 @@
-owner = Z12
-controller = Z12
+owner = Z0W
+controller = Z0W
 capital = "Zhakeikin"
 is_city = yes
 culture = scythian
@@ -9,7 +9,7 @@ base_tax = 5
 base_production = 1
 base_manpower = 2
 add_core = SCY
-add_core = Z12
+add_core = Z0W
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

@@ -1,5 +1,5 @@
-owner = Z2N
-controller = Z2N
+owner = KRA
+controller = KRA
 capital = "Liegnitz"
 is_city = yes
 culture = dynamic-german-norse-culture-num2
@@ -8,8 +8,8 @@ trade_goods = glass
 base_tax = 3
 base_production = 3
 base_manpower = 2
+add_core = KRA
 add_core = SIL
-add_core = Z2N
 add_permanent_claim = BOH
 discovered_by = east_african
 discovered_by = eastern

@@ -1,5 +1,5 @@
-owner = AJU
-controller = AJU
+owner = EGY
+controller = EGY
 capital = "Al Iskandirya"
 is_city = yes
 culture = dynamic-greek-nubian-culture-num1
@@ -10,7 +10,7 @@ base_production = 7
 base_manpower = 5
 extra_cost = 8
 center_of_trade = 1
-add_core = AJU
+add_core = EGY
 add_permanent_claim = EGY
 discovered_by = east_african
 discovered_by = eastern

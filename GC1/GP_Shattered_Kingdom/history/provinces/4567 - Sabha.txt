@@ -1,5 +1,5 @@
-owner = Z27
-controller = Z27
+owner = Z1S
+controller = Z1S
 capital = "Sabha"
 is_city = yes
 culture = berber
@@ -9,7 +9,7 @@ base_tax = 5
 base_production = 8
 base_manpower = 2
 add_core = TLC
-add_core = Z27
+add_core = Z1S
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

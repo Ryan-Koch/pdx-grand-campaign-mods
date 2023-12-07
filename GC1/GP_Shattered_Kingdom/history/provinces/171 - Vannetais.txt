@@ -1,5 +1,5 @@
-owner = Z1W
-controller = Z1W
+owner = Z1H
+controller = Z1H
 capital = "Vannes"
 is_city = yes
 culture = breton
@@ -9,7 +9,7 @@ fort_15th = yes
 base_tax = 6
 base_production = 5
 base_manpower = 4
-add_core = Z1W
+add_core = Z1H
 add_permanent_claim = SCO
 discovered_by = east_african
 discovered_by = eastern

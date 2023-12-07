@@ -10,6 +10,7 @@ base_production = 5
 base_manpower = 7
 add_core = BAV
 add_core = ROM
+add_permanent_claim = FRA
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

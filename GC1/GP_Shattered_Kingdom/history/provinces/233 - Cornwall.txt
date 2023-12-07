@@ -1,5 +1,5 @@
-owner = SCO
-controller = SCO
+owner = ENG
+controller = ENG
 capital = "Penryn"
 is_city = yes
 culture = cornish
@@ -9,7 +9,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 add_core = CRN
-add_core = SCO
+add_core = ENG
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

@@ -1,5 +1,5 @@
-owner = LWA
-controller = LWA
+owner = BNG
+controller = BNG
 capital = "Purnia"
 is_city = yes
 culture = nepali
@@ -8,7 +8,7 @@ trade_goods = silk
 base_tax = 3
 base_production = 4
 base_manpower = 5
-add_core = LWA
+add_core = BNG
 add_permanent_claim = Z05
 discovered_by = chinese
 discovered_by = east_african

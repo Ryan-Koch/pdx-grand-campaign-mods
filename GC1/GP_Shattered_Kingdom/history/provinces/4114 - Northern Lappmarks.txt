@@ -1,5 +1,5 @@
-owner = Z25
-controller = Z25
+owner = NOR
+controller = NOR
 capital = "Jokkmokk"
 is_city = yes
 culture = sapmi
@@ -9,7 +9,7 @@ fort_15th = yes
 base_tax = 4
 base_production = 3
 base_manpower = 2
-add_core = Z25
+add_core = NOR
 add_permanent_claim = SMI
 discovered_by = east_african
 discovered_by = eastern

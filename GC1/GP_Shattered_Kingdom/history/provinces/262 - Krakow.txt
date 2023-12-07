@@ -1,5 +1,5 @@
-owner = Z2N
-controller = Z2N
+owner = KRA
+controller = KRA
 capital = "Kraków"
 is_city = yes
 culture = dynamic-german-norse-culture-num1
@@ -11,7 +11,7 @@ base_production = 3
 base_manpower = 3
 extra_cost = 16
 center_of_trade = 2
-add_core = Z2N
+add_core = KRA
 add_permanent_claim = VOL
 discovered_by = east_african
 discovered_by = eastern

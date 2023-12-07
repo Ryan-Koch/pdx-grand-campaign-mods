@@ -1,5 +1,5 @@
-owner = Z14
-controller = Z14
+owner = ODH
+controller = ODH
 capital = "Badayun"
 is_city = yes
 culture = pahari
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 4
 base_manpower = 5
 add_core = GHR
-add_core = Z14
+add_core = ODH
 discovered_by = chinese
 discovered_by = east_african
 discovered_by = eastern

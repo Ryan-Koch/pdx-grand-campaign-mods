@@ -1,5 +1,5 @@
-owner = Z29
-controller = Z29
+owner = Z1U
+controller = Z1U
 capital = "Songqu"
 is_city = yes
 culture = tangut
@@ -9,7 +9,7 @@ base_tax = 1
 base_production = 3
 base_manpower = 2
 add_core = TAU
-add_core = Z29
+add_core = Z1U
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

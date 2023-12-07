@@ -1,5 +1,5 @@
-owner = Z2S
-controller = Z2S
+owner = MDV
+controller = MDV
 capital = "Alatyr"
 is_city = yes
 culture = chuvash
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 2
 add_core = CVS
-add_core = Z2S
+add_core = MDV
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

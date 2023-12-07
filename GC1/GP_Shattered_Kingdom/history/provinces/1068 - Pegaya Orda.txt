@@ -1,5 +1,5 @@
-owner = Z18
-controller = Z18
+owner = Z0Z
+controller = Z0Z
 capital = "Ket"
 is_city = yes
 culture = kirgiz
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 2
 base_manpower = 2
 add_core = CHG
-add_core = Z18
+add_core = Z0Z
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

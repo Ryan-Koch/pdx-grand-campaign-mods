@@ -1,5 +1,5 @@
-owner = Z1D
-controller = Z1D
+owner = Z11
+controller = Z11
 capital = "Kangiri"
 is_city = yes
 culture = dynamic-greek-roman-culture-num1
@@ -8,7 +8,7 @@ trade_goods = wool
 base_tax = 5
 base_production = 1
 base_manpower = 4
-add_core = Z1D
+add_core = Z11
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

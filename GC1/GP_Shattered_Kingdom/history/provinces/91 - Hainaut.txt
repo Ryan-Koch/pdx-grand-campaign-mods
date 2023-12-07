@@ -1,5 +1,5 @@
-owner = Z15
-controller = Z15
+owner = LOT
+controller = LOT
 capital = "Mons"
 is_city = yes
 culture = scaldic
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 5
 add_core = HAI
-add_core = Z15
+add_core = LOT
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

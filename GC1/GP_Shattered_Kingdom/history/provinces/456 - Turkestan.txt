@@ -1,5 +1,5 @@
-owner = Z1H
-controller = Z1H
+owner = Z14
+controller = Z14
 capital = "Yasi"
 is_city = yes
 culture = dynamic-nogaybak-scythian-culture-num1
@@ -8,7 +8,7 @@ trade_goods = grain
 base_tax = 1
 base_production = 2
 base_manpower = 1
-add_core = Z1H
+add_core = Z14
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

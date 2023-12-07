@@ -1,5 +1,5 @@
-owner = Z1Y
-controller = Z1Y
+owner = Z1J
+controller = Z1J
 capital = "Hami"
 is_city = yes
 culture = khitan
@@ -9,7 +9,7 @@ base_tax = 5
 base_production = 1
 base_manpower = 3
 add_core = LIO
-add_core = Z1Y
+add_core = Z1J
 add_permanent_claim = Z0G
 discovered_by = chinese
 discovered_by = east_african

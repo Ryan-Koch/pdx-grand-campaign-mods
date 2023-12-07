@@ -1,5 +1,5 @@
-owner = Z15
-controller = Z15
+owner = LOT
+controller = LOT
 capital = "Lille"
 is_city = yes
 culture = dynamic-gaulish-culture-num3
@@ -8,7 +8,7 @@ trade_goods = cloth
 base_tax = 2
 base_production = 1
 base_manpower = 3
-add_core = Z15
+add_core = LOT
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

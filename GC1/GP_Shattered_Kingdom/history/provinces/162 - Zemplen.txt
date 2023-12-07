@@ -1,5 +1,5 @@
-owner = Z38
-controller = Z38
+owner = Z2O
+controller = Z2O
 capital = "Kassa"
 is_city = yes
 culture = dynamic-german-norse-culture-num1
@@ -8,7 +8,7 @@ trade_goods = grain
 base_tax = 2
 base_production = 2
 base_manpower = 3
-add_core = Z38
+add_core = Z2O
 add_permanent_claim = WAL
 discovered_by = east_african
 discovered_by = eastern

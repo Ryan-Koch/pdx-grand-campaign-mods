@@ -1,5 +1,5 @@
-owner = WAL
-controller = WAL
+owner = FRA
+controller = FRA
 capital = "Cahors"
 is_city = yes
 culture = aquitaine
@@ -9,7 +9,7 @@ base_tax = 8
 base_production = 5
 base_manpower = 7
 add_core = TOU
-add_core = WAL
+add_core = FRA
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

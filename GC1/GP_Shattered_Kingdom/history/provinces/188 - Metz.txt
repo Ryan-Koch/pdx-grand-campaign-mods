@@ -12,6 +12,7 @@ extra_cost = 8
 center_of_trade = 1
 add_core = BAV
 add_core = ORL
+add_permanent_claim = FRA
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

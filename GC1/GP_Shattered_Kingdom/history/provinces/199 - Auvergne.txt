@@ -1,5 +1,5 @@
-owner = Z0L
-controller = Z0L
+owner = Z0K
+controller = Z0K
 capital = "Clermont"
 is_city = yes
 culture = dynamic-cosmopolitan_french-roman-culture-num1
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 5
 base_manpower = 3
 add_core = BUR
-add_core = Z0L
+add_core = Z0K
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

@@ -1,5 +1,5 @@
-owner = Z14
-controller = Z14
+owner = ODH
+controller = ODH
 capital = "Devalgarh"
 is_city = yes
 culture = nepali
@@ -9,7 +9,8 @@ fort_15th = yes
 base_tax = 2
 base_production = 4
 base_manpower = 4
-add_core = Z14
+add_core = ODH
+add_permanent_claim = NPL
 discovered_by = chinese
 discovered_by = east_african
 discovered_by = eastern

@@ -10,6 +10,7 @@ base_production = 2
 base_manpower = 2
 add_core = GAL
 add_permanent_claim = GUY
+add_permanent_claim = FRA
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

@@ -1,5 +1,5 @@
-owner = Z3W
-controller = Z3W
+owner = Z3B
+controller = Z3B
 capital = "Tobykty"
 is_city = yes
 culture = uzbehk
@@ -9,7 +9,7 @@ base_tax = 1
 base_production = 2
 base_manpower = 2
 add_core = SHY
-add_core = Z3W
+add_core = Z3B
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

@@ -1,5 +1,5 @@
-owner = Z10
-controller = Z10
+owner = KRK
+controller = KRK
 capital = "Vijayanagar"
 is_city = yes
 culture = dynamic-bengali-kannada-culture-num1
@@ -10,7 +10,7 @@ base_production = 4
 base_manpower = 2
 extra_cost = 8
 center_of_trade = 1
-add_core = Z10
+add_core = KRK
 discovered_by = chinese
 discovered_by = east_african
 discovered_by = eastern

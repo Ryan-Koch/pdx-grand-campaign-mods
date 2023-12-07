@@ -1,5 +1,5 @@
-owner = Z03
-controller = Z03
+owner = OMA
+controller = OMA
 capital = "Ibri"
 is_city = yes
 culture = dynamic-persian-culture-num1
@@ -8,7 +8,7 @@ trade_goods = livestock
 base_tax = 4
 base_production = 1
 base_manpower = 6
-add_core = Z03
+add_core = OMA
 add_permanent_claim = OMA
 discovered_by = east_african
 discovered_by = eastern

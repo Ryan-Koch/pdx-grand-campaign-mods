@@ -1,5 +1,5 @@
-owner = Z0K
-controller = Z0K
+owner = AFR
+controller = AFR
 capital = "Bizerte"
 is_city = yes
 culture = dynamic-carthaginian-roman-culture-num1
@@ -8,7 +8,7 @@ trade_goods = grain
 base_tax = 6
 base_production = 5
 base_manpower = 4
-add_core = Z0K
+add_core = AFR
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

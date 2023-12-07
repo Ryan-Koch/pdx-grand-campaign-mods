@@ -1,5 +1,5 @@
-owner = Z2A
-controller = Z2A
+owner = Z01
+controller = Z01
 capital = "Sholhapur"
 is_city = yes
 culture = dynamic-persian-culture-num1
@@ -8,7 +8,7 @@ trade_goods = cotton
 base_tax = 1
 base_production = 1
 base_manpower = 2
-add_core = Z2A
+add_core = Z01
 add_permanent_claim = Z01
 discovered_by = chinese
 discovered_by = east_african

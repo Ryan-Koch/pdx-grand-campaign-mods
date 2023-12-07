@@ -1,5 +1,5 @@
-owner = Z0X
-controller = Z0X
+owner = Z0T
+controller = Z0T
 capital = "Bauchi"
 is_city = yes
 culture = dynamic-greek-nubian-culture-num1
@@ -8,7 +8,7 @@ trade_goods = unknown
 base_tax = 5
 base_production = 3
 base_manpower = 5
-add_core = Z0X
+add_core = Z0T
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

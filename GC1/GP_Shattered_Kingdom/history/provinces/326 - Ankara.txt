@@ -1,5 +1,5 @@
-owner = Z0N
-controller = Z0N
+owner = Z0M
+controller = Z0M
 capital = "Ankara"
 is_city = yes
 culture = hittite
@@ -9,7 +9,7 @@ base_tax = 6
 base_production = 10
 base_manpower = 6
 add_core = RUM
-add_core = Z0N
+add_core = Z0M
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

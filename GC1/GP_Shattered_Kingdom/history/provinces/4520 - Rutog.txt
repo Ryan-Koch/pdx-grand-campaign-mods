@@ -1,5 +1,5 @@
-owner = Z1Q
-controller = Z1Q
+owner = Z1B
+controller = Z1B
 capital = "Rutog"
 is_city = yes
 culture = sumpa
@@ -9,7 +9,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 add_core = TIB
-add_core = Z1Q
+add_core = Z1B
 add_permanent_claim = NPL
 discovered_by = chinese
 discovered_by = east_african

@@ -1,5 +1,5 @@
-owner = Z22
-controller = Z22
+owner = Z1N
+controller = Z1N
 capital = "Masirah"
 is_city = yes
 culture = mahri_culture
@@ -9,7 +9,7 @@ base_tax = 1
 base_production = 3
 base_manpower = 2
 add_core = MHR
-add_core = Z22
+add_core = Z1N
 add_permanent_claim = OMA
 discovered_by = east_african
 discovered_by = eastern

@@ -1,5 +1,5 @@
-owner = Z0U
-controller = Z0U
+owner = Z0R
+controller = Z0R
 capital = "Koumbi"
 is_city = yes
 culture = senegambian
@@ -8,7 +8,7 @@ trade_goods = wool
 base_tax = 1
 base_production = 2
 base_manpower = 2
-add_core = Z0U
+add_core = Z0R
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

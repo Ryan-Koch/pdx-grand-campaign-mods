@@ -1,5 +1,5 @@
-owner = Z16
-controller = Z16
+owner = Z0Y
+controller = Z0Y
 capital = "Kütahya"
 is_city = yes
 culture = euxinian
@@ -9,7 +9,7 @@ base_tax = 6
 base_production = 5
 base_manpower = 6
 add_core = ROM
-add_core = Z16
+add_core = Z0Y
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

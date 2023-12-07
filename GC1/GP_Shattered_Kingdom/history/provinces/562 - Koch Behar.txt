@@ -1,5 +1,5 @@
-owner = ASS
-controller = ASS
+owner = BNG
+controller = BNG
 capital = "Kamatapur"
 is_city = yes
 culture = dynamic-bengali-culture-num2
@@ -8,7 +8,7 @@ trade_goods = grain
 base_tax = 1
 base_production = 4
 base_manpower = 2
-add_core = ASS
+add_core = BNG
 discovered_by = chinese
 discovered_by = east_african
 discovered_by = eastern

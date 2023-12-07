@@ -1,5 +1,5 @@
-owner = EGY
-controller = EGY
+owner = ETH
+controller = ETH
 capital = "Dabareq"
 is_city = yes
 culture = tigray
@@ -9,7 +9,7 @@ base_tax = 1
 base_production = 4
 base_manpower = 2
 add_core = BEJ
-add_core = EGY
+add_core = ETH
 add_core = MED
 add_permanent_claim = ETH
 discovered_by = east_african

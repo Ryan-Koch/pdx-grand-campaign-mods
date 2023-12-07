@@ -1,5 +1,5 @@
-owner = Z25
-controller = Z25
+owner = POL
+controller = POL
 capital = "Vilna"
 is_city = yes
 culture = lithuanian
@@ -11,7 +11,7 @@ base_manpower = 6
 extra_cost = 8
 center_of_trade = 1
 add_core = LIT
-add_core = Z25
+add_core = POL
 add_permanent_claim = POL
 discovered_by = east_african
 discovered_by = eastern

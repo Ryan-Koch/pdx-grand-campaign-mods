@@ -1,5 +1,5 @@
-owner = EJZ
-controller = EJZ
+owner = MJZ
+controller = MJZ
 capital = "Jixi"
 is_city = yes
 culture = manchu
@@ -8,7 +8,7 @@ trade_goods = naval_supplies
 base_tax = 2
 base_production = 2
 base_manpower = 1
-add_core = EJZ
+add_core = MJZ
 discovered_by = chinese
 discovered_by = nomad_group
 latent_trade_goods = {

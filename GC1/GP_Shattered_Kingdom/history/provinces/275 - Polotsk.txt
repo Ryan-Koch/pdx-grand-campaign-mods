@@ -8,7 +8,6 @@ trade_goods = iron
 base_tax = 4
 base_production = 3
 base_manpower = 3
-add_core = AFR
 add_core = MOL
 add_permanent_claim = PLT
 discovered_by = east_african

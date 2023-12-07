@@ -1,5 +1,5 @@
-owner = Z1I
-controller = Z1I
+owner = Z15
+controller = Z15
 capital = "Laghwat"
 is_city = yes
 culture = algerian
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 5
 base_manpower = 3
 add_core = ALG
-add_core = Z1I
+add_core = Z15
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

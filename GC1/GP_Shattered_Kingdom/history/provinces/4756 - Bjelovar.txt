@@ -1,5 +1,5 @@
-owner = Z19
-controller = Z19
+owner = Z0B
+controller = Z0B
 capital = "Bjelovar"
 is_city = yes
 culture = xliponian
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 1
 base_manpower = 4
 add_core = ROM
-add_core = Z19
+add_core = Z0B
 add_permanent_claim = Z0B
 discovered_by = east_african
 discovered_by = eastern

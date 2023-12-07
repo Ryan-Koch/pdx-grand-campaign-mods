@@ -1,6 +1,6 @@
 owner = FRA
 controller = FRA
-capital = "Orl�ans"
+capital = "Orl ans"
 is_city = yes
 culture = cosmopolitan_french
 religion = converted_dynamic_faith_127

@@ -1,5 +1,5 @@
-owner = VOL
-controller = VOL
+owner = SON
+controller = SON
 capital = "Jenne"
 is_city = yes
 culture = bozo
@@ -11,7 +11,7 @@ base_manpower = 3
 extra_cost = 16
 center_of_trade = 2
 add_core = JNN
-add_core = VOL
+add_core = SON
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

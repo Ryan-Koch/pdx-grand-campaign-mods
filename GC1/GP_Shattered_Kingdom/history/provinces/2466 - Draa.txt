@@ -1,5 +1,5 @@
-owner = Z3H
-controller = Z3H
+owner = Z2W
+controller = Z2W
 capital = "Tagmadert"
 is_city = yes
 culture = moroccan
@@ -10,7 +10,7 @@ base_production = 1
 base_manpower = 5
 extra_cost = 8
 center_of_trade = 1
-add_core = Z3H
+add_core = Z2W
 add_permanent_claim = MOR
 discovered_by = east_african
 discovered_by = eastern

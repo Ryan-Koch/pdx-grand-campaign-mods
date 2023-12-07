@@ -1,5 +1,5 @@
-owner = Z3B
-controller = Z3B
+owner = Z2R
+controller = Z2R
 capital = "Marstrand"
 is_city = yes
 culture = dynamic-german-norse-culture-num1
@@ -8,7 +8,7 @@ trade_goods = fish
 base_tax = 1
 base_production = 1
 base_manpower = 1
-add_core = Z3B
+add_core = Z2R
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

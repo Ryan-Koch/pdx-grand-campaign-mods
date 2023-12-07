@@ -1,5 +1,5 @@
-owner = Z2U
-controller = Z2U
+owner = Z2B
+controller = Z2B
 capital = "Taraz"
 is_city = yes
 culture = dynamic-nogaybak-scythian-culture-num1
@@ -8,7 +8,7 @@ trade_goods = cloth
 base_tax = 1
 base_production = 1
 base_manpower = 1
-add_core = Z2U
+add_core = Z2B
 add_permanent_claim = Z0G
 discovered_by = east_african
 discovered_by = eastern

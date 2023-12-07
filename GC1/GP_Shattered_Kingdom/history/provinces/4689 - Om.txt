@@ -1,5 +1,5 @@
-owner = Z48
-controller = Z48
+owner = Z3M
+controller = Z3M
 capital = "Om"
 is_city = yes
 culture = ostyaki
@@ -8,8 +8,7 @@ trade_goods = fur
 base_tax = 1
 base_production = 1
 base_manpower = 2
-add_core = YUG
-add_core = Z48
+add_core = Z3M
 add_permanent_claim = KZH
 discovered_by = east_african
 discovered_by = eastern

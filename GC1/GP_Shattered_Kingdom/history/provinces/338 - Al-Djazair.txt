@@ -1,5 +1,5 @@
-owner = Z1I
-controller = Z1I
+owner = Z15
+controller = Z15
 capital = "Al-Djazair"
 is_city = yes
 culture = carthaginian
@@ -10,8 +10,7 @@ base_production = 9
 base_manpower = 3
 extra_cost = 8
 center_of_trade = 1
-add_core = AFR
-add_core = Z1I
+add_core = Z15
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

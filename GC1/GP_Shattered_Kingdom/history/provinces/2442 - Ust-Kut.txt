@@ -1,5 +1,5 @@
-owner = Z0S
-controller = Z0S
+owner = BRT
+controller = BRT
 capital = "Ust-Kut"
 is_city = yes
 culture = buryat
@@ -9,7 +9,6 @@ base_tax = 4
 base_production = 3
 base_manpower = 3
 add_core = BRT
-add_core = Z0S
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

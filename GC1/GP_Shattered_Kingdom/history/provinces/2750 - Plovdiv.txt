@@ -1,5 +1,5 @@
-owner = Z1J
-controller = Z1J
+owner = Z16
+controller = Z16
 capital = "Plovdiv"
 is_city = yes
 culture = greek
@@ -9,7 +9,7 @@ fort_15th = yes
 base_tax = 6
 base_production = 5
 base_manpower = 5
-add_core = Z1J
+add_core = Z16
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

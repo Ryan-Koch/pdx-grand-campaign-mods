@@ -1,5 +1,5 @@
-owner = Z3G
-controller = Z3G
+owner = Z2V
+controller = Z2V
 capital = "Tajura"
 is_city = yes
 culture = afar
@@ -9,7 +9,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 3
 add_core = AFA
-add_core = Z3G
+add_core = Z2V
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

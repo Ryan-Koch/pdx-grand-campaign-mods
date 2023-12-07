@@ -1,5 +1,5 @@
-owner = Z1D
-controller = Z1D
+owner = Z11
+controller = Z11
 capital = "Izmit"
 is_city = yes
 culture = dynamic-greek-roman-culture-num1
@@ -9,7 +9,7 @@ fort_15th = yes
 base_tax = 4
 base_production = 5
 base_manpower = 6
-add_core = Z1D
+add_core = Z11
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

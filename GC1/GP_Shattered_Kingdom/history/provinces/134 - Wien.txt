@@ -1,5 +1,5 @@
-owner = Z25
-controller = Z25
+owner = Z1Q
+controller = Z1Q
 capital = "Wien"
 is_city = yes
 culture = noric
@@ -11,7 +11,7 @@ base_manpower = 6
 extra_cost = 16
 center_of_trade = 2
 add_core = HAB
-add_core = Z25
+add_core = Z1Q
 add_permanent_claim = BOH
 discovered_by = east_african
 discovered_by = eastern

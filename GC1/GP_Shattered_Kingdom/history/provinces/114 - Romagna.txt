@@ -1,5 +1,5 @@
-owner = Z2Z
-controller = Z2Z
+owner = Z2G
+controller = Z2G
 capital = "Ravenna"
 is_city = yes
 culture = roman
@@ -10,7 +10,7 @@ base_tax = 7
 base_production = 5
 base_manpower = 7
 add_core = ROM
-add_core = Z2Z
+add_core = Z2G
 add_permanent_claim = ITA
 discovered_by = east_african
 discovered_by = eastern

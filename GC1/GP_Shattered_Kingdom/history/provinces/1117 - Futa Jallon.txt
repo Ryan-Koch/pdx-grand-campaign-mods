@@ -1,5 +1,5 @@
-owner = Z07
-controller = Z07
+owner = MAL
+controller = MAL
 capital = "Timbo"
 is_city = yes
 culture = fulani
@@ -9,7 +9,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 add_core = FUL
-add_core = Z07
+add_core = MAL
 add_permanent_claim = MAL
 discovered_by = east_african
 discovered_by = eastern

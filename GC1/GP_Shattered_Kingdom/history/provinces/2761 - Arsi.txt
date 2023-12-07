@@ -1,5 +1,5 @@
-owner = YEM
-controller = YEM
+owner = ADA
+controller = ADA
 capital = "Assela"
 is_city = yes
 culture = harari
@@ -9,7 +9,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 add_core = HAR
-add_core = YEM
+add_core = ADA
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

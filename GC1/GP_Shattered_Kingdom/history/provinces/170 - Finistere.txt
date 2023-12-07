@@ -1,5 +1,5 @@
-owner = Z1W
-controller = Z1W
+owner = Z1H
+controller = Z1H
 capital = "Brest"
 is_city = yes
 culture = breton
@@ -10,7 +10,7 @@ base_production = 4
 base_manpower = 6
 extra_cost = 8
 center_of_trade = 1
-add_core = Z1W
+add_core = Z1H
 add_permanent_claim = SCO
 discovered_by = east_african
 discovered_by = eastern

@@ -1,5 +1,5 @@
-owner = Z0L
-controller = Z0L
+owner = MOR
+controller = MOR
 capital = "Fez"
 is_city = yes
 culture = moroccan
@@ -9,7 +9,7 @@ fort_15th = yes
 base_tax = 2
 base_production = 3
 base_manpower = 3
-add_core = Z0L
+add_core = MOR
 add_permanent_claim = MOR
 discovered_by = east_african
 discovered_by = eastern

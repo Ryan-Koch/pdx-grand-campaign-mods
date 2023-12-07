@@ -1,5 +1,5 @@
-owner = Z1I
-controller = Z1I
+owner = Z15
+controller = Z15
 capital = "Constantine"
 is_city = yes
 culture = dynamic-carthaginian-roman-culture-num1
@@ -8,7 +8,7 @@ trade_goods = grain
 base_tax = 5
 base_production = 5
 base_manpower = 4
-add_core = Z1I
+add_core = Z15
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

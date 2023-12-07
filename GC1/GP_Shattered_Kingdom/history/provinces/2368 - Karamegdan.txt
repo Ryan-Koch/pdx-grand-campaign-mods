@@ -1,5 +1,5 @@
-owner = Z1O
-controller = Z1O
+owner = Z19
+controller = Z19
 capital = "Karamegdan"
 is_city = yes
 culture = uzbehk
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 2
 base_manpower = 1
 add_core = SHY
-add_core = Z1O
+add_core = Z19
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

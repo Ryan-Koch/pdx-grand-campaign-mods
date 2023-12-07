@@ -1,5 +1,5 @@
-owner = FRA
-controller = FRA
+owner = Z2Q
+controller = Z2Q
 capital = "Troyes"
 is_city = yes
 culture = dynamic-gaulish-culture-num8
@@ -8,7 +8,8 @@ trade_goods = iron
 base_tax = 2
 base_production = 5
 base_manpower = 3
-add_core = Z3A
+add_core = Z2Q
+add_permanent_claim = FRA
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

@@ -1,5 +1,5 @@
-owner = Z3F
-controller = Z3F
+owner = FKN
+controller = FKN
 capital = "Mainz"
 is_city = yes
 culture = dynamic-gaulish-culture-num9
@@ -10,7 +10,7 @@ base_production = 4
 base_manpower = 2
 extra_cost = 8
 center_of_trade = 1
-add_core = Z3F
+add_core = FKN
 add_permanent_claim = BAV
 discovered_by = east_african
 discovered_by = eastern

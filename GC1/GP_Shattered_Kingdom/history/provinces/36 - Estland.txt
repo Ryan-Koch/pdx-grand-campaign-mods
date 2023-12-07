@@ -1,5 +1,5 @@
-owner = GER
-controller = GER
+owner = NOV
+controller = NOV
 capital = "Reval"
 is_city = yes
 culture = dynamic-russian_culture-vepsian-culture-num1
@@ -10,7 +10,7 @@ base_production = 1
 base_manpower = 2
 center_of_trade = 1
 add_core = EST
-add_core = GER
+add_core = NOV
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

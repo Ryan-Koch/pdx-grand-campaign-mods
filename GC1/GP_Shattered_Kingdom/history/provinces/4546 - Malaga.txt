@@ -1,5 +1,5 @@
-owner = Z33
-controller = Z33
+owner = Z2K
+controller = Z2K
 capital = "Malaga"
 is_city = yes
 culture = hispanic
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 4
 add_core = ROM
-add_core = Z33
+add_core = Z2K
 add_permanent_claim = ADU
 discovered_by = east_african
 discovered_by = eastern

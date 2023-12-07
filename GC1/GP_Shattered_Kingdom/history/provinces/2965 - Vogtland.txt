@@ -1,12 +1,12 @@
-owner = GER
-controller = GER
+owner = BOH
+controller = BOH
 capital = "Plauen"
 is_city = yes
 culture = dynamic-german-norse-culture-num1
 religion = converted_dynamic_faith_131
 trade_goods = wool
-base_tax = 4
-base_production = 4
+base_tax = 2
+base_production = 1
 base_manpower = 4
 add_core = BOH
 discovered_by = east_african

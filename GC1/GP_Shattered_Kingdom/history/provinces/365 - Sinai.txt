@@ -1,5 +1,5 @@
-owner = AJU
-controller = AJU
+owner = EGY
+controller = EGY
 capital = "At Tur"
 is_city = yes
 culture = dynamic-greek-nubian-culture-num1
@@ -8,7 +8,7 @@ trade_goods = gems
 base_tax = 11
 base_production = 6
 base_manpower = 9
-add_core = AJU
+add_core = EGY
 add_permanent_claim = EGY
 discovered_by = east_african
 discovered_by = eastern

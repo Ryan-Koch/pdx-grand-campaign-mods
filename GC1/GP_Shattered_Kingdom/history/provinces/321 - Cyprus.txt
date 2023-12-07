@@ -1,5 +1,5 @@
-owner = Z20
-controller = Z20
+owner = Z1L
+controller = Z1L
 capital = "Nicosia"
 is_city = yes
 culture = anatolian
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 5
 base_manpower = 3
 add_core = BYZ
-add_core = Z20
+add_core = Z1L
 add_permanent_claim = CYP
 discovered_by = east_african
 discovered_by = eastern

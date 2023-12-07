@@ -1,5 +1,5 @@
-owner = Z10
-controller = Z10
+owner = KRK
+controller = KRK
 capital = "Seringapatam"
 is_city = yes
 culture = dynamic-bengali-kannada-culture-num1
@@ -8,7 +8,7 @@ trade_goods = cotton
 base_tax = 1
 base_production = 1
 base_manpower = 1
-add_core = Z10
+add_core = KRK
 discovered_by = chinese
 discovered_by = east_african
 discovered_by = eastern

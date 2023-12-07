@@ -1,5 +1,5 @@
-owner = Z0M
-controller = Z0M
+owner = Z0L
+controller = Z0L
 capital = "Rebgong"
 is_city = yes
 culture = chihan
@@ -9,7 +9,7 @@ base_tax = 1
 base_production = 3
 base_manpower = 1
 add_core = YAN
-add_core = Z0M
+add_core = Z0L
 discovered_by = chinese
 discovered_by = east_african
 discovered_by = eastern

@@ -1,5 +1,5 @@
-owner = Z1Z
-controller = Z1Z
+owner = Z1K
+controller = Z1K
 capital = "Nalchik"
 is_city = yes
 culture = pontic_greek
@@ -8,7 +8,7 @@ trade_goods = wool
 base_tax = 2
 base_production = 1
 base_manpower = 4
-add_core = Z1Z
+add_core = Z1K
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

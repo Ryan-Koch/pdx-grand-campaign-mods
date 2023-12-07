@@ -1,5 +1,5 @@
-owner = Z1C
-controller = Z1C
+owner = AVA
+controller = AVA
 capital = "Toungoo"
 is_city = yes
 culture = burmese
@@ -8,8 +8,8 @@ trade_goods = chinaware
 base_tax = 1
 base_production = 1
 base_manpower = 2
+add_core = AVA
 add_core = TAU
-add_core = Z1C
 discovered_by = chinese
 discovered_by = east_african
 discovered_by = eastern

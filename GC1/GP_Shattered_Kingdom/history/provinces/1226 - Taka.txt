@@ -1,5 +1,5 @@
-owner = Z1V
-controller = Z1V
+owner = Z1G
+controller = Z1G
 capital = "Qoz Rajab"
 is_city = yes
 culture = nubian
@@ -9,7 +9,7 @@ base_tax = 1
 base_production = 5
 base_manpower = 2
 add_core = NUB
-add_core = Z1V
+add_core = Z1G
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

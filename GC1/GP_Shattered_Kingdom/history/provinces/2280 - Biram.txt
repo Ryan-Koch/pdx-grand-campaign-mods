@@ -1,5 +1,5 @@
-owner = Z2E
-controller = Z2E
+owner = Z1Y
+controller = Z1Y
 capital = "Biram"
 is_city = yes
 culture = hausa
@@ -8,7 +8,7 @@ trade_goods = dyes
 base_tax = 1
 base_production = 1
 base_manpower = 2
-add_core = Z2E
+add_core = Z1Y
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

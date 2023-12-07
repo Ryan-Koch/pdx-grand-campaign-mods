@@ -8,7 +8,6 @@ trade_goods = livestock
 base_tax = 4
 base_production = 2
 base_manpower = 2
-add_core = AFR
 add_core = MOL
 discovered_by = east_african
 discovered_by = eastern

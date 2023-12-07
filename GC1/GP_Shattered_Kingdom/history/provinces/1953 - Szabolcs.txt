@@ -1,5 +1,5 @@
-owner = Z47
-controller = Z47
+owner = Z3L
+controller = Z3L
 capital = "Debrecen"
 is_city = yes
 culture = norse
@@ -8,7 +8,7 @@ trade_goods = livestock
 base_tax = 1
 base_production = 2
 base_manpower = 2
-add_core = Z47
+add_core = Z3L
 add_permanent_claim = WAL
 discovered_by = east_african
 discovered_by = eastern

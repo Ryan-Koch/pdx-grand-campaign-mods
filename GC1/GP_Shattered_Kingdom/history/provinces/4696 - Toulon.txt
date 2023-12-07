@@ -1,5 +1,5 @@
-owner = Z0L
-controller = Z0L
+owner = Z0K
+controller = Z0K
 capital = "Toulon"
 is_city = yes
 culture = arpitan
@@ -10,7 +10,8 @@ base_production = 5
 base_manpower = 7
 add_core = BUR
 add_core = DAU
-add_core = Z0L
+add_core = Z0K
+add_permanent_claim = FRA
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

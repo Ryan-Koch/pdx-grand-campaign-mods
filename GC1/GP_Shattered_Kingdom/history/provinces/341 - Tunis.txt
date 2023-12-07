@@ -1,5 +1,5 @@
-owner = Z0K
-controller = Z0K
+owner = AFR
+controller = AFR
 capital = "Tunis"
 is_city = yes
 culture = dynamic-carthaginian-roman-culture-num1
@@ -10,7 +10,7 @@ base_production = 9
 base_manpower = 3
 extra_cost = 16
 center_of_trade = 2
-add_core = Z0K
+add_core = AFR
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

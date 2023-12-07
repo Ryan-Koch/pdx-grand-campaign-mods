@@ -1,5 +1,5 @@
-owner = Z15
-controller = Z15
+owner = LOT
+controller = LOT
 capital = "Kleves"
 is_city = yes
 culture = treverian
@@ -8,8 +8,8 @@ trade_goods = cloth
 base_tax = 4
 base_production = 3
 base_manpower = 1
+add_core = LOT
 add_core = LUX
-add_core = Z15
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

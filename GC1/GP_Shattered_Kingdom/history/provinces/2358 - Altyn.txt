@@ -1,5 +1,5 @@
-owner = Z12
-controller = Z12
+owner = Z0W
+controller = Z0W
 capital = "Altyn"
 is_city = yes
 culture = dynamic-nogaybak-scythian-culture-num1
@@ -9,7 +9,7 @@ fort_15th = yes
 base_tax = 1
 base_production = 1
 base_manpower = 1
-add_core = Z12
+add_core = Z0W
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

@@ -1,5 +1,5 @@
-owner = Z1G
-controller = Z1G
+owner = SIB
+controller = SIB
 capital = "Qashliq"
 is_city = yes
 culture = ostyaki
@@ -9,8 +9,7 @@ fort_15th = yes
 base_tax = 3
 base_production = 1
 base_manpower = 1
-add_core = YUG
-add_core = Z1G
+add_core = SIB
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

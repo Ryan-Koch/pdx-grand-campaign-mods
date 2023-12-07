@@ -1,5 +1,5 @@
-owner = Z28
-controller = Z28
+owner = Z1T
+controller = Z1T
 capital = "Grodno"
 is_city = yes
 culture = dynamic-german-norse-culture-num1
@@ -8,7 +8,7 @@ trade_goods = livestock
 base_tax = 9
 base_production = 1
 base_manpower = 2
-add_core = Z28
+add_core = Z1T
 add_permanent_claim = VOL
 discovered_by = east_african
 discovered_by = eastern

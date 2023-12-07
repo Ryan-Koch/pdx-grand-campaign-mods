@@ -1,5 +1,5 @@
-owner = Z35
-controller = Z35
+owner = SWA
+controller = SWA
 capital = "Mülhausen"
 is_city = yes
 culture = treverian
@@ -10,7 +10,7 @@ base_production = 1
 base_manpower = 2
 add_core = ALS
 add_core = LUX
-add_core = Z35
+add_core = SWA
 add_permanent_claim = SWI
 discovered_by = east_african
 discovered_by = eastern

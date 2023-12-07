@@ -1,5 +1,5 @@
-owner = Z19
-controller = Z19
+owner = Z10
+controller = Z10
 capital = "Yozgat"
 is_city = yes
 culture = hittite
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 6
 base_manpower = 4
 add_core = RUM
-add_core = Z19
+add_core = Z10
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

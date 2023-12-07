@@ -1,5 +1,5 @@
-owner = Z1C
-controller = Z1C
+owner = AVA
+controller = AVA
 capital = "Martaban"
 is_city = yes
 culture = mon
@@ -8,8 +8,8 @@ trade_goods = sugar
 base_tax = 1
 base_production = 2
 base_manpower = 2
+add_core = AVA
 add_core = PEG
-add_core = Z1C
 discovered_by = chinese
 discovered_by = east_african
 discovered_by = eastern

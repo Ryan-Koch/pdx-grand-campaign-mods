@@ -5,6 +5,7 @@ is_city = yes
 culture = marathi
 religion = zoroastrian
 trade_goods = cloth
+fort_15th = yes
 base_tax = 7
 base_production = 4
 base_manpower = 5

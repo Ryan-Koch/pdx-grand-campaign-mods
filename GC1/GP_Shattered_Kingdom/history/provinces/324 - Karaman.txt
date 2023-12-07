@@ -1,5 +1,5 @@
-owner = Z0N
-controller = Z0N
+owner = Z0M
+controller = Z0M
 capital = "Karaman"
 is_city = yes
 culture = luwian
@@ -10,7 +10,7 @@ base_tax = 10
 base_production = 6
 base_manpower = 10
 add_core = TRO
-add_core = Z0N
+add_core = Z0M
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

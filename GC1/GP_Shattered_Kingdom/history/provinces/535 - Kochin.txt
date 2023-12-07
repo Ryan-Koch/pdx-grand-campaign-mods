@@ -1,5 +1,5 @@
-owner = Z10
-controller = Z10
+owner = KRK
+controller = KRK
 capital = "Kochin"
 is_city = yes
 culture = malayalam
@@ -8,8 +8,8 @@ trade_goods = spices
 base_tax = 3
 base_production = 4
 base_manpower = 6
+add_core = KRK
 add_core = VND
-add_core = Z10
 discovered_by = chinese
 discovered_by = east_african
 discovered_by = eastern

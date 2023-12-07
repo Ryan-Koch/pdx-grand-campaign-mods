@@ -1,5 +1,5 @@
-owner = Z0V
-controller = Z0V
+owner = Z0S
+controller = Z0S
 capital = "San"
 is_city = yes
 culture = mali
@@ -8,7 +8,7 @@ trade_goods = iron
 base_tax = 1
 base_production = 2
 base_manpower = 3
-add_core = Z0V
+add_core = Z0S
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

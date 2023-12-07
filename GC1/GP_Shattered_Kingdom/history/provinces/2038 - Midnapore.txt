@@ -1,5 +1,5 @@
-owner = TRT
-controller = TRT
+owner = ORI
+controller = ORI
 capital = "Midnapore"
 is_city = yes
 culture = dynamic-telegu-culture-num1
@@ -8,7 +8,7 @@ trade_goods = spices
 base_tax = 1
 base_production = 3
 base_manpower = 1
-add_core = TRT
+add_core = ORI
 add_permanent_claim = ORI
 discovered_by = chinese
 discovered_by = east_african

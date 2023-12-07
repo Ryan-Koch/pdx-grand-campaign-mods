@@ -1,5 +1,5 @@
-owner = Z18
-controller = Z18
+owner = Z0Z
+controller = Z0Z
 capital = "Barnaul"
 is_city = yes
 culture = siberian
@@ -8,8 +8,7 @@ trade_goods = livestock
 base_tax = 3
 base_production = 2
 base_manpower = 2
-add_core = SIB
-add_core = Z18
+add_core = Z0Z
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

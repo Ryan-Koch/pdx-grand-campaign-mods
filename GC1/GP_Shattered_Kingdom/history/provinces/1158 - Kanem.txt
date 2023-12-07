@@ -1,5 +1,5 @@
-owner = Z2F
-controller = Z2F
+owner = Z1Z
+controller = Z1Z
 capital = "Ngala"
 is_city = yes
 culture = kanuri
@@ -10,7 +10,7 @@ base_production = 1
 base_manpower = 1
 extra_cost = 8
 center_of_trade = 1
-add_core = Z2F
+add_core = Z1Z
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

@@ -1,5 +1,5 @@
-owner = Z0L
-controller = Z0L
+owner = Z0K
+controller = Z0K
 capital = "Grenoble"
 is_city = yes
 culture = dynamic-gaulish-culture-num4
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 4
 base_manpower = 3
 add_core = BUR
-add_core = Z0L
+add_core = Z0K
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

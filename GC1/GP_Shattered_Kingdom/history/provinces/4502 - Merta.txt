@@ -1,5 +1,5 @@
-owner = Z14
-controller = Z14
+owner = ODH
+controller = ODH
 capital = "Merta"
 is_city = yes
 culture = avadhi
@@ -10,7 +10,6 @@ base_tax = 1
 base_production = 2
 base_manpower = 1
 add_core = ODH
-add_core = Z14
 add_permanent_claim = RJP
 discovered_by = chinese
 discovered_by = east_african

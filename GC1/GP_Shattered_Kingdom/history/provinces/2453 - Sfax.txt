@@ -1,5 +1,5 @@
-owner = Z0K
-controller = Z0K
+owner = AFR
+controller = AFR
 capital = "Sfax"
 is_city = yes
 culture = tunisian
@@ -8,8 +8,8 @@ trade_goods = sugar
 base_tax = 3
 base_production = 3
 base_manpower = 2
+add_core = AFR
 add_core = TUN
-add_core = Z0K
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

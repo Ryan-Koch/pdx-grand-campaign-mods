@@ -1,5 +1,5 @@
-owner = Z1C
-controller = Z1C
+owner = AVA
+controller = AVA
 capital = "Prome"
 is_city = yes
 culture = burmese
@@ -9,8 +9,8 @@ fort_15th = yes
 base_tax = 6
 base_production = 2
 base_manpower = 4
+add_core = AVA
 add_core = TAU
-add_core = Z1C
 discovered_by = chinese
 discovered_by = east_african
 discovered_by = eastern

@@ -1,5 +1,5 @@
-owner = Z2Q
-controller = Z2Q
+owner = ASS
+controller = ASS
 capital = "Koliabar"
 is_city = yes
 culture = dynamic-bengali-nepali-culture-num1
@@ -8,7 +8,7 @@ trade_goods = silk
 base_tax = 1
 base_production = 1
 base_manpower = 1
-add_core = Z2Q
+add_core = ASS
 discovered_by = chinese
 discovered_by = east_african
 discovered_by = eastern

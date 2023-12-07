@@ -1,5 +1,5 @@
-owner = Z14
-controller = Z14
+owner = ODH
+controller = ODH
 capital = "Garha"
 is_city = yes
 culture = gondi
@@ -9,7 +9,7 @@ base_tax = 6
 base_production = 5
 base_manpower = 3
 add_core = GDW
-add_core = Z14
+add_core = ODH
 add_permanent_claim = ORI
 discovered_by = chinese
 discovered_by = east_african

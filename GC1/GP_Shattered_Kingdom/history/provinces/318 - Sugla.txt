@@ -1,5 +1,5 @@
-owner = Z16
-controller = Z16
+owner = Z0Y
+controller = Z0Y
 capital = "Izmirni"
 is_city = yes
 culture = euxinian
@@ -12,7 +12,7 @@ base_manpower = 9
 extra_cost = 16
 center_of_trade = 2
 add_core = ROM
-add_core = Z16
+add_core = Z0Y
 discovered_by = east_african
 discovered_by = eastern
 discovered_by = indian

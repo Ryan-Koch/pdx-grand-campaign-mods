@@ -1,5 +1,5 @@
-owner = Z10
-controller = Z10
+owner = KRK
+controller = KRK
 capital = "Calicut"
 is_city = yes
 culture = malayalam
@@ -10,8 +10,8 @@ base_production = 4
 base_manpower = 3
 extra_cost = 16
 center_of_trade = 2
+add_core = KRK
 add_core = VND
-add_core = Z10
 discovered_by = chinese
 discovered_by = east_african
 discovered_by = eastern

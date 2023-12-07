@@ -1,5 +1,5 @@
-owner = Z28
-controller = Z28
+owner = Z1T
+controller = Z1T
 capital = "Lyda"
 is_city = yes
 culture = lithuanian
@@ -9,7 +9,7 @@ base_tax = 1
 base_production = 4
 base_manpower = 3
 add_core = LIT
-add_core = Z28
+add_core = Z1T
 add_permanent_claim = VOL
 discovered_by = east_african
 discovered_by = eastern

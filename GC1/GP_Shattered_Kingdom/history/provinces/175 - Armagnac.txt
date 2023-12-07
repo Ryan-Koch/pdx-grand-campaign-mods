@@ -1,5 +1,5 @@
-owner = GRE
-controller = GRE
+owner = FRA
+controller = FRA
 capital = "Auch"
 is_city = yes
 culture = dynamic-roman-culture-num5
@@ -8,7 +8,7 @@ trade_goods = wool
 base_tax = 8
 base_production = 4
 base_manpower = 6
-add_core = GRE
+add_core = FRA
 add_permanent_claim = GUY
 discovered_by = east_african
 discovered_by = eastern
