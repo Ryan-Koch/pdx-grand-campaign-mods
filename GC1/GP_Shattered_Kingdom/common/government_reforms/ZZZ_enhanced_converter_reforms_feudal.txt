@@ -525,7 +525,7 @@ mughal_government = {
 		southern_african = {
 			inflation_reduction = 0.05
 		}
-		sudanese = {
+		levantine = {
 			caravan_power = 0.1
 		}
 		tartar = {
