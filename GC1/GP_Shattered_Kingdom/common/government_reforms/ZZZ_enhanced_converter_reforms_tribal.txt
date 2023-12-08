@@ -8,14 +8,14 @@ matrilineal_system = {
 	legacy_equivalent = matrilineal_system_legacy
 	potential = {
 		OR = {
-			culture_group = levantine
+			culture_group = helleno_semitic
 			has_reform = matrilineal_system
 			have_had_reform = matrilineal_system
 		}
 	}
 	trigger = {
 		OR = {
-			culture_group = levantine
+			culture_group = helleno_semitic
 			has_reform = matrilineal_system
 			have_had_reform = matrilineal_system
 		}
