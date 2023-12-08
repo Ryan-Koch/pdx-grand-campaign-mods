@@ -762,9 +762,7 @@ byzantine = {
 	histrian = {
 		primary = RMN
 	}
-	kyrenaikan = {
-		primary = TRP
-	}
+
 	leucaethiopian = {
 		primary = ETH
 	}
@@ -774,9 +772,7 @@ byzantine = {
 	messalian = {
 		primary = PRO
 	}
-	ptolemaic = {
-		primary = EGY
-	}
+
 	pulian = {
 		primary = CLI
 	}
