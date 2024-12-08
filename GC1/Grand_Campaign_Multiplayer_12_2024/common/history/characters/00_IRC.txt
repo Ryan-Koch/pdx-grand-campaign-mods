@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:IRC = {
+		create_character = {
+			first_name = "Pitah_Waziyamwincasta"
+			ruler = yes
+			culture = cu:siouan
+			religion = rel:animist
+			birth_date = 1529.5.21
+			traits = {
+				sickly 
+			}
+		}
+
+	}
+}

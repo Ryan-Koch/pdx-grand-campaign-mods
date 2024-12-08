@@ -1,0 +1,65 @@
+﻿CHARACTERS = {
+	c:JAP = {
+		create_character = {
+			first_name = "Anne"
+			last_name = "Kaya"
+			female = yes
+			culture = cu:japanese
+			religion = rel:shinto
+			birth_date = 1742.5.18
+			traits = {
+				romantic 
+			}
+		}
+
+		create_character = {
+			first_name = "Adam"
+			last_name = "Katsura"
+			heir = yes
+			culture = cu:japanese
+			religion = rel:shinto
+			birth_date = 1766.3.18
+			traits = {
+				experienced_diplomat trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Yasuhito_I"
+			last_name = "Katsura"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_3
+			culture = cu:japanese
+			religion = rel:shinto
+			birth_date = 1750.1.13
+			traits = {
+				arrogant 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Augustus_Satomi"
+			is_admiral = yes
+			commander_rank = commander_rank_3
+			birth_date = 1726.10.8
+			traits = {
+				basic_naval_commander 
+			}
+		}
+
+		create_character = {
+			first_name = "Augustus_Ichijo"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1719.9.18
+			traits = {
+				alcoholic 
+			}
+		}
+
+	}
+}

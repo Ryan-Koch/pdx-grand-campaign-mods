@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:TWT = {
+		create_character = {
+			first_name = "Quispe_Titu_Huaman"
+			ruler = yes
+			culture = cu:quechua
+			religion = rel:animist
+			birth_date = 1583.4.29
+			traits = {
+				basic_political_operator cautious 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,36 @@
+﻿CHARACTERS = {
+	c:CAL = {
+		create_character = {
+			first_name = "Nikephoros_Constantius"
+			ruler = yes
+			is_general = yes
+			culture = cu:roman
+			religion = rel:converted_dynamic_faith_127
+			birth_date = 1713.12.5
+			traits = {
+				basic_colonial_administrator innovative 
+			}
+		}
+
+		create_character = {
+			first_name = "Jovian_Symmachos"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1736.12.29
+			traits = {
+				psychological_affliction 
+			}
+		}
+
+		create_character = {
+			first_name = "Basileios_Septimius"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1735.4.8
+			traits = {
+				opium_addiction 
+			}
+		}
+
+	}
+}

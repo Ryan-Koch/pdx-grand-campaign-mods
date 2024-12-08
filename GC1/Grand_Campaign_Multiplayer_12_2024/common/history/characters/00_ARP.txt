@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:ARP = {
+		create_character = {
+			first_name = "Injice_I"
+			last_name = "Santiam"
+			ruler = yes
+			culture = cu:algonquian
+			religion = rel:animist
+			birth_date = 1545.5.4
+			traits = {
+				senile 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,65 @@
+﻿CHARACTERS = {
+	c:KOR = {
+		create_character = {
+			first_name = "Jae-u_Yang"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1727.11.3
+			traits = {
+				psychological_affliction 
+			}
+		}
+
+		create_character = {
+			first_name = "Hongwi"
+			last_name = "Cho"
+			heir = yes
+			culture = cu:korean
+			religion = rel:converted_dynamic_faith_131
+			birth_date = 1753.9.25
+			traits = {
+				basic_colonial_administrator trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Eudosia"
+			last_name = "von_Koch"
+			female = yes
+			culture = cu:dynamic-german-norse-culture-num1
+			religion = rel:converted_dynamic_faith_131
+			birth_date = 1726.3.15
+			traits = {
+				persistent 
+			}
+		}
+
+		create_character = {
+			first_name = "Munsu_Seok"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1729.2.25
+			traits = {
+				meticulous 
+			}
+		}
+
+		create_character = {
+			first_name = "Yeon_I"
+			last_name = "Cho"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_1
+			culture = cu:korean
+			religion = rel:converted_dynamic_faith_131
+			birth_date = 1725.11.20
+			traits = {
+				hedonist 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

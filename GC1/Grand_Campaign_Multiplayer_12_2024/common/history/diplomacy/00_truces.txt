@@ -1,0 +1,268 @@
+﻿DIPLOMACY = {
+	c:AOT ?= {
+		create_bidirectional_truce = {
+			country = c:JAP
+			months = 81
+		}
+	}
+	c:AST ?= {
+		create_bidirectional_truce = {
+			country = c:BAH
+			months = 45
+		}
+		create_bidirectional_truce = {
+			country = c:CAL
+			months = 45
+		}
+		create_bidirectional_truce = {
+			country = c:DOM
+			months = 45
+		}
+		create_bidirectional_truce = {
+			country = c:GCO
+			months = 45
+		}
+		create_bidirectional_truce = {
+			country = c:JAP
+			months = 18
+		}
+		create_bidirectional_truce = {
+			country = c:PAP
+			months = 45
+		}
+		create_bidirectional_truce = {
+			country = c:SPU
+			months = 45
+		}
+		create_bidirectional_truce = {
+			country = c:X11
+			months = 45
+		}
+		create_bidirectional_truce = {
+			country = c:X16
+			months = 45
+		}
+	}
+	c:BAH ?= {
+		create_bidirectional_truce = {
+			country = c:AST
+			months = 45
+		}
+		create_bidirectional_truce = {
+			country = c:JAP
+			months = 81
+		}
+	}
+	c:CAL ?= {
+		create_bidirectional_truce = {
+			country = c:AST
+			months = 45
+		}
+		create_bidirectional_truce = {
+			country = c:JAP
+			months = 81
+		}
+	}
+	c:COL ?= {
+		create_bidirectional_truce = {
+			country = c:JAP
+			months = 102
+		}
+	}
+	c:CUB ?= {
+		create_bidirectional_truce = {
+			country = c:JAP
+			months = 102
+		}
+	}
+	c:DOM ?= {
+		create_bidirectional_truce = {
+			country = c:AST
+			months = 45
+		}
+		create_bidirectional_truce = {
+			country = c:JAP
+			months = 81
+		}
+	}
+	c:GCO ?= {
+		create_bidirectional_truce = {
+			country = c:AST
+			months = 45
+		}
+		create_bidirectional_truce = {
+			country = c:JAP
+			months = 81
+		}
+	}
+	c:GER ?= {
+		create_bidirectional_truce = {
+			country = c:JAP
+			months = 102
+		}
+	}
+	c:ISR ?= {
+		create_bidirectional_truce = {
+			country = c:JAP
+			months = 140
+		}
+	}
+	c:JAP ?= {
+		create_bidirectional_truce = {
+			country = c:AOT
+			months = 81
+		}
+		create_bidirectional_truce = {
+			country = c:AST
+			months = 18
+		}
+		create_bidirectional_truce = {
+			country = c:BAH
+			months = 81
+		}
+		create_bidirectional_truce = {
+			country = c:CAL
+			months = 81
+		}
+		create_bidirectional_truce = {
+			country = c:COL
+			months = 102
+		}
+		create_bidirectional_truce = {
+			country = c:CUB
+			months = 102
+		}
+		create_bidirectional_truce = {
+			country = c:DOM
+			months = 81
+		}
+		create_bidirectional_truce = {
+			country = c:GCO
+			months = 81
+		}
+		create_bidirectional_truce = {
+			country = c:GER
+			months = 102
+		}
+		create_bidirectional_truce = {
+			country = c:ISR
+			months = 140
+		}
+		create_bidirectional_truce = {
+			country = c:KOR
+			months = 102
+		}
+		create_bidirectional_truce = {
+			country = c:NBS
+			months = 102
+		}
+		create_bidirectional_truce = {
+			country = c:NEN
+			months = 102
+		}
+		create_bidirectional_truce = {
+			country = c:NEP
+			months = 45
+		}
+		create_bidirectional_truce = {
+			country = c:PAP
+			months = 81
+		}
+		create_bidirectional_truce = {
+			country = c:SPU
+			months = 81
+		}
+		create_bidirectional_truce = {
+			country = c:W24
+			months = 45
+		}
+		create_bidirectional_truce = {
+			country = c:X11
+			months = 81
+		}
+		create_bidirectional_truce = {
+			country = c:X16
+			months = 81
+		}
+		create_bidirectional_truce = {
+			country = c:X18
+			months = 102
+		}
+	}
+	c:KOR ?= {
+		create_bidirectional_truce = {
+			country = c:JAP
+			months = 102
+		}
+	}
+	c:NBS ?= {
+		create_bidirectional_truce = {
+			country = c:JAP
+			months = 102
+		}
+	}
+	c:NEN ?= {
+		create_bidirectional_truce = {
+			country = c:JAP
+			months = 102
+		}
+	}
+	c:NEP ?= {
+		create_bidirectional_truce = {
+			country = c:JAP
+			months = 45
+		}
+	}
+	c:PAP ?= {
+		create_bidirectional_truce = {
+			country = c:AST
+			months = 45
+		}
+		create_bidirectional_truce = {
+			country = c:JAP
+			months = 81
+		}
+	}
+	c:SPU ?= {
+		create_bidirectional_truce = {
+			country = c:AST
+			months = 45
+		}
+		create_bidirectional_truce = {
+			country = c:JAP
+			months = 81
+		}
+	}
+	c:W24 ?= {
+		create_bidirectional_truce = {
+			country = c:JAP
+			months = 45
+		}
+	}
+	c:X11 ?= {
+		create_bidirectional_truce = {
+			country = c:AST
+			months = 45
+		}
+		create_bidirectional_truce = {
+			country = c:JAP
+			months = 81
+		}
+	}
+	c:X16 ?= {
+		create_bidirectional_truce = {
+			country = c:AST
+			months = 45
+		}
+		create_bidirectional_truce = {
+			country = c:JAP
+			months = 81
+		}
+	}
+	c:X18 ?= {
+		create_bidirectional_truce = {
+			country = c:JAP
+			months = 102
+		}
+	}
+}

@@ -1,0 +1,26 @@
+﻿DIPLOMACY = {
+	c:PER = {
+		create_diplomatic_pact = {
+			country = c:ISR
+			type = defensive_pact
+		}
+	}
+	c:ISR = {
+		create_diplomatic_pact = {
+			country = c:PER
+			type = defensive_pact
+		}
+	}
+	c:PER = {
+		create_diplomatic_pact = {
+			country = c:W24
+			type = defensive_pact
+		}
+	}
+	c:W24 = {
+		create_diplomatic_pact = {
+			country = c:PER
+			type = defensive_pact
+		}
+	}
+}

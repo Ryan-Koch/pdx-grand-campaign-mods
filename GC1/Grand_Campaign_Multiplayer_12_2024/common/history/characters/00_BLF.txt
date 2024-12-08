@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:BLF = {
+		create_character = {
+			first_name = "Attistahmacan_Ahkotahshiks"
+			ruler = yes
+			culture = cu:algonquian
+			religion = rel:animist
+			birth_date = 1501.2.14
+			traits = {
+				senile 
+			}
+		}
+
+	}
+}

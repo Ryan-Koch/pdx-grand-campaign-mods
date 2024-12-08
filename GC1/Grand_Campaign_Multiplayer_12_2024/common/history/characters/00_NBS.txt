@@ -1,0 +1,47 @@
+﻿CHARACTERS = {
+	c:NBS = {
+		create_character = {
+			first_name = "Yngvar_Necker"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1733.11.23
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Yngvar_Arndt"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1733.12.30
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Dietrich_Hohn"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:neo-canada_colony-dynamic-german-norse-culture-num1
+			religion = rel:converted_dynamic_faith_131
+			birth_date = 1705.5.22
+			traits = {
+				experienced_diplomat innovative 
+			}
+		}
+
+		create_character = {
+			first_name = "Adalbero_Mick"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1704.7.8
+			traits = {
+				alcoholic 
+			}
+		}
+
+	}
+}
