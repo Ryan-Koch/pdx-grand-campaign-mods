@@ -1,0 +1,49 @@
+﻿CHARACTERS = {
+	c:AST = {
+		create_character = {
+			first_name = "Elisabeth"
+			last_name = "Fushimi"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			female = yes
+			culture = cu:japanese
+			religion = rel:shinto
+			birth_date = 1734.9.10
+			traits = {
+				ambitious 
+			}
+		}
+
+		create_character = {
+			first_name = "Alfred"
+			last_name = "Katsura"
+			heir = yes
+			culture = cu:japanese
+			religion = rel:shinto
+			birth_date = 1755.4.1
+			traits = {
+				basic_colonial_administrator trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Ieyoshi_Asakura"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1724.6.2
+			traits = {
+				inexperienced 
+			}
+		}
+
+		create_character = {
+			first_name = "Yoshikatsu_Satomi"
+			is_general = yes
+			birth_date = 1707.7.21
+			traits = {
+				alcoholic 
+			}
+		}
+
+	}
+}

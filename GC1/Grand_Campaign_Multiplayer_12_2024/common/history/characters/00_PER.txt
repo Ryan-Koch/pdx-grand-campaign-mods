@@ -1,0 +1,87 @@
+﻿CHARACTERS = {
+	c:PER = {
+		create_character = {
+			first_name = "Loft_Ali_Ahrari"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1744.5.11
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Shirin_Jalili"
+			is_general = yes
+			commander_rank = commander_rank_3
+			female = yes
+			birth_date = 1743.6.16
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Ism0_0l_Sabiri"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1731.7.8
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Hamid_Azizi"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1728.8.21
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Hammurabi_I"
+			last_name = "Hammurabi"
+			ruler = yes
+			culture = cu:dynamic-persian-culture-num1
+			religion = rel:zoroastrian
+			birth_date = 1712.8.18
+			traits = {
+				ambitious expert_political_operator 
+			}
+		}
+
+		create_character = {
+			first_name = "Mohammad_S0diq_Shahy"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1730.2.1
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Sh0h_Rukh_Dalwand"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1725.1.25
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Ahmad_Daei"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1711.11.10
+			traits = {
+				charismatic 
+			}
+		}
+
+	}
+}

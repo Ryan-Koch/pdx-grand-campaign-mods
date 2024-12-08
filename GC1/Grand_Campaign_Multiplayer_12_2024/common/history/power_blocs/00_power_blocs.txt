@@ -1,0 +1,40 @@
+﻿POWER_BLOCS = {
+	c:GER = {
+		create_power_bloc = {
+			name = GER_BLOC
+			map_color = { 147 130 110 }
+			founding_date = 1746.12.2
+			identity = identity_trade_league
+			principle = principle_internal_trade_1
+			
+			member = c:KOR
+		}
+	}
+
+	c:PAP = {
+		create_power_bloc = {
+			name = PAP_BLOC
+			map_color = { 211 220 178 }
+			founding_date = 1696.7.23
+			identity = identity_trade_league
+			principle = principle_internal_trade_1
+			
+			member = c:AOT
+			member = c:BAH
+		}
+	}
+
+	c:W24 = {
+		create_power_bloc = {
+			name = W24_BLOC
+			map_color = { 188 18 18 }
+			founding_date = 1681.1.6
+			identity = identity_sovereign_empire
+			principle = principle_vassalization_1
+			
+			member = c:NEP
+			member = c:SIA
+		}
+	}
+
+}

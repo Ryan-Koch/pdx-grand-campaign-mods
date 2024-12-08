@@ -1,0 +1,43 @@
+﻿CHARACTERS = {
+	c:SWI = {
+		create_character = {
+			first_name = "Tiberius_Opiter"
+			last_name = "Calvus"
+			culture = cu:theodisc
+			religion = rel:converted_dynamic_faith_127
+			birth_date = 1737.6.11
+			traits = {
+				basic_diplomat meticulous 
+			}
+		}
+
+		create_character = {
+			first_name = "Numerius"
+			last_name = "af_Zweibrucken"
+			heir = yes
+			culture = cu:theodisc
+			religion = rel:converted_dynamic_faith_127
+			birth_date = 1760.7.25
+			traits = {
+				trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Tertia_I"
+			last_name = "af_Zweibrucken"
+			ruler = yes
+			female = yes
+			culture = cu:theodisc
+			religion = rel:converted_dynamic_faith_127
+			birth_date = 1725.8.8
+			traits = {
+				basic_colonial_administrator charismatic 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

@@ -1,0 +1,95 @@
+﻿CHARACTERS = {
+	c:GCO = {
+		create_character = {
+			first_name = "Euphemios_Markos"
+			ruler = yes
+			culture = cu:neo-colombia_colony-roman
+			religion = rel:converted_dynamic_faith_127
+			birth_date = 1710.5.11
+			traits = {
+				ambitious 
+			}
+		}
+
+		create_character = {
+			first_name = "Meletios_Germanos"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1725.12.31
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Loukas_David"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1741.12.22
+			traits = {
+				cocaine_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Narses_Arcadius"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1739.6.15
+			traits = {
+				opium_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Herakleonas_Probus"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1729.8.11
+			traits = {
+				opium_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Apollonios_Macrinus"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1722.4.19
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Eusebios_Philippos"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1725.7.8
+			traits = {
+				grifter 
+			}
+		}
+
+		create_character = {
+			first_name = "Anthemios_Iordanes"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1712.2.11
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Alexios_Valens"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1709.5.22
+			traits = {
+				shellshocked 
+			}
+		}
+
+	}
+}

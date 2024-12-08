@@ -1,0 +1,63 @@
+﻿CHARACTERS = {
+	c:ISR = {
+		create_character = {
+			first_name = "Gabrielkouda"
+			last_name = "Axinites"
+			culture = cu:dynamic-greek-nubian-culture-num1
+			religion = rel:jewish
+			birth_date = 1739.2.16
+			traits = {
+				ambitious 
+			}
+		}
+
+		create_character = {
+			first_name = "Akrotatos"
+			last_name = "Lagid"
+			heir = yes
+			culture = cu:dynamic-greek-nubian-culture-num1
+			religion = rel:jewish
+			birth_date = 1764.9.5
+			traits = {
+				alcoholic trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Chrysis_I"
+			last_name = "Lagid"
+			ruler = yes
+			female = yes
+			culture = cu:dynamic-greek-nubian-culture-num1
+			religion = rel:jewish
+			birth_date = 1747.7.9
+			traits = {
+				direct 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Hostus_Ivomai"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1712.12.25
+			traits = {
+				opium_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Iollas_Sheshna"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1726.8.17
+			traits = {
+				inexperienced 
+			}
+		}
+
+	}
+}

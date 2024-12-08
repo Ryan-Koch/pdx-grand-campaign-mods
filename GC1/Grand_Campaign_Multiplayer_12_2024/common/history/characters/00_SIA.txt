@@ -1,0 +1,26 @@
+﻿CHARACTERS = {
+	c:SIA = {
+		create_character = {
+			first_name = "Thammaracha_I"
+			last_name = "Lampang"
+			ruler = yes
+			culture = cu:thai
+			religion = rel:theravada
+			birth_date = 1737.11.7
+			traits = {
+				experienced_political_operator meticulous 
+			}
+		}
+
+		create_character = {
+			first_name = "Phetracha_Na_Phuket"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1715.1.23
+			traits = {
+				inept 
+			}
+		}
+
+	}
+}

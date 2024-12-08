@@ -1,0 +1,203 @@
+﻿DIPLOMACY = {
+	c:PER = {
+		create_diplomatic_pact = {
+			country = c:PLT
+			type = colony
+		}
+	}
+	c:GER = {
+		create_diplomatic_pact = {
+			country = c:NEN
+			type = colony
+		}
+	}
+	c:GER = {
+		create_diplomatic_pact = {
+			country = c:CUB
+			type = colony
+		}
+	}
+	c:GER = {
+		create_diplomatic_pact = {
+			country = c:NBS
+			type = colony
+		}
+	}
+	c:GER = {
+		create_diplomatic_pact = {
+			country = c:X18
+			type = colony
+		}
+	}
+	c:GER = {
+		create_diplomatic_pact = {
+			country = c:COL
+			type = colony
+		}
+	}
+	c:GER = {
+		create_diplomatic_pact = {
+			country = c:KOR
+			type = puppet
+		}
+	}
+	c:KOR = {
+		add_liberty_desire = 5.329
+	}
+	c:PAP = {
+		create_diplomatic_pact = {
+			country = c:X11
+			type = colony
+		}
+	}
+	c:PAP = {
+		create_diplomatic_pact = {
+			country = c:DOM
+			type = chartered_company
+		}
+	}
+	c:PAP = {
+		create_diplomatic_pact = {
+			country = c:GCO
+			type = colony
+		}
+	}
+	c:PAP = {
+		create_diplomatic_pact = {
+			country = c:X16
+			type = colony
+		}
+	}
+	c:PAP = {
+		create_diplomatic_pact = {
+			country = c:BAH
+			type = puppet
+		}
+	}
+	c:BAH = {
+		add_liberty_desire = -50
+	}
+	c:PAP = {
+		create_diplomatic_pact = {
+			country = c:CAL
+			type = chartered_company
+		}
+	}
+	c:PAP = {
+		create_diplomatic_pact = {
+			country = c:SPU
+			type = chartered_company
+		}
+	}
+	c:PAP = {
+		create_diplomatic_pact = {
+			country = c:AOT
+			type = puppet
+		}
+	}
+	c:AOT = {
+		add_liberty_desire = -50
+	}
+	c:W24 = {
+		create_diplomatic_pact = {
+			country = c:NEP
+			type = puppet
+		}
+	}
+	c:NEP = {
+		add_liberty_desire = -50
+	}
+	c:W24 = {
+		create_diplomatic_pact = {
+			country = c:SIA
+			type = protectorate
+		}
+	}
+	c:SIA = {
+		add_liberty_desire = -50
+	}
+	c:PER = {
+		create_diplomatic_pact = {
+			country = c:X87
+			type = chartered_company
+		}
+	}
+	c:PER = {
+		create_diplomatic_pact = {
+			country = c:X88
+			type = chartered_company
+		}
+	}
+	c:PER = {
+		create_diplomatic_pact = {
+			country = c:X89
+			type = chartered_company
+		}
+	}
+	c:PER = {
+		create_diplomatic_pact = {
+			country = c:X90
+			type = chartered_company
+		}
+	}
+	c:GER = {
+		create_diplomatic_pact = {
+			country = c:X91
+			type = chartered_company
+		}
+	}
+	c:GER = {
+		create_diplomatic_pact = {
+			country = c:X92
+			type = chartered_company
+		}
+	}
+	c:GER = {
+		create_diplomatic_pact = {
+			country = c:X93
+			type = chartered_company
+		}
+	}
+	c:PAP = {
+		create_diplomatic_pact = {
+			country = c:X94
+			type = chartered_company
+		}
+	}
+	c:PAP = {
+		create_diplomatic_pact = {
+			country = c:X95
+			type = chartered_company
+		}
+	}
+	c:PAP = {
+		create_diplomatic_pact = {
+			country = c:X96
+			type = chartered_company
+		}
+	}
+	c:PAP = {
+		create_diplomatic_pact = {
+			country = c:X97
+			type = chartered_company
+		}
+	}
+	c:W24 = {
+		create_diplomatic_pact = {
+			country = c:X98
+			type = chartered_company
+		}
+	}
+	c:W24 = {
+		create_diplomatic_pact = {
+			country = c:X99
+			type = chartered_company
+		}
+	}
+	c:W24 = {
+		create_diplomatic_pact = {
+			country = c:W00
+			type = chartered_company
+		}
+	}
+}

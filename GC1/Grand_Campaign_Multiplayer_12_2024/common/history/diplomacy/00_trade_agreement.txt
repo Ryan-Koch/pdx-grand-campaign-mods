@@ -1,0 +1,86 @@
+﻿DIPLOMACY = {
+	c:AOT = {
+		create_diplomatic_pact = {
+			country = c:PAP
+			type = trade_agreement
+		}
+	}
+	c:BAH = {
+		create_diplomatic_pact = {
+			country = c:PAP
+			type = trade_agreement
+		}
+	}
+	c:NEN = {
+		create_diplomatic_pact = {
+			country = c:GER
+			type = trade_agreement
+		}
+	}
+	c:X11 = {
+		create_diplomatic_pact = {
+			country = c:PAP
+			type = trade_agreement
+		}
+	}
+	c:CUB = {
+		create_diplomatic_pact = {
+			country = c:GER
+			type = trade_agreement
+		}
+	}
+	c:DOM = {
+		create_diplomatic_pact = {
+			country = c:PAP
+			type = trade_agreement
+		}
+	}
+	c:GCO = {
+		create_diplomatic_pact = {
+			country = c:PAP
+			type = trade_agreement
+		}
+	}
+	c:NBS = {
+		create_diplomatic_pact = {
+			country = c:GER
+			type = trade_agreement
+		}
+	}
+	c:X16 = {
+		create_diplomatic_pact = {
+			country = c:PAP
+			type = trade_agreement
+		}
+	}
+	c:PLT = {
+		create_diplomatic_pact = {
+			country = c:PER
+			type = trade_agreement
+		}
+	}
+	c:X18 = {
+		create_diplomatic_pact = {
+			country = c:GER
+			type = trade_agreement
+		}
+	}
+	c:COL = {
+		create_diplomatic_pact = {
+			country = c:GER
+			type = trade_agreement
+		}
+	}
+	c:CAL = {
+		create_diplomatic_pact = {
+			country = c:PAP
+			type = trade_agreement
+		}
+	}
+	c:SPU = {
+		create_diplomatic_pact = {
+			country = c:PAP
+			type = trade_agreement
+		}
+	}
+}

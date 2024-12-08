@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:N06 = {
+		create_character = {
+			first_name = "Attakullaculla_Waya"
+			ruler = yes
+			culture = cu:paiute
+			religion = rel:animist
+			birth_date = 1472.1.30
+			traits = {
+				senile 
+			}
+		}
+
+	}
+}

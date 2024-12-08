@@ -1,0 +1,44 @@
+﻿CHARACTERS = {
+	c:NEP = {
+		create_character = {
+			first_name = "Lhagyel"
+			last_name = "Bikram"
+			female = yes
+			culture = cu:tibetan
+			religion = rel:zoroastrian
+			birth_date = 1735.1.4
+			traits = {
+				innovative 
+			}
+		}
+
+		create_character = {
+			first_name = "Govishanaka_IV"
+			last_name = "Madhesi"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_3
+			interest_group = ig_industrialists
+			culture = cu:tibetan
+			religion = rel:zoroastrian
+			birth_date = 1731.11.12
+			traits = {
+				basic_diplomat meticulous 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Dar_Malla"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1719.2.25
+			traits = {
+				syphilis 
+			}
+		}
+
+	}
+}

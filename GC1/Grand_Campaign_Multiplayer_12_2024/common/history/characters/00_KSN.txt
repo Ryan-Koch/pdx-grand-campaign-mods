@@ -1,0 +1,17 @@
+﻿CHARACTERS = {
+	c:KSN = {
+		create_character = {
+			first_name = "Jetta_II"
+			last_name = "Imbangala"
+			ruler = yes
+			female = yes
+			culture = cu:lunda
+			religion = rel:animist
+			birth_date = 1535.3.16
+			traits = {
+				basic_colonial_administrator hedonist 
+			}
+		}
+
+	}
+}
