@@ -3435,7 +3435,8 @@
 	}
 	s:STATE_BALUCHISTAN = {
 		region_state:PER = {
-			building = "building_wheat_farm"
+			create_building = {
+				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
 						type = building_manor_house
@@ -11264,6 +11265,7 @@
 	}
 	s:STATE_FERGANA = {
 		region_state:X90 = {
+			create_building = {
 			building = "building_wheat_farm"
 				add_ownership = {
 					building = {
@@ -13242,6 +13244,7 @@
 	}
 	s:STATE_GUJARAT = {
 		region_state:X88 = {
+			create_building = {
 			building = "building_wheat_farm"
 				add_ownership = {
 					building = {
@@ -16753,7 +16756,8 @@
 	}
 	s:STATE_KANDAHAR = {
 		region_state:PER = {
-			building = "building_wheat_farm"
+			create_building = {
+				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
 						type = building_manor_house
@@ -36412,7 +36416,8 @@
 				reserves = 1
 				activate_production_methods = { }
 			}
-			building = "building_wheat_farm"
+			create_building = {
+				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
 						type = building_manor_house
