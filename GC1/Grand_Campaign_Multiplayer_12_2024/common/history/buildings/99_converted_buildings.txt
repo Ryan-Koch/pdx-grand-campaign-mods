@@ -3689,7 +3689,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PAP
-						levels = 1
+						levels = 21
 						region = STATE_BAS_CONGO
 					}
 				}
@@ -4069,7 +4069,7 @@
 					building = {
 						type = building_manor_house
 						country = c:ISR
-						levels = 1
+						levels = 21
 						region = STATE_BENIN
 					}
 				}
@@ -4759,7 +4759,7 @@
 					building = {
 						type = building_manor_house
 						country = c:ISR
-						levels = 1
+						levels = 21
 						region = STATE_BORNU
 					}
 				}
@@ -7872,7 +7872,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PAP
-						levels = 1
+						levels = 21
 						region = STATE_CONGO_ORIENTALE
 					}
 				}
@@ -8622,7 +8622,7 @@
 					building = {
 						type = building_manor_house
 						country = c:ISR
-						levels = 1
+						levels = 21
 						region = STATE_DAHOMEY
 					}
 				}
@@ -9129,7 +9129,7 @@
 					building = {
 						type = building_manor_house
 						country = c:ISR
-						levels = 10
+						levels = 21
 						region = STATE_DONGOLA
 					}
 				}
@@ -9459,7 +9459,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PAP
-						levels = 1
+						levels = 21
 						region = STATE_EASTERN_MALI
 					}
 				}
@@ -9820,7 +9820,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PAP
-						levels = 1
+						levels = 21
 						region = STATE_EAST_ANGOLA
 					}
 				}
@@ -10123,7 +10123,7 @@
 					building = {
 						type = building_manor_house
 						country = c:ISR
-						levels = 1
+						levels = 21
 						region = STATE_EAST_HAUSALAND
 					}
 				}
@@ -11741,7 +11741,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PAP
-						levels = 1
+						levels = 16
 						region = STATE_GABON
 					}
 				}
@@ -13012,7 +13012,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PAP
-						levels = 1
+						levels = 21
 						region = STATE_GUINEA
 					}
 				}
@@ -13579,7 +13579,7 @@
 					building = {
 						type = building_manor_house
 						country = c:ISR
-						levels = 2
+						levels = 21
 						region = STATE_HAUSALAND
 					}
 				}
@@ -17004,7 +17004,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PAP
-						levels = 1
+						levels = 21
 						region = STATE_KATANGA
 					}
 				}
@@ -17205,7 +17205,7 @@
 					building = {
 						type = building_manor_house
 						country = c:ISR
-						levels = 1
+						levels = 21
 						region = STATE_KAZEMBE
 					}
 				}
@@ -17259,7 +17259,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PAP
-						levels = 1
+						levels = 21
 						region = STATE_KAZEMBE
 					}
 				}
@@ -19412,7 +19412,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PAP
-						levels = 1
+						levels = 21
 						region = STATE_LIBERIA
 					}
 				}
@@ -19650,7 +19650,7 @@
 					building = {
 						type = building_manor_house
 						country = c:ISR
-						levels = 1
+						levels = 21
 						region = STATE_LINDI
 					}
 				}
@@ -19946,7 +19946,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PER
-						levels = 1
+						levels = 21
 						region = STATE_LOURENCO_MARQUES
 					}
 				}
@@ -22452,7 +22452,7 @@
 					building = {
 						type = building_manor_house
 						country = c:ISR
-						levels = 1
+						levels = 21
 						region = STATE_MOCAMBIQUE
 					}
 				}
@@ -24082,7 +24082,7 @@
 					building = {
 						type = building_manor_house
 						country = c:ISR
-						levels = 1
+						levels = 21
 						region = STATE_NIGERIA
 					}
 				}
@@ -24162,7 +24162,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PAP
-						levels = 1
+						levels = 21
 						region = STATE_NIGER_DELTA
 					}
 				}
@@ -26558,7 +26558,7 @@
 					building = {
 						type = building_manor_house
 						country = c:ISR
-						levels = 1
+						levels = 21
 						region = STATE_OUTER_HAUSALAND
 					}
 				}
@@ -32042,7 +32042,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PAP
-						levels = 1
+						levels = 21
 						region = STATE_SOUTH_CAMEROON
 					}
 				}
@@ -33261,7 +33261,7 @@
 					building = {
 						type = building_manor_house
 						country = c:ISR
-						levels = 1
+						levels = 21
 						region = STATE_TANGANYIKA
 					}
 				}
@@ -35202,7 +35202,7 @@
 					building = {
 						type = building_manor_house
 						country = c:ISR
-						levels = 1
+						levels = 21
 						region = STATE_UGANDA
 					}
 				}
@@ -36729,7 +36729,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PAP
-						levels = 2
+						levels = 21
 						region = STATE_VOLTA
 					}
 				}
@@ -36746,7 +36746,7 @@
 					building = {
 						type = building_manor_house
 						country = c:X89
-						levels = 1
+						levels = 21
 						region = STATE_VRYSTAAT
 					}
 				}
@@ -36815,7 +36815,7 @@
 					building = {
 						type = building_manor_house
 						country = c:ISR
-						levels = 1
+						levels = 21
 						region = STATE_WADDAI
 					}
 				}
@@ -37169,7 +37169,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PAP
-						levels = 1
+						levels = 21
 						region = STATE_WESTERN_MALI
 					}
 				}
@@ -38727,7 +38727,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PAP
-						levels = 1
+						levels = 21
 						region = STATE_YORUBA_STATES
 					}
 				}
@@ -38914,7 +38914,7 @@
 					building = {
 						type = building_manor_house
 						country = c:ISR
-						levels = 2
+						levels = 21
 						region = STATE_ZAMBEZI
 					}
 				}
@@ -38957,7 +38957,7 @@
 					building = {
 						type = building_manor_house
 						country = c:ISR
-						levels = 1
+						levels = 21
 						region = STATE_ZAMBEZIA
 					}
 				}
@@ -39011,7 +39011,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PAP
-						levels = 1
+						levels = 21
 						region = STATE_ZAMBIA
 					}
 				}
@@ -39065,7 +39065,7 @@
 					building = {
 						type = building_manor_house
 						country = c:ISR
-						levels = 1
+						levels = 21
 						region = STATE_ZANZIBAR
 					}
 				}
