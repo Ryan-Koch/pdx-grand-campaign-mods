@@ -5285,7 +5285,7 @@
 			state_type = incorporated
 		}
 		create_state = {
-			country = c:K05
+			country = c:NBS
 			owned_provinces = { x081414 x09FA5C x0F4E06 x1063F3 x13A3F7 x13EB95 x1F88D4 x20B961 x2A11BE x2E95BC x3D16AD x44B97A x4BFF28 x5B3469 x691878 x6FF061 x79A4B0 x79DE3A x7CDAEB x8DEB1F x937CDA xA4C22C xA60644 xBAEE96 xC44667 xC5BFD8 xD68439 xF03696 xF4065F }
 			state_type = incorporated
 		}
