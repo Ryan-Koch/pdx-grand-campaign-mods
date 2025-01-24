@@ -7,7 +7,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PAP
-						levels = 7
+						levels = 21
 						region = STATE_ABRUZZO
 					}
 				}
@@ -768,7 +768,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PAP
-						levels = 7
+						levels = 21
 						region = STATE_ALENTEJO
 					}
 				}
@@ -1278,7 +1278,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PAP
-						levels = 7
+						levels = 21
 						region = STATE_ANDALUSIA
 					}
 				}
@@ -1670,7 +1670,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PAP
-						levels = 1
+						levels = 21
 						region = STATE_APULIA
 					}
 				}
@@ -2825,7 +2825,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PAP
-						levels = 7
+						levels = 21
 						region = STATE_BADAJOZ
 					}
 				}
@@ -4190,7 +4190,7 @@
 					building = {
 						type = building_manor_house
 						country = c:X95
-						levels = 1
+						levels = 21
 						region = STATE_BESSARABIA
 					}
 				}
@@ -5090,7 +5090,7 @@
 					building = {
 						type = building_manor_house
 						country = c:GER
-						levels = 1
+						levels = 21
 						region = STATE_BRITTANY
 					}
 				}
@@ -5365,7 +5365,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PER
-						levels = 7
+						levels = 21
 						region = STATE_BUNDELKHAND
 					}
 				}
@@ -5436,7 +5436,7 @@
 					building = {
 						type = building_manor_house
 						country = c:X88
-						levels = 1
+						levels = 21
 						region = STATE_BUNDELKHAND
 					}
 				}
@@ -5493,7 +5493,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PAP
-						levels = 1
+						levels = 21
 						region = STATE_BURGUNDY
 					}
 				}
@@ -5722,7 +5722,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PAP
-						levels = 7
+						levels = 21
 						region = STATE_CALABRIA
 					}
 				}
@@ -8862,7 +8862,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PER
-						levels = 7
+						levels = 21
 						region = STATE_DELHI
 					}
 				}
@@ -10977,7 +10977,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PAP
-						levels = 7
+						levels = 21
 						region = STATE_ESTREMADURA
 					}
 				}
@@ -14088,7 +14088,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PER
-						levels = 7
+						levels = 21
 						region = STATE_HILL_PUNJAB
 					}
 				}
@@ -18229,7 +18229,7 @@
 					building = {
 						type = building_manor_house
 						country = c:X92
-						levels = 1
+						levels = 21
 						region = STATE_KUBAN
 					}
 				}
@@ -20735,7 +20735,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PAP
-						levels = 7
+						levels = 21
 						region = STATE_MAINE_ANJOU
 					}
 				}
@@ -20885,7 +20885,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PER
-						levels = 7
+						levels = 21
 						region = STATE_MALWA
 					}
 				}
@@ -21646,7 +21646,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PER
-						levels = 7
+						levels = 21
 						region = STATE_MERZ
 					}
 				}
@@ -22584,7 +22584,7 @@
 					building = {
 						type = building_manor_house
 						country = c:X95
-						levels = 1
+						levels = 21
 						region = STATE_MOLDAVIA
 					}
 				}
@@ -22721,7 +22721,7 @@
 					building = {
 						type = building_manor_house
 						country = c:X18
-						levels = 1
+						levels = 21
 						region = STATE_MONTANA
 					}
 				}
@@ -25222,7 +25222,7 @@
 					building = {
 						type = building_manor_house
 						country = c:X18
-						levels = 1
+						levels = 21
 						region = STATE_NORTH_DAKOTA
 					}
 				}
@@ -25826,7 +25826,7 @@
 					building = {
 						type = building_manor_house
 						country = c:X18
-						levels = 1
+						levels = 21
 						region = STATE_OKLAHOMA
 					}
 				}
@@ -28066,7 +28066,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PER
-						levels = 7
+						levels = 21
 						region = STATE_PUNJAB
 					}
 				}
@@ -29186,7 +29186,7 @@
 					building = {
 						type = building_manor_house
 						country = c:X92
-						levels = 2
+						levels = 21
 						region = STATE_ROSTOV
 					}
 				}
@@ -29886,7 +29886,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PAP
-						levels = 7
+						levels = 14
 						region = STATE_SARDINIA
 					}
 				}
@@ -31252,7 +31252,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PER
-						levels = 7
+						levels = 21
 						region = STATE_SINDH
 					}
 				}
@@ -31437,7 +31437,7 @@
 					building = {
 						type = building_manor_house
 						country = c:PAP
-						levels = 7
+						levels = 21
 						region = STATE_SLOVENIA
 					}
 				}
@@ -32399,7 +32399,7 @@
 					building = {
 						type = building_manor_house
 						country = c:X92
-						levels = 1
+						levels = 21
 						region = STATE_STAVROPOL
 					}
 				}
@@ -32427,7 +32427,7 @@
 					building = {
 						type = building_manor_house
 						country = c:X93
-						levels = 1
+						levels = 21
 						region = STATE_STAVROPOL
 					}
 				}
@@ -36403,7 +36403,7 @@
 					building = {
 						type = building_manor_house
 						country = c:AST
-						levels = 2
+						levels = 21
 						region = STATE_VICTORIA
 					}
 				}
@@ -37098,7 +37098,7 @@
 					building = {
 						type = building_manor_house
 						country = c:AST
-						levels = 2
+						levels = 21
 						region = STATE_WESTERN_AUSTRALIA
 					}
 				}
@@ -38279,7 +38279,7 @@
 					building = {
 						type = building_manor_house
 						country = c:X18
-						levels = 1
+						levels = 21
 						region = STATE_WYOMING
 					}
 				}
