@@ -5,6 +5,7 @@
 			last_name = "Aisin_Gioro"
 			ruler = yes
 			interest_group = ig_industrialists
+			ideology = ideology_market_liberal
 			culture = cu:mongol
 			religion = rel:confucian
 			birth_date = 1748.3.1

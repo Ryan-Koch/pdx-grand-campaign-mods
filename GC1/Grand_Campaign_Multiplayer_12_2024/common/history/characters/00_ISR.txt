@@ -30,6 +30,7 @@
 			ruler = yes
 			female = yes
 			interest_group = ig_industrialists
+			ideology = ideology_market_liberal
 			culture = cu:dynamic-greek-nubian-culture-num1
 			religion = rel:jewish
 			birth_date = 1747.7.9
