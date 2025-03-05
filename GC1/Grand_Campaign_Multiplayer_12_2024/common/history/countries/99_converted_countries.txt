@@ -775,6 +775,7 @@
 		add_technology_researched = admiralty
 		add_technology_researched = army_reserves
 		add_technology_researched = artillery
+		add_technology_researched = tech_bureaucracy
 		add_technology_researched = banking
 		add_technology_researched = central_archives   # T2 → REMOVED
 		add_technology_researched = centralization
@@ -915,6 +916,7 @@
 		add_technology_researched = admiralty
 		add_technology_researched = army_reserves
 		add_technology_researched = artillery
+		add_technology_researched = tech_bureaucracy
 		add_technology_researched = banking
 		add_technology_researched = central_archives  # T2 → REMOVED
 		add_technology_researched = central_banking   # T2 → REMOVED
