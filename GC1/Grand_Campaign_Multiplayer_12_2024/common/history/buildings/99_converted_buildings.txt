@@ -3861,7 +3861,7 @@
 						building = {
 							type = building_university
 							country = c:W24
-							levels = 1
+							levels = 11
 							region = STATE_BEIJING
 					}
 				}
@@ -3900,7 +3900,7 @@
 					building = {
 						type = building_furniture_manufacturies
 						country = c:W24
-						levels = 1
+						levels = 21
 						region = STATE_BEIJING
 					}
 				}
@@ -12685,7 +12685,7 @@
 					building = {
 						type = building_paper_mills
 						country = c:W24
-						levels = 1
+						levels = 21
 						region = STATE_GUANGXI
 					}
 				}
@@ -12698,7 +12698,7 @@
 					building = {
 						type = building_furniture_manufacturies
 						country = c:W24
-						levels = 1
+						levels = 21
 						region = STATE_GUANGXI
 					}
 				}
@@ -12739,7 +12739,7 @@
 				add_ownership = {
 					country = {
 						country = c:W24
-						levels = 11
+						levels = 21
 					}
 				}
 				reserves = 1
@@ -14321,7 +14321,7 @@
 					building = {
 						type = building_furniture_manufacturies
 						country = c:W24
-						levels = 1
+						levels = 21
 						region = STATE_HINGGAN
 					}
 				}
@@ -16117,7 +16117,7 @@
 					building = {
 						type = building_furniture_manufacturies
 						country = c:W24
-						levels = 1
+						levels = 21
 						region = STATE_JIANGSU
 					}
 				}
@@ -24465,7 +24465,7 @@
 					building = {
 						type = building_furniture_manufacturies
 						country = c:W24
-						levels = 1
+						levels = 21
 						region = STATE_NORTHERN_ANHUI
 					}
 				}
@@ -24585,7 +24585,7 @@
 				add_ownership = {
 					country = {
 						country = c:W24
-						levels = 1
+						levels = 21
 					}
 				}
 				reserves = 1
@@ -24597,7 +24597,7 @@
 					building = {
 						type = building_furniture_manufacturies
 						country = c:W24
-						levels = 1
+						levels = 21
 						region = STATE_NORTHERN_MANCHURIA
 					}
 				}
@@ -31800,7 +31800,7 @@
 					building = {
 						type = building_furniture_manufacturies
 						country = c:W24
-						levels = 1
+						levels = 21
 						region = STATE_SOUTHERN_MANCHURIA
 					}
 				}
@@ -39405,7 +39405,7 @@
 				add_ownership = {
 					country = {
 						country = c:W24
-						levels = 11
+						levels = 21
 					}
 				}
 				reserves = 1
