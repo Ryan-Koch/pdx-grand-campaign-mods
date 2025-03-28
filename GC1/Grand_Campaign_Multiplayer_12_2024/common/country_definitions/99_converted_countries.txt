@@ -2975,7 +2975,7 @@ GEO = {
 }
 
 GER = {
-	color = { 147 130 110 }
+	color = { 75 130 135 }
 	country_type = recognized
 	tier = hegemony
 	cultures = { dynamic-german-norse-culture-num1 }
@@ -3717,7 +3717,7 @@ ISQ = {
 }
 
 ISR = {
-	color = { 150 212 214 }
+	color = { 60 150 230 }
 	country_type = recognized
 	tier = hegemony
 	cultures = { dynamic-greek-nubian-culture-num1 }
@@ -7005,7 +7005,7 @@ PCO = {
 }
 
 PER = {
-	color = { 60 150 230 }
+	color = { 101 46 137 }
 	country_type = recognized
 	tier = hegemony
 	cultures = { dynamic-persian-culture-num1 }

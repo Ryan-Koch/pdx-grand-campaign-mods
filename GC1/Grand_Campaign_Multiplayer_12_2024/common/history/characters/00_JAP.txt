@@ -25,7 +25,7 @@
 		}
 
 		create_character = {
-			first_name = "Yasuhito_I"
+			first_name = "Komei"
 			last_name = "Katsura"
 			ruler = yes
 			is_general = yes
@@ -34,7 +34,10 @@
 			religion = rel:shinto
 			birth_date = 1750.1.13
 			traits = {
-				arrogant 
+				arrogant
+				cautious
+				bigoted
+				reserved 
 			}
 			on_created = {
 				set_variable = is_married

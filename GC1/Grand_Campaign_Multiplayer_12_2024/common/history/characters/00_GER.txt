@@ -7,7 +7,8 @@
 			female = yes
 			birth_date = 1722.1.24
 			traits = {
-				shellshocked 
+				reckless
+				brave 
 			}
 		}
 
@@ -16,12 +17,15 @@
 			last_name = "von_Koch"
 			ruler = yes
 			female = yes
-			interest_group = ig_industrialists
+			interest_group = ig_landowners
+			ideology = ideology_market_liberal
 			culture = cu:dynamic-german-norse-culture-num1
 			religion = rel:converted_dynamic_faith_131
 			birth_date = 1731.6.26
 			traits = {
-				cruel expert_political_operator 
+				cruel 
+				expert_political_operator
+				innovative 
 			}
 		}
 
@@ -31,7 +35,8 @@
 			commander_rank = commander_rank_2
 			birth_date = 1739.8.14
 			traits = {
-				syphilis 
+				brave
+				artillery_commander 
 			}
 		}
 
@@ -41,7 +46,8 @@
 			commander_rank = commander_rank_2
 			birth_date = 1729.11.1
 			traits = {
-				direct 
+				direct
+				stalwart_defender 
 			}
 		}
 
@@ -51,7 +57,8 @@
 			commander_rank = commander_rank_3
 			birth_date = 1713.11.17
 			traits = {
-				expensive_tastes 
+				expensive_tastes
+				charismatic 
 			}
 		}
 
@@ -61,7 +68,8 @@
 			commander_rank = commander_rank_2
 			birth_date = 1705.5.30
 			traits = {
-				expensive_tastes 
+				expensive_tastes
+				ruthless 
 			}
 		}
 

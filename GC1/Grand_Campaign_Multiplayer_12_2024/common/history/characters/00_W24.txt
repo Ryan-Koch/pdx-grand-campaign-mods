@@ -4,16 +4,20 @@
 			first_name = "Adai_II"
 			last_name = "Aisin_Gioro"
 			ruler = yes
+			interest_group = ig_industrialists
+			ideology = ideology_market_liberal
 			culture = cu:mongol
 			religion = rel:confucian
 			birth_date = 1748.3.1
 			traits = {
-				bigoted 
+				innovative
+				ambitious
+				experienced_political_operator 
 			}
 		}
 
 		create_character = {
-			first_name = "M0ngke_Abaga"
+			first_name = "Mongke_Abaga"
 			is_admiral = yes
 			commander_rank = commander_rank_1
 			birth_date = 1728.9.25
